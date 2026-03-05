@@ -32,7 +32,8 @@ SOURCES = [
     {
         "name": "Cineuropa",
         "url": "https://cineuropa.org",
-        "rss": "https://cineuropa.org/rss/es/",
+        "rss": "https://cineuropa.org/es/rss/",
+        "lang": "es",
         "category": "FESTIVALES",
     },
     {
@@ -97,6 +98,63 @@ MESES = {
 DIAS = {
     0: "LUN", 1: "MAR", 2: "MIÉ", 3: "JUE", 4: "VIE", 5: "SÁB", 6: "DOM"
 }
+
+
+# Imágenes de respaldo temáticas (cine) de Unsplash
+FALLBACK_IMAGES = [
+    "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+    "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+    "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+    "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+    "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+    "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+    "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+    "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+    "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
+    "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+    "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
+    "https://images.unsplash.com/photo-1532635241-17e820acc59f?w=800&q=80",
+]
+
+_img_idx = 0
+def get_fallback_image() -> str:
+    """Return a cycling fallback cinema image."""
+    global _img_idx
+    img = FALLBACK_IMAGES[_img_idx % len(FALLBACK_IMAGES)]
+    _img_idx += 1
+    return img
+
+
+def is_spanish(text: str, url: str = "") -> bool:
+    """Check if text appears to be in Spanish (not English). Strict filter."""
+    # If the URL contains /en/ it's English content
+    if "/en/" in url:
+        return False
+
+    text_lower = text.lower()
+
+    # Strong English indicators — if ANY of these appear, it's English
+    english_markers = [
+        " the ", " is ", " are ", " was ", " were ", " has ", " have ",
+        " which ", " about ", " their ", " this ", " that ", " with ",
+        " from ", " into ", " been ", " being ", " will ", " would ",
+        " could ", " should ", " might ", " also ", " its ", " than ",
+        "interview:", "review:", "exclusive:", "films /",
+    ]
+    for marker in english_markers:
+        if marker in f" {text_lower} ":
+            return False
+
+    # Spanish indicators
+    spanish_words = [
+        " de ", " del ", " en ", " la ", " el ", " las ", " los ",
+        " con ", " por ", " una ", " un ", " para ", " que ", " más ",
+        " sus ", " cine ", " película ", " festival ", " estreno ",
+        " director ", " premio ", " jurado ",
+    ]
+    es_count = sum(1 for w in spanish_words if w in f" {text_lower} ")
+
+    return es_count >= 2
 
 
 def generate_id(title: str) -> str:
@@ -226,9 +284,15 @@ def scrape_rss(source: dict) -> list:
             if not image:
                 image = extract_image_from_html(summary)
 
-            # Check relevance
+            # Check relevance and language
+            if not is_spanish(title + " " + summary_text, link):
+                continue
             if not is_european_cinema(title, summary_text):
                 continue
+
+            # Fallback image if none found
+            if not image:
+                image = get_fallback_image()
 
             cat = categorize_article(title, summary_text, source["category"])
 
@@ -289,9 +353,15 @@ def scrape_html_fallback(source: dict) -> list:
             image = img_tag["src"] if img_tag else ""
             if image and image.startswith("/"):
                 image = source["url"].rstrip("/") + image
+            if not image:
+                image = get_fallback_image()
 
             excerpt_tag = article_tag.find(["p", "div"], class_=re.compile(r"excerpt|summary|desc"))
             excerpt = excerpt_tag.get_text(strip=True) if excerpt_tag else ""
+
+            # Skip English articles
+            if not is_spanish(title + " " + excerpt, link):
+                continue
 
             cat = categorize_article(title, excerpt, source["category"])
 
