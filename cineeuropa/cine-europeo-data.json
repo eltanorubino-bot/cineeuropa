@@ -1,0 +1,358 @@
+{
+  "lastUpdated": "2026-03-05T08:00:00-03:00",
+  "scanTime": "morning",
+  "errors": [
+    "RSS feeds bloqueados por proxy — se usó WebSearch como fallback para todos los sitios",
+    "Fotogramas.es: sin resultados directos del sitio, se usaron fuentes alternativas"
+  ],
+  "news": [
+    {
+      "id": "malaga-2026-europa-espejo",
+      "title": "Festival de Málaga 2026 arranca con 263 audiovisuales de 71 países y foco en Europa",
+      "excerpt": "La 29ª edición (6–15 Mar) proyecta cine de 71 países bajo el lema 'Europa ante su espejo'. MaF reunió 125 acciones culturales con 150 creadores en 55 espacios.",
+      "source": "Festival de Málaga",
+      "sourceUrl": "https://festivaldemalaga.com/actualidad/ver-noticia/?id=2625",
+      "date": "5 Mar 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80"
+    },
+    {
+      "id": "valor-sentimental-9-oscar",
+      "title": "Valor sentimental de Joachim Trier llega a los Oscar con 9 nominaciones",
+      "excerpt": "Tras arrasar en los Premios del Cine Europeo con 6 estatuillas, el drama noruego con Renate Reinsve y Stellan Skarsgård es favorito para la ceremonia del 15 de marzo.",
+      "source": "Escribiendo Cine",
+      "sourceUrl": "https://www.escribiendocine.com/noticias/2026/01/22/21339-todos-los-nominados-a-los-premios-oscar-2026",
+      "date": "5 Mar 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80"
+    },
+    {
+      "id": "cineuropa-politica-encrucijada",
+      "title": "La política cinematográfica europea, en una encrucijada según ponentes de la Berlinale",
+      "excerpt": "Un debate en la Berlinale analizó el futuro de Europa Creativa y MEDIA. La auditoría constata avances en circulación pero pide atender al público joven.",
+      "source": "Cineuropa",
+      "sourceUrl": "https://cineuropa.org/es/",
+      "date": "4 Mar 2026",
+      "category": "Críticas",
+      "image": null
+    },
+    {
+      "id": "cannes-2026-seleccion-9-abril",
+      "title": "Cannes 2026 anuncia la selección oficial el 9 de abril — Park Chan-wook presidente del jurado",
+      "excerpt": "La 79ª edición del Festival de Cannes revelará su programación en París. El cineasta coreano Park Chan-wook presidirá la competencia oficial.",
+      "source": "Cineuropa",
+      "sourceUrl": "https://cineuropa.org/en/newsdetail/487307/",
+      "date": "4 Mar 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80"
+    },
+    {
+      "id": "otroscines-filmin-marzo-estrenos",
+      "title": "Filmin en marzo: Mr. Nobody contra Putin, La voz de Hind, Ciudad sin sueño y más",
+      "excerpt": "La plataforma suma documentales nominados al Oscar, dramas con 5 nominaciones Goya y el esperado film de Joachim Trier.",
+      "source": "Otros Cines",
+      "sourceUrl": "https://www.otroscines.com/post/todos-los-lanzamientos-de-filmin-en-marzo-2026-y-nuestras-criticas",
+      "date": "4 Mar 2026",
+      "category": "Plataformas",
+      "image": "https://images.unsplash.com/photo-1542204625-ca960ca44635?w=800&q=80"
+    },
+    {
+      "id": "yellow-letters-oso-oro-berlinale",
+      "title": "Yellow Letters de Ilker Çatak gana el Oso de Oro en la Berlinale 2026",
+      "excerpt": "El film del director germano-turco se impuso en la competencia oficial. Se estrena en Alemania el 5 de marzo.",
+      "source": "Cineuropa",
+      "sourceUrl": "https://cineuropa.org/es/newsdetail/488935",
+      "date": "3 Mar 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80"
+    },
+    {
+      "id": "da-2026-lucrecia-martel-hong-sangsoo",
+      "title": "El D'A 2026 suma 27 películas: Lucrecia Martel, Hong Sangsoo y Valérie Donzelli",
+      "excerpt": "La programación completa incluye 27 estrenos mundiales, 47 producciones catalanas y 55 obras dirigidas por mujeres.",
+      "source": "Kinotico",
+      "sourceUrl": "https://kinotico.es/actualidad/2026-03-03/da-2026-suma-27-peliculas-su-programacion-incluyendo-cineastas-como-lucrecia-martel-hong-sangsoo-y-valerie-donzelli",
+      "date": "3 Mar 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80"
+    },
+    {
+      "id": "da-barcelona-2026-hansen-love-petzold",
+      "title": "D'A Barcelona 2026: tributo a Mia Hansen-Løve y retrospectiva de Christian Petzold",
+      "excerpt": "La 16ª edición del festival catalán presentará 122 films del 19 al 29 de marzo. Retrospectiva de Petzold en la Filmoteca de Catalunya.",
+      "source": "Kinotico",
+      "sourceUrl": "https://kinotico.es/actualidad/2026-02-04/da-festival-cinema-barcelona-2026-avanza-programacion-mia-hansen-love-y-christian-petzold",
+      "date": "3 Mar 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80"
+    },
+    {
+      "id": "estrenos-espana-marzo-cine-europeo",
+      "title": "Marzo en España: Dos fiscales (Loznitsa), Yo te creo y Caravan entre los estrenos europeos",
+      "excerpt": "El cine europeo llega fuerte a salas españolas: el ucraniano Loznitsa con un drama judicial, la ópera prima belga premiada en Berlín y una road movie checa.",
+      "source": "Fotogramas",
+      "sourceUrl": "https://miradasdecine.es/2026/03/estrenos-marzo-2026.html",
+      "date": "3 Mar 2026",
+      "category": "Estrenos",
+      "image": null
+    },
+    {
+      "id": "actor-awards-2026",
+      "title": "Todos los ganadores de los Actor Awards 2026",
+      "excerpt": "La ceremonia de premios del sindicato de actores reveló sus ganadores el 2 de marzo en el Shrine Auditorium de Los Ángeles.",
+      "source": "Escribiendo Cine",
+      "sourceUrl": "https://www.escribiendocine.com/noticias/2026/03/02/21536-todos-los-ganadores-de-los-actor-awards-2026",
+      "date": "2 Mar 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=400&q=80"
+    },
+    {
+      "id": "bafici-26-298-peliculas",
+      "title": "BAFICI 26: 298 películas de 44 países con 112 estrenos mundiales",
+      "excerpt": "El festival porteño se celebra del 1 al 13 de abril. Entradas a $3.000. El Teatro Presidente Alvear se suma como nueva sede.",
+      "source": "A Sala Llena",
+      "sourceUrl": "https://asalallena.com.ar/programacion/",
+      "date": "2 Mar 2026",
+      "category": "Argentina",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80"
+    },
+    {
+      "id": "berlinale-2026-schanelec-brameshuber",
+      "title": "Berlinale 2026: Angela Schanelec y Sebastian Brameshuber brillan en la competencia",
+      "excerpt": "'Meine Frau weint' de Schanelec y 'London' de Brameshuber fueron destacadas como lo mejor de la sección oficial.",
+      "source": "A Sala Llena",
+      "sourceUrl": "https://asalallena.com.ar/berlinale2026-el-oso-doble/",
+      "date": "1 Mar 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80"
+    },
+    {
+      "id": "medallas-cec-2026",
+      "title": "Medallas del CEC 2026: 'Los domingos' arrasa con 6 premios incluida Mejor Película",
+      "excerpt": "La 81ª edición de los premios de la crítica española coronó a Alauda Ruiz de Azúa. Patricia López Arnaiz, Mejor Actriz.",
+      "source": "Escribiendo Cine",
+      "sourceUrl": "https://www.escribiendocine.com/noticias/2026/03/01/21530-todos-los-ganadores-de-las-medallas-del-cec-2026",
+      "date": "1 Mar 2026",
+      "category": "Críticas",
+      "image": null
+    },
+    {
+      "id": "premios-cine-europeo-2026-valor-sentimental",
+      "title": "Premios del Cine Europeo 2026: Valor sentimental arrasa con 6 premios",
+      "excerpt": "El drama de Joachim Trier ganó Mejor Película, Director, Actriz (Reinsve) y Actor (Skarsgård). 'Sirat' logró cinco premios técnicos.",
+      "source": "El Antepenúltimo Mohicano",
+      "sourceUrl": "https://www.elantepenultimomohicano.com/2026/01/palmares-premios-cine-europeo.html",
+      "date": "28 Feb 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1518676590747-1e3dcf5a0e32?w=800&q=80"
+    },
+    {
+      "id": "mubi-marzo-rosi-panahi",
+      "title": "MUBI en marzo: Gianfranco Rosi y Jafar Panahi encabezan la cartelera",
+      "excerpt": "'Pompeya: Bajo las Nubes' de Rosi (27 Mar) y 'Fue solo un accidente' de Panahi (6 Mar). Plus: ciclos de Verhoeven y Wiseman.",
+      "source": "Otros Cines",
+      "sourceUrl": "https://www.otroscines.com/post/todos-los-lanzamientos-de-filmin-en-marzo-2026-y-nuestras-criticas",
+      "date": "28 Feb 2026",
+      "category": "Plataformas",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80"
+    },
+    {
+      "id": "fiesta-cine-2026-430000",
+      "title": "La Fiesta del Cine 2026 convocó a 430.000 personas en cuatro días",
+      "excerpt": "La séptima edición con entradas a $4.000 fue un éxito masivo de público en Argentina.",
+      "source": "Otros Cines",
+      "sourceUrl": "https://www.otroscines.com/post/la-fiesta-del-cine-2026-convoco-a-430-000-personas-en-cuatro-dias",
+      "date": "26 Feb 2026",
+      "category": "Argentina",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80"
+    },
+    {
+      "id": "da-2026-impulso-colectivo",
+      "title": "D'A 2026: 'Un Impulso Colectivo', el oasis del cine español independiente",
+      "excerpt": "La sección dedicada al cine español del festival barcelonés presenta una selección audaz de nuevas voces.",
+      "source": "El Antepenúltimo Mohicano",
+      "sourceUrl": "https://www.elantepenultimomohicano.com/2026/02/da-2026-un-impulso-colectivo.html",
+      "date": "25 Feb 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1518676590747-1e3dcf5a0e32?w=800&q=80"
+    },
+    {
+      "id": "da-2026-herzog-petzold-mumenthaler",
+      "title": "Werner Herzog, Christian Petzold y Milagros Mumenthaler encabezan el D'A 2026",
+      "excerpt": "El anticipo de programación del D'A Film Festival Barcelona 2026 reúne grandes nombres del cine de autor europeo y latinoamericano.",
+      "source": "El Antepenúltimo Mohicano",
+      "sourceUrl": "https://www.elantepenultimomohicano.com/2026/02/anticipo-DA-2026.html",
+      "date": "20 Feb 2026",
+      "category": "Festivales",
+      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=400&q=80"
+    }
+  ],
+  "releases": [
+    {
+      "title": "Fue solo un accidente",
+      "director": "Jafar Panahi",
+      "country": "🇮🇷 Irán",
+      "date": "6 Mar 2026",
+      "platform": "MUBI",
+      "source": "Otros Cines"
+    },
+    {
+      "title": "Calle Málaga",
+      "director": "Maryam Touzani",
+      "country": "🇲🇦🇪🇸 Marruecos/España",
+      "date": "6 Mar 2026",
+      "platform": "Cines",
+      "source": "Fotogramas"
+    },
+    {
+      "title": "Mr. Nobody contra Putin",
+      "director": "Varios",
+      "country": "🇪🇺 Europa",
+      "date": "6 Mar 2026",
+      "platform": "Filmin",
+      "source": "Otros Cines"
+    },
+    {
+      "title": "La Grazia",
+      "director": "Paolo Sorrentino",
+      "country": "🇮🇹 Italia",
+      "date": "13 Mar 2026",
+      "platform": "Cines",
+      "source": "Fotogramas"
+    },
+    {
+      "title": "La voz de Hind",
+      "director": "Varios",
+      "country": "🇪🇺 Europa",
+      "date": "13 Mar 2026",
+      "platform": "Filmin",
+      "source": "Otros Cines"
+    },
+    {
+      "title": "Las flores del silencio",
+      "director": "Varios",
+      "country": "🇬🇧 Reino Unido",
+      "date": "13 Mar 2026",
+      "platform": "Cines",
+      "source": "Otros Cines"
+    },
+    {
+      "title": "Amarga Navidad",
+      "director": "Pedro Almodóvar",
+      "country": "🇪🇸 España",
+      "date": "20 Mar 2026",
+      "platform": "Cines",
+      "source": "Otros Cines"
+    },
+    {
+      "title": "Ciudad sin sueño",
+      "director": "Varios",
+      "country": "🇪🇸 España",
+      "date": "20 Mar 2026",
+      "platform": "Filmin",
+      "source": "Otros Cines"
+    },
+    {
+      "title": "Valor sentimental",
+      "director": "Joachim Trier",
+      "country": "🇳🇴 Noruega",
+      "date": "27 Mar 2026",
+      "platform": "Cines",
+      "source": "Otros Cines"
+    },
+    {
+      "title": "Pompeya: Bajo las Nubes",
+      "director": "Gianfranco Rosi",
+      "country": "🇮🇹 Italia",
+      "date": "27 Mar 2026",
+      "platform": "MUBI",
+      "source": "Otros Cines"
+    },
+    {
+      "title": "Estimada flor",
+      "director": "Paolo Cognetti",
+      "country": "🇮🇹 Italia",
+      "date": "27 Mar 2026",
+      "platform": "Cines",
+      "source": "Otros Cines"
+    },
+    {
+      "title": "El síndrome Rembrandt",
+      "director": "Pierre Schoeller",
+      "country": "🇫🇷 Francia",
+      "date": "Abr 2026",
+      "platform": "Cines",
+      "source": "Fotogramas"
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Festival de Málaga + MAFIZ",
+      "dates": "6—15 Mar 2026",
+      "city": "Málaga, España",
+      "status": "En curso",
+      "update": "29ª edición · 263 audiovisuales de 71 países · Foco 'Europa ante su espejo' · Centenario Azcona"
+    },
+    {
+      "name": "Thessaloniki Documentary FF",
+      "dates": "5—15 Mar 2026",
+      "city": "Tesalónica, Grecia",
+      "status": "En curso",
+      "update": "28ª edición · 38 títulos en competencia · 170 obras europeas"
+    },
+    {
+      "name": "D'A Film Festival Barcelona",
+      "dates": "19—29 Mar 2026",
+      "city": "Barcelona, España",
+      "status": "Próximo",
+      "update": "122 films · 27 estrenos mundiales · Hansen-Løve, Petzold, Martel, Hong Sangsoo, Herzog · D'A Film Lab 22–25 Mar"
+    },
+    {
+      "name": "Series Mania",
+      "dates": "20—27 Mar 2026",
+      "city": "Lille, Francia",
+      "status": "Próximo",
+      "update": "Festival europeo de series · 8ª edición"
+    },
+    {
+      "name": "Oscar 2026",
+      "dates": "15 Mar 2026",
+      "city": "Los Ángeles, EE.UU.",
+      "status": "Próximo",
+      "update": "98ª edición · 'Valor sentimental' (Trier) con 9 nom. · Conan O'Brien presenta · TNT/HBO Max"
+    },
+    {
+      "name": "BAFICI",
+      "dates": "1—13 Abr 2026",
+      "city": "Buenos Aires, Argentina",
+      "status": "Próximo",
+      "update": "298 films · 44 países · 112 estrenos mundiales · Entradas $3.000"
+    },
+    {
+      "name": "Cannes",
+      "dates": "12—23 May 2026",
+      "city": "Cannes, Francia",
+      "status": "Selección 9 Abr",
+      "update": "79ª edición · Jurado: Park Chan-wook"
+    },
+    {
+      "name": "Venecia",
+      "dates": "27 Ago—6 Sep 2026",
+      "city": "Venecia, Italia",
+      "status": "Próximo",
+      "update": "83ª Mostra Internazionale"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "MUBI",
+      "newFilms": ["Fue solo un accidente (Panahi, 6 Mar)", "Network (Lumet, 12 Mar)", "Cómo ser John Malkovich (Kaufman, 15 Mar)", "Programa triple Verhoeven (20 Mar)", "Los Estados Unidos de Wiseman (20 Mar)", "Pompeya: Bajo las Nubes (Rosi, 27 Mar)"],
+      "highlight": "Panahi + Rosi + ciclos Verhoeven, Wiseman y Kaufman"
+    },
+    {
+      "name": "Filmin",
+      "newFilms": ["Mr. Nobody contra Putin (6 Mar)", "La voz de Hind (13 Mar)", "Ciudad sin sueño (20 Mar)", "Valor sentimental (27 Mar)", "Urchin", "Estimada flor (27 Mar)"],
+      "highlight": "Nominados al Oscar y ganadores Goya"
+    }
+  ]
+}
