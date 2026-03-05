@@ -992,10 +992,26 @@ document.addEventListener('click', e => {
   // Filter pills
   const pill = e.target.closest('[data-filter]');
   if(pill){
-    activeFilter = pill.dataset.filter;
+    const f = pill.dataset.filter;
+    // ESTRENOS y CRÍTICAS no tienen noticias — navegar a su sección
+    if(f === 'ESTRENOS'){ goTo('estrenos'); return; }
+    if(f === 'CRÍTICAS'){ goTo('criticas'); return; }
+    activeFilter = f;
     renderFilters();
     renderFeatured();
     renderCards();
+    return;
+  }
+
+  // CTA buttons (TODAS LAS NOTICIAS / VER MÁS)
+  const cta = e.target.closest('.cta-btn');
+  if(cta){
+    activeFilter = 'TODOS';
+    renderFilters();
+    renderFeatured();
+    renderCards();
+    const grid = document.getElementById('cardGrid');
+    if(grid) grid.scrollIntoView({behavior:'smooth'});
     return;
   }
 
