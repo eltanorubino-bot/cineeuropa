@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-09T12:00:42.668527",
+  "last_updated": "2026-03-09T18:07:10.157048",
   "news": [
+    {
+      "id": "e7ccce316660",
+      "title": "El corto Inherited Silence gana el Gran Premio Internacional en el Festival de Tampere - Cortometrajes - Finlandia",
+      "source": "Cineuropa",
+      "date": "LUN 9 MAR 2026",
+      "date_iso": "2026-03-09T15:22:44",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La pieza de la georgiana Mariam Khatchvani destacó en la cita anual dedicada al cortometraje, mientras que Son de Leona Cauklija se llevó el premio a mejor documental",
+      "url": "https://cineuropa.org/es/newsdetail/490078/"
+    },
+    {
+      "id": "6a8e6b6fd6b7",
+      "title": "Entrevista: Jakub Viktorín • Director general, Visegrad Film Forum - “En la mayoría de los festivales, las películas son la atracción principal y los cineastas un valor añadido; en el Visegrad Film Forum ocurre lo contrario” - Visegrad Film Forum 2026",
+      "source": "Cineuropa",
+      "date": "LUN 9 MAR 2026",
+      "date_iso": "2026-03-09T15:05:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El cofundador y director general aborda el concepto de la 13.ª edición del evento, su enfoque en los cineastas y el oficio, y cómo el foro conecta a estudiantes de cine con profesionales del sector",
+      "url": "https://cineuropa.org/es/interview/490062/"
+    },
+    {
+      "id": "ceee37f8f0d9",
+      "title": "On vous croit arrasa en los René du Cinéma - Festivales / Premios - Bélgica",
+      "source": "Cineuropa",
+      "date": "LUN 9 MAR 2026",
+      "date_iso": "2026-03-09T12:15:15",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El primer largometraje de Charlotte Devillers y Arnaud Dufeys se alza con ocho premios del cine belga, entre ellos el de Mejor película, el de Mejor actriz, así como dos premios del público",
+      "url": "https://cineuropa.org/es/newsdetail/490037/"
+    },
     {
       "id": "d290c83dcb40",
       "title": "\"Pecadores\" y \"Una batalla tras otra\" lideran los premios de los guionistas",
