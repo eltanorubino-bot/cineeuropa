@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-08T23:50:19.298761",
+  "last_updated": "2026-03-09T12:00:42.668527",
   "news": [
+    {
+      "id": "d290c83dcb40",
+      "title": "\"Pecadores\" y \"Una batalla tras otra\" lideran los premios de los guionistas",
+      "source": "Escribiendo Cine",
+      "date": "LUN 9 MAR 2026",
+      "date_iso": "2026-03-09T12:00:40.396367",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/03/08/21569-todos-los-ganadores-de-los-writers-guild-awards-2026"
+    },
+    {
+      "id": "32b2db6ca3d3",
+      "title": "Entrevista: Niklas Engstrøm • Director artístico, CPH:DOX - “La verdad rara vez aparece en armonía; surge de la fricción entre perspectivas contrapuestas” - CPH:DOX 2026",
+      "source": "Cineuropa",
+      "date": "LUN 9 MAR 2026",
+      "date_iso": "2026-03-09T10:13:21",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "Con casi 200 películas en la programación de este año, el director artístico del festival habla de resistir la simplificación, lanzar estrenos mundiales y abrir camino al desacuerdo productivo",
+      "url": "https://cineuropa.org/es/interview/490038/"
+    },
+    {
+      "id": "d0b2db866831",
+      "title": "Cineuropa le brinda a Giorgio Gosetti el más cariñoso de los adioses - Cineuropa",
+      "source": "Cineuropa",
+      "date": "LUN 9 MAR 2026",
+      "date_iso": "2026-03-09T08:31:28",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El fallecimiento repentino de Gosetti ha causado una honda conmoción en el equipo de Cineuropa, para el que fue uno de sus miembros más significativos y fundamentales, que envía sus condolencias a su familia",
+      "url": "https://cineuropa.org/es/newsdetail/490030/"
+    },
     {
       "id": "f9a9cabb89ff",
       "title": "Las catadoras del Führer (Le assaggiatrici)",
