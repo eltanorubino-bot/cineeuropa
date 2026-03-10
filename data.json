@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-03-10T11:59:27.795727",
+  "last_updated": "2026-03-10T18:08:59.887929",
   "news": [
+    {
+      "id": "9c2c7a6f5e0c",
+      "title": "Entrevista: Graziella Bildesheim • Presidenta, EWA – European Women's Audiovisual Network - “La EWA debe actuar como un puente -en el plano profesional y en el humano– y poner cada vez mayor énfasis en el intercambio intergeneracional” - /Europa",
+      "source": "Cineuropa",
+      "date": "MAR 10 MAR 2026",
+      "date_iso": "2026-03-10T15:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Cineuropa ha charlado con la presidenta de la asociación sobre los nuevos retos a los que se enfrenta y los proyectos que busca desarrollar",
+      "url": "https://cineuropa.org/es/interview/490127/"
+    },
+    {
+      "id": "515bbc02992c",
+      "title": "Doris Dörrie trabaja en la postproducción de Frau Winkler verlässt das Haus - Producción / Financiación - Alemania",
+      "source": "Cineuropa",
+      "date": "MAR 10 MAR 2026",
+      "date_iso": "2026-03-10T15:25:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La cineasta alemana prepara una comedia negra ambientada en el futuro sobre los retos de hacerse viejo",
+      "url": "https://cineuropa.org/es/newsdetail/490000/"
+    },
+    {
+      "id": "59ed68a04494",
+      "title": "El CNC concede un anticipo de ingresos a Isabelle de Léa Fehner - Producción / Financiación - Francia",
+      "source": "Cineuropa",
+      "date": "MAR 10 MAR 2026",
+      "date_iso": "2026-03-10T13:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El centro francés también respalda lo nuevo de Claude Barras y de Gints Zibalodis, así como los primeros largometrajes de Nans Laborde-Jourdàa, Mathieu Volpe, Simon Helloco y Hugo de Faucompret",
+      "url": "https://cineuropa.org/es/newsdetail/490135/"
+    },
+    {
+      "id": "2bf016333201",
+      "title": "Europa Distribution explorará estrenos de documentales recientes en Europa en CPH:DOX - CPH:DOX 2026",
+      "source": "Cineuropa",
+      "date": "MAR 10 MAR 2026",
+      "date_iso": "2026-03-10T13:25:14",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "La red se centrará en las estrategias que distintos miembros emplearon para llevar Riefenstahl, Le Chant des forêts y Gaucho Gaucho a las salas",
+      "url": "https://cineuropa.org/es/newsdetail/490140/"
+    },
+    {
+      "id": "60f9a4748c44",
+      "title": "EXCLUSIVA: Tráiler de Candidates of Death, seleccionado en el Festival de Documentales de Tesalónica - Tesalónica Documentales 2026",
+      "source": "Cineuropa",
+      "date": "MAR 10 MAR 2026",
+      "date_iso": "2026-03-10T12:43:29",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La película de Maciej Cuske se centra en un grupo de chicos cuyo juego veraniego de rodar una película de terror casera va evolucionando hasta convertirse en un prolongado ritual creativo",
+      "url": "https://cineuropa.org/es/newsdetail/490139/"
+    },
+    {
+      "id": "3b486ff05733",
+      "title": "East Doc Platform desvela su selección completa de proyectos y premios - East Doc Platform 2026",
+      "source": "Cineuropa",
+      "date": "MAR 10 MAR 2026",
+      "date_iso": "2026-03-10T09:47:07",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El evento se celebrará del 19 al 25 de marzo en Praga, presentando 40 proyectos documentales de más de 20 países, muchos de ellos examinando lo que queda cuando los conflictos terminan",
+      "url": "https://cineuropa.org/es/newsdetail/490123/"
+    },
     {
       "id": "e7ccce316660",
       "title": "El corto Inherited Silence gana el Gran Premio Internacional en el Festival de Tampere - Cortometrajes - Finlandia",
