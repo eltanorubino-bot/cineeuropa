@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-11T11:59:38.457453",
+  "last_updated": "2026-03-11T18:36:04.270392",
   "news": [
+    {
+      "id": "f7495e2fd4d4",
+      "title": "Festival de Cannes 2026",
+      "source": "Escribiendo Cine",
+      "date": "MIÉ 11 MAR 2026",
+      "date_iso": "2026-03-11T18:36:00.928566",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/03/11/21581-barbra-streisand-recibira-la-palma-de-oro-honorifica-en-cannes"
+    },
+    {
+      "id": "770468e81350",
+      "title": "Entrevista: Adrián Silvestre • Director de Cobijo - “Estas son las personas más vulnerables con quienes he trabajado nunca” - Tesalónica Documentales 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 11 MAR 2026",
+      "date_iso": "2026-03-11T15:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El director español habla de limitaciones, intimidades, fraternidad y anhelo de visibilidad al presentar su nuevo film, rodado en Guatemala, en un hogar para refugiados",
+      "url": "https://cineuropa.org/es/interview/490179/"
+    },
+    {
+      "id": "b8dd24e9a4da",
+      "title": "El Parlamento Europeo envía un mensaje claro sobre la protección de los derechos de autor ante la IA - Instituciones / Legislación - Europa",
+      "source": "Cineuropa",
+      "date": "MIÉ 11 MAR 2026",
+      "date_iso": "2026-03-11T13:06:59",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El 10 de marzo se adoptó por una mayoría muy amplia el informe del eurodiputado alemán del PPE Axel Voss sobre la protección de las obras creativas protegidas por derechos de autor",
+      "url": "https://cineuropa.org/es/newsdetail/490191/"
+    },
     {
       "id": "29270e45ad28",
       "title": "El documental brilla en toda su diversidad en Cinéma du réel - Cinéma du réel 2026",
