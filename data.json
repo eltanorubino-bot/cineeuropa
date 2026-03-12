@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-03-12T11:53:27.164582",
+  "last_updated": "2026-03-12T18:11:06.200450",
   "news": [
+    {
+      "id": "5ca8259e242d",
+      "title": "Crítica: Mi querida señorita - Málaga 2026",
+      "source": "Cineuropa",
+      "date": "JUE 12 MAR 2026",
+      "date_iso": "2026-03-12T16:35:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Con la complicidad de Javier Ambrossi y Javier Calvo, Fernando González Molina homenajea al clásico de Jaime de Armiñán en un alegato festivo y juvenil, reivindicativo y orgullosamente intersexual",
+      "url": "https://cineuropa.org/es/newsdetail/490252/"
+    },
+    {
+      "id": "3551fa1351ca",
+      "title": "El Bif&st apuesta por el cine de los países del área euromediterránea - Bif&st 2026",
+      "source": "Cineuropa",
+      "date": "JUE 12 MAR 2026",
+      "date_iso": "2026-03-12T15:09:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "El estreno de A War on Women de Raha Shirazi abre la competición de la 17.ª edición del Bari International Film&amp;TV Festival, que se celebrará del 21 al 28 de marzo",
+      "url": "https://cineuropa.org/es/newsdetail/490248/"
+    },
+    {
+      "id": "dbab7625bf12",
+      "title": "La Troisième Main de Michel Hazanavicius recibe un anticipo de ingresos del CNC - Producción / Financiación - Francia",
+      "source": "Cineuropa",
+      "date": "JUE 12 MAR 2026",
+      "date_iso": "2026-03-12T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El centro francés también respaldará las próximas películas de los hermanos Arnaud y Jean-Marie Larrieu y del dúo formado por Lucie Borleteau y Chloé Mazlo",
+      "url": "https://cineuropa.org/es/newsdetail/490254/"
+    },
+    {
+      "id": "285dc1755995",
+      "title": "El Agora del Festival de Documentales de Tesalónica anuncia sus ganadores - Tesalónica Documentales 2026 – Agora/Premios",
+      "source": "Cineuropa",
+      "date": "JUE 12 MAR 2026",
+      "date_iso": "2026-03-12T14:22:11",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La sección profesional del certamen griego ha concedido premios a proyectos en distintas fases de desarrollo",
+      "url": "https://cineuropa.org/es/newsdetail/490273/"
+    },
+    {
+      "id": "f48b9b61c391",
+      "title": "Cinedans FEST regresa a Ámsterdam para su 22.ª edición - Festivales / Premios - Países Bajos",
+      "source": "Cineuropa",
+      "date": "JUE 12 MAR 2026",
+      "date_iso": "2026-03-12T12:50:12",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Del 25 al 29 de marzo, Eye Filmmuseum acoge el festival internacional de cine de danza, que cuenta con una programación amplia e internacional",
+      "url": "https://cineuropa.org/es/newsdetail/490258/"
+    },
+    {
+      "id": "9576e8881782",
+      "title": "Home Sweet Home se alza con cinco Águilas del cine polaco - Festivales / Premios - Polonia",
+      "source": "Cineuropa",
+      "date": "JUE 12 MAR 2026",
+      "date_iso": "2026-03-12T12:00:55",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La cinta de Wojciech Smarzowski sobre la violencia doméstica se ha alzado con los galardones a mejor película, dirección, actor, actriz y música; y Sirāt con el de mejor película europea",
+      "url": "https://cineuropa.org/es/newsdetail/490253/"
+    },
     {
       "id": "c95bb2190b93",
       "title": "La reforma de la FIAPF reconfigura el mapa mundial de festivales con 17 certámenes de “clase A” y seis nuevos miembros - Industria / Mercado - Europa",
@@ -9,6 +81,18 @@
       "date_iso": "2026-03-12T10:24:35",
       "venue": "",
       "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La federación clasifica ahora Busan, Annecy y Clermont-Ferrand como citas de clase A; entre los otros nuevos miembros figuran Herceg Novi, Nouveau Cinema, Hot Docs y Punto de Vista",
+      "url": "https://cineuropa.org/es/newsdetail/490247/"
+    },
+    {
+      "id": "6c47183c9850",
+      "title": "La reforma de la FIAPF reconfigura el mapa mundial de festivales con 17 certámenes de “clase A” y seis nuevos miembros - Festivales / Premios - Europa",
+      "source": "Cineuropa",
+      "date": "JUE 12 MAR 2026",
+      "date_iso": "2026-03-12T10:24:35",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
       "cat": "FESTIVALES",
       "excerpt": "La federación clasifica ahora Busan, Annecy y Clermont-Ferrand como citas de clase A; entre los otros nuevos miembros figuran Herceg Novi, Nouveau Cinema, Hot Docs y Punto de Vista",
       "url": "https://cineuropa.org/es/newsdetail/490247/"
@@ -516,78 +600,6 @@
       "excerpt": "Cine político, documentales y cine de autor europeo llegan a la plataforma.",
       "url": "https://otroscines.com",
       "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80"
-    },
-    {
-      "id": "1dea1c71c2c5",
-      "title": "#CANNES79 | Park Chan-wook presidirá el jurado",
-      "source": "A Sala Llena",
-      "date": "JUE 26 FEB 2026",
-      "date_iso": "2026-02-26T23:49:50",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Park Chan-wook, director de Oldboy, presidirá el jurado del Festival de Cannes. El festival iniciará el 12 de mayo próximo y su premiación será el 23 de mayo. Chan-wook participó previamente del festival con cuatro de sus films integrando la Competencia oficial, Olboy galardonada con el Gran Prem...",
-      "url": "https://asalallena.com.ar/cannes79-park-chan-wook-presidira-el-jurado/"
-    },
-    {
-      "id": "e2af0c94b6a0",
-      "title": "#BERLINALE2026 | Perspectives",
-      "source": "A Sala Llena",
-      "date": "JUE 26 FEB 2026",
-      "date_iso": "2026-02-26T23:04:47",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1532635241-17e820acc59f?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Para juzgar un festival de la dimensión de la Berlinale, es preciso estar físicamente presente (in situ), asistir a las proyecciones, conferencias de prensa y de ser posible participar en entrevistas con actores y realizadores. Creada el año anterior, la sección Perspectives del Festival de Berlí...",
-      "url": "https://asalallena.com.ar/berlinale2026-perspectives/"
-    },
-    {
-      "id": "5bedfec0fec8",
-      "title": "Playa de lobos",
-      "source": "A Sala Llena",
-      "date": "JUE 26 FEB 2026",
-      "date_iso": "2026-02-26T19:21:08",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "ARGENTINA",
-      "excerpt": "EL DUELO QUE NO FUE La consabida co-producción española-argentina, o la unión, sin producción pero si con actores, con el mundo ibérico, es tan fructuosa como errática en su implementación. Ya había ocurrido que películas de la calidad, solidez y premios -como el Oscar en 2010- como fue en su mom...",
-      "url": "https://asalallena.com.ar/79573/"
-    },
-    {
-      "id": "a9",
-      "title": "La Fiesta del Cine 2026 convocó a 430.000 personas en tres días",
-      "source": "Otros Cines",
-      "date": "MIÉ 26 FEB 2026",
-      "date_iso": "2026-02-26T12:00:00",
-      "venue": "Argentina",
-      "cat": "ARGENTINA",
-      "excerpt": "La séptima edición con entradas a $4.000 fue un éxito masivo de convocatoria.",
-      "url": "https://otroscines.com",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80"
-    },
-    {
-      "id": "a8",
-      "title": "D'A 2026: Un Impulso Colectivo, el oasis del cine español independiente",
-      "source": "El Antepenúltimo Mohicano",
-      "date": "MIÉ 25 FEB 2026",
-      "date_iso": "2026-02-25T12:00:00",
-      "venue": "D'A — Barcelona",
-      "cat": "FESTIVALES",
-      "excerpt": "Selección audaz de nuevas voces del cine español contemporáneo.",
-      "url": "https://elantepenultimomohicano.com",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80"
-    },
-    {
-      "id": "a12",
-      "title": "Werner Herzog, Petzold y Mumenthaler encabezan el D'A 2026",
-      "source": "El Antepenúltimo Mohicano",
-      "date": "JUE 20 FEB 2026",
-      "date_iso": "2026-02-20T12:00:00",
-      "venue": "D'A — Barcelona",
-      "cat": "FESTIVALES",
-      "excerpt": "Grandes nombres del cine de autor europeo y latinoamericano.",
-      "url": "https://elantepenultimomohicano.com",
-      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80"
     }
   ],
   "releases": [
