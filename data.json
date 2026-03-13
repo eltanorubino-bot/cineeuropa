@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-03-13T11:57:22.740778",
+  "last_updated": "2026-03-13T17:53:43.887515",
   "news": [
+    {
+      "id": "665bde527ba1",
+      "title": "Crítica: Día de caza - Málaga 2026",
+      "source": "Cineuropa",
+      "date": "VIE 13 MAR 2026",
+      "date_iso": "2026-03-13T15:38:28",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Pedro Aguilera actualiza La caza, película que Carlos Saura rodó hace sesenta años, transformando a sus hombres protagonistas en mujeres, aunque cargadas con las mismas miserias",
+      "url": "https://cineuropa.org/es/newsdetail/490306/"
+    },
+    {
+      "id": "16c09405ecba",
+      "title": "Mario Martone rueda Scherzetto, con Toni Servillo como protagonista - Producción / Financiación - Italia",
+      "source": "Cineuropa",
+      "date": "VIE 13 MAR 2026",
+      "date_iso": "2026-03-13T15:05:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El nuevo largometraje del cineasta italiano, basado en la novela de Domenico Starnone y producido por Mad Entertainment y Picomedia, narra un duelo doméstico entre un abuelo y su nieto",
+      "url": "https://cineuropa.org/es/newsdetail/490304/"
+    },
+    {
+      "id": "de722a31207e",
+      "title": "Crítica: Materia Prima - CPH:DOX 2026",
+      "source": "Cineuropa",
+      "date": "VIE 13 MAR 2026",
+      "date_iso": "2026-03-13T14:47:12",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El documental del alemán Jens Schanze es un relato de múltiples perspectivas que se centra en los intentos de extracción de litio en Bolivia y en la resistencia que estos suscitan",
+      "url": "https://cineuropa.org/es/newsdetail/490313/"
+    },
+    {
+      "id": "97782acba2fa",
+      "title": "Rakuten TV Enterprise lanza la serie de eventos “LIVE” para reunir a los líderes de la industria de la televisión conectada de Europa - Industria / Mercado - España/Reino Unido/Alemania/Italia/Europa",
+      "source": "Cineuropa",
+      "date": "VIE 13 MAR 2026",
+      "date_iso": "2026-03-13T13:52:23",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La iniciativa reunirá a más de 150 líderes del sector y responsables de la toma de decisiones en Madrid, seguida de ediciones adicionales en Londres, Múnich y Milán",
+      "url": "https://cineuropa.org/es/newsdetail/490311/"
+    },
+    {
+      "id": "75dd99e0f135",
+      "title": "Entrevista: Julie Meigniez • Productora, Talweg - “El cine documental puede ser un poderoso agente de cambio” - Emerging Producers 2026",
+      "source": "Cineuropa",
+      "date": "VIE 13 MAR 2026",
+      "date_iso": "2026-03-13T11:35:05",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La productora francesa habla de su fascinación por la complejidad que subyace en la ambición de representar la realidad",
+      "url": "https://cineuropa.org/es/interview/490185/"
+    },
+    {
+      "id": "58dfd4c97a67",
+      "title": "El incentivo fiscal de Film Estonia aumenta hasta el 40% para impulsar la producción internacional - Industria / Mercado - Estonia",
+      "source": "Cineuropa",
+      "date": "VIE 13 MAR 2026",
+      "date_iso": "2026-03-13T10:07:15",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El cambio de política llega en un momento en el que los países europeos intensifican la competencia para atraer rodajes internacionales e inversiones audiovisuales a gran escala",
+      "url": "https://cineuropa.org/es/newsdetail/490302/"
+    },
     {
       "id": "fb0e3ade0ef3",
       "title": "FIFDH Impact Days anuncia sus ganadores - FIFDH Ginebra 2026 – FIFDH Industry/Premios",
@@ -528,78 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La cineasta italiana habla sobre su segundo largo, que aborda la violencia y la homofobia, y el nuevo, que también refleja las inquietudes de la adolescencia",
       "url": "https://cineuropa.org/es/interview/489768/"
-    },
-    {
-      "id": "a4",
-      "title": "D'A Barcelona 2026 suma a Lucrecia Martel, Hong Sangsoo y Valérie Donzelli",
-      "source": "Kinotico",
-      "date": "LUN 3 MAR 2026",
-      "date_iso": "2026-03-03T12:00:00",
-      "venue": "D'A Film Festival — Barcelona",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "122 films, 27 estrenos mundiales y 55 obras dirigidas por mujeres en la edición más ambiciosa del festival barcelonés.",
-      "url": "https://kinotico.es"
-    },
-    {
-      "id": "a5",
-      "title": "MUBI en marzo: Gianfranco Rosi y Jafar Panahi encabezan la cartelera",
-      "source": "Otros Cines",
-      "date": "LUN 3 MAR 2026",
-      "date_iso": "2026-03-03T10:00:00",
-      "venue": "Plataforma",
-      "cat": "PLATAFORMAS",
-      "excerpt": "Pompeya: Bajo las Nubes y Fue solo un accidente. Ciclos de Verhoeven y Wiseman.",
-      "url": "https://otroscines.com",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80"
-    },
-    {
-      "id": "a10",
-      "title": "Todos los ganadores de los Actor Awards 2026",
-      "source": "Escribiendo Cine",
-      "date": "DOM 2 MAR 2026",
-      "date_iso": "2026-03-02T12:00:00",
-      "venue": "Ceremonia",
-      "cat": "FESTIVALES",
-      "excerpt": "La ceremonia de premios reveló sus ganadores con sorpresas.",
-      "url": "https://escribiendocine.com",
-      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80"
-    },
-    {
-      "id": "a6",
-      "title": "Angela Schanelec y Brameshuber brillan en la competencia de Berlinale",
-      "source": "A Sala Llena",
-      "date": "SÁB 1 MAR 2026",
-      "date_iso": "2026-03-01T12:00:00",
-      "venue": "Berlinale — Berlín",
-      "cat": "FESTIVALES",
-      "excerpt": "Schanelec y Brameshuber fueron destacadas como lo mejor de la sección oficial.",
-      "url": "https://asalallena.com.ar",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80"
-    },
-    {
-      "id": "a11",
-      "title": "Oscar 2026: la ceremonia será el 15 de marzo en el Dolby Theatre",
-      "source": "Escribiendo Cine",
-      "date": "SÁB 1 MAR 2026",
-      "date_iso": "2026-03-01T10:00:00",
-      "venue": "Los Ángeles",
-      "cat": "FESTIVALES",
-      "excerpt": "La Academia entregará los premios con varias películas europeas nominadas.",
-      "url": "https://escribiendocine.com",
-      "image": "https://images.unsplash.com/photo-1532635241-17e820acc59f?w=800&q=80"
-    },
-    {
-      "id": "a465eb7dd61b",
-      "title": "Nuestra tierra",
-      "source": "A Sala Llena",
-      "date": "DOM 1 MAR 2026",
-      "date_iso": "2026-03-01T00:29:06",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "DOS DISPAROS Lo que desata la tragedia son dos disparos. El primero es el de la cámara de rollo, el segundo de un arma. En español decimos “sacar una foto” o el más inocente “tomar una foto”, pero en inglés el verbo es el de to shoot, disparar. Ya Susan Sontag en los setenta supo [&#8230;]\nLa ent...",
-      "url": "https://asalallena.com.ar/nuestra-tierra-2/"
     }
   ],
   "releases": [
