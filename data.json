@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-12T23:54:35.971524",
+  "last_updated": "2026-03-13T11:57:22.740778",
   "news": [
+    {
+      "id": "fb0e3ade0ef3",
+      "title": "FIFDH Impact Days anuncia sus ganadores - FIFDH Ginebra 2026 – FIFDH Industry/Premios",
+      "source": "Cineuropa",
+      "date": "VIE 13 MAR 2026",
+      "date_iso": "2026-03-13T09:36:44",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La sección profesional del festival de derechos humanos premia proyectos sobre el estigma del VIH, la resistencia democrática, el extremismo, la desigualdad en la ciencia y la resiliencia en Gaza",
+      "url": "https://cineuropa.org/es/newsdetail/490300/"
+    },
+    {
+      "id": "053152243ecf",
+      "title": "Entrevista: Gaya Jiji • Directora de L’étrangère - “Quería explorar la inmigración a través del melodrama, y decir que el amor puede convertirse en nuestra patria” - Bergamo 2026",
+      "source": "Cineuropa",
+      "date": "VIE 13 MAR 2026",
+      "date_iso": "2026-03-13T09:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La directora siria con ciudadanía francesa nos habló de lo que hay detrás de su segundo largometraje, de qué trata y de su actriz protagonista, Zar Amir",
+      "url": "https://cineuropa.org/es/interview/490284/"
+    },
     {
       "id": "5ca8259e242d",
       "title": "Crítica: Mi querida señorita - Málaga 2026",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "DOS DISPAROS Lo que desata la tragedia son dos disparos. El primero es el de la cámara de rollo, el segundo de un arma. En español decimos “sacar una foto” o el más inocente “tomar una foto”, pero en inglés el verbo es el de to shoot, disparar. Ya Susan Sontag en los setenta supo [&#8230;]\nLa ent...",
       "url": "https://asalallena.com.ar/nuestra-tierra-2/"
-    },
-    {
-      "id": "ae1ba0445eb3",
-      "title": "Calle Málaga",
-      "source": "A Sala Llena",
-      "date": "SÁB 28 FEB 2026",
-      "date_iso": "2026-02-28T19:00:24",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Maryam Touzani es una directora nacida en Tánger (Marruecos), cuyo segundo largometraje, Le bleu du caftan (2022), ganó el premio FIPRESCI en el Festival de Cannes (Un certain regard). Ha sido coguionista de la mayoría de los films de Nabil Ayouch (Mektoub, Everybody Loves Touda), su marido de si...",
-      "url": "https://asalallena.com.ar/calle-malaga/"
-    },
-    {
-      "id": "a7",
-      "title": "Filmin en marzo: Valor sentimental, La voz de Hind y más",
-      "source": "Otros Cines",
-      "date": "VIE 28 FEB 2026",
-      "date_iso": "2026-02-28T12:00:00",
-      "venue": "Plataforma",
-      "cat": "PLATAFORMAS",
-      "excerpt": "Cine político, documentales y cine de autor europeo llegan a la plataforma.",
-      "url": "https://otroscines.com",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80"
     }
   ],
   "releases": [
