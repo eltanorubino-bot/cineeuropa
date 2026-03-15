@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-15T11:49:45.289908",
+  "last_updated": "2026-03-15T17:01:50.614776",
   "news": [
+    {
+      "id": "5392468fe98a",
+      "title": "Oscars 2026 | Retrato de época",
+      "source": "A Sala Llena",
+      "date": "DOM 15 MAR 2026",
+      "date_iso": "2026-03-15T16:27:28",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "RETRATO DE ÉPOCA Cuatro grandes películas compiten por el Oscar –Marty Supremo, Una batalla tras otra, Valor sentimental y Hamnet&#8211; con protagonistas ambiciosos que sacrifican el amor para entregarse al ego. Y por acá, La virgen de la tosquera amenaza con su deseo, mientras el mundo parece a...",
+      "url": "https://asalallena.com.ar/oscars-2026-retrato-de-epoca/"
+    },
     {
       "id": "665bde527ba1",
       "title": "Crítica: Día de caza - Málaga 2026",
@@ -588,18 +600,6 @@
       "cat": "ARGENTINA",
       "excerpt": "El festival porteño se celebra del 1 al 13 de abril con una programación ambiciosa que incluye retrospectivas, competencia internacional y secciones paralelas.",
       "url": "https://asalallena.com.ar"
-    },
-    {
-      "id": "f9be1342be68",
-      "title": "Entrevista: Margherita Ferri • Directora de El chico de los pantalones rosas - “La solución al bullying está en la educación, no solo dentro de la familia, sino como sociedad” - Málaga 2026",
-      "source": "Cineuropa",
-      "date": "MAR 3 MAR 2026",
-      "date_iso": "2026-03-03T15:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La cineasta italiana habla sobre su segundo largo, que aborda la violencia y la homofobia, y el nuevo, que también refleja las inquietudes de la adolescencia",
-      "url": "https://cineuropa.org/es/interview/489768/"
     }
   ],
   "releases": [
