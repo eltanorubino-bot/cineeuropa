@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-15T17:01:50.614776",
+  "last_updated": "2026-03-15T23:57:42.463588",
   "news": [
+    {
+      "id": "9f9feaad4727",
+      "title": "La Grazia",
+      "source": "A Sala Llena",
+      "date": "DOM 15 MAR 2026",
+      "date_iso": "2026-03-15T17:48:17",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Y llegó el décimo mandamiento de Paolo Sorrentino: “Continuarás tu estilo, aunque bajes un cambio”. La décima película de uno de los grandes cineastas de la Italia contemporánea es menos exuberante que sus anteriores festines de sensualidad creativa post-felliniana (un colega, probablemente adict...",
+      "url": "https://asalallena.com.ar/la-grazia/"
+    },
     {
       "id": "5392468fe98a",
       "title": "Oscars 2026 | Retrato de época",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La 79ª edición del festival revelará su programación oficial en una conferencia de prensa en París.",
       "url": "https://cineuropa.org"
-    },
-    {
-      "id": "a3",
-      "title": "BAFICI 26: 298 películas de 44 países con 112 estrenos mundiales",
-      "source": "A Sala Llena",
-      "date": "MIÉ 4 MAR 2026",
-      "date_iso": "2026-03-04T10:00:00",
-      "venue": "Buenos Aires — Argentina",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "ARGENTINA",
-      "excerpt": "El festival porteño se celebra del 1 al 13 de abril con una programación ambiciosa que incluye retrospectivas, competencia internacional y secciones paralelas.",
-      "url": "https://asalallena.com.ar"
     }
   ],
   "releases": [
