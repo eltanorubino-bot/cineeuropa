@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-16T14:48:00.432610",
+  "last_updated": "2026-03-16T19:38:12.579056",
   "news": [
+    {
+      "id": "f22421f28738",
+      "title": "Yo no moriré de amor obtiene la Biznaga de Oro española en Málaga - Málaga 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "LUN 16 MAR 2026",
+      "date_iso": "2026-03-16T15:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La ópera prima de Marta Matute se hace con el máximo galardón, además de dos premios para sus intérpretes, mientras la mexicana El jardín que soñamos obtiene tres trofeos importantes",
+      "url": "https://cineuropa.org/es/newsdetail/490336/"
+    },
     {
       "id": "6733d967ef4b",
       "title": "Caravan, de Zuzana Kirchnerová, mejor película en los Leones del cine checo - Festivales / Premios - República Checa",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El fondo invita a los festivales e iniciativas de la industria a colaborar en el marco de su estrategia de igualdad de género, diversidad e inclusión",
       "url": "https://cineuropa.org/es/newsdetail/489892/"
-    },
-    {
-      "id": "c21d660006b8",
-      "title": "El Málaga Festival Fund & Co Production Event acoge 27 proyectos iberoamericanos - Málaga 2026 – MAFIZ",
-      "source": "Cineuropa",
-      "date": "JUE 5 MAR 2026",
-      "date_iso": "2026-03-05T15:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Documentales, cortometrajes y largos acuden al evento profesional, que tiene lugar entre los días 9 y 13 de marzo durante el 29.º Festival de Málaga",
-      "url": "https://cineuropa.org/es/newsdetail/489897/"
     }
   ],
   "releases": [
