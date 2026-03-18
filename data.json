@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-18T00:01:03.714467",
+  "last_updated": "2026-03-18T14:50:43.874169",
   "news": [
+    {
+      "id": "80c71383b39f",
+      "title": "EXCLUSIVA: Tráiler de Dream of Another Summer, seleccionado en CPH:DOX - Promoción - España/Líbano",
+      "source": "Cineuropa",
+      "date": "MIÉ 18 MAR 2026",
+      "date_iso": "2026-03-18T12:16:45",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El primer largometraje documental de la cineasta española Irene Bartolomé es una exploración de la memoria, la ausencia y las cicatrices urbanas ambientada en Beirut",
+      "url": "https://cineuropa.org/es/newsdetail/490495/"
+    },
+    {
+      "id": "2b499e26b3ae",
+      "title": "REPORT: Agora @ Festival Internacional de Documentales de Tesalónica 2026 - Tesalónica Documentales 2026 – Agora",
+      "source": "Cineuropa",
+      "date": "MIÉ 18 MAR 2026",
+      "date_iso": "2026-03-18T09:01:07",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Echamos un vistazo a seis proyectos presentados en el evento griego que se han llevado algunos de los premios más importantes",
+      "url": "https://cineuropa.org/es/newsdetail/490436/"
+    },
+    {
+      "id": "9c088af4ec23",
+      "title": "Entrevista: Xavier Giannoli • Director de Les Rayons et les Ombres - \"Había que encontrar el equilibrio entre una cierta fascinación por el mal en acción y que la película fuera moralmente incuestionable\" - /Francia/Bélgica",
+      "source": "Cineuropa",
+      "date": "MIÉ 18 MAR 2026",
+      "date_iso": "2026-03-18T08:50:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El cineasta francés repasa la génesis de su nueva película, que explora las zonas grises de la colaboración con los nazis en Francia durante la Segunda Guerra Mundial",
+      "url": "https://cineuropa.org/es/interview/490441/"
+    },
     {
       "id": "3af18b5f8fd7",
       "title": "El Stockfish Film & Industry Festival, listo para arrancar - Stockfish 2026",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El evento se celebrará del 19 al 25 de marzo en Praga, presentando 40 proyectos documentales de más de 20 países, muchos de ellos examinando lo que queda cuando los conflictos terminan",
       "url": "https://cineuropa.org/es/newsdetail/490123/"
-    },
-    {
-      "id": "e7ccce316660",
-      "title": "El corto Inherited Silence gana el Gran Premio Internacional en el Festival de Tampere - Cortometrajes - Finlandia",
-      "source": "Cineuropa",
-      "date": "LUN 9 MAR 2026",
-      "date_iso": "2026-03-09T15:22:44",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La pieza de la georgiana Mariam Khatchvani destacó en la cita anual dedicada al cortometraje, mientras que Son de Leona Cauklija se llevó el premio a mejor documental",
-      "url": "https://cineuropa.org/es/newsdetail/490078/"
-    },
-    {
-      "id": "6a8e6b6fd6b7",
-      "title": "Entrevista: Jakub Viktorín • Director general, Visegrad Film Forum - “En la mayoría de los festivales, las películas son la atracción principal y los cineastas un valor añadido; en el Visegrad Film Forum ocurre lo contrario” - Visegrad Film Forum 2026",
-      "source": "Cineuropa",
-      "date": "LUN 9 MAR 2026",
-      "date_iso": "2026-03-09T15:05:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cofundador y director general aborda el concepto de la 13.ª edición del evento, su enfoque en los cineastas y el oficio, y cómo el foro conecta a estudiantes de cine con profesionales del sector",
-      "url": "https://cineuropa.org/es/interview/490062/"
-    },
-    {
-      "id": "ceee37f8f0d9",
-      "title": "On vous croit arrasa en los René du Cinéma - Festivales / Premios - Bélgica",
-      "source": "Cineuropa",
-      "date": "LUN 9 MAR 2026",
-      "date_iso": "2026-03-09T12:15:15",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El primer largometraje de Charlotte Devillers y Arnaud Dufeys se alza con ocho premios del cine belga, entre ellos el de Mejor película, el de Mejor actriz, así como dos premios del público",
-      "url": "https://cineuropa.org/es/newsdetail/490037/"
     }
   ],
   "releases": [
