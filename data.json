@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-18T14:50:43.874169",
+  "last_updated": "2026-03-18T19:30:58.108834",
   "news": [
+    {
+      "id": "0c9b3aa7b504",
+      "title": "Torrente presidente, de Santiago Segura, recauda siete millones de euros en su primer fin de semana - Taquilla - España",
+      "source": "Cineuropa",
+      "date": "MIÉ 18 MAR 2026",
+      "date_iso": "2026-03-18T15:35:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "Sin una promoción al uso ni pases de prensa previos, la sexta entrega de la saga hace historia en la taquilla española situándose en el cuarto mejor estreno español de todos los tiempos",
+      "url": "https://cineuropa.org/es/newsdetail/490484/"
+    },
+    {
+      "id": "c9569b40e213",
+      "title": "El Brussels International Fantastic Film Festival calienta motores para una nutrida 44.ª edición - BIFFF 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 18 MAR 2026",
+      "date_iso": "2026-03-18T14:24:02",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Pese a las incertidumbres a las que se enfrentó el año pasado, el BIFFF vuelve de nuevo a su anterior sede, con una programación escalofriante e invitados muy esperados",
+      "url": "https://cineuropa.org/es/newsdetail/490521/"
+    },
     {
       "id": "80c71383b39f",
       "title": "EXCLUSIVA: Tráiler de Dream of Another Summer, seleccionado en CPH:DOX - Promoción - España/Líbano",
@@ -576,30 +600,6 @@
       "cat": "ESTRENOS",
       "excerpt": "La red se centrará en las estrategias que distintos miembros emplearon para llevar Riefenstahl, Le Chant des forêts y Gaucho Gaucho a las salas",
       "url": "https://cineuropa.org/es/newsdetail/490140/"
-    },
-    {
-      "id": "60f9a4748c44",
-      "title": "EXCLUSIVA: Tráiler de Candidates of Death, seleccionado en el Festival de Documentales de Tesalónica - Tesalónica Documentales 2026",
-      "source": "Cineuropa",
-      "date": "MAR 10 MAR 2026",
-      "date_iso": "2026-03-10T12:43:29",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La película de Maciej Cuske se centra en un grupo de chicos cuyo juego veraniego de rodar una película de terror casera va evolucionando hasta convertirse en un prolongado ritual creativo",
-      "url": "https://cineuropa.org/es/newsdetail/490139/"
-    },
-    {
-      "id": "3b486ff05733",
-      "title": "East Doc Platform desvela su selección completa de proyectos y premios - East Doc Platform 2026",
-      "source": "Cineuropa",
-      "date": "MAR 10 MAR 2026",
-      "date_iso": "2026-03-10T09:47:07",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El evento se celebrará del 19 al 25 de marzo en Praga, presentando 40 proyectos documentales de más de 20 países, muchos de ellos examinando lo que queda cuando los conflictos terminan",
-      "url": "https://cineuropa.org/es/newsdetail/490123/"
     }
   ],
   "releases": [
