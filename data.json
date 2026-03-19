@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-18T23:56:31.335412",
+  "last_updated": "2026-03-19T12:02:23.768940",
   "news": [
+    {
+      "id": "538da9474b9f",
+      "title": "Script Fiesta reúne a un nutrido grupo de voces internacionales del guion en su 14.ª edición - Script Fiesta 2026",
+      "source": "Cineuropa",
+      "date": "JUE 19 MAR 2026",
+      "date_iso": "2026-03-19T10:32:53",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Frank Spotnitz y James V. Hart encabezarán un programa de masterclasses, mesas redondas y proyecciones, y tres películas polacas competirán por el principal premio al guion del festival",
+      "url": "https://cineuropa.org/es/newsdetail/490540/"
+    },
     {
       "id": "0c9b3aa7b504",
       "title": "Torrente presidente, de Santiago Segura, recauda siete millones de euros en su primer fin de semana - Taquilla - España",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El centro francés también respalda lo nuevo de Claude Barras y de Gints Zibalodis, así como los primeros largometrajes de Nans Laborde-Jourdàa, Mathieu Volpe, Simon Helloco y Hugo de Faucompret",
       "url": "https://cineuropa.org/es/newsdetail/490135/"
-    },
-    {
-      "id": "2bf016333201",
-      "title": "Europa Distribution explorará estrenos de documentales recientes en Europa en CPH:DOX - CPH:DOX 2026",
-      "source": "Cineuropa",
-      "date": "MAR 10 MAR 2026",
-      "date_iso": "2026-03-10T13:25:14",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "La red se centrará en las estrategias que distintos miembros emplearon para llevar Riefenstahl, Le Chant des forêts y Gaucho Gaucho a las salas",
-      "url": "https://cineuropa.org/es/newsdetail/490140/"
     }
   ],
   "releases": [
