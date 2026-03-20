@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-03-20T11:57:44.204048",
+  "last_updated": "2026-03-20T17:55:33.513023",
   "news": [
+    {
+      "id": "2c8a6ddd9158",
+      "title": "La Résidence del Festival de Cannes desvela su selección - Cannes 2026",
+      "source": "Cineuropa",
+      "date": "VIE 20 MAR 2026",
+      "date_iso": "2026-03-20T16:05:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Saulė Bliuvaitė, Harry Lighton, Emma Branderhorst, Joecar Hanna, Oliver McGoldrick y Mansi Maheshwari están trabajando en París en sus próximos proyectos",
+      "url": "https://cineuropa.org/es/newsdetail/490620/"
+    },
+    {
+      "id": "045c459bf2b2",
+      "title": "Francia produjo 290 largometrajes en 2025 - Industria / Mercado - Francia",
+      "source": "Cineuropa",
+      "date": "VIE 20 MAR 2026",
+      "date_iso": "2026-03-20T16:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La producción cinematográfica gala retrocede menos de lo previsto, pero la menor implicación de Canal+ no se compensa con la aportación de las plataformas, que se estanca",
+      "url": "https://cineuropa.org/es/newsdetail/490598/"
+    },
+    {
+      "id": "a4b88f46d7c1",
+      "title": "El Fondo Hubert Bals del IFFR anuncia su última ronda de apoyo a la producción - Producción / Financiación - Países Bajos",
+      "source": "Cineuropa",
+      "date": "VIE 20 MAR 2026",
+      "date_iso": "2026-03-20T15:32:57",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Ocho coproducciones han recibido 60.000 € a través del programa de apoyo HBF+Europe, entre ellas el nuevo proyecto de la premiada en Cannes Asmae El Moudir",
+      "url": "https://cineuropa.org/es/newsdetail/490619/"
+    },
+    {
+      "id": "662c11b40f58",
+      "title": "El sexto D’A Film Lab Barcelona presenta sus proyectos - D’A 2026",
+      "source": "Cineuropa",
+      "date": "VIE 20 MAR 2026",
+      "date_iso": "2026-03-20T15:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los nuevos trabajos de Helena Girón y Samuel M. Delgado, Álex Lora, Adrià Guxens, Samuel Nacar y Manuel Manrique sobresalen en el programa profesional del festival D’A de Barcelona",
+      "url": "https://cineuropa.org/es/newsdetail/490615/"
+    },
+    {
+      "id": "d6dfb8a42a84",
+      "title": "Grecia acogerá una serie de eventos cinematográficos como antesala de los European Film Awards 2027 - European Film Awards 2027",
+      "source": "Cineuropa",
+      "date": "VIE 20 MAR 2026",
+      "date_iso": "2026-03-20T15:05:42",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Un amplio programa de iniciativas, eventos, talleres y proyecciones tendrá lugar en el país antes de la ceremonia, que se celebrará por primera vez en Europa sudoriental",
+      "url": "https://cineuropa.org/es/newsdetail/490618/"
+    },
+    {
+      "id": "3d7e3acf9e1f",
+      "title": "Entrevista: Yann Tonnar • Productor, Manufactura Pictures - “Siento una particular predilección por los estrenos televisivos y por la forma en que se cuelan subrepticiamente en los salones de la gente” - Emerging Producers 2026",
+      "source": "Cineuropa",
+      "date": "VIE 20 MAR 2026",
+      "date_iso": "2026-03-20T15:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "El productor luxemburgués explica que la misión social y política del cine documental es uno de los aspectos que le llevaron a dedicarse a este género",
+      "url": "https://cineuropa.org/es/interview/490548/"
+    },
+    {
+      "id": "831dcb1e300d",
+      "title": "CPH:INDUSTRY da a conocer los ganadores de sus premios - CPH:DOX 2026 – CPH:DOX Industry/Premios",
+      "source": "Cineuropa",
+      "date": "VIE 20 MAR 2026",
+      "date_iso": "2026-03-20T11:30:30",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Proyectos de Francia, Marruecos, Estados Unidos, Polonia, Ucrania y más allá reciben más de 100.000 € en premios",
+      "url": "https://cineuropa.org/es/newsdetail/490614/"
+    },
     {
       "id": "45a12708f06c",
       "title": "Crítica: Amarga Navidad - Películas / Críticas - España",
@@ -516,90 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La cinta de Wojciech Smarzowski sobre la violencia doméstica se ha alzado con los galardones a mejor película, dirección, actor, actriz y música; y Sirāt con el de mejor película europea",
       "url": "https://cineuropa.org/es/newsdetail/490253/"
-    },
-    {
-      "id": "c95bb2190b93",
-      "title": "La reforma de la FIAPF reconfigura el mapa mundial de festivales con 17 certámenes de “clase A” y seis nuevos miembros - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "JUE 12 MAR 2026",
-      "date_iso": "2026-03-12T10:24:35",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La federación clasifica ahora Busan, Annecy y Clermont-Ferrand como citas de clase A; entre los otros nuevos miembros figuran Herceg Novi, Nouveau Cinema, Hot Docs y Punto de Vista",
-      "url": "https://cineuropa.org/es/newsdetail/490247/"
-    },
-    {
-      "id": "6c47183c9850",
-      "title": "La reforma de la FIAPF reconfigura el mapa mundial de festivales con 17 certámenes de “clase A” y seis nuevos miembros - Festivales / Premios - Europa",
-      "source": "Cineuropa",
-      "date": "JUE 12 MAR 2026",
-      "date_iso": "2026-03-12T10:24:35",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La federación clasifica ahora Busan, Annecy y Clermont-Ferrand como citas de clase A; entre los otros nuevos miembros figuran Herceg Novi, Nouveau Cinema, Hot Docs y Punto de Vista",
-      "url": "https://cineuropa.org/es/newsdetail/490247/"
-    },
-    {
-      "id": "47ac0d6a11bd",
-      "title": "Europa Distribution profundizará en las interacciones profesionales, la gestión de equipos y la negociación en Sofía - Sofia 2026 - Sofia Meetings",
-      "source": "Cineuropa",
-      "date": "JUE 12 MAR 2026",
-      "date_iso": "2026-03-12T09:35:04",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El taller de la red profesional reunirá a distribuidores de toda Europa y se enriquecerá con una sesión de trabajo con exhibidores de Europa Cinemas",
-      "url": "https://cineuropa.org/es/newsdetail/490244/"
-    },
-    {
-      "id": "59e5e6621bb0",
-      "title": "Entrevista: Stella Marie Markert • Directora de Thanks for Nothing - “Me fascinaba la manera en que nuestra cultura romantiza a las chicas vírgenes y moribundas; quería mostrar que en realidad no es para nada ‘cool’” - SXSW 2026",
-      "source": "Cineuropa",
-      "date": "JUE 12 MAR 2026",
-      "date_iso": "2026-03-12T09:22:52",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La cineasta alemana habla sobre su motivación, sus elecciones estéticas y su gusto musical en relación con su historia de cuatro adolescentes que se enfrentan a las pruebas y tribulaciones de la vida",
-      "url": "https://cineuropa.org/es/interview/490243/"
-    },
-    {
-      "id": "f7495e2fd4d4",
-      "title": "Festival de Cannes 2026",
-      "source": "Escribiendo Cine",
-      "date": "MIÉ 11 MAR 2026",
-      "date_iso": "2026-03-11T18:36:00.928566",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/03/11/21581-barbra-streisand-recibira-la-palma-de-oro-honorifica-en-cannes"
-    },
-    {
-      "id": "770468e81350",
-      "title": "Entrevista: Adrián Silvestre • Director de Cobijo - “Estas son las personas más vulnerables con quienes he trabajado nunca” - Tesalónica Documentales 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 11 MAR 2026",
-      "date_iso": "2026-03-11T15:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director español habla de limitaciones, intimidades, fraternidad y anhelo de visibilidad al presentar su nuevo film, rodado en Guatemala, en un hogar para refugiados",
-      "url": "https://cineuropa.org/es/interview/490179/"
-    },
-    {
-      "id": "b8dd24e9a4da",
-      "title": "El Parlamento Europeo envía un mensaje claro sobre la protección de los derechos de autor ante la IA - Instituciones / Legislación - Europa",
-      "source": "Cineuropa",
-      "date": "MIÉ 11 MAR 2026",
-      "date_iso": "2026-03-11T13:06:59",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El 10 de marzo se adoptó por una mayoría muy amplia el informe del eurodiputado alemán del PPE Axel Voss sobre la protección de las obras creativas protegidas por derechos de autor",
-      "url": "https://cineuropa.org/es/newsdetail/490191/"
     }
   ],
   "releases": [
