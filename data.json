@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-20T17:55:33.513023",
+  "last_updated": "2026-03-20T23:55:32.808800",
   "news": [
+    {
+      "id": "07f9c9952086",
+      "title": "Concurso entradas LA GRAZIA",
+      "source": "A Sala Llena",
+      "date": "VIE 20 MAR 2026",
+      "date_iso": "2026-03-20T21:50:49",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "Maco cine y ASL te invitan a participar por entradas para asistir a ver el estreno LA GRAZIA, film dirigido Paolo Sorrentino y protagonizado por Toni Servillo. Para participar por un pase válido para dos personas debes cumplir los siguientes requisitos: Compartir la publicación en alguna de tus r...",
+      "url": "https://asalallena.com.ar/concurso-entradas-la-grazia/"
+    },
     {
       "id": "2c8a6ddd9158",
       "title": "La Résidence del Festival de Cannes desvela su selección - Cannes 2026",
@@ -422,6 +434,18 @@
       "url": "https://asalallena.com.ar/la-grazia/"
     },
     {
+      "id": "c62c773347af",
+      "title": "Soy tu mensaje",
+      "source": "A Sala Llena",
+      "date": "DOM 15 MAR 2026",
+      "date_iso": "2026-03-15T17:00:23",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ARGENTINA",
+      "excerpt": "Con las películas argentinas, especialmente aquellas que suponen un primer trabajo de poco presupuesto, hay que ser cuidadoso. Conviene mirar a estas películas desde un terreno distinto al que acostumbramos cuando vemos superproducciones de Hollywood o films ganadores de los festivales más import...",
+      "url": "https://asalallena.com.ar/soy-tu-mensaje/"
+    },
+    {
       "id": "5392468fe98a",
       "title": "Oscars 2026 | Retrato de época",
       "source": "A Sala Llena",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La sección profesional del certamen griego ha concedido premios a proyectos en distintas fases de desarrollo",
       "url": "https://cineuropa.org/es/newsdetail/490273/"
-    },
-    {
-      "id": "f48b9b61c391",
-      "title": "Cinedans FEST regresa a Ámsterdam para su 22.ª edición - Festivales / Premios - Países Bajos",
-      "source": "Cineuropa",
-      "date": "JUE 12 MAR 2026",
-      "date_iso": "2026-03-12T12:50:12",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Del 25 al 29 de marzo, Eye Filmmuseum acoge el festival internacional de cine de danza, que cuenta con una programación amplia e internacional",
-      "url": "https://cineuropa.org/es/newsdetail/490258/"
-    },
-    {
-      "id": "9576e8881782",
-      "title": "Home Sweet Home se alza con cinco Águilas del cine polaco - Festivales / Premios - Polonia",
-      "source": "Cineuropa",
-      "date": "JUE 12 MAR 2026",
-      "date_iso": "2026-03-12T12:00:55",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La cinta de Wojciech Smarzowski sobre la violencia doméstica se ha alzado con los galardones a mejor película, dirección, actor, actriz y música; y Sirāt con el de mejor película europea",
-      "url": "https://cineuropa.org/es/newsdetail/490253/"
     }
   ],
   "releases": [
