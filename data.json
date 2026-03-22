@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-22T11:47:24.093877",
+  "last_updated": "2026-03-22T16:59:52.524417",
   "news": [
+    {
+      "id": "087ad3668300",
+      "title": "#CANNES79 | Barbra Streisand recibirá la Palma de Oro de honor",
+      "source": "A Sala Llena",
+      "date": "DOM 22 MAR 2026",
+      "date_iso": "2026-03-22T15:29:24",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Barbra Streisand recibirá la Palma de Oro de honor en la próxima edición del Festival de Cannes. El festival iniciará el 12 de mayo próximo y su premiación será el 23 de mayo.\nLa entrada #CANNES79 | Barbra Streisand recibirá la Palma de Oro de honor se publicó primero en A Sala Llena.",
+      "url": "https://asalallena.com.ar/cannes79-barbra-streisand-recibira-la-palma-de-oro-de-honor/"
+    },
+    {
+      "id": "859d2a115ff3",
+      "title": "#CANNES79 | Peter Jackson recibirá la Palma de Oro honorífica",
+      "source": "A Sala Llena",
+      "date": "DOM 22 MAR 2026",
+      "date_iso": "2026-03-22T15:27:25",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Peter Jackson recibirá la Palma de Oro honorífica en la próxima edición del Festival de Cannes. El festival iniciará el 12 de mayo próximo y su premiación será el 23 de mayo.\nLa entrada #CANNES79 | Peter Jackson recibirá la Palma de Oro honorífica se publicó primero en A Sala Llena.",
+      "url": "https://asalallena.com.ar/cannes79-peter-jackson-recibira-la-palma-de-oro-honorifica/"
+    },
     {
       "id": "07f9c9952086",
       "title": "Concurso entradas LA GRAZIA",
@@ -576,30 +600,6 @@
       "cat": "ESTRENOS",
       "excerpt": "El estreno de A War on Women de Raha Shirazi abre la competición de la 17.ª edición del Bari International Film&amp;TV Festival, que se celebrará del 21 al 28 de marzo",
       "url": "https://cineuropa.org/es/newsdetail/490248/"
-    },
-    {
-      "id": "dbab7625bf12",
-      "title": "La Troisième Main de Michel Hazanavicius recibe un anticipo de ingresos del CNC - Producción / Financiación - Francia",
-      "source": "Cineuropa",
-      "date": "JUE 12 MAR 2026",
-      "date_iso": "2026-03-12T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El centro francés también respaldará las próximas películas de los hermanos Arnaud y Jean-Marie Larrieu y del dúo formado por Lucie Borleteau y Chloé Mazlo",
-      "url": "https://cineuropa.org/es/newsdetail/490254/"
-    },
-    {
-      "id": "285dc1755995",
-      "title": "El Agora del Festival de Documentales de Tesalónica anuncia sus ganadores - Tesalónica Documentales 2026 – Agora/Premios",
-      "source": "Cineuropa",
-      "date": "JUE 12 MAR 2026",
-      "date_iso": "2026-03-12T14:22:11",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La sección profesional del certamen griego ha concedido premios a proyectos en distintas fases de desarrollo",
-      "url": "https://cineuropa.org/es/newsdetail/490273/"
     }
   ],
   "releases": [
