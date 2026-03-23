@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-03-23T14:41:04.729084",
+  "last_updated": "2026-03-23T18:34:23.025987",
   "news": [
+    {
+      "id": "5ab4dc8ee858",
+      "title": "Crítica: Ceci n'est pas un film français - CPH:DOX 2026",
+      "source": "Cineuropa",
+      "date": "LUN 23 MAR 2026",
+      "date_iso": "2026-03-23T16:43:03",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Tom Adjibi transforma un documental DIY sobre actores racializados en una aguda y autoconsciente reflexión sobre la identidad y la representación en la industria cinematográfica europea",
+      "url": "https://cineuropa.org/es/newsdetail/490656/"
+    },
+    {
+      "id": "e7ef0e4e832f",
+      "title": "Los difusores e institutos de cine nórdicos lanzan en el CPH:DOX una convocatoria conjunta para documentales - CPH:DOX 2026 - CPH:DOX Industry",
+      "source": "Cineuropa",
+      "date": "LUN 23 MAR 2026",
+      "date_iso": "2026-03-23T16:09:23",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Una nueva iniciativa que reúne a las principales cadenas públicas y a los institutos de cine de la región tiene como objetivo apoyar el desarrollo de proyectos de no ficción de alta calidad",
+      "url": "https://cineuropa.org/es/newsdetail/490654/"
+    },
+    {
+      "id": "95b38362ae4d",
+      "title": "L'Engloutie, de Louise Hémon, vence en la 31.ª edición de Kino Pavasaris - Vilna 2025 - Premios",
+      "source": "Cineuropa",
+      "date": "LUN 23 MAR 2026",
+      "date_iso": "2026-03-23T16:02:21",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El documental Holy Destructors de Aistė Žegulytė también destacó entre los ocho largometrajes que midieron fuerzas en la competición internacional",
+      "url": "https://cineuropa.org/es/newsdetail/490653/"
+    },
+    {
+      "id": "8db50d9bd4de",
+      "title": "Crítica: Un chant aveugle - Cinéma du réel 2026",
+      "source": "Cineuropa",
+      "date": "LUN 23 MAR 2026",
+      "date_iso": "2026-03-23T15:25:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Siguiendo la estela de un coro francés que viaja por Japón, Stefano Canapa y Natacha Muslera firman un primer largometraje audaz, inventivo y hipnótico sobre el universo de las personas no videntes",
+      "url": "https://cineuropa.org/es/newsdetail/490638/"
+    },
     {
       "id": "e0bb63644618",
       "title": "Entrevista: Angelo Rocco Troiano • Productor, Mediterraneo Cinematografica - “Los documentales no cambian el mundo por sí solos, pero pueden cambiar la forma en que la gente lo ve” - Emerging Producers",
@@ -552,54 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El nuevo largometraje del cineasta italiano, basado en la novela de Domenico Starnone y producido por Mad Entertainment y Picomedia, narra un duelo doméstico entre un abuelo y su nieto",
       "url": "https://cineuropa.org/es/newsdetail/490304/"
-    },
-    {
-      "id": "de722a31207e",
-      "title": "Crítica: Materia Prima - CPH:DOX 2026",
-      "source": "Cineuropa",
-      "date": "VIE 13 MAR 2026",
-      "date_iso": "2026-03-13T14:47:12",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "El documental del alemán Jens Schanze es un relato de múltiples perspectivas que se centra en los intentos de extracción de litio en Bolivia y en la resistencia que estos suscitan",
-      "url": "https://cineuropa.org/es/newsdetail/490313/"
-    },
-    {
-      "id": "97782acba2fa",
-      "title": "Rakuten TV Enterprise lanza la serie de eventos “LIVE” para reunir a los líderes de la industria de la televisión conectada de Europa - Industria / Mercado - España/Reino Unido/Alemania/Italia/Europa",
-      "source": "Cineuropa",
-      "date": "VIE 13 MAR 2026",
-      "date_iso": "2026-03-13T13:52:23",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La iniciativa reunirá a más de 150 líderes del sector y responsables de la toma de decisiones en Madrid, seguida de ediciones adicionales en Londres, Múnich y Milán",
-      "url": "https://cineuropa.org/es/newsdetail/490311/"
-    },
-    {
-      "id": "75dd99e0f135",
-      "title": "Entrevista: Julie Meigniez • Productora, Talweg - “El cine documental puede ser un poderoso agente de cambio” - Emerging Producers 2026",
-      "source": "Cineuropa",
-      "date": "VIE 13 MAR 2026",
-      "date_iso": "2026-03-13T11:35:05",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La productora francesa habla de su fascinación por la complejidad que subyace en la ambición de representar la realidad",
-      "url": "https://cineuropa.org/es/interview/490185/"
-    },
-    {
-      "id": "58dfd4c97a67",
-      "title": "El incentivo fiscal de Film Estonia aumenta hasta el 40% para impulsar la producción internacional - Industria / Mercado - Estonia",
-      "source": "Cineuropa",
-      "date": "VIE 13 MAR 2026",
-      "date_iso": "2026-03-13T10:07:15",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cambio de política llega en un momento en el que los países europeos intensifican la competencia para atraer rodajes internacionales e inversiones audiovisuales a gran escala",
-      "url": "https://cineuropa.org/es/newsdetail/490302/"
     }
   ],
   "releases": [
