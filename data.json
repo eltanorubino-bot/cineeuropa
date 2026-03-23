@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-23T18:34:23.025987",
+  "last_updated": "2026-03-23T23:59:17.809021",
   "news": [
+    {
+      "id": "f679bd8381eb",
+      "title": "Nuremberg: El juicio del siglo (Nuremberg)",
+      "source": "A Sala Llena",
+      "date": "LUN 23 MAR 2026",
+      "date_iso": "2026-03-23T21:24:48",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Es menester iniciar esta nota señalando que Nuremberg no es una nueva edición de un film muy exitoso del año 1961, dirigido por Stanley Kramer y con brillantes interpretaciones de Burt Lancaster, Spencer Tracy, Maximilian Shell y Montgomery Clift, con un total de once nominaciones al Oscar, dos d...",
+      "url": "https://asalallena.com.ar/nuremberg-el-juicio-del-siglo-nuremberg/"
+    },
     {
       "id": "5ab4dc8ee858",
       "title": "Crítica: Ceci n'est pas un film français - CPH:DOX 2026",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "Pedro Aguilera actualiza La caza, película que Carlos Saura rodó hace sesenta años, transformando a sus hombres protagonistas en mujeres, aunque cargadas con las mismas miserias",
       "url": "https://cineuropa.org/es/newsdetail/490306/"
-    },
-    {
-      "id": "16c09405ecba",
-      "title": "Mario Martone rueda Scherzetto, con Toni Servillo como protagonista - Producción / Financiación - Italia",
-      "source": "Cineuropa",
-      "date": "VIE 13 MAR 2026",
-      "date_iso": "2026-03-13T15:05:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El nuevo largometraje del cineasta italiano, basado en la novela de Domenico Starnone y producido por Mad Entertainment y Picomedia, narra un duelo doméstico entre un abuelo y su nieto",
-      "url": "https://cineuropa.org/es/newsdetail/490304/"
     }
   ],
   "releases": [
