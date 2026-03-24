@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-23T23:59:17.809021",
+  "last_updated": "2026-03-24T14:46:03.336118",
   "news": [
+    {
+      "id": "fd41891c1540",
+      "title": "Amarga Navidad",
+      "source": "A Sala Llena",
+      "date": "MAR 24 MAR 2026",
+      "date_iso": "2026-03-24T00:04:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "De un tiempo a esta parte, desde al menos Dolor y gloria (2019), o quizás desde la anterior, Julieta (2016), el cine de Pedro Almodóvar parece gravitar en torno a una corta serie de temas que van pasando de unas películas a otras, como si todas formasen parte de una suerte de etapa de su [&#8230;...",
+      "url": "https://asalallena.com.ar/amarga-navidad/"
+    },
     {
       "id": "f679bd8381eb",
       "title": "Nuremberg: El juicio del siglo (Nuremberg)",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "RETRATO DE ÉPOCA Cuatro grandes películas compiten por el Oscar –Marty Supremo, Una batalla tras otra, Valor sentimental y Hamnet&#8211; con protagonistas ambiciosos que sacrifican el amor para entregarse al ego. Y por acá, La virgen de la tosquera amenaza con su deseo, mientras el mundo parece a...",
       "url": "https://asalallena.com.ar/oscars-2026-retrato-de-epoca/"
-    },
-    {
-      "id": "665bde527ba1",
-      "title": "Crítica: Día de caza - Málaga 2026",
-      "source": "Cineuropa",
-      "date": "VIE 13 MAR 2026",
-      "date_iso": "2026-03-13T15:38:28",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Pedro Aguilera actualiza La caza, película que Carlos Saura rodó hace sesenta años, transformando a sus hombres protagonistas en mujeres, aunque cargadas con las mismas miserias",
-      "url": "https://cineuropa.org/es/newsdetail/490306/"
     }
   ],
   "releases": [
