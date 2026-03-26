@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-26T00:04:28.155856",
+  "last_updated": "2026-03-26T14:52:39.924520",
   "news": [
+    {
+      "id": "50e10bd190e1",
+      "title": "La Federación de Guionistas de Europa lanza la voz de alarma ante la ofensiva de la extrema derecha para controlar la narrativa - Industria / Mercado - Europa",
+      "source": "Cineuropa",
+      "date": "JUE 26 MAR 2026",
+      "date_iso": "2026-03-26T13:14:41",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La organización acaba de publicar un informe titulado “El derecho a escribir: los guionistas y las crecientes amenazas a la libertad de expresión artística en Europa”",
+      "url": "https://cineuropa.org/es/newsdetail/490840/"
+    },
+    {
+      "id": "740967ed39a0",
+      "title": "Los radiodifusores europeos instan a la UE a endurecer las normas para los gigantes tecnológicos que rigen las smart TV y los asistentes virtuales - Instituciones / Legislación - Europa",
+      "source": "Cineuropa",
+      "date": "JUE 26 MAR 2026",
+      "date_iso": "2026-03-26T10:49:24",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La creciente influencia de los dispositivos conectados sobre la forma en que el público accede a contenidos audiovisuales está desencadenando nuevas presiones regulatorias en Bruselas",
+      "url": "https://cineuropa.org/es/newsdetail/490823/"
+    },
+    {
+      "id": "c618162f13df",
+      "title": "B wie Bartleby de Angela Summereder se alza con el premio a mejor largometraje de ficción en la Diagonale - Diagonale 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "JUE 26 MAR 2026",
+      "date_iso": "2026-03-26T10:27:03",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El debut en el largometraje de Tolga Karaaslan, Baba, What’s Your Plan?, se impone en la sección documental del certamen de Graz",
+      "url": "https://cineuropa.org/es/newsdetail/490822/"
+    },
     {
       "id": "a1012250703c",
       "title": "Crítica: Vita mia - BIF&ST 2026",
@@ -57,6 +93,18 @@
       "date_iso": "2026-03-25T12:00:25",
       "venue": "",
       "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La responsable de FERA reflexiona sobre su transición del sector editorial al ámbito audiovisual, sobre los retos vinculados a la IA y sobre las incertidumbres en torno al futuro programa Agora",
+      "url": "https://cineuropa.org/es/interview/490761/"
+    },
+    {
+      "id": "a241d5b758a0",
+      "title": "Entrevista: Julie Belgrado • Directora, Federation of European Screen Directors - “La libertad artística está ahora en el centro de los retos a los que se enfrentan los directores europeos” - Redes cinematográficas europeas",
+      "source": "Cineuropa",
+      "date": "MIÉ 25 MAR 2026",
+      "date_iso": "2026-03-25T12:00:25",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
       "cat": "FESTIVALES",
       "excerpt": "La responsable de FERA reflexiona sobre su transición del sector editorial al ámbito audiovisual, sobre los retos vinculados a la IA y sobre las incertidumbres en torno al futuro programa Agora",
       "url": "https://cineuropa.org/es/interview/490761/"
@@ -552,54 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La iniciativa, dirigida a mujeres y cineastas de género expansivo, explora el futuro de los medios a través de ocho sesiones online con creadores y comisarios del sector",
       "url": "https://cineuropa.org/es/newsdetail/490438/"
-    },
-    {
-      "id": "b3271cd86659",
-      "title": "Pedro Almodóvar y Antonio Resines fueron los protagonistas de la 34° edición",
-      "source": "Escribiendo Cine",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T14:41:40.118732",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/03/16/21605-todos-los-ganadores-de-los-premios-de-la-union-de-actores-y-actrices-2026"
-    },
-    {
-      "id": "8f25bacc6c43",
-      "title": "Duccio Chiarini rueda Un eroe italiano, protagonizada por Enrico Tijani y Andrea Pennacchi - Producción / Financiación - Italia",
-      "source": "Cineuropa",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T14:25:25",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "En su nuevo largometraje producido por Rosamont, el cineasta italiano emergente narra con ironía las peripecias de un migrante incorrecto y arrogante",
-      "url": "https://cineuropa.org/es/newsdetail/490385/"
-    },
-    {
-      "id": "990284ca979f",
-      "title": "Movie.it – Il Cinema Dipinto, un viaje por el cine del siglo XX - Patrocinado",
-      "source": "Cineuropa",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T14:20:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El nuevo proyecto italiano italiano saca a la luz los carteles y los programas de mano que marcaron el cine del siglo pasado",
-      "url": "https://cineuropa.org/es/newsdetail/490386/"
-    },
-    {
-      "id": "0089e5b7eff3",
-      "title": "Entrevista: Dominic Spitaler • Productor, ostblok - “Si quieres subvertir a un público conservador de derechas, el cine de autor es el lugar equivocado” - Emerging Producers 2026",
-      "source": "Cineuropa",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T12:58:12",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El productor austríaco cree que el documental puede cambiar mentalidades, pero para ello hay que saber exactamente a quién te diriges",
-      "url": "https://cineuropa.org/es/interview/490429/"
     }
   ],
   "releases": [
