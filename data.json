@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-25T18:40:44.690145",
+  "last_updated": "2026-03-26T00:04:28.155856",
   "news": [
+    {
+      "id": "a1012250703c",
+      "title": "Crítica: Vita mia - BIF&ST 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 25 MAR 2026",
+      "date_iso": "2026-03-25T15:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Edoardo Winspeare firma un fresco europeo entre el Salento y Transilvania, sostenido por las interpretaciones de sus dos protagonistas más que por su ambicioso guion",
+      "url": "https://cineuropa.org/es/newsdetail/490764/"
+    },
+    {
+      "id": "89e9bb3e739f",
+      "title": "Crítica: El mapa para tocarte - Málaga 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 25 MAR 2026",
+      "date_iso": "2026-03-25T15:25:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El documental de Mercedes Afonso es un sensible, optimista y emotivo retrato de la enfermedad, que transparenta profundo amor a su hijo Airam, aquejado de autismo",
+      "url": "https://cineuropa.org/es/newsdetail/490730/"
+    },
     {
       "id": "e9f581204194",
       "title": "Estreno mundial de \"No arreglen ni limpien mi habitación, a mí me gusta como está\" de Ignacio Ceroi",
@@ -12,6 +36,54 @@
       "cat": "ESTRENOS",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/03/25/21641-toda-la-programacion-de-isions-du-reel-2026"
+    },
+    {
+      "id": "4c8d99c17b73",
+      "title": "HBO Max amplía su red creativa en Europa - Séries Mania 2026 - Séries Mania Forum",
+      "source": "Cineuropa",
+      "date": "MIÉ 25 MAR 2026",
+      "date_iso": "2026-03-25T13:05:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "Sarah Aubrey, responsable de contenidos originales de la plataforma, apuesta en España por Domingo Corral y el dúo formado por Alberto Rodríguez y Rafael Cobos, y en Alemania por los creadores de Dark",
+      "url": "https://cineuropa.org/es/newsdetail/490759/"
+    },
+    {
+      "id": "0350c8b6f1d3",
+      "title": "Entrevista: Julie Belgrado • Directora, Federation of European Screen Directors - “La libertad artística está ahora en el centro de los retos a los que se enfrentan los directores europeos” - European Networks",
+      "source": "Cineuropa",
+      "date": "MIÉ 25 MAR 2026",
+      "date_iso": "2026-03-25T12:00:25",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La responsable de FERA reflexiona sobre su transición del sector editorial al ámbito audiovisual, sobre los retos vinculados a la IA y sobre las incertidumbres en torno al futuro programa Agora",
+      "url": "https://cineuropa.org/es/interview/490761/"
+    },
+    {
+      "id": "f6d5767860cb",
+      "title": "Red Pants, premiada en las Co-Pro Pitching Sessions del Séries Mania Forum - Séries Mania 2026 - Séries Mania Forum",
+      "source": "Cineuropa",
+      "date": "MIÉ 25 MAR 2026",
+      "date_iso": "2026-03-25T11:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El proyecto kirguís escrito por Tilek Cherikov y producido por Studio Oymo fue distinguido al cierre de las sesiones de pitching y la serie francesa R91, en el Buyers Upfront",
+      "url": "https://cineuropa.org/es/newsdetail/490717/"
+    },
+    {
+      "id": "dec1d6fb4a83",
+      "title": "El sector audiovisual europeo alcanza los 142.000 millones de euros en ingresos, mientras el streaming transforma los hábitos de visionado - Series Mania 2026 - Séries Mania Forum",
+      "source": "Cineuropa",
+      "date": "MIÉ 25 MAR 2026",
+      "date_iso": "2026-03-25T09:49:46",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "Un informe del Observatorio Europeo del Audiovisual destaca una producción cinematográfica récord y el creciente papel de las plataformas globales en la financiación de originales europeos",
+      "url": "https://cineuropa.org/es/newsdetail/490720/"
     },
     {
       "id": "6e49c3dd3bbe",
@@ -528,78 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El productor austríaco cree que el documental puede cambiar mentalidades, pero para ello hay que saber exactamente a quién te diriges",
       "url": "https://cineuropa.org/es/interview/490429/"
-    },
-    {
-      "id": "f8e8b86659e0",
-      "title": "Doc Together presenta en Tesalónica un informe sobre el apoyo a cineastas en riesgo - Tesalónica Documentales 2026 – Agora",
-      "source": "Cineuropa",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T10:29:06",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La iniciativa puesta en marcha por el Festival de Documentales de Tesalónica y DOK Leipzig expone los desafíos estructurales a los que se enfrentan los cineastas en condiciones de riesgo",
-      "url": "https://cineuropa.org/es/newsdetail/490399/"
-    },
-    {
-      "id": "1ee4ee4663fa",
-      "title": "La 29.ª edición de la Diagonale se abre paso en tiempos inciertos - Diagonale 2026",
-      "source": "Cineuropa",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T09:24:47",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El festival de Graz está a punto de arrancar y abordará temas como la guerra, el trabajo de cuidados y los espacios fuera de los centros urbanos",
-      "url": "https://cineuropa.org/es/newsdetail/490387/"
-    },
-    {
-      "id": "f22421f28738",
-      "title": "Yo no moriré de amor obtiene la Biznaga de Oro española en Málaga - Málaga 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "LUN 16 MAR 2026",
-      "date_iso": "2026-03-16T15:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La ópera prima de Marta Matute se hace con el máximo galardón, además de dos premios para sus intérpretes, mientras la mexicana El jardín que soñamos obtiene tres trofeos importantes",
-      "url": "https://cineuropa.org/es/newsdetail/490336/"
-    },
-    {
-      "id": "6733d967ef4b",
-      "title": "Caravan, de Zuzana Kirchnerová, mejor película en los Leones del cine checo - Festivales / Premios - República Checa",
-      "source": "Cineuropa",
-      "date": "LUN 16 MAR 2026",
-      "date_iso": "2026-03-16T12:57:50",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Varios de los galardones clave recayeron en directores y profesionales eslovacos, subrayando la creciente interconexión entre las industrias cinematográficas checa y eslovaca",
-      "url": "https://cineuropa.org/es/newsdetail/490339/"
-    },
-    {
-      "id": "30a54c60600a",
-      "title": "El proyecto estadounidense She Wrestles, galardonado con el premio a mejor pitch en el m:brane forum - M:brane 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "LUN 16 MAR 2026",
-      "date_iso": "2026-03-16T11:24:28",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La cinta de comedia animada danesa Pony Pony y un par de documentales científicos también recibieron premios en el evento de Malmö",
-      "url": "https://cineuropa.org/es/newsdetail/490333/"
-    },
-    {
-      "id": "ee309c5191f6",
-      "title": "La sombra de mi padre se impone en la 16.ª edición del Luxembourg City Film Festival - Luxemburgo 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "LUN 16 MAR 2026",
-      "date_iso": "2026-03-16T10:40:53",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La cinta de Akinola Davies Jr. se ha alzado con el Gran Premio del principal certamen del país, mientras que Memory, de Vladlena Sandu, fue coronado como mejor documental",
-      "url": "https://cineuropa.org/es/newsdetail/490326/"
     }
   ],
   "releases": [
