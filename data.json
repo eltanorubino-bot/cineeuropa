@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-03-26T19:43:45.199733",
+  "last_updated": "2026-03-27T00:01:54.722035",
   "news": [
+    {
+      "id": "b0f67c8b9522",
+      "title": "Entrevista: Synnøve Hørsdal • Productora, Maipo Film - \"Las producciones independientes contribuyen a mantener el diálogo y la comprensión de nuestra sociedad\" - Foco productores independientes/Series Mania 2026",
+      "source": "Cineuropa",
+      "date": "JUE 26 MAR 2026",
+      "date_iso": "2026-03-26T16:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La productora noruega arroja luz sobre la coyuntura de los productores independientes que trabajan en las series, su visión del oficio y los valores que habrá que defender de cara al futuro",
+      "url": "https://cineuropa.org/es/interview/490838/"
+    },
+    {
+      "id": "920d24e1ebff",
+      "title": "Visions du Réel anuncia una nutrida selección de películas procedentes de 75 países diferentes - Visions du Réel 2026",
+      "source": "Cineuropa",
+      "date": "JUE 26 MAR 2026",
+      "date_iso": "2026-03-26T16:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "Con 128 películas, 83 de ellas en estreno mundial, el festival ha preparado una programación muy completa con 36 óperas primas",
+      "url": "https://cineuropa.org/es/newsdetail/490826/"
+    },
+    {
+      "id": "b2e9cff1338b",
+      "title": "Critica: Altas capacidades - Málaga 2026",
+      "source": "Cineuropa",
+      "date": "JUE 26 MAR 2026",
+      "date_iso": "2026-03-26T15:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Víctor García León se ríe de y con las contradicciones de las paternidades modernas, capaces de pisotear sus principios éticos para ascender socialmente",
+      "url": "https://cineuropa.org/es/newsdetail/490831/"
+    },
+    {
+      "id": "e744d961db18",
+      "title": "Disney+ busca producciones locales para un público local - Séries Mania 2026 - Séries Mania Forum",
+      "source": "Cineuropa",
+      "date": "JUE 26 MAR 2026",
+      "date_iso": "2026-03-26T15:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "Angela Jain, la nueva responsable de las producciones originales de Europa, Oriente Medio y África, explicó las nuevas ambiciones europeas de la plataforma",
+      "url": "https://cineuropa.org/es/newsdetail/490821/"
+    },
     {
       "id": "50e10bd190e1",
       "title": "La Federación de Guionistas de Europa lanza la voz de alarma ante la ofensiva de la extrema derecha para controlar la narrativa - Industria / Mercado - Europa",
@@ -552,54 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El cineasta francés repasa la génesis de su nueva película, que explora las zonas grises de la colaboración con los nazis en Francia durante la Segunda Guerra Mundial",
       "url": "https://cineuropa.org/es/interview/490441/"
-    },
-    {
-      "id": "3af18b5f8fd7",
-      "title": "El Stockfish Film & Industry Festival, listo para arrancar - Stockfish 2026",
-      "source": "Cineuropa",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T15:35:35",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El certamen islandés de cine de autor pondrá el foco en el cine irlandés, junto a su habitual celebración de obras audiovisuales nacionales, nórdicas y mundiales",
-      "url": "https://cineuropa.org/es/newsdetail/490443/"
-    },
-    {
-      "id": "60d214871bee",
-      "title": "Arte France Cinéma respalda Yorgun Günes de Nuri Bilge Ceylan - Producción / Financiación - Francia",
-      "source": "Cineuropa",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T15:28:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La próxima película del cineasta turco estará coproducida por la cadena franco-alemana, así como las de Bertrand Bonello, Anne Fontaine, los hermanos Larrieu, Stéphanie Argerich e Iryna Tsilyk",
-      "url": "https://cineuropa.org/es/newsdetail/490402/"
-    },
-    {
-      "id": "3fecd8e2a0cb",
-      "title": "El 29.º Festival de Málaga entrega los trofeos de MAFIZ - Málaga 2026 – MAFIZ/Premios",
-      "source": "Cineuropa",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T15:21:20",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Entre los títulos españoles galardonados destacan Taranta, de Samuel Nacar; L’Escletxa, de Àlex Lora; Lóngquán, de Adrià Guxens; y La hija bastarda, de Olivia Delcán",
-      "url": "https://cineuropa.org/es/newsdetail/490422/"
-    },
-    {
-      "id": "9ba6b05b0d2f",
-      "title": "CIRCLE pone en marcha el Digital Empowerment Programme para su alumnado y comunidad de socios - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "MAR 17 MAR 2026",
-      "date_iso": "2026-03-17T14:48:48",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La iniciativa, dirigida a mujeres y cineastas de género expansivo, explora el futuro de los medios a través de ocho sesiones online con creadores y comisarios del sector",
-      "url": "https://cineuropa.org/es/newsdetail/490438/"
     }
   ],
   "releases": [
