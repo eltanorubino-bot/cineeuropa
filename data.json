@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-27T00:01:54.722035",
+  "last_updated": "2026-03-27T14:32:20.495245",
   "news": [
+    {
+      "id": "a04356da4f12",
+      "title": "Edoardo Gabriellini rueda La città dei vivi, basada en la novela de Nicola Lagioia La ciudad de los vivos - Producción / Financiación - Italia",
+      "source": "Cineuropa",
+      "date": "VIE 27 MAR 2026",
+      "date_iso": "2026-03-27T13:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La película, escrita por los hermanos D’Innocenzo, está protagonizada por Valerio Mastandrea y Emanuele Maria Di Stefano y producida por Eagle Pictures, Cinemaundici y Lungta Film con HBO Max",
+      "url": "https://cineuropa.org/es/newsdetail/490911/"
+    },
     {
       "id": "b0f67c8b9522",
       "title": "Entrevista: Synnøve Hørsdal • Productora, Maipo Film - \"Las producciones independientes contribuyen a mantener el diálogo y la comprensión de nuestra sociedad\" - Foco productores independientes/Series Mania 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Echamos un vistazo a seis proyectos presentados en el evento griego que se han llevado algunos de los premios más importantes",
       "url": "https://cineuropa.org/es/newsdetail/490436/"
-    },
-    {
-      "id": "9c088af4ec23",
-      "title": "Entrevista: Xavier Giannoli • Director de Les Rayons et les Ombres - \"Había que encontrar el equilibrio entre una cierta fascinación por el mal en acción y que la película fuera moralmente incuestionable\" - /Francia/Bélgica",
-      "source": "Cineuropa",
-      "date": "MIÉ 18 MAR 2026",
-      "date_iso": "2026-03-18T08:50:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cineasta francés repasa la génesis de su nueva película, que explora las zonas grises de la colaboración con los nazis en Francia durante la Segunda Guerra Mundial",
-      "url": "https://cineuropa.org/es/interview/490441/"
     }
   ],
   "releases": [
