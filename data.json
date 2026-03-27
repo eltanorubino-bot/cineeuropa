@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-27T18:37:41.019622",
+  "last_updated": "2026-03-27T23:56:22.851277",
   "news": [
+    {
+      "id": "3d742fd14236",
+      "title": "El drama LGBTIQ+ \"Proud\" se lleva los premios principales",
+      "source": "Escribiendo Cine",
+      "date": "VIE 27 MAR 2026",
+      "date_iso": "2026-03-27T23:56:20.453136",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/03/27/21654-todos-los-ganadores-de-series-mania-2026"
+    },
     {
       "id": "d192437d2b58",
       "title": "El Consejo de Europa adopta una importante convención para la coproducción de series - Industria / Mercado - Europa",
@@ -588,18 +600,6 @@
       "cat": "ESTRENOS",
       "excerpt": "Sin una promoción al uso ni pases de prensa previos, la sexta entrega de la saga hace historia en la taquilla española situándose en el cuarto mejor estreno español de todos los tiempos",
       "url": "https://cineuropa.org/es/newsdetail/490484/"
-    },
-    {
-      "id": "c9569b40e213",
-      "title": "El Brussels International Fantastic Film Festival calienta motores para una nutrida 44.ª edición - BIFFF 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 18 MAR 2026",
-      "date_iso": "2026-03-18T14:24:02",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Pese a las incertidumbres a las que se enfrentó el año pasado, el BIFFF vuelve de nuevo a su anterior sede, con una programación escalofriante e invitados muy esperados",
-      "url": "https://cineuropa.org/es/newsdetail/490521/"
     }
   ],
   "releases": [
