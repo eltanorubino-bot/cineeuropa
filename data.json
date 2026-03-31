@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-31T14:49:42.142821",
+  "last_updated": "2026-03-31T19:38:03.131735",
   "news": [
+    {
+      "id": "b5ec630c4749",
+      "title": "[27] BAFICI | Programación",
+      "source": "A Sala Llena",
+      "date": "MAR 31 MAR 2026",
+      "date_iso": "2026-03-31T17:10:07",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "Del 15 al 26 de abril tendrá lugar la edición 27 del Buenos Aires Festival Internacional de Cine Independiente, (BAFICI). Esta edición contará con 327 títulos, con 147 películas argentinas exhibidas, la gran mayoría en calidad de estrenos. Además, el total de 112 premieres mundiales incluye pelíc...",
+      "url": "https://asalallena.com.ar/27-bafici-programacion/"
+    },
     {
       "id": "a10b6db60e22",
       "title": "Un fantasma a su servicio (A Useful Ghost)",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La productora húngara explica por qué trabaja en el ámbito del documental y cómo percibe su conexión con la sociedad",
       "url": "https://cineuropa.org/es/interview/490550/"
-    },
-    {
-      "id": "2bb2b7aef33b",
-      "title": "El Visegrad Film Forum de Bratislava prioriza el proceso por encima del producto - Visegrad Film Forum 2026",
-      "source": "Cineuropa",
-      "date": "JUE 19 MAR 2026",
-      "date_iso": "2026-03-19T12:07:22",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Con invitados como Alexander Nanau, György Pálfi y Uli Hanisch, el evento de formación ofreció a los estudiantes un acercamiento práctico al cine de autor",
-      "url": "https://cineuropa.org/es/newsdetail/490554/"
     }
   ],
   "releases": [
