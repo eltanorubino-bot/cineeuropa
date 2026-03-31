@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-30T19:37:46.929725",
+  "last_updated": "2026-03-31T00:04:24.314349",
   "news": [
+    {
+      "id": "a10b6db60e22",
+      "title": "Un fantasma a su servicio (A Useful Ghost)",
+      "source": "A Sala Llena",
+      "date": "LUN 30 MAR 2026",
+      "date_iso": "2026-03-30T20:14:43",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "LA PRESENCIA DE LAS PERSONAS QUE SE VAN Un fastasma a su servicio es la ópera prima en formato largometraje del cineasta tailandés Ratchapoom Boonbunchachoke. Galardonada con el premio de la Semana de la Crítica en septuagésimo octavo Festival de Cannes y con el de mejor guion en el Festival de S...",
+      "url": "https://asalallena.com.ar/un-fantasma-a-su-servicio-a-useful-ghost/"
+    },
     {
       "id": "e72cc8515f06",
       "title": "El francés \"Ya Hanouni\" ganó la Competencia Internacional",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Con invitados como Alexander Nanau, György Pálfi y Uli Hanisch, el evento de formación ofreció a los estudiantes un acercamiento práctico al cine de autor",
       "url": "https://cineuropa.org/es/newsdetail/490554/"
-    },
-    {
-      "id": "538da9474b9f",
-      "title": "Script Fiesta reúne a un nutrido grupo de voces internacionales del guion en su 14.ª edición - Script Fiesta 2026",
-      "source": "Cineuropa",
-      "date": "JUE 19 MAR 2026",
-      "date_iso": "2026-03-19T10:32:53",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Frank Spotnitz y James V. Hart encabezarán un programa de masterclasses, mesas redondas y proyecciones, y tres películas polacas competirán por el principal premio al guion del festival",
-      "url": "https://cineuropa.org/es/newsdetail/490540/"
     }
   ],
   "releases": [
