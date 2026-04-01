@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-01T14:55:11.715864",
+  "last_updated": "2026-04-01T18:11:17.165740",
   "news": [
+    {
+      "id": "ddd3ddbd39a1",
+      "title": "La plataforma apuesta por el formato breve con \"Carísima\"",
+      "source": "Escribiendo Cine",
+      "date": "MIÉ 1 ABR 2026",
+      "date_iso": "2026-04-01T18:11:15.119453",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "PLATAFORMAS",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/04/01/21678-caro-pardiaco-llega-a-netflix-con-una-serie-sobre-la-crisis-de-los-treinta"
+    },
     {
       "id": "7dd7b70d9587",
       "title": "79ª Festival de Cannes",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Un amplio programa de iniciativas, eventos, talleres y proyecciones tendrá lugar en el país antes de la ceremonia, que se celebrará por primera vez en Europa sudoriental",
       "url": "https://cineuropa.org/es/newsdetail/490618/"
-    },
-    {
-      "id": "3d7e3acf9e1f",
-      "title": "Entrevista: Yann Tonnar • Productor, Manufactura Pictures - “Siento una particular predilección por los estrenos televisivos y por la forma en que se cuelan subrepticiamente en los salones de la gente” - Emerging Producers 2026",
-      "source": "Cineuropa",
-      "date": "VIE 20 MAR 2026",
-      "date_iso": "2026-03-20T15:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "El productor luxemburgués explica que la misión social y política del cine documental es uno de los aspectos que le llevaron a dedicarse a este género",
-      "url": "https://cineuropa.org/es/interview/490548/"
     }
   ],
   "releases": [
