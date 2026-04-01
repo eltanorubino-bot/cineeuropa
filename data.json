@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-04-01T00:05:06.123265",
+  "last_updated": "2026-04-01T14:55:11.715864",
   "news": [
+    {
+      "id": "7dd7b70d9587",
+      "title": "79ª Festival de Cannes",
+      "source": "Escribiendo Cine",
+      "date": "MIÉ 1 ABR 2026",
+      "date_iso": "2026-04-01T14:55:09.737347",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/04/01/21675-festival-de-cannes-2026-la-venus-electrique-abre-la-edicion-79-con-estreno-simultaneo-en-salas"
+    },
+    {
+      "id": "3c82e88ba4ce",
+      "title": "Cine,  plataformas y una mirada federal con \"El último gigante\"",
+      "source": "Escribiendo Cine",
+      "date": "MIÉ 1 ABR 2026",
+      "date_iso": "2026-04-01T14:55:09.736175",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "PLATAFORMAS",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/04/01/21674-marcos-carnevale-no-he-tenido-que-modificar-mi-forma-de-filmar-para-cumplir-con-algun-requisito-de-estandarizacion"
+    },
+    {
+      "id": "b2f9b0e3cfa6",
+      "title": "Festival de cine francés 2026 | Caso 137",
+      "source": "A Sala Llena",
+      "date": "MIÉ 1 ABR 2026",
+      "date_iso": "2026-04-01T04:56:09",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "En la película inaugural de la Semana de la Crítica 2025, L’intérêt d’Adam, Léa Drucker interpreta a una muy responsable enfermera que intenta desarrollar su trabajo con tanta profesionalidad como empatía con sus pacientes. Un día después, en una de las primeras películas en la competencia de Can...",
+      "url": "https://asalallena.com.ar/festival-de-cine-frances-2026-caso-137/"
+    },
+    {
+      "id": "925fd8be608c",
+      "title": "Festival de cine francés 2026 | Programación",
+      "source": "A Sala Llena",
+      "date": "MIÉ 1 ABR 2026",
+      "date_iso": "2026-04-01T04:50:42",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Del 9 al 15 de abril se celebrará el Festival de cine francés en Cinépolis Recoleta. Programación diaria: Jueves 9 de abril 19:00hs. &#8211; Los colores del tiempo + Q&#38;%A (Cédric Klapisch) 21:40hs. &#8211; Por el bien de Adam (Laura Wandel) Viernes 10 de abril 16:30hs. &#8211; La divina Sarah...",
+      "url": "https://asalallena.com.ar/festival-de-cine-frances-2026-programacion/"
+    },
     {
       "id": "b5ec630c4749",
       "title": "[27] BAFICI | Programación",
@@ -552,54 +600,6 @@
       "cat": "ESTRENOS",
       "excerpt": "El productor luxemburgués explica que la misión social y política del cine documental es uno de los aspectos que le llevaron a dedicarse a este género",
       "url": "https://cineuropa.org/es/interview/490548/"
-    },
-    {
-      "id": "831dcb1e300d",
-      "title": "CPH:INDUSTRY da a conocer los ganadores de sus premios - CPH:DOX 2026 – CPH:DOX Industry/Premios",
-      "source": "Cineuropa",
-      "date": "VIE 20 MAR 2026",
-      "date_iso": "2026-03-20T11:30:30",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Proyectos de Francia, Marruecos, Estados Unidos, Polonia, Ucrania y más allá reciben más de 100.000 € en premios",
-      "url": "https://cineuropa.org/es/newsdetail/490614/"
-    },
-    {
-      "id": "45a12708f06c",
-      "title": "Crítica: Amarga Navidad - Películas / Críticas - España",
-      "source": "Cineuropa",
-      "date": "JUE 19 MAR 2026",
-      "date_iso": "2026-03-19T15:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Como en Dolor y gloria, Pedro Almodóvar echa mano de la autoficción para hablar en esta ocasión de duelo aplazado, vampírica inspiración artística y crisis profesional",
-      "url": "https://cineuropa.org/es/newsdetail/490553/"
-    },
-    {
-      "id": "1bc28088cdec",
-      "title": "No Good Men abre el FESCAAAL de Milán - Festivales / Premios - Italia",
-      "source": "Cineuropa",
-      "date": "JUE 19 MAR 2026",
-      "date_iso": "2026-03-19T15:05:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La comedia romántica política de la afgana Shahrbanoo Sadat inaugura la 35.ª edición del Festival del Cinema Africano, de Asia y Latinoamérica, que se celebrará del 20 al 29 de marzo",
-      "url": "https://cineuropa.org/es/newsdetail/490512/"
-    },
-    {
-      "id": "aaec713a2d62",
-      "title": "Entrevista: Anna Tóth • Productora, ULab - “Las películas deberían llegar a públicos más amplios, más allá del público de los festivales” - Emerging Producers 2026",
-      "source": "Cineuropa",
-      "date": "JUE 19 MAR 2026",
-      "date_iso": "2026-03-19T13:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La productora húngara explica por qué trabaja en el ámbito del documental y cómo percibe su conexión con la sociedad",
-      "url": "https://cineuropa.org/es/interview/490550/"
     }
   ],
   "releases": [
