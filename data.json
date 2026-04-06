@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-06T16:54:27.184261",
+  "last_updated": "2026-04-06T23:44:58.444044",
   "news": [
+    {
+      "id": "ada6ffb908ec",
+      "title": "Festival de cine francés 2026 | El Gran Arco",
+      "source": "A Sala Llena",
+      "date": "LUN 6 ABR 2026",
+      "date_iso": "2026-04-06T23:19:39",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Hay películas que filman contra un género, que demuelen cimientos para instalarse en las ruinas. El Gran Arco parece rehuir los mandatos de las películas de sobre arquitectura, de las que toma apenas estructuras elementales, reconocibles para cualquiera. Un arquitecto lucha para llevar a cabo un ...",
+      "url": "https://asalallena.com.ar/festival-de-cine-frances-2026-el-gran-arco/"
+    },
     {
       "id": "1c79362a557c",
       "title": "Se entregará en el Festival Internacional de Cine en Guadalajara",
@@ -588,18 +600,6 @@
       "cat": "PLATAFORMAS",
       "excerpt": "La producción cinematográfica gala retrocede menos de lo previsto, pero la menor implicación de Canal+ no se compensa con la aportación de las plataformas, que se estanca",
       "url": "https://cineuropa.org/es/newsdetail/490598/"
-    },
-    {
-      "id": "a4b88f46d7c1",
-      "title": "El Fondo Hubert Bals del IFFR anuncia su última ronda de apoyo a la producción - Producción / Financiación - Países Bajos",
-      "source": "Cineuropa",
-      "date": "VIE 20 MAR 2026",
-      "date_iso": "2026-03-20T15:32:57",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Ocho coproducciones han recibido 60.000 € a través del programa de apoyo HBF+Europe, entre ellas el nuevo proyecto de la premiada en Cannes Asmae El Moudir",
-      "url": "https://cineuropa.org/es/newsdetail/490619/"
     }
   ],
   "releases": [
