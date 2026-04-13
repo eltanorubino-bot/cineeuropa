@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T17:07:44.891239",
+  "last_updated": "2026-04-13T23:53:28.915866",
   "news": [
     {
       "id": "26e422f80afa",
@@ -12,6 +12,18 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/04/13/21753-toda-la-programacion-de-la-semana-de-la-critica-de-cannes-2026"
+    },
+    {
+      "id": "730d7ee0eec1",
+      "title": "Crítica de “Torrente Presidente”, film de Santiago Segura",
+      "source": "A Sala Llena",
+      "date": "LUN 13 ABR 2026",
+      "date_iso": "2026-04-13T14:50:49",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Para empezar, tengo que admitir que hasta la semana pasada no había visto ninguna de las películas que componen la saga de Torrente, dirigida y protagonizada por el español Santiago Segura. Aunque conocía el tono ácido y de humor negro de las películas por diversos clips, nunca me había interesad...",
+      "url": "https://asalallena.com.ar/critica-de-torrente-presidente-film-de-santiago-segura/"
     },
     {
       "id": "a07f225b90c4",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El responsable de las jornadas profesionales del Festival Series Mania, que se celebrarán en Lille del 24 al 26 de marzo, analiza la coyuntura de la industria de las series",
       "url": "https://cineuropa.org/es/interview/490574/"
-    },
-    {
-      "id": "087ad3668300",
-      "title": "#CANNES79 | Barbra Streisand recibirá la Palma de Oro de honor",
-      "source": "A Sala Llena",
-      "date": "DOM 22 MAR 2026",
-      "date_iso": "2026-03-22T15:29:24",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Barbra Streisand recibirá la Palma de Oro de honor en la próxima edición del Festival de Cannes. El festival iniciará el 12 de mayo próximo y su premiación será el 23 de mayo.\nLa entrada #CANNES79 | Barbra Streisand recibirá la Palma de Oro de honor se publicó primero en A Sala Llena.",
-      "url": "https://asalallena.com.ar/cannes79-barbra-streisand-recibira-la-palma-de-oro-de-honor/"
     }
   ],
   "releases": [
