@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-13T12:00:46.037214",
+  "last_updated": "2026-04-13T17:07:44.891239",
   "news": [
+    {
+      "id": "26e422f80afa",
+      "title": "Una selección con mayoría de directoras y fuerte impronta europea",
+      "source": "Escribiendo Cine",
+      "date": "LUN 13 ABR 2026",
+      "date_iso": "2026-04-13T17:07:41.966608",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/04/13/21753-toda-la-programacion-de-la-semana-de-la-critica-de-cannes-2026"
+    },
     {
       "id": "a07f225b90c4",
       "title": "El guionista de \"Los colores del tiempo\" en el Festival de Cine Francés",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Barbra Streisand recibirá la Palma de Oro de honor en la próxima edición del Festival de Cannes. El festival iniciará el 12 de mayo próximo y su premiación será el 23 de mayo.\nLa entrada #CANNES79 | Barbra Streisand recibirá la Palma de Oro de honor se publicó primero en A Sala Llena.",
       "url": "https://asalallena.com.ar/cannes79-barbra-streisand-recibira-la-palma-de-oro-de-honor/"
-    },
-    {
-      "id": "859d2a115ff3",
-      "title": "#CANNES79 | Peter Jackson recibirá la Palma de Oro honorífica",
-      "source": "A Sala Llena",
-      "date": "DOM 22 MAR 2026",
-      "date_iso": "2026-03-22T15:27:25",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Peter Jackson recibirá la Palma de Oro honorífica en la próxima edición del Festival de Cannes. El festival iniciará el 12 de mayo próximo y su premiación será el 23 de mayo.\nLa entrada #CANNES79 | Peter Jackson recibirá la Palma de Oro honorífica se publicó primero en A Sala Llena.",
-      "url": "https://asalallena.com.ar/cannes79-peter-jackson-recibira-la-palma-de-oro-honorifica/"
     }
   ],
   "releases": [
