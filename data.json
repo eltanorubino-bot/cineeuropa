@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-04-14T11:55:49.694066",
+  "last_updated": "2026-04-14T17:15:06.105456",
   "news": [
+    {
+      "id": "00f698b6bef8",
+      "title": "#CANNES79 | Se anunció la selección de ACID",
+      "source": "A Sala Llena",
+      "date": "MAR 14 ABR 2026",
+      "date_iso": "2026-04-14T12:48:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "PROGRAMA A Secret Hear, de Tom Fontenille Blaise, de Dimitri Planchon, Jean-Paul Guigue Born Under a Bad Star, de Lola Cambourieu, Yann Berlier Detention, de Guillaume Massart Dans la gueule de l&#8217;ogre, de Mahsa Karampour Living Twice, Dyinf Thrice, de Karim Lakzadeh Promised Spaces, de Ivan...",
+      "url": "https://asalallena.com.ar/cannes79-se-anuncio-la-seleccion-de-acid/"
+    },
+    {
+      "id": "aafcfb2ce36f",
+      "title": "#CANNES79 | La Quincena de cineastas anunció su selección",
+      "source": "A Sala Llena",
+      "date": "MAR 14 ABR 2026",
+      "date_iso": "2026-04-14T12:33:28",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "LARGOMETRAJES Butterfly Jam, de Kantemir Balagov FILM DE APERTURA 9 Temples to Heaven, de Sompot Chidgasompongse Atonement, de Reed Van Dyk Carmen, L&#8217;oiseau rebelle, de Sébastien Laudenbach Clarissa, de Arie Esiri, Chuko Esiri La muerte no tiene dueño, de Jorge Thielen Armand Dora, de July ...",
+      "url": "https://asalallena.com.ar/cannes79-la-quincena-de-cineastas-anuncio-su-seleccion/"
+    },
     {
       "id": "26e422f80afa",
       "title": "Una selección con mayoría de directoras y fuerte impronta europea",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El productor italiano explica por qué elige proyectos que mantienen una clara dimensión social y cultural",
       "url": "https://cineuropa.org/es/interview/490621/"
-    },
-    {
-      "id": "bdeb9bf291c1",
-      "title": "El Festival Internacional de Cine de Sofía otorga su máximo galardón a Broken Voices - Sofía 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "LUN 23 MAR 2026",
-      "date_iso": "2026-03-23T11:07:28",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La película de Ondřej Provazník se ha alzado con el premio Sofia City of Film, mientras que Ralitza Petrova se hizo con el de mejor dirección por Lust",
-      "url": "https://cineuropa.org/es/newsdetail/490645/"
-    },
-    {
-      "id": "29e3df66858c",
-      "title": "El CPH:DOX aborda el cambiante ecosistema del documental - CPH:DOX 2026 – CPH:DOX Industry",
-      "source": "Cineuropa",
-      "date": "LUN 23 MAR 2026",
-      "date_iso": "2026-03-23T10:02:18",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Varios productores, difusores y financiadores privados de Europa y Estados Unidos debatieron posibles nuevas combinaciones de modelos para la financiación y la distribución de documentales",
-      "url": "https://cineuropa.org/es/newsdetail/490639/"
     }
   ],
   "releases": [
