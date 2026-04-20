@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-20T17:08:28.463494",
+  "last_updated": "2026-04-20T23:53:26.434288",
   "news": [
+    {
+      "id": "f84eb6778be0",
+      "title": "[27] BAFICI | Crítica de “Bajo tus pies”, de Cristian Bernard",
+      "source": "A Sala Llena",
+      "date": "LUN 20 ABR 2026",
+      "date_iso": "2026-04-20T21:22:53",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Gran parte de las historias de terror tienen como base los cuentos clásicos infantiles. Cualquiera que les venga a la mente funciona como ejemplo para identificar una esencia intimista y cruda. De hecho, la mayoría son historias de madurez, donde comprendemos que el mundo es un lugar oscuro e imp...",
+      "url": "https://asalallena.com.ar/27-bafici-critica-de-bajo-tus-pies-de-cristian-bernard/"
+    },
     {
       "id": "ae6cd819f008",
       "title": "[27] BAFICI | Crítica de “Nuestros días en mi memoria. Una película sobre Estelares”, de Gonza López",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "Es menester iniciar esta nota señalando que Nuremberg no es una nueva edición de un film muy exitoso del año 1961, dirigido por Stanley Kramer y con brillantes interpretaciones de Burt Lancaster, Spencer Tracy, Maximilian Shell y Montgomery Clift, con un total de once nominaciones al Oscar, dos d...",
       "url": "https://asalallena.com.ar/nuremberg-el-juicio-del-siglo-nuremberg/"
-    },
-    {
-      "id": "5ab4dc8ee858",
-      "title": "Crítica: Ceci n'est pas un film français - CPH:DOX 2026",
-      "source": "Cineuropa",
-      "date": "LUN 23 MAR 2026",
-      "date_iso": "2026-03-23T16:43:03",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Tom Adjibi transforma un documental DIY sobre actores racializados en una aguda y autoconsciente reflexión sobre la identidad y la representación en la industria cinematográfica europea",
-      "url": "https://cineuropa.org/es/newsdetail/490656/"
     }
   ],
   "releases": [
