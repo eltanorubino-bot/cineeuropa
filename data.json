@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-23T17:23:34.888208",
+  "last_updated": "2026-04-23T23:54:33.358747",
   "news": [
+    {
+      "id": "c24434eebde1",
+      "title": "Les Roches rouges se suma a la Quincena de Cannes - Cannes 2026 – Quincena de los Cineastas",
+      "source": "Cineuropa",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T14:09:49",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La nueva película de Bruno Dumont se presentará como proyección especial en la sección paralela",
+      "url": "https://cineuropa.org/es/newsdetail/490622/"
+    },
     {
       "id": "973d2f41da41",
       "title": "Europa Distribution analiza las vías de comunicación eficaces y la colaboración con los exhibidores en Sofía - Sofía 2026 – Sofia Meetings",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/03/27/21654-todos-los-ganadores-de-series-mania-2026"
-    },
-    {
-      "id": "d192437d2b58",
-      "title": "El Consejo de Europa adopta una importante convención para la coproducción de series - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "VIE 27 MAR 2026",
-      "date_iso": "2026-03-27T15:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Nueve países firman el primer marco normativo internacional para la coproducción de series independientes, que amplía la colaboración internacional y aclara los derechos, en el Séries Mania Forum",
-      "url": "https://cineuropa.org/es/newsdetail/486543/"
     }
   ],
   "releases": [
