@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-04-23T11:58:04.516378",
+  "last_updated": "2026-04-23T17:23:34.888208",
   "news": [
+    {
+      "id": "973d2f41da41",
+      "title": "Europa Distribution analiza las vías de comunicación eficaces y la colaboración con los exhibidores en Sofía - Sofía 2026 – Sofia Meetings",
+      "source": "Cineuropa",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T13:39:32",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La sesión de trabajo celebrada en el marco de las Sofia Meetings ha estado marcada por un debate sobre el fortalecimiento de las redes y las alianzas dentro de la industria cinematográfica europea",
+      "url": "https://cineuropa.org/es/newsdetail/490621/"
+    },
+    {
+      "id": "aaed1aa0133a",
+      "title": "El programa Cannes Makers del Marché du Film da a conocer la lista de participantes para 2026 - Cannes 2026 – Marché du Film",
+      "source": "Cineuropa",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T11:45:38",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La cuarta edición de esta iniciativa de formación y tutoría dirigida a profesionales del cine menores de 30 años hará aún más hincapié en las ventas, la distribución y la colaboración internacional",
+      "url": "https://cineuropa.org/es/newsdetail/490612/"
+    },
+    {
+      "id": "aa264fffb709",
+      "title": "Finaliza el rodaje de To Make Ends Meat, de Luna Carmoon, a tiempo para la presentación de la película en Cannes - Producción / Financiación - Reino Unido/Francia",
+      "source": "Cineuropa",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T11:20:09",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La prometedora directora británica acaba de terminar el rodaje de su segundo largometraje, producido por Goodfellas e interpretado por Naomi Ackie, Alison Oliver y Éanna Hardwicke",
+      "url": "https://cineuropa.org/es/newsdetail/490611/"
+    },
+    {
+      "id": "01108211ffb4",
+      "title": "La 8.ª edición de Fantastic 7 presenta propuestas audaces - Cannes 2026 – Marché du Film",
+      "source": "Cineuropa",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T10:48:55",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La selección se adentra en el terreno de la histeria de los cultos, la supervivencia postapocalíptica y el folclore sombrío, con 7 proyectos respaldados por siete grandes festivales de todo el mundo",
+      "url": "https://cineuropa.org/es/newsdetail/490610/"
+    },
+    {
+      "id": "437fe266a07c",
+      "title": "VdR-Industry concede más de 80.000€ en premios a 12 proyectos - Visions du Réel 2026 – VdR-Industry/Premios",
+      "source": "Cineuropa",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T09:52:50",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Uganda, de Daniel Mann, se ha alzado con el premio Eurimages al desarrollo de la coproducción; Job 1:21, de Samuel Suffren, ha obtenido el premio Visions Sud Est",
+      "url": "https://cineuropa.org/es/newsdetail/490607/"
+    },
+    {
+      "id": "258079b51c99",
+      "title": "Ralph Fiennes y Viggo Mortensen unen fuerzas para Embers, la nueva película de István Szabó - Producción / Financiación - Canadá/Hungría/Reino Unido/Alemania",
+      "source": "Cineuropa",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T08:56:58",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La adaptación de la novela clásica de Sándor Márai, que se está rodando actualmente en Budapest, constituye una coproducción europea de gran repercusión",
+      "url": "https://cineuropa.org/es/newsdetail/490606/"
+    },
+    {
+      "id": "2a34a389c643",
+      "title": "16 nuevas películas para la selección oficial de Cannes - Cannes 2026",
+      "source": "Cineuropa",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T08:24:13",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "James Gray se suma a la competición; Konstantina Kotzamani, Judith Godrèche y Laetitia Masson llegan a Un Certain Regard; Christophe Honoré, Tiago Guedes y Maria Martínez Bayona en Cannes Première",
+      "url": "https://cineuropa.org/es/newsdetail/490605/"
+    },
     {
       "id": "023e34b980a5",
       "title": "[27] BAFICI | Crítica de “Eight Bridges”, de James Benning",
@@ -516,90 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Nueve países firman el primer marco normativo internacional para la coproducción de series independientes, que amplía la colaboración internacional y aclara los derechos, en el Séries Mania Forum",
       "url": "https://cineuropa.org/es/newsdetail/486543/"
-    },
-    {
-      "id": "a04356da4f12",
-      "title": "Edoardo Gabriellini rueda La città dei vivi, basada en la novela de Nicola Lagioia La ciudad de los vivos - Producción / Financiación - Italia",
-      "source": "Cineuropa",
-      "date": "VIE 27 MAR 2026",
-      "date_iso": "2026-03-27T13:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La película, escrita por los hermanos D’Innocenzo, está protagonizada por Valerio Mastandrea y Emanuele Maria Di Stefano y producida por Eagle Pictures, Cinemaundici y Lungta Film con HBO Max",
-      "url": "https://cineuropa.org/es/newsdetail/490911/"
-    },
-    {
-      "id": "18c12e4f070f",
-      "title": "Edoardo Gabbriellini rueda La città dei vivi, basada en la novela de Nicola Lagioia La ciudad de los vivos - Producción / Financiación - Italia",
-      "source": "Cineuropa",
-      "date": "VIE 27 MAR 2026",
-      "date_iso": "2026-03-27T13:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La película, escrita por los hermanos D’Innocenzo, está protagonizada por Valerio Mastandrea y Emanuele Maria Di Stefano y producida por Eagle Pictures, Cinemaundici y Lungta Film con HBO Max",
-      "url": "https://cineuropa.org/es/newsdetail/490911/"
-    },
-    {
-      "id": "b0f67c8b9522",
-      "title": "Entrevista: Synnøve Hørsdal • Productora, Maipo Film - \"Las producciones independientes contribuyen a mantener el diálogo y la comprensión de nuestra sociedad\" - Foco productores independientes/Series Mania 2026",
-      "source": "Cineuropa",
-      "date": "JUE 26 MAR 2026",
-      "date_iso": "2026-03-26T16:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La productora noruega arroja luz sobre la coyuntura de los productores independientes que trabajan en las series, su visión del oficio y los valores que habrá que defender de cara al futuro",
-      "url": "https://cineuropa.org/es/interview/490838/"
-    },
-    {
-      "id": "920d24e1ebff",
-      "title": "Visions du Réel anuncia una nutrida selección de películas procedentes de 75 países diferentes - Visions du Réel 2026",
-      "source": "Cineuropa",
-      "date": "JUE 26 MAR 2026",
-      "date_iso": "2026-03-26T16:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "Con 128 películas, 83 de ellas en estreno mundial, el festival ha preparado una programación muy completa con 36 óperas primas",
-      "url": "https://cineuropa.org/es/newsdetail/490826/"
-    },
-    {
-      "id": "b2e9cff1338b",
-      "title": "Critica: Altas capacidades - Málaga 2026",
-      "source": "Cineuropa",
-      "date": "JUE 26 MAR 2026",
-      "date_iso": "2026-03-26T15:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Víctor García León se ríe de y con las contradicciones de las paternidades modernas, capaces de pisotear sus principios éticos para ascender socialmente",
-      "url": "https://cineuropa.org/es/newsdetail/490831/"
-    },
-    {
-      "id": "e744d961db18",
-      "title": "Disney+ busca producciones locales para un público local - Séries Mania 2026 - Séries Mania Forum",
-      "source": "Cineuropa",
-      "date": "JUE 26 MAR 2026",
-      "date_iso": "2026-03-26T15:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "Angela Jain, la nueva responsable de las producciones originales de Europa, Oriente Medio y África, explicó las nuevas ambiciones europeas de la plataforma",
-      "url": "https://cineuropa.org/es/newsdetail/490821/"
-    },
-    {
-      "id": "50e10bd190e1",
-      "title": "La Federación de Guionistas de Europa lanza la voz de alarma ante la ofensiva de la extrema derecha para controlar la narrativa - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "JUE 26 MAR 2026",
-      "date_iso": "2026-03-26T13:14:41",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La organización acaba de publicar un informe titulado “El derecho a escribir: los guionistas y las crecientes amenazas a la libertad de expresión artística en Europa”",
-      "url": "https://cineuropa.org/es/newsdetail/490840/"
     }
   ],
   "releases": [
