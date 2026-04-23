@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-22T23:53:08.976549",
+  "last_updated": "2026-04-23T11:58:04.516378",
   "news": [
+    {
+      "id": "023e34b980a5",
+      "title": "[27] BAFICI | Crítica de “Eight Bridges”, de James Benning",
+      "source": "A Sala Llena",
+      "date": "MIÉ 22 ABR 2026",
+      "date_iso": "2026-04-22T18:56:12",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "¿QUÉ ES UN PUENTE? Hace ya varios años que suele escucharse en diversos ámbitos de la vida la idea de puente. Un concepto que sirve para graficar la unión de dos puntos, por lo general distintos, a veces opuestos. Se habla de tender puentes para posibilitar conversaciones con el otro, con alguien...",
+      "url": "https://asalallena.com.ar/27-bafici-critica-de-eight-bridges-de-james-benning/"
+    },
     {
       "id": "f7495e2fd4d4",
       "title": "Festival de Cannes 2026",
@@ -12,6 +24,78 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/04/22/21888-semaine-de-la-critique-2026-payal-kapadia-presidira-el-jurado-de-la-65-edicion"
+    },
+    {
+      "id": "88db2c5fcec5",
+      "title": "Payal Kapadia presidirá el jurado de la Semana de la Crítica en Cannes - Cannes 2026 – Semana de la Crítica",
+      "source": "Cineuropa",
+      "date": "MIÉ 22 ABR 2026",
+      "date_iso": "2026-04-22T12:30:54",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La directora india será la presidenta del jurado de la sección paralela de Cannes el próximo mes",
+      "url": "https://cineuropa.org/es/newsdetail/490601/"
+    },
+    {
+      "id": "baeba9394e7e",
+      "title": "El Festival de Bellaria anuncia su programación - Festivales / Premios - Italia",
+      "source": "Cineuropa",
+      "date": "MIÉ 22 ABR 2026",
+      "date_iso": "2026-04-22T12:07:30",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Gaspar Noé, Angela Schanelec, Tizza Covi y Rainer Frimmel figuran entre los invitados de la 44.ª edición del festival, que se celebrará del 6 al 10 de mayo",
+      "url": "https://cineuropa.org/es/newsdetail/490600/"
+    },
+    {
+      "id": "8272ab7dbf3f",
+      "title": "Entrevista: Afef Ben Mahmoud • Directora, Gabès Cinema Fen - “No es solo un festival de cine; es una celebración de la imagen en todas sus formas” - /Túnez",
+      "source": "Cineuropa",
+      "date": "MIÉ 22 ABR 2026",
+      "date_iso": "2026-04-22T10:02:07",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La reconocida actriz y cineasta nos habla del encuentro celebrado en la ciudad costera tunecina de Gabès, tras su nombramiento como nueva directora",
+      "url": "https://cineuropa.org/es/interview/490597/"
+    },
+    {
+      "id": "b65750fcc7c2",
+      "title": "Haciendo amigos, de David Marqués, lista para su estreno - Producción / Financiación - España/México",
+      "source": "Cineuropa",
+      "date": "MIÉ 22 ABR 2026",
+      "date_iso": "2026-04-22T08:55:52",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "Antonio Resines y Quim Gutiérrez encarnan a dos atracadores a la fuga en la comedia que apela a la empatía y que ha coproducido Santiago Segura a través de Bowfinger International Pictures",
+      "url": "https://cineuropa.org/es/newsdetail/490595/"
+    },
+    {
+      "id": "0dc7b1468a2e",
+      "title": "El Filmfest Dresden anuncia los cortometrajes ganadores de este año - Cortometrajes - Alemania",
+      "source": "Cineuropa",
+      "date": "MIÉ 22 ABR 2026",
+      "date_iso": "2026-04-22T08:25:54",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La 38.ª edición del encuentro alemán ha entregado un total de diez Caballeros de Oro y siete premios especiales por un valor total de 72.000 €",
+      "url": "https://cineuropa.org/es/newsdetail/490593/"
+    },
+    {
+      "id": "e5c269e7ea38",
+      "title": "Cannes anuncia los cortometrajes que competirán por la Palma de Oro, así como los seleccionados en Cinef - Cannes 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 22 ABR 2026",
+      "date_iso": "2026-04-22T07:25:31",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Diez cortometrajes participarán en la competición de la Croisette en mayo, mientras que 19 títulos formarán parte de la selección Cinef",
+      "url": "https://cineuropa.org/es/newsdetail/490592/"
     },
     {
       "id": "fad30a27e997",
@@ -26,6 +110,18 @@
       "url": "https://escribiendocine.com/noticias/2026/04/21/21870-para-los-contrincantes-de-federico-luis-competira-por-la-palma-de-oro-al-mejor-cortometraje-en-el-festival-de-cannes"
     },
     {
+      "id": "38249e560fce",
+      "title": "Un encuentro de industria en Visions du Réel analiza las coproducciones documentales entre Europa y Estados Unidos - Visions du Réel 2026 – VdR-Industry",
+      "source": "Cineuropa",
+      "date": "MAR 21 ABR 2026",
+      "date_iso": "2026-04-21T20:07:28",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Estas coproducciones son menos una cuestión de viabilidad que de saber desenvolverse con éxito, ya que los obstáculos legales obligan a los productores a recurrir a estrategias improvisadas",
+      "url": "https://cineuropa.org/es/newsdetail/490590/"
+    },
+    {
       "id": "c65ea57cdaf4",
       "title": "[27] BAFICI | Crítica de “Ese niño de la fotografía. Carlos Saura”, de Anna Saura",
       "source": "A Sala Llena",
@@ -36,6 +132,18 @@
       "cat": "CRÍTICAS",
       "excerpt": "No es exagerado afirmar que Carlos Saura fue uno de los directores más audaces del cine español. También fue muy abierto a la hora de hablar de su vida y de su búsqueda creativa. Aun así, el documental Ese niño de la fotografía. Carlos Saura consigue un nivel de profundidad inaudito, y con la dir...",
       "url": "https://asalallena.com.ar/27-bafici-critica-de-ese-nino-de-la-fotografia-carlos-saura-de-anna-saura/"
+    },
+    {
+      "id": "5a4e513a3e9e",
+      "title": "Europa Distribution organizará su cuarto taller en el Focus Asia de Udine - Industria / Mercado - Italia",
+      "source": "Cineuropa",
+      "date": "MAR 21 ABR 2026",
+      "date_iso": "2026-04-21T15:26:17",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "La red presentará los estudios de caso de los estrenos de No hay otra opción, de Park Chan-wook, y Renoir, de Chie Hayakawa, así como el reestreno de Yi Yi, de Edward Yang",
+      "url": "https://cineuropa.org/es/newsdetail/490567/"
     },
     {
       "id": "b77fb9d77526",
@@ -50,6 +158,18 @@
       "url": "https://asalallena.com.ar/critica-de-el-mago-del-kremlin-le-mage-du-kremlin-de-olivier-assayas/"
     },
     {
+      "id": "bc3ed08d5f4b",
+      "title": "El Annecy Animation Showcase vuelve a Cannes con cinco trabajos en desarrollo - Cannes 2026 – Marché du Film",
+      "source": "Cineuropa",
+      "date": "MAR 21 ABR 2026",
+      "date_iso": "2026-04-21T13:54:12",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La plataforma organizada por el Marché du Film ofrece un primer vistazo a futuros largometrajes de animación que buscan agentes de ventas, distribución y presencia en festivales",
+      "url": "https://cineuropa.org/es/newsdetail/490589/"
+    },
+    {
       "id": "5423ac2785db",
       "title": "Concurso entradas EL BUFÓN 2",
       "source": "A Sala Llena",
@@ -60,6 +180,18 @@
       "cat": "ESTRENOS",
       "excerpt": "BF Argentina y ASL te invitan a participar por entradas para asistir a ver el estreno de EL BUFÓN 2, film dirigido por Colin Krawchuk. Para participar por un pase válido para dos personas debes cumplir los siguientes requisitos: Compartir la publicación en alguna de tus redes (FB, IG o X). Dejar ...",
       "url": "https://asalallena.com.ar/concurso-entradas-el-bufon-2/"
+    },
+    {
+      "id": "45b136815b98",
+      "title": "El festival de Las Palmas de Gran Canarias celebra su 25 aniversario - Las Palmas 2026",
+      "source": "Cineuropa",
+      "date": "MAR 21 ABR 2026",
+      "date_iso": "2026-04-21T10:58:14",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Entre los días 23 de abril y 3 de mayo se podrá disfrutar, en sus diversas secciones, de un centenar de títulos: desde el cine más moderno y vanguardista a la recuperación de clásicos",
+      "url": "https://cineuropa.org/es/newsdetail/490583/"
     },
     {
       "id": "f80f448fd56d",
@@ -468,138 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La organización acaba de publicar un informe titulado “El derecho a escribir: los guionistas y las crecientes amenazas a la libertad de expresión artística en Europa”",
       "url": "https://cineuropa.org/es/newsdetail/490840/"
-    },
-    {
-      "id": "740967ed39a0",
-      "title": "Los radiodifusores europeos instan a la UE a endurecer las normas para los gigantes tecnológicos que rigen las smart TV y los asistentes virtuales - Instituciones / Legislación - Europa",
-      "source": "Cineuropa",
-      "date": "JUE 26 MAR 2026",
-      "date_iso": "2026-03-26T10:49:24",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La creciente influencia de los dispositivos conectados sobre la forma en que el público accede a contenidos audiovisuales está desencadenando nuevas presiones regulatorias en Bruselas",
-      "url": "https://cineuropa.org/es/newsdetail/490823/"
-    },
-    {
-      "id": "c618162f13df",
-      "title": "B wie Bartleby de Angela Summereder se alza con el premio a mejor largometraje de ficción en la Diagonale - Diagonale 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "JUE 26 MAR 2026",
-      "date_iso": "2026-03-26T10:27:03",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El debut en el largometraje de Tolga Karaaslan, Baba, What’s Your Plan?, se impone en la sección documental del certamen de Graz",
-      "url": "https://cineuropa.org/es/newsdetail/490822/"
-    },
-    {
-      "id": "a1012250703c",
-      "title": "Crítica: Vita mia - BIF&ST 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 25 MAR 2026",
-      "date_iso": "2026-03-25T15:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Edoardo Winspeare firma un fresco europeo entre el Salento y Transilvania, sostenido por las interpretaciones de sus dos protagonistas más que por su ambicioso guion",
-      "url": "https://cineuropa.org/es/newsdetail/490764/"
-    },
-    {
-      "id": "89e9bb3e739f",
-      "title": "Crítica: El mapa para tocarte - Málaga 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 25 MAR 2026",
-      "date_iso": "2026-03-25T15:25:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "El documental de Mercedes Afonso es un sensible, optimista y emotivo retrato de la enfermedad, que transparenta profundo amor a su hijo Airam, aquejado de autismo",
-      "url": "https://cineuropa.org/es/newsdetail/490730/"
-    },
-    {
-      "id": "e9f581204194",
-      "title": "Estreno mundial de \"No arreglen ni limpien mi habitación, a mí me gusta como está\" de Ignacio Ceroi",
-      "source": "Escribiendo Cine",
-      "date": "MIÉ 25 MAR 2026",
-      "date_iso": "2026-03-25T14:46:43.866048",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "ESTRENOS",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/03/25/21641-toda-la-programacion-de-isions-du-reel-2026"
-    },
-    {
-      "id": "4c8d99c17b73",
-      "title": "HBO Max amplía su red creativa en Europa - Séries Mania 2026 - Séries Mania Forum",
-      "source": "Cineuropa",
-      "date": "MIÉ 25 MAR 2026",
-      "date_iso": "2026-03-25T13:05:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "Sarah Aubrey, responsable de contenidos originales de la plataforma, apuesta en España por Domingo Corral y el dúo formado por Alberto Rodríguez y Rafael Cobos, y en Alemania por los creadores de Dark",
-      "url": "https://cineuropa.org/es/newsdetail/490759/"
-    },
-    {
-      "id": "0350c8b6f1d3",
-      "title": "Entrevista: Julie Belgrado • Directora, Federation of European Screen Directors - “La libertad artística está ahora en el centro de los retos a los que se enfrentan los directores europeos” - European Networks",
-      "source": "Cineuropa",
-      "date": "MIÉ 25 MAR 2026",
-      "date_iso": "2026-03-25T12:00:25",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La responsable de FERA reflexiona sobre su transición del sector editorial al ámbito audiovisual, sobre los retos vinculados a la IA y sobre las incertidumbres en torno al futuro programa Agora",
-      "url": "https://cineuropa.org/es/interview/490761/"
-    },
-    {
-      "id": "a241d5b758a0",
-      "title": "Entrevista: Julie Belgrado • Directora, Federation of European Screen Directors - “La libertad artística está ahora en el centro de los retos a los que se enfrentan los directores europeos” - Redes cinematográficas europeas",
-      "source": "Cineuropa",
-      "date": "MIÉ 25 MAR 2026",
-      "date_iso": "2026-03-25T12:00:25",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La responsable de FERA reflexiona sobre su transición del sector editorial al ámbito audiovisual, sobre los retos vinculados a la IA y sobre las incertidumbres en torno al futuro programa Agora",
-      "url": "https://cineuropa.org/es/interview/490761/"
-    },
-    {
-      "id": "f6d5767860cb",
-      "title": "Red Pants, premiada en las Co-Pro Pitching Sessions del Séries Mania Forum - Séries Mania 2026 - Séries Mania Forum",
-      "source": "Cineuropa",
-      "date": "MIÉ 25 MAR 2026",
-      "date_iso": "2026-03-25T11:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El proyecto kirguís escrito por Tilek Cherikov y producido por Studio Oymo fue distinguido al cierre de las sesiones de pitching y la serie francesa R91, en el Buyers Upfront",
-      "url": "https://cineuropa.org/es/newsdetail/490717/"
-    },
-    {
-      "id": "dec1d6fb4a83",
-      "title": "El sector audiovisual europeo alcanza los 142.000 millones de euros en ingresos, mientras el streaming transforma los hábitos de visionado - Series Mania 2026 - Séries Mania Forum",
-      "source": "Cineuropa",
-      "date": "MIÉ 25 MAR 2026",
-      "date_iso": "2026-03-25T09:49:46",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "Un informe del Observatorio Europeo del Audiovisual destaca una producción cinematográfica récord y el creciente papel de las plataformas globales en la financiación de originales europeos",
-      "url": "https://cineuropa.org/es/newsdetail/490720/"
-    },
-    {
-      "id": "6e49c3dd3bbe",
-      "title": "Eurimages respalda 32 coproducciones - Producción / Financiación - Europa",
-      "source": "Cineuropa",
-      "date": "MAR 24 MAR 2026",
-      "date_iso": "2026-03-24T16:17:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Las nuevas películas de Justine Triet, Mia Hansen-Løve, Bertrand Bonello, Grimur Hakonarson y el dúo formado por Cristian Mungiu y Ioana Maria Uricaru figuran entre las seleccionadas",
-      "url": "https://cineuropa.org/es/newsdetail/490687/"
     }
   ],
   "releases": [
