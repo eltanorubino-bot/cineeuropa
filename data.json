@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-04-23T23:54:33.358747",
+  "last_updated": "2026-04-24T11:55:18.842689",
   "news": [
+    {
+      "id": "8d28f4a62f16",
+      "title": "[27] BAFICI | Sobre la retrospectiva de Györgi Pálfi",
+      "source": "A Sala Llena",
+      "date": "VIE 24 ABR 2026",
+      "date_iso": "2026-04-24T04:47:04",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+      "cat": "ARGENTINA",
+      "excerpt": "DESCUBRIR A UN REALIZADOR ECLÉCTICO  Nacido en Hungría en 1974, sus primeras dos películas, muy disimiles, una característica que mantendrá a lo largo de toda su filmografía, permitieron su descubrimiento mundial. Hukkle (2002), según nos explicara su realizador, es un término inexistente, que po...",
+      "url": "https://asalallena.com.ar/27-bafici-sobre-la-retrospectiva-de-gyorgi-palfi/"
+    },
+    {
+      "id": "943181c9ec37",
+      "title": "[27] BAFICI | Crítica de “CIN3FILI4”, de Raúl Perrone",
+      "source": "A Sala Llena",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T20:24:54",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "ITUZAINGÓ MON AMOUR ¿Qué habría pasado si François Truffaut, Jean-Luc Godard o Anna Karina hubiesen nacido en Ituzaingó? Probablemente habrían trabajado en una película de Raúl Perrone. Más precisamente en una como CIN3 FILI4 (2026), una película minimalista en claro tributo a la nouvelle vague y...",
+      "url": "https://asalallena.com.ar/27-bafici-critica-de-cin3fili4-de-raul-perrone/"
+    },
     {
       "id": "c24434eebde1",
       "title": "Les Roches rouges se suma a la Quincena de Cannes - Cannes 2026 – Quincena de los Cineastas",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "LA PRESENCIA DE LAS PERSONAS QUE SE VAN Un fastasma a su servicio es la ópera prima en formato largometraje del cineasta tailandés Ratchapoom Boonbunchachoke. Galardonada con el premio de la Semana de la Crítica en septuagésimo octavo Festival de Cannes y con el de mejor guion en el Festival de S...",
       "url": "https://asalallena.com.ar/un-fantasma-a-su-servicio-a-useful-ghost/"
-    },
-    {
-      "id": "e72cc8515f06",
-      "title": "El francés \"Ya Hanouni\" ganó la Competencia Internacional",
-      "source": "Escribiendo Cine",
-      "date": "LUN 30 MAR 2026",
-      "date_iso": "2026-03-30T00:07:14.645969",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/03/29/21660-todos-los-ganadores-del-festival-internacional-de-cine-y-multimedia--fecimu-2026"
-    },
-    {
-      "id": "3d742fd14236",
-      "title": "El drama LGBTIQ+ \"Proud\" se lleva los premios principales",
-      "source": "Escribiendo Cine",
-      "date": "VIE 27 MAR 2026",
-      "date_iso": "2026-03-27T23:56:20.453136",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/03/27/21654-todos-los-ganadores-de-series-mania-2026"
     }
   ],
   "releases": [
