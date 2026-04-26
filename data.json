@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-04-25T23:48:28.840959",
+  "last_updated": "2026-04-26T11:37:51.819068",
   "news": [
+    {
+      "id": "e9fb53ea0751",
+      "title": "Se estrena el 30 de abril tras su paso por el BAFICI",
+      "source": "Escribiendo Cine",
+      "date": "DOM 26 ABR 2026",
+      "date_iso": "2026-04-26T11:37:50.184426",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "ESTRENOS",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/04/25/21984-toia-bonino-y-marcos-joubert-sobre-plata-o-mierda-una-pelicula-filmada-desde-la-carcel"
+    },
+    {
+      "id": "a1a1d93c9993",
+      "title": "[27] BAFICI | Todos los premios",
+      "source": "A Sala Llena",
+      "date": "DOM 26 ABR 2026",
+      "date_iso": "2026-04-26T01:32:52",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
+      "cat": "ARGENTINA",
+      "excerpt": "GRAN PREMIO CIUDAD DE BUENOS AIRES Los vencedores, de Pablo Aparo &#160; PREMIO DEL PÚBLICO AL MEJOR LARGOMETRAJE ARGENTINO Machado, de Julián Tagle &#160; PREMIOS BAFICI A LA TRAYECTORIA Raúl Perrone Ana Poliak &#160; PREMIOS OFICIALES COMPETENCIA OFICIAL ARGENTINA GRAN PREMIO Plata o mierda, de...",
+      "url": "https://asalallena.com.ar/27-bafici-todos-los-premios/"
+    },
     {
       "id": "33a5aa9dd89d",
       "title": "[27] BAFICI | Crítica de “El tren fluvial”, de Lorenzo Ferro y Lucas Vignale",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Hay películas que filman contra un género, que demuelen cimientos para instalarse en las ruinas. El Gran Arco parece rehuir los mandatos de las películas de sobre arquitectura, de las que toma apenas estructuras elementales, reconocibles para cualquiera. Un arquitecto lucha para llevar a cabo un ...",
       "url": "https://asalallena.com.ar/festival-de-cine-frances-2026-el-gran-arco/"
-    },
-    {
-      "id": "1c79362a557c",
-      "title": "Se entregará en el Festival Internacional de Cine en Guadalajara",
-      "source": "Escribiendo Cine",
-      "date": "DOM 5 ABR 2026",
-      "date_iso": "2026-04-05T16:41:01.992815",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/04/05/21698-todos-los-nominados-al-premio-de-la-critica-latinoamericana-al-cine-europeo"
-    },
-    {
-      "id": "1031e42f8846",
-      "title": "79 Festival de Cannes",
-      "source": "Escribiendo Cine",
-      "date": "JUE 2 ABR 2026",
-      "date_iso": "2026-04-02T18:10:24.665645",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/04/02/21687-propeller-one-way-night-coach-de-john-travolta-ingresa-a-la-seleccion-oficial-de-cannes-2026"
     }
   ],
   "releases": [
