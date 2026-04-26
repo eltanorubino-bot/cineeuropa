@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T11:37:51.819068",
+  "last_updated": "2026-04-26T16:50:26.118747",
   "news": [
     {
       "id": "e9fb53ea0751",
@@ -36,6 +36,18 @@
       "cat": "CRÍTICAS",
       "excerpt": "Estábamos ya muy lejos de los bronces, los mármoles y los floreros pintados “al gusto de la familia” en los cementerios municipales. Todo aquello quedaba atrás, y el sueño del viejo tren casi fluvial nos envolvía. Francisco Madariaga Los argentinos Lorenzo Ferro (El ángel, Simón de la montaña) y ...",
       "url": "https://asalallena.com.ar/27-bafici-critica-de-el-tren-fluvial-de-lorenzo-ferro-y-lucas-vignale/"
+    },
+    {
+      "id": "1b3f03e3bca2",
+      "title": "[27] BAFICI | Crítica de “The Chronology of Water”, de Kristen Stewart",
+      "source": "A Sala Llena",
+      "date": "VIE 24 ABR 2026",
+      "date_iso": "2026-04-24T15:27:57",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La ópera prima de Kristen Stewart como directora presenta un retrato íntimo y crudo de las memorias de la escritora Lidia Yuknavitch, utilizando el agua como un elemento transformador que rodea a la protagonista en sus distintas etapas. A través del medio acuático, canaliza la energía impredecibl...",
+      "url": "https://asalallena.com.ar/27-bafici-critica-de-the-chronology-of-water-de-kristen-stewart/"
     },
     {
       "id": "22149257515b",
@@ -132,6 +144,18 @@
       "cat": "CRÍTICAS",
       "excerpt": "ITUZAINGÓ MON AMOUR ¿Qué habría pasado si François Truffaut, Jean-Luc Godard o Anna Karina hubiesen nacido en Ituzaingó? Probablemente habrían trabajado en una película de Raúl Perrone. Más precisamente en una como CIN3 FILI4 (2026), una película minimalista en claro tributo a la nouvelle vague y...",
       "url": "https://asalallena.com.ar/27-bafici-critica-de-cin3fili4-de-raul-perrone/"
+    },
+    {
+      "id": "a3e7f1700fb6",
+      "title": "[27] BAFICI | Crítica de “Blue Moon”, de Richard Linklater",
+      "source": "A Sala Llena",
+      "date": "JUE 23 ABR 2026",
+      "date_iso": "2026-04-23T14:52:05",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El tiempo y Richard Linklater. El tiempo concentrado en un corto periodo de tiempo, el de cada una de las películas de la trilogía Antes de…. O el tiempo expandido de Boyhood o la trilogía Antes de… tomada en su conjunto. El tiempo también es el protagonista de Blue Moon, cuya narración, si excep...",
+      "url": "https://asalallena.com.ar/27-bafici-critica-de-blue-moon-de-richard-linklater/"
     },
     {
       "id": "c24434eebde1",
@@ -576,30 +600,6 @@
       "cat": "ESTRENOS",
       "excerpt": "Maco cine y ASL te invitan a participar por entradas para asistir a ver el estreno PADRE MADRE HERMANA HERMANO, film dirigido Jim Jarmusch. Para participar por un pase válido para dos personas debes cumplir los siguientes requisitos: Compartir la publicación en alguna de tus redes (FB, IG o X). D...",
       "url": "https://asalallena.com.ar/concurso-entradas-padre-madre-hermana-hermano/"
-    },
-    {
-      "id": "75a3be003d19",
-      "title": "\"El partido\" de Juan Cabral y  Santiago Franco en \"Cannes Premiere\"",
-      "source": "Escribiendo Cine",
-      "date": "JUE 9 ABR 2026",
-      "date_iso": "2026-04-09T17:11:54.670043",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/04/09/21727-toda-la-programacion-del-festival-de-cannes-2026"
-    },
-    {
-      "id": "ada6ffb908ec",
-      "title": "Festival de cine francés 2026 | El Gran Arco",
-      "source": "A Sala Llena",
-      "date": "LUN 6 ABR 2026",
-      "date_iso": "2026-04-06T23:19:39",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Hay películas que filman contra un género, que demuelen cimientos para instalarse en las ruinas. El Gran Arco parece rehuir los mandatos de las películas de sobre arquitectura, de las que toma apenas estructuras elementales, reconocibles para cualquiera. Un arquitecto lucha para llevar a cabo un ...",
-      "url": "https://asalallena.com.ar/festival-de-cine-frances-2026-el-gran-arco/"
     }
   ],
   "releases": [
