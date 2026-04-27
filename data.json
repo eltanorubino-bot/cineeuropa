@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-27T17:25:21.639614",
+  "last_updated": "2026-04-27T23:59:01.928105",
   "news": [
+    {
+      "id": "3f30f5fe6f22",
+      "title": "Del cine argentino al streaming global",
+      "source": "Escribiendo Cine",
+      "date": "LUN 27 ABR 2026",
+      "date_iso": "2026-04-27T23:59:00.009672",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "PLATAFORMAS",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/04/27/22041-netflix-reactiva-nueve-reinas-como-serie-del-fraude-porteno-al-madrid-en-crisis"
+    },
     {
       "id": "0560f097ea93",
       "title": "Los lazos familiares, la guerra en Ucrania y las cuestiones sociales marcan la edición de este año de Crossing Europe - Crossing Europe 2026",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "LA CALMA QUE ANTECEDE LA TORMENTA ¿Qué se siente caer desde tan alto? ¿Qué pensamientos se cruzan por la cabeza cuando se está en caída libre? Estas son algunas de las preguntas que le hacen al Capitán Jorge Silva, antiguo jefe de inteligencia de la Fuerza Aérea de Chile. Además, un paracaidista ...",
       "url": "https://asalallena.com.ar/27-bafici-critica-de-hangar-rojo-de-juan-pablo-sallato/"
-    },
-    {
-      "id": "00f698b6bef8",
-      "title": "#CANNES79 | Se anunció la selección de ACID",
-      "source": "A Sala Llena",
-      "date": "MAR 14 ABR 2026",
-      "date_iso": "2026-04-14T12:48:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "PROGRAMA A Secret Hear, de Tom Fontenille Blaise, de Dimitri Planchon, Jean-Paul Guigue Born Under a Bad Star, de Lola Cambourieu, Yann Berlier Detention, de Guillaume Massart Dans la gueule de l&#8217;ogre, de Mahsa Karampour Living Twice, Dyinf Thrice, de Karim Lakzadeh Promised Spaces, de Ivan...",
-      "url": "https://asalallena.com.ar/cannes79-se-anuncio-la-seleccion-de-acid/"
     }
   ],
   "releases": [
