@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-26T23:50:02.596309",
+  "last_updated": "2026-04-27T12:18:57.785023",
   "news": [
+    {
+      "id": "155011b86123",
+      "title": "[27] BAFICI | Crítica de “La mancha”, de Ramiro y Adrián García Bogliano",
+      "source": "A Sala Llena",
+      "date": "LUN 27 ABR 2026",
+      "date_iso": "2026-04-27T04:46:35",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El cine de terror argentino pasa por un gran momento, pero nada hubiera sido posible sin la iniciativa de un grupo de pioneros. Entre ellos, los hermanos Adrián y Ramiro García Bogliano. En 2004 golpearon fuerte con su ópera prima, Habitaciones para turistas, dirigida por Adrián y coescrita con R...",
+      "url": "https://asalallena.com.ar/27-bafici-critica-de-la-mancha-de-ramiro-y-adrian-garcia-bogliano/"
+    },
     {
       "id": "e9fb53ea0751",
       "title": "Se estrena el 30 de abril tras su paso por el BAFICI",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "Para empezar, tengo que admitir que hasta la semana pasada no había visto ninguna de las películas que componen la saga de Torrente, dirigida y protagonizada por el español Santiago Segura. Aunque conocía el tono ácido y de humor negro de las películas por diversos clips, nunca me había interesad...",
       "url": "https://asalallena.com.ar/critica-de-torrente-presidente-film-de-santiago-segura/"
-    },
-    {
-      "id": "a07f225b90c4",
-      "title": "El guionista de \"Los colores del tiempo\" en el Festival de Cine Francés",
-      "source": "Escribiendo Cine",
-      "date": "LUN 13 ABR 2026",
-      "date_iso": "2026-04-13T12:00:43.487000",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/04/12/21752-santiago-amigorena-la-memoria-es-importante-sobre-todo-para-olvidar"
     }
   ],
   "releases": [
