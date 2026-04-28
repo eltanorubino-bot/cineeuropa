@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-28T12:22:49.798701",
+  "last_updated": "2026-04-28T17:49:05.266890",
   "news": [
+    {
+      "id": "0d8810f55cce",
+      "title": "Loco Films presenta dos títulos en Cannes - Cannes 2026 – Marché du Film",
+      "source": "Cineuropa",
+      "date": "MAR 28 ABR 2026",
+      "date_iso": "2026-04-28T10:20:55",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La compañía francesa vende Viva, de Aina Clotet, y Les Matins Merveilleux, de Avril Besson, que se darán a conocer en la Semana de la Crítica y en la Selección Oficial",
+      "url": "https://cineuropa.org/es/newsdetail/490663/"
+    },
     {
       "id": "fd1f703c17a8",
       "title": "El informe Freemuse 2026 revela que la libertad artística está en crisis - Industria / Mercado - Europa",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "Para mí este documental es una carta de amor a mi banda favorita de todos los tiempos y nace desde ese sentimiento. Por eso cada frase, cada archivo y cada canción está elegida desde la mirada amorosa de un fan que dice ‘Che, esta banda es espectacular y tiene una historia espectacular, tienen qu...",
       "url": "https://asalallena.com.ar/27-bafici-critica-de-nuestros-dias-en-mi-memoria-una-pelicula-sobre-estelares-de-gonza-lopez/"
-    },
-    {
-      "id": "25dc24918f9d",
-      "title": "[27] BAFICI | Crítica de “Los vencedores”, de Pablo Aparo",
-      "source": "A Sala Llena",
-      "date": "DOM 19 ABR 2026",
-      "date_iso": "2026-04-19T18:00:26",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "LA AMISTAD CONTRA EL CONVENCIMIENTO Los vencededores, aún con el festival en desarrollo, puede considerarse ya un hito de la edición 27 del BAFICI. Es de esas películas que marcan un terreno para el futuro, más allá de la efervescencia que muchas veces nubla la lectura por cierto impacto cercano ...",
-      "url": "https://asalallena.com.ar/27-bafici-critica-de-los-vencedores-de-pablo-aparo/"
     }
   ],
   "releases": [
