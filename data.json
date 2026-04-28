@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-04-27T23:59:01.928105",
+  "last_updated": "2026-04-28T12:22:49.798701",
   "news": [
+    {
+      "id": "fd1f703c17a8",
+      "title": "El informe Freemuse 2026 revela que la libertad artística está en crisis - Industria / Mercado - Europa",
+      "source": "Cineuropa",
+      "date": "MAR 28 ABR 2026",
+      "date_iso": "2026-04-28T10:00:13",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El informe “Estado de la libertad artística” de Freemuse.org, presentado en Bruselas, retrata un panorama en el que las condiciones para la libertad de expresión artística empeoran rápidamente",
+      "url": "https://cineuropa.org/es/newsdetail/490662/"
+    },
+    {
+      "id": "738930bbc5cc",
+      "title": "Nino y Hold Onto Me triunfan en la 24.ª edición de los Cyprus Film Days - Cyprus Film Days 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "MAR 28 ABR 2026",
+      "date_iso": "2026-04-28T09:07:59",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El primer largometraje de Pauline Loquès se ha alzado con el máximo galardón en Glocal Images, mientras que el debut de Myrsini Aristidou ha dominado la competición chipriota",
+      "url": "https://cineuropa.org/es/newsdetail/490656/"
+    },
     {
       "id": "3f30f5fe6f22",
       "title": "Del cine argentino al streaming global",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "LA AMISTAD CONTRA EL CONVENCIMIENTO Los vencededores, aún con el festival en desarrollo, puede considerarse ya un hito de la edición 27 del BAFICI. Es de esas películas que marcan un terreno para el futuro, más allá de la efervescencia que muchas veces nubla la lectura por cierto impacto cercano ...",
       "url": "https://asalallena.com.ar/27-bafici-critica-de-los-vencedores-de-pablo-aparo/"
-    },
-    {
-      "id": "f2c80e90fafd",
-      "title": "[27] BAFICI | Crítica de “Te amo, Antoño”, de Tamara Leschner",
-      "source": "A Sala Llena",
-      "date": "DOM 19 ABR 2026",
-      "date_iso": "2026-04-19T17:55:24",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Del mar de lágrimas al llanto vacío; de Antoño a antaño. El primer largometraje de la multifacética Tamara Leschner  parece tener dos rostros que se ponen en juego. Uno, el más evidente, es el de la comedia. El otro, subyacente, se abre paso sin anunciarse, y va en busca de cambiar la “o” por la ...",
-      "url": "https://asalallena.com.ar/27-bafici-critica-de-te-amo-antono-de-tamara-leschner/"
-    },
-    {
-      "id": "fcaaaac047f5",
-      "title": "[27] BAFICI | Crítica de “Hangar rojo”, de Juan Pablo Sallato",
-      "source": "A Sala Llena",
-      "date": "SÁB 18 ABR 2026",
-      "date_iso": "2026-04-18T19:42:38",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "LA CALMA QUE ANTECEDE LA TORMENTA ¿Qué se siente caer desde tan alto? ¿Qué pensamientos se cruzan por la cabeza cuando se está en caída libre? Estas son algunas de las preguntas que le hacen al Capitán Jorge Silva, antiguo jefe de inteligencia de la Fuerza Aérea de Chile. Además, un paracaidista ...",
-      "url": "https://asalallena.com.ar/27-bafici-critica-de-hangar-rojo-de-juan-pablo-sallato/"
     }
   ],
   "releases": [
