@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-04-29T12:16:01.772912",
+  "last_updated": "2026-04-29T17:41:58.822411",
   "news": [
+    {
+      "id": "8598898851f9",
+      "title": "Crítica de “El desprecio” (Le mépris), de Jean-Luc Godard",
+      "source": "A Sala Llena",
+      "date": "MIÉ 29 ABR 2026",
+      "date_iso": "2026-04-29T17:23:32",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El cine sustituye un mundo amoldado a nuestros deseos, dice André Bazin en voz de Godard, luego de recitar los créditos iniciales. El desprecio (1963) crea una herramienta irreal para acercar tales deseos. El rol de cada espectador implica la búsqueda imaginaria de tal objeto para convertirlo, a ...",
+      "url": "https://asalallena.com.ar/critica-de-el-desprecio-le-mepris-de-jean-luc-godard/"
+    },
+    {
+      "id": "e04b7d26e567",
+      "title": "Carla Simón, presidenta del jurado de cortometrajes y de La Cinef en Cannes - Cannes 2025",
+      "source": "Cineuropa",
+      "date": "MIÉ 29 ABR 2026",
+      "date_iso": "2026-04-29T11:47:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La cineasta catalana presidirá el jurado que decidirá entre los diez cortometrajes en liza por la Palma de Oro y los 19 títulos de la selección de La Cinef",
+      "url": "https://cineuropa.org/es/newsdetail/490682/"
+    },
+    {
+      "id": "a9b8da4cba52",
+      "title": "El Festival de Annecy acoge 22 largometrajes a competición - Annecy 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 29 ABR 2026",
+      "date_iso": "2026-04-29T11:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Las películas de Sébastien Laudenbach, Louis Clichy, Phuong Mai Nguyen, Olivier Clert, Alberto Vázquez y el dúo formado por Rupert Wyatt y Émilie Phuong estarán, entre otros, en liza por el Cristal",
+      "url": "https://cineuropa.org/es/newsdetail/490678/"
+    },
+    {
+      "id": "1fbafd335cc5",
+      "title": "Entrevista: Jacob Santana • Director de El vestido - “Como ayudante de dirección, aprendí a captar el ambiente emocional en el rodaje, y eso me da más libertad en mi enfoque” - BIFFF 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 29 ABR 2026",
+      "date_iso": "2026-04-29T10:41:47",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El cineasta nos cuenta lo que aprendió trabajando con otros directores españoles y desgrana su experiencia de rodar una película con niños actores",
+      "url": "https://cineuropa.org/es/interview/490690/"
+    },
+    {
+      "id": "0d7d96f1faa7",
+      "title": "La colaboración con Francia centra la atención en New Nordic Films de Haugesund - Haugesund 2026 – New Nordic Films",
+      "source": "Cineuropa",
+      "date": "MIÉ 29 ABR 2026",
+      "date_iso": "2026-04-29T10:27:44",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El programa French Focus pretende reforzar los lazos creativos entre Francia y los países nórdicos, destacando las oportunidades de coproducción y fomentando la cooperación a largo plazo",
+      "url": "https://cineuropa.org/es/newsdetail/490689/"
+    },
+    {
+      "id": "fc015075441b",
+      "title": "La 12.ª edición del European Genre Forum desvela su selección - Industria / Mercado - Croacia/Países Bajos/Estonia",
+      "source": "Cineuropa",
+      "date": "MIÉ 29 ABR 2026",
+      "date_iso": "2026-04-29T10:05:33",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La iniciativa de formación, que incluye tres laboratorios especializados en festivales de referencia en toda Europa, selecciona ocho nuevos proyectos de género",
+      "url": "https://cineuropa.org/es/newsdetail/490686/"
+    },
     {
       "id": "c63ac2b18ebb",
       "title": "El Marché du Film desvela la selección Goes to Cannes - Cannes 2026 – Marché du Film",
@@ -528,78 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La reconocida actriz y cineasta nos habla del encuentro celebrado en la ciudad costera tunecina de Gabès, tras su nombramiento como nueva directora",
       "url": "https://cineuropa.org/es/interview/490597/"
-    },
-    {
-      "id": "b65750fcc7c2",
-      "title": "Haciendo amigos, de David Marqués, lista para su estreno - Producción / Financiación - España/México",
-      "source": "Cineuropa",
-      "date": "MIÉ 22 ABR 2026",
-      "date_iso": "2026-04-22T08:55:52",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "Antonio Resines y Quim Gutiérrez encarnan a dos atracadores a la fuga en la comedia que apela a la empatía y que ha coproducido Santiago Segura a través de Bowfinger International Pictures",
-      "url": "https://cineuropa.org/es/newsdetail/490595/"
-    },
-    {
-      "id": "0dc7b1468a2e",
-      "title": "El Filmfest Dresden anuncia los cortometrajes ganadores de este año - Cortometrajes - Alemania",
-      "source": "Cineuropa",
-      "date": "MIÉ 22 ABR 2026",
-      "date_iso": "2026-04-22T08:25:54",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La 38.ª edición del encuentro alemán ha entregado un total de diez Caballeros de Oro y siete premios especiales por un valor total de 72.000 €",
-      "url": "https://cineuropa.org/es/newsdetail/490593/"
-    },
-    {
-      "id": "e5c269e7ea38",
-      "title": "Cannes anuncia los cortometrajes que competirán por la Palma de Oro, así como los seleccionados en Cinef - Cannes 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 22 ABR 2026",
-      "date_iso": "2026-04-22T07:25:31",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Diez cortometrajes participarán en la competición de la Croisette en mayo, mientras que 19 títulos formarán parte de la selección Cinef",
-      "url": "https://cineuropa.org/es/newsdetail/490592/"
-    },
-    {
-      "id": "fad30a27e997",
-      "title": "Cine argentino en Cannes 2026",
-      "source": "Escribiendo Cine",
-      "date": "MAR 21 ABR 2026",
-      "date_iso": "2026-04-21T23:44:15.708878",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/04/21/21870-para-los-contrincantes-de-federico-luis-competira-por-la-palma-de-oro-al-mejor-cortometraje-en-el-festival-de-cannes"
-    },
-    {
-      "id": "38249e560fce",
-      "title": "Un encuentro de industria en Visions du Réel analiza las coproducciones documentales entre Europa y Estados Unidos - Visions du Réel 2026 – VdR-Industry",
-      "source": "Cineuropa",
-      "date": "MAR 21 ABR 2026",
-      "date_iso": "2026-04-21T20:07:28",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Estas coproducciones son menos una cuestión de viabilidad que de saber desenvolverse con éxito, ya que los obstáculos legales obligan a los productores a recurrir a estrategias improvisadas",
-      "url": "https://cineuropa.org/es/newsdetail/490590/"
-    },
-    {
-      "id": "c65ea57cdaf4",
-      "title": "[27] BAFICI | Crítica de “Ese niño de la fotografía. Carlos Saura”, de Anna Saura",
-      "source": "A Sala Llena",
-      "date": "MAR 21 ABR 2026",
-      "date_iso": "2026-04-21T18:53:40",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "No es exagerado afirmar que Carlos Saura fue uno de los directores más audaces del cine español. También fue muy abierto a la hora de hablar de su vida y de su búsqueda creativa. Aun así, el documental Ese niño de la fotografía. Carlos Saura consigue un nivel de profundidad inaudito, y con la dir...",
-      "url": "https://asalallena.com.ar/27-bafici-critica-de-ese-nino-de-la-fotografia-carlos-saura-de-anna-saura/"
     }
   ],
   "releases": [
