@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-29T00:00:51.772146",
+  "last_updated": "2026-04-29T12:16:01.772912",
   "news": [
+    {
+      "id": "c63ac2b18ebb",
+      "title": "El Marché du Film desvela la selección Goes to Cannes - Cannes 2026 – Marché du Film",
+      "source": "Cineuropa",
+      "date": "MIÉ 29 ABR 2026",
+      "date_iso": "2026-04-29T09:41:20",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El programa de work-in-progress regresa con siete festivales y mercados internacionales presentando sus últimos descubrimientos en el Palais K",
+      "url": "https://cineuropa.org/es/newsdetail/490681/"
+    },
+    {
+      "id": "ecfb017946b7",
+      "title": "Alice and Steve encabeza el palmarés de la novena edición de Canneseries - Canneseries 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "MIÉ 29 ABR 2026",
+      "date_iso": "2026-04-29T08:38:15",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La cita de este año ha celebrado una variada gama de relatos, con Guts y I Always Sometimes también entre las principales ganadoras",
+      "url": "https://cineuropa.org/es/newsdetail/490676/"
+    },
+    {
+      "id": "edc1d7438de6",
+      "title": "El noveno MECAS presenta catorce proyectos - Las Palmas 2026 – MECAS",
+      "source": "Cineuropa",
+      "date": "MIÉ 29 ABR 2026",
+      "date_iso": "2026-04-29T08:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El 25.º Festival de Cine de Las Palmas de Gran Canaria acoge el evento profesional en el que participan cineastas como Marina Lameiro, Nele Wohlatz y Paz Fábrega, entre otros",
+      "url": "https://cineuropa.org/es/newsdetail/490691/"
+    },
     {
       "id": "55f2cdd142b6",
       "title": "Entrevista: Philbert Aimé Mbabazi Sharangabo • Cineasta y alumno de la CICAE - “Queríamos crear un hogar para el cine de autor ruandés: películas que a menudo viajan internacionalmente, pero que rara vez se ven a nivel local” - /Ruanda",
@@ -33,6 +69,18 @@
       "date_iso": "2026-04-28T10:32:49",
       "venue": "",
       "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El jurado aprecia la fuerza emocional del impactante documental de Natxo Leuza, producido por En Buen Sitio, que aborda con valentía y realismo la problemática del cambio climático",
+      "url": "https://cineuropa.org/es/newsdetail/490664/"
+    },
+    {
+      "id": "5757c3595b73",
+      "title": "Black Water obtiene el Premio de Cine Socioambiental en el Festival de Guadalajara - Festivales / Premios - España/México",
+      "source": "Cineuropa",
+      "date": "MAR 28 ABR 2026",
+      "date_iso": "2026-04-28T10:32:49",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
       "cat": "FESTIVALES",
       "excerpt": "El jurado aprecia la fuerza emocional del impactante documental de Natxo Leuza, producido por En Buen Sitio, que aborda con valentía y realismo la problemática del cambio climático",
       "url": "https://cineuropa.org/es/newsdetail/490664/"
@@ -290,6 +338,18 @@
       "url": "https://asalallena.com.ar/27-bafici-sobre-la-retrospectiva-de-gyorgi-palfi/"
     },
     {
+      "id": "5effbcfbeae8",
+      "title": "[27] BAFICI | Crítica de “Plata o mierda”, de Marcos Joubert y Toia Bonino",
+      "source": "A Sala Llena",
+      "date": "VIE 24 ABR 2026",
+      "date_iso": "2026-04-24T03:13:05",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "EN EL ESTÓMAGO DE LA BOA “Lo mío no es un reality, boluda. Yo… no la estoy pasando bien, ¿entendés? Yo te estoy contando una situación que vos, como te dije, no la vas a entender. Tenés que venir una temporada acá [&#8230;]” ¿Dónde es acá? Entre paredes raídas y mohosas, muros agujereados, llenos...",
+      "url": "https://asalallena.com.ar/27-bafici-critica-de-plata-o-mierda-de-marcos-joubert-y-toia-bonino/"
+    },
+    {
       "id": "943181c9ec37",
       "title": "[27] BAFICI | Crítica de “CIN3FILI4”, de Raúl Perrone",
       "source": "A Sala Llena",
@@ -540,66 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "No es exagerado afirmar que Carlos Saura fue uno de los directores más audaces del cine español. También fue muy abierto a la hora de hablar de su vida y de su búsqueda creativa. Aun así, el documental Ese niño de la fotografía. Carlos Saura consigue un nivel de profundidad inaudito, y con la dir...",
       "url": "https://asalallena.com.ar/27-bafici-critica-de-ese-nino-de-la-fotografia-carlos-saura-de-anna-saura/"
-    },
-    {
-      "id": "5a4e513a3e9e",
-      "title": "Europa Distribution organizará su cuarto taller en el Focus Asia de Udine - Industria / Mercado - Italia",
-      "source": "Cineuropa",
-      "date": "MAR 21 ABR 2026",
-      "date_iso": "2026-04-21T15:26:17",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "La red presentará los estudios de caso de los estrenos de No hay otra opción, de Park Chan-wook, y Renoir, de Chie Hayakawa, así como el reestreno de Yi Yi, de Edward Yang",
-      "url": "https://cineuropa.org/es/newsdetail/490567/"
-    },
-    {
-      "id": "b77fb9d77526",
-      "title": "Crítica de “El mago del Kremlin” (Le mage du Kremlin), de Olivier Assayas",
-      "source": "A Sala Llena",
-      "date": "MAR 21 ABR 2026",
-      "date_iso": "2026-04-21T14:36:13",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "GOBERNARE E PIÙ BELLO QUE FORNICARE Festival de Venecia. El libro del momento, editado en 2022 saliendo del caos del Covid. Best seller mundial, adaptado por un gran escritor francés como Emmanuel Carrère y dirigido por ese refinado artista galo que es Olivier Assayas, hacedor de éxitos para el p...",
-      "url": "https://asalallena.com.ar/critica-de-el-mago-del-kremlin-le-mage-du-kremlin-de-olivier-assayas/"
-    },
-    {
-      "id": "bc3ed08d5f4b",
-      "title": "El Annecy Animation Showcase vuelve a Cannes con cinco trabajos en desarrollo - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "MAR 21 ABR 2026",
-      "date_iso": "2026-04-21T13:54:12",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La plataforma organizada por el Marché du Film ofrece un primer vistazo a futuros largometrajes de animación que buscan agentes de ventas, distribución y presencia en festivales",
-      "url": "https://cineuropa.org/es/newsdetail/490589/"
-    },
-    {
-      "id": "5423ac2785db",
-      "title": "Concurso entradas EL BUFÓN 2",
-      "source": "A Sala Llena",
-      "date": "MAR 21 ABR 2026",
-      "date_iso": "2026-04-21T13:49:32",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "BF Argentina y ASL te invitan a participar por entradas para asistir a ver el estreno de EL BUFÓN 2, film dirigido por Colin Krawchuk. Para participar por un pase válido para dos personas debes cumplir los siguientes requisitos: Compartir la publicación en alguna de tus redes (FB, IG o X). Dejar ...",
-      "url": "https://asalallena.com.ar/concurso-entradas-el-bufon-2/"
-    },
-    {
-      "id": "45b136815b98",
-      "title": "El festival de Las Palmas de Gran Canarias celebra su 25 aniversario - Las Palmas 2026",
-      "source": "Cineuropa",
-      "date": "MAR 21 ABR 2026",
-      "date_iso": "2026-04-21T10:58:14",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Entre los días 23 de abril y 3 de mayo se podrá disfrutar, en sus diversas secciones, de un centenar de títulos: desde el cine más moderno y vanguardista a la recuperación de clásicos",
-      "url": "https://cineuropa.org/es/newsdetail/490583/"
     }
   ],
   "releases": [
