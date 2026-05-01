@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-01T17:00:31.940540",
+  "last_updated": "2026-05-01T23:57:14.991961",
   "news": [
+    {
+      "id": "0d041ecfbe30",
+      "title": "#JEONJU2026 | El retorno de la crónica festivalera",
+      "source": "A Sala Llena",
+      "date": "VIE 1 MAY 2026",
+      "date_iso": "2026-05-01T14:53:37",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "No existe el amor por el cine sin el amor por los libros de cine. Thierry Frémaux en su libro Selección oficial Primera introducción Estas crónicas (a continuación) deberían haber empezado ayer. O hace dos días. Pero la locura de los festivales, ser el esposo de una de las programadoras del festi...",
+      "url": "https://asalallena.com.ar/jeonju2026-el-retorno-de-la-cronica-festivalera/"
+    },
     {
       "id": "85641c92120d",
       "title": "Be For Films entra en la competición de Cannes con La vie d’une femme - Cannes 2026 - Marché du Film",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La cuarta edición de esta iniciativa de formación y tutoría dirigida a profesionales del cine menores de 30 años hará aún más hincapié en las ventas, la distribución y la colaboración internacional",
       "url": "https://cineuropa.org/es/newsdetail/490612/"
-    },
-    {
-      "id": "aa264fffb709",
-      "title": "Finaliza el rodaje de To Make Ends Meat, de Luna Carmoon, a tiempo para la presentación de la película en Cannes - Producción / Financiación - Reino Unido/Francia",
-      "source": "Cineuropa",
-      "date": "JUE 23 ABR 2026",
-      "date_iso": "2026-04-23T11:20:09",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La prometedora directora británica acaba de terminar el rodaje de su segundo largometraje, producido por Goodfellas e interpretado por Naomi Ackie, Alison Oliver y Éanna Hardwicke",
-      "url": "https://cineuropa.org/es/newsdetail/490611/"
     }
   ],
   "releases": [
