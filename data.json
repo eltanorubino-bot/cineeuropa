@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-05-04T12:20:11.053318",
+  "last_updated": "2026-05-04T17:43:52.558841",
   "news": [
+    {
+      "id": "f7495e2fd4d4",
+      "title": "Festival de Cannes 2026",
+      "source": "Escribiendo Cine",
+      "date": "LUN 4 MAY 2026",
+      "date_iso": "2026-05-04T17:43:50.624857",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/04/22167-el-jurado-de-cannes-2026-entre-la-industria-global-y-las-nuevas-miradas-del-cine"
+    },
+    {
+      "id": "d0064e500c8a",
+      "title": "Entrevista: Carlo Cresto-Dina • Productor, Tempesta - “Un número cada vez más reducido de actores del sector decide hoy qué historias se cuentan, cómo y por quién” - Foco productores independientes/Italia",
+      "source": "Cineuropa",
+      "date": "LUN 4 MAY 2026",
+      "date_iso": "2026-05-04T15:05:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El productor italiano reflexiona sobre la autoría, las presiones del mercado y por qué el cine europeo corre el riesgo de perder su biodiversidad",
+      "url": "https://cineuropa.org/es/interview/490835/"
+    },
+    {
+      "id": "e411690ab922",
+      "title": "Titanic Ocean tendrá su estreno mundial en el Un Certain Regard de Cannes - Producción / Financiación - Grecia/Alemania/Rumanía/España/Japón",
+      "source": "Cineuropa",
+      "date": "LUN 4 MAY 2026",
+      "date_iso": "2026-05-04T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "La ópera prima de la cineasta griega Konstantina Kotzamani es un relato de paso a la adultez ambientado en el surrealista mundo del entrenamiento profesional de sirenas",
+      "url": "https://cineuropa.org/es/newsdetail/490832/"
+    },
+    {
+      "id": "6114ab1beeaa",
+      "title": "El Riviera International Film Festival, fuera de la zona de confort - Festivales / Premios - Italia",
+      "source": "Cineuropa",
+      "date": "LUN 4 MAY 2026",
+      "date_iso": "2026-05-04T14:37:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La 10.ª edición del festival, programado en Sestri Levante del 5 al 10 de mayo, se inaugurará con el documental sobre el recién elegido primer ministro húngaro Peter Magyar",
+      "url": "https://cineuropa.org/es/newsdetail/490780/"
+    },
+    {
+      "id": "4f02d8eeee50",
+      "title": "Wind, Talk to Me recibe el MIOB New Vision Award 2026 en Crossing Europe - Crossing Europe 2026 - Premios",
+      "source": "Cineuropa",
+      "date": "LUN 4 MAY 2026",
+      "date_iso": "2026-05-04T14:34:37",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El debut de Stefan Đorđević se alza con el galardón de la red Moving Images – Open Borders en el festival de cine de Linz, mientras Cineuropa continúa su colaboración con la iniciativa",
+      "url": "https://cineuropa.org/es/newsdetail/490837/"
+    },
+    {
+      "id": "9aba71c81e78",
+      "title": "El Festival de Cine Fantástico y de Terror de Haapsalu se clausura con galardones para Egghead Republic and I Owe You One - HOFF 2026 - Premios",
+      "source": "Cineuropa",
+      "date": "LUN 4 MAY 2026",
+      "date_iso": "2026-05-04T14:33:28",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El certamen estonio también ha rendido homenaje al primer especialista del país, Aldo Tammsaar",
+      "url": "https://cineuropa.org/es/newsdetail/490836/"
+    },
     {
       "id": "b1c3b07b4341",
       "title": "Entrevista: Vilja Keskimäki e Ima Iduozee • Guionista y director de Sneakermania - “Los jóvenes están tomando la iniciativa para perseguir sus sueños y poner en marcha negocios, algo que no era habitual cuando éramos jóvenes” - Canneseries 2026",
@@ -24,6 +96,18 @@
       "cat": "FESTIVALES",
       "excerpt": "La serie, ganadora del premio de los estudiantes en Canneseries, retrata a unas ovejas que creen haber domesticado a los humanos hasta que se ven obligadas a luchar contra ellos",
       "url": "https://cineuropa.org/es/interview/490800/"
+    },
+    {
+      "id": "057bb9c7228a",
+      "title": "Transatlantic Stars refuerza los lazos entre la Unión Europea y Estados Unidos mediante un nuevo intercambio de cineastas - Industria / Mercado - Europa/Estados Unidos",
+      "source": "Cineuropa",
+      "date": "LUN 4 MAY 2026",
+      "date_iso": "2026-05-04T07:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Guillermo Galoe, Leonardo van Dijl, Mara Tamkovich, Moonika Siimets y Sofia Exarchou participarán en la iniciativa de este año",
+      "url": "https://cineuropa.org/es/newsdetail/490759/"
     },
     {
       "id": "2e1d4873f991",
@@ -516,90 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La casa en el árbol, film dirigido por el español Luis Calderón, inaugura el certamen el 8 de mayo y se clausura con Reflet dans un diamant mort, de Hélène Cattet y Bruno Forzani",
       "url": "https://cineuropa.org/es/newsdetail/490628/"
-    },
-    {
-      "id": "f79e289b35a8",
-      "title": "Doxumentale acoge el taller de crítica cinematográfica Another Story - Educación - Alemania",
-      "source": "Cineuropa",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T10:05:08",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Cineuropa organiza una serie de talleres de crítica en diversos festivales asociados, comenzando por la primera edición en el encuentro que se celebra en Berlín, del 28 al 31 de mayo",
-      "url": "https://cineuropa.org/es/newsdetail/490627/"
-    },
-    {
-      "id": "239926edcdfd",
-      "title": "Maggie Gyllenhaal, presidenta del jurado en Venecia - Venecia 2026",
-      "source": "Cineuropa",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T09:20:25",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La actriz y directora estadounidense presidirá el jurado de la competición internacional de la 83.ª Mostra de Venecia, que se celebrará en el Lido del 2 al 12 de septiembre",
-      "url": "https://cineuropa.org/es/newsdetail/490626/"
-    },
-    {
-      "id": "460f851d3c9f",
-      "title": "La octava edición del Gabès Cinema Fen rinde homenaje a Óliver Laxe - Festivales / Premios - Túnez",
-      "source": "Cineuropa",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T07:18:53",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El festival tunecino presentará una retrospectiva completa de las películas de Laxe, que culminará con una clase magistral con el director francogallego",
-      "url": "https://cineuropa.org/es/newsdetail/490625/"
-    },
-    {
-      "id": "8d28f4a62f16",
-      "title": "[27] BAFICI | Sobre la retrospectiva de Györgi Pálfi",
-      "source": "A Sala Llena",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T04:47:04",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
-      "cat": "ARGENTINA",
-      "excerpt": "DESCUBRIR A UN REALIZADOR ECLÉCTICO  Nacido en Hungría en 1974, sus primeras dos películas, muy disimiles, una característica que mantendrá a lo largo de toda su filmografía, permitieron su descubrimiento mundial. Hukkle (2002), según nos explicara su realizador, es un término inexistente, que po...",
-      "url": "https://asalallena.com.ar/27-bafici-sobre-la-retrospectiva-de-gyorgi-palfi/"
-    },
-    {
-      "id": "5effbcfbeae8",
-      "title": "[27] BAFICI | Crítica de “Plata o mierda”, de Marcos Joubert y Toia Bonino",
-      "source": "A Sala Llena",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T03:13:05",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "EN EL ESTÓMAGO DE LA BOA “Lo mío no es un reality, boluda. Yo… no la estoy pasando bien, ¿entendés? Yo te estoy contando una situación que vos, como te dije, no la vas a entender. Tenés que venir una temporada acá [&#8230;]” ¿Dónde es acá? Entre paredes raídas y mohosas, muros agujereados, llenos...",
-      "url": "https://asalallena.com.ar/27-bafici-critica-de-plata-o-mierda-de-marcos-joubert-y-toia-bonino/"
-    },
-    {
-      "id": "943181c9ec37",
-      "title": "[27] BAFICI | Crítica de “CIN3FILI4”, de Raúl Perrone",
-      "source": "A Sala Llena",
-      "date": "JUE 23 ABR 2026",
-      "date_iso": "2026-04-23T20:24:54",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "ITUZAINGÓ MON AMOUR ¿Qué habría pasado si François Truffaut, Jean-Luc Godard o Anna Karina hubiesen nacido en Ituzaingó? Probablemente habrían trabajado en una película de Raúl Perrone. Más precisamente en una como CIN3 FILI4 (2026), una película minimalista en claro tributo a la nouvelle vague y...",
-      "url": "https://asalallena.com.ar/27-bafici-critica-de-cin3fili4-de-raul-perrone/"
-    },
-    {
-      "id": "a3e7f1700fb6",
-      "title": "[27] BAFICI | Crítica de “Blue Moon”, de Richard Linklater",
-      "source": "A Sala Llena",
-      "date": "JUE 23 ABR 2026",
-      "date_iso": "2026-04-23T14:52:05",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "El tiempo y Richard Linklater. El tiempo concentrado en un corto periodo de tiempo, el de cada una de las películas de la trilogía Antes de…. O el tiempo expandido de Boyhood o la trilogía Antes de… tomada en su conjunto. El tiempo también es el protagonista de Blue Moon, cuya narración, si excep...",
-      "url": "https://asalallena.com.ar/27-bafici-critica-de-blue-moon-de-richard-linklater/"
     }
   ],
   "releases": [
