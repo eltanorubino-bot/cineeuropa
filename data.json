@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-05-05T00:01:40.135474",
+  "last_updated": "2026-05-05T11:59:19.198741",
   "news": [
+    {
+      "id": "3b51ccf7ed1e",
+      "title": "Óliver Laxe habla de su carrera en la 8.ª edición de Gabes Cinema Fen - Festivales / Premios - Túnez",
+      "source": "Cineuropa",
+      "date": "MAR 5 MAY 2026",
+      "date_iso": "2026-05-05T11:34:01",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La masterclass del director fue menos una hoja de ruta profesional y más una reflexión personal sobre su proceso, su sentimiento de no pertenecer y la importancia de cuestionar sus intenciones",
+      "url": "https://cineuropa.org/es/newsdetail/490873/"
+    },
+    {
+      "id": "5a5d17c9b357",
+      "title": "Entrevista: Helmut Jänes • Director, Festival de Cine Fantástico y de Terror de Haapsalu - “Durante el festival, Haapsalu se transforma en un pueblo a lo Twin Peaks donde empiezan a suceder cosas extrañas” - HOFF 2026",
+      "source": "Cineuropa",
+      "date": "MAR 5 MAY 2026",
+      "date_iso": "2026-05-05T11:25:32",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El director del festival estonio habla de premiar a Aldo Tammsaar y de darlo todo durante la Walpurgis Night Race",
+      "url": "https://cineuropa.org/es/interview/490872/"
+    },
+    {
+      "id": "79e98cb9611d",
+      "title": "Europa Distribution analiza el impacto medioambiental del sector durante el Green Distribution Lab online - Industria / Mercado - Europa",
+      "source": "Cineuropa",
+      "date": "MAR 5 MAY 2026",
+      "date_iso": "2026-05-05T10:42:38",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La sesión sirvió de espacio para compartir herramientas y recomendaciones para distribuidores, así como posibles acciones para mejorar la sostenibilidad del sector",
+      "url": "https://cineuropa.org/es/newsdetail/490868/"
+    },
+    {
+      "id": "8d4dbceb01c3",
+      "title": "Cannes anuncia los ocho miembros del jurado que acompañarán al presidente Park Chan-wook - Cannes 2026",
+      "source": "Cineuropa",
+      "date": "MAR 5 MAY 2026",
+      "date_iso": "2026-05-05T08:15:24",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El jurado que otorgará la Palma de Oro incluye a Demi Moore, Ruth Negga, Laura Wandel, Chloé Zhao, Diego Céspedes, Isaach De Bankolé, Paul Laverty y Stellan Skarsgård",
+      "url": "https://cineuropa.org/es/newsdetail/490846/"
+    },
+    {
+      "id": "b2979ca4b6ac",
+      "title": "#JEONJU2026 | Es el pasado que vuelve",
+      "source": "A Sala Llena",
+      "date": "MAR 5 MAY 2026",
+      "date_iso": "2026-05-05T04:07:35",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1532635241-17e820acc59f?w=800&q=80",
+      "cat": "ARGENTINA",
+      "excerpt": "“La vergüenza de haber sido Y el dolor de ya no ser.” Alfredo Le Pera &#8211; Cuesta abajo Lo que fuimos En mi reciente visita a mi Buenos Aires querido, una tarde me quise juntar con unos amigos pero ellos no pudieron, ya que se encontraban ocupados asistiendo a las funciones del festival MADO (...",
+      "url": "https://asalallena.com.ar/jeonju2026-es-el-pasado-que-vuelve/"
+    },
     {
       "id": "f7495e2fd4d4",
       "title": "Festival de Cannes 2026",
@@ -540,66 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "Estábamos ya muy lejos de los bronces, los mármoles y los floreros pintados “al gusto de la familia” en los cementerios municipales. Todo aquello quedaba atrás, y el sueño del viejo tren casi fluvial nos envolvía. Francisco Madariaga Los argentinos Lorenzo Ferro (El ángel, Simón de la montaña) y ...",
       "url": "https://asalallena.com.ar/27-bafici-critica-de-el-tren-fluvial-de-lorenzo-ferro-y-lucas-vignale/"
-    },
-    {
-      "id": "ca62f9f2b95b",
-      "title": "[27] BAFICI | Crítica de “Mile End Kicks”, de Chandler Levack",
-      "source": "A Sala Llena",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T19:15:48",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "EL BRILLO QUE FALTA Mile End Kicks cuenta la historia de Grace (Barbie Ferreira), una joven periodista musical que se muda desde la periferia de Canadá hacia Montreal en busca de volver realidad su sueño: escribir un libro sobre Jagged Little Pill, el disco de Alanis Morissette. Pronto, este proy...",
-      "url": "https://asalallena.com.ar/27-bafici-critica-de-mile-end-kicks-de-chandler-levack/"
-    },
-    {
-      "id": "1b3f03e3bca2",
-      "title": "[27] BAFICI | Crítica de “The Chronology of Water”, de Kristen Stewart",
-      "source": "A Sala Llena",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T15:27:57",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "La ópera prima de Kristen Stewart como directora presenta un retrato íntimo y crudo de las memorias de la escritora Lidia Yuknavitch, utilizando el agua como un elemento transformador que rodea a la protagonista en sus distintas etapas. A través del medio acuático, canaliza la energía impredecibl...",
-      "url": "https://asalallena.com.ar/27-bafici-critica-de-the-chronology-of-water-de-kristen-stewart/"
-    },
-    {
-      "id": "22149257515b",
-      "title": "Cineville Belgium es, a día de hoy, el único abono ilimitado para los amantes del cine de autor que tiene una dimensión europea - Redes cinematográficas europeas",
-      "source": "Cineuropa",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T13:05:34",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Este abono, creado durante la crisis de la COVID-19, surgió a raíz de una encuesta realizada entre los cinéfilos de Bruselas y actualmente está disponible en varios países europeos",
-      "url": "https://cineuropa.org/es/newsdetail/490632/"
-    },
-    {
-      "id": "75444ab230c5",
-      "title": "Doble representación femenina en Cannes para Les Films du Losange - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T10:55:20",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La distribuidora francesa apostará por El deshielo, de Manuela Martelli, en la sección Un Certain Regard, y por Shana, de Lila Pinell, en la Quincena",
-      "url": "https://cineuropa.org/es/newsdetail/490629/"
-    },
-    {
-      "id": "6da61bd207e3",
-      "title": "El 32º FANT llena Bilbao de suspense y misterio - Festivales / Premios - España",
-      "source": "Cineuropa",
-      "date": "VIE 24 ABR 2026",
-      "date_iso": "2026-04-24T10:36:59",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La casa en el árbol, film dirigido por el español Luis Calderón, inaugura el certamen el 8 de mayo y se clausura con Reflet dans un diamant mort, de Hélène Cattet y Bruno Forzani",
-      "url": "https://cineuropa.org/es/newsdetail/490628/"
     }
   ],
   "releases": [
