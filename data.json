@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-05-06T12:26:19.251367",
+  "last_updated": "2026-05-06T17:44:16.132122",
   "news": [
+    {
+      "id": "0c771a526d50",
+      "title": "Con novedad en el frente: la OTAN intenta seducir a los narradores audiovisuales - Instituciones / Legislación - Europa",
+      "source": "Cineuropa",
+      "date": "MIÉ 6 MAY 2026",
+      "date_iso": "2026-05-06T15:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Las “conversaciones íntimas” lanzadas por la organización con guionistas, productores y directores plantean legítimas cuestiones sobre una nueva tendencia de propaganda prodefensa",
+      "url": "https://cineuropa.org/es/newsdetail/490955/"
+    },
+    {
+      "id": "0b255651fecc",
+      "title": "Entrevista: María Colomer Canyelles • Codirectora artística y jefa de programación, DocsBarcelona - “Apostamos por un cine exigente, que amplíe la mirada” - DocsBarcelona 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 6 MAY 2026",
+      "date_iso": "2026-05-06T14:47:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La profesional y cineasta da pinceladas sobre la edición de este año del festival y no se olvida de subrayar la importancia de su área de industria… y de Mark Cousins",
+      "url": "https://cineuropa.org/es/interview/490910/"
+    },
+    {
+      "id": "e8b95a8ed031",
+      "title": "Playtime vende seis películas seleccionadas en Cannes - Cannes 2026 – Marché du Film",
+      "source": "Cineuropa",
+      "date": "MIÉ 6 MAY 2026",
+      "date_iso": "2026-05-06T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El catálogo del agente de ventas francés incluye títulos de Pierre Salvadori, Louis Clichy, Géraldine Nakache, Sarah Arnold, Félix de Givry y Sompot Chidgasornpongse",
+      "url": "https://cineuropa.org/es/newsdetail/490867/"
+    },
+    {
+      "id": "cb45822784d2",
+      "title": "Crítica: Un sogno italiano - Películas / Críticas - Italia",
+      "source": "Cineuropa",
+      "date": "MIÉ 6 MAY 2026",
+      "date_iso": "2026-05-06T14:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Fausto Caviglia reconstruye setenta años de emigración italiana a Alemania a través de material de archivo y testimonios, restituyendo la dignidad histórica",
+      "url": "https://cineuropa.org/es/newsdetail/490788/"
+    },
     {
       "id": "45f672e3fad4",
       "title": "El catálogo de Cannes de TrustNordisk incluye dramas de prestigio, cine de género nórdico y DOGMA25 - Cannes 2026 - Marché du Film",
@@ -552,54 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El antiguo alumno de la CICAE nos habla sobre su ambiciosa iniciativa de reconstruir el cine más antiguo de Kigali y convertirlo en un nuevo espacio para el cine independiente",
       "url": "https://cineuropa.org/es/interview/490667/"
-    },
-    {
-      "id": "4522628e530d",
-      "title": "Europa Distribution clausura la sexta edición del programa EDMentorShe - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "MAR 28 ABR 2026",
-      "date_iso": "2026-04-28T12:04:32",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La iniciativa se puso en marcha en 2019 en respuesta al desequilibrio de género dentro del sector de la distribución independiente",
-      "url": "https://cineuropa.org/es/newsdetail/490666/"
-    },
-    {
-      "id": "336be43d6457",
-      "title": "Black Water obtiene el Premio de Cine Socioambiental en el festival de Guadalajara - Festivales / Premios - España/México",
-      "source": "Cineuropa",
-      "date": "MAR 28 ABR 2026",
-      "date_iso": "2026-04-28T10:32:49",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El jurado aprecia la fuerza emocional del impactante documental de Natxo Leuza, producido por En Buen Sitio, que aborda con valentía y realismo la problemática del cambio climático",
-      "url": "https://cineuropa.org/es/newsdetail/490664/"
-    },
-    {
-      "id": "5757c3595b73",
-      "title": "Black Water obtiene el Premio de Cine Socioambiental en el Festival de Guadalajara - Festivales / Premios - España/México",
-      "source": "Cineuropa",
-      "date": "MAR 28 ABR 2026",
-      "date_iso": "2026-04-28T10:32:49",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El jurado aprecia la fuerza emocional del impactante documental de Natxo Leuza, producido por En Buen Sitio, que aborda con valentía y realismo la problemática del cambio climático",
-      "url": "https://cineuropa.org/es/newsdetail/490664/"
-    },
-    {
-      "id": "0d8810f55cce",
-      "title": "Loco Films presenta dos títulos en Cannes - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "MAR 28 ABR 2026",
-      "date_iso": "2026-04-28T10:20:55",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "La compañía francesa vende Viva, de Aina Clotet, y Les Matins Merveilleux, de Avril Besson, que se darán a conocer en la Semana de la Crítica y en la Selección Oficial",
-      "url": "https://cineuropa.org/es/newsdetail/490663/"
     }
   ],
   "releases": [
