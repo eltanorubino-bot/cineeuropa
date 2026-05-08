@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-05-08T00:00:44.094942",
+  "last_updated": "2026-05-08T12:06:51.711798",
   "news": [
+    {
+      "id": "1e0cf2a41c18",
+      "title": "Quince películas que esperamos impacientemente de Cannes 2026 - Cannes 2026",
+      "source": "Cineuropa",
+      "date": "VIE 8 MAY 2026",
+      "date_iso": "2026-05-08T09:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los nuevos trabajos de Cristian Mungiu, Ryûsuke Hamaguchi, James Gray y Los Javis lideran nuestra lista de títulos a los que seguir la pista en la Croisette",
+      "url": "https://cineuropa.org/es/newsdetail/491017/"
+    },
+    {
+      "id": "2191b47893a7",
+      "title": "La European Film Academy nombra a los primeros Chapter Principals en ocho disciplinas - Industria / Mercado - Europa",
+      "source": "Cineuropa",
+      "date": "VIE 8 MAY 2026",
+      "date_iso": "2026-05-08T09:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La iniciativa tiene como objetivo reforzar la visibilidad, el reconocimiento y la colaboración entre las secciones de la academia dedicadas a cada oficio",
+      "url": "https://cineuropa.org/es/newsdetail/491021/"
+    },
     {
       "id": "19d3200303ac",
       "title": "Entrevista: Florian Fernandez • Responsable, Short Film Corner | Rendez-vous Industry - “Siempre aspiramos a crear espacios donde todo el mundo pueda inspirarse, aprender y conectar” - Cannes 2026 - Marché du Film",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El cineasta danés regresa a la Croisette con su primer largometraje en una década, un thriller futurista protagonizado por Sophie Thatcher y Charles Melton, ambientado en Tokio y Copenhague",
       "url": "https://cineuropa.org/es/newsdetail/490723/"
-    },
-    {
-      "id": "5def18f4aafd",
-      "title": "Valentina Maurel presenta su segundo largometraje, Siempre soy tu animal materno, en el Un Certain Regard de Cannes - Producción / Financiación - Bélgica/Francia/México/Costa Rica",
-      "source": "Cineuropa",
-      "date": "JUE 30 ABR 2026",
-      "date_iso": "2026-04-30T08:05:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Tras haber conquistado Locarno, la directora de origen costarricense afincada en Bélgica regresa al festival francés",
-      "url": "https://cineuropa.org/es/newsdetail/490709/"
-    },
-    {
-      "id": "c6c898d604f1",
-      "title": "Maria Sole Tognazzi rueda Iside - Producción / Financiación - Italia",
-      "source": "Cineuropa",
-      "date": "JUE 30 ABR 2026",
-      "date_iso": "2026-04-30T08:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Monica Bellucci, Jasmine Trinca y las dos jóvenes revelaciones del cine italiano Romana Maggiora Vergano y Tecla Insolia son protagonistas de la película",
-      "url": "https://cineuropa.org/es/newsdetail/490708/"
     }
   ],
   "releases": [
