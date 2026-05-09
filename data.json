@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-09T16:59:12.901791",
+  "last_updated": "2026-05-09T23:56:39.970819",
   "news": [
+    {
+      "id": "2bbeaf354d0a",
+      "title": "“Barrio Triste” obtuvo el máximo premio del festival",
+      "source": "Escribiendo Cine",
+      "date": "SÁB 9 MAY 2026",
+      "date_iso": "2026-05-09T23:56:38.302517",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/09/22338-todos-los-ganadores-de-indielisboa-2026"
+    },
     {
       "id": "1e0cf2a41c18",
       "title": "Quince películas que esperamos impacientemente de Cannes 2026 - Cannes 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El director francés desgrana su historia sobre tres adolescentes que intentan salvar a una misteriosa entidad sonora de unos agentes secretos que pretenden convertirla en un arma",
       "url": "https://cineuropa.org/es/interview/490758/"
-    },
-    {
-      "id": "3f22c8692ff3",
-      "title": "Her Private Hell, de Nicolas Winding Refn, pone rumbo a Cannes - Producción / Financiación - Estados Unidos/Dinamarca",
-      "source": "Cineuropa",
-      "date": "JUE 30 ABR 2026",
-      "date_iso": "2026-04-30T09:03:22",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cineasta danés regresa a la Croisette con su primer largometraje en una década, un thriller futurista protagonizado por Sophie Thatcher y Charles Melton, ambientado en Tokio y Copenhague",
-      "url": "https://cineuropa.org/es/newsdetail/490723/"
     }
   ],
   "releases": [
