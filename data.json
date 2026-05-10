@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-10T16:59:48.919303",
+  "last_updated": "2026-05-10T23:59:17.824845",
   "news": [
+    {
+      "id": "65ba5a0bb244",
+      "title": "Festival Internacional de Cine de las Alturas 2026",
+      "source": "Escribiendo Cine",
+      "date": "DOM 10 MAY 2026",
+      "date_iso": "2026-05-10T23:59:15.546247",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/10/22359-jujuy-vuelve-a-convertirse-en-capital-del-cine-andino"
+    },
     {
       "id": "2bbeaf354d0a",
       "title": "“Barrio Triste” obtuvo el máximo premio del festival",
@@ -588,18 +600,6 @@
       "cat": "PLATAFORMAS",
       "excerpt": "La profesional alemana de la locución analiza la situación actual con Netflix y si es posible trabajar con voces generadas por IA de forma ética",
       "url": "https://cineuropa.org/es/interview/490763/"
-    },
-    {
-      "id": "b363868caedc",
-      "title": "Entrevista: Romain Daudet-Jahan • Director de Kyma - “Kyma es mi respuesta al cine estadounidense: trata de un ser misterioso que no llega a Manhattan ni a Los Ángeles, sino a mi región, en Francia” - BIFFF 2026",
-      "source": "Cineuropa",
-      "date": "JUE 30 ABR 2026",
-      "date_iso": "2026-04-30T10:38:49",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director francés desgrana su historia sobre tres adolescentes que intentan salvar a una misteriosa entidad sonora de unos agentes secretos que pretenden convertirla en un arma",
-      "url": "https://cineuropa.org/es/interview/490758/"
     }
   ],
   "releases": [
