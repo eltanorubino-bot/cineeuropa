@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-11T13:46:40.364283",
+  "last_updated": "2026-05-11T17:57:58.877784",
   "news": [
+    {
+      "id": "8b6269a298d1",
+      "title": "Festival Internacional de Cine Fantástico",
+      "source": "Escribiendo Cine",
+      "date": "LUN 11 MAY 2026",
+      "date_iso": "2026-05-11T17:57:55.223434",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/11/22380-nieve-roja-2026-el-bolson-vuelve-a-convertirse-en-territorio-del-cine-de-terror-y-fantastico"
+    },
     {
       "id": "65ba5a0bb244",
       "title": "Festival Internacional de Cine de las Alturas 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El thriller de época sobre la caza de brujas, protagonizado por Sophie Thatcher, Erin Kellyman y Joe Alwyn, narra una historia de venganza femenina y tiene previsto iniciar su rodaje en Polonia este septiembre",
       "url": "https://cineuropa.org/es/newsdetail/490778/"
-    },
-    {
-      "id": "ab0d3b0aac10",
-      "title": "Entrevista: Anna-Sophia Lumpe • Presidenta, Asociación Alemana de Dobladores (VDS) - “Tengo la sensación de que nos encontramos en una situación en la que tenemos que explicar a la gente qué es un ser humano” - /Alemania",
-      "source": "Cineuropa",
-      "date": "JUE 30 ABR 2026",
-      "date_iso": "2026-04-30T11:26:15",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La profesional alemana de la locución analiza la situación actual con Netflix y si es posible trabajar con voces generadas por IA de forma ética",
-      "url": "https://cineuropa.org/es/interview/490763/"
     }
   ],
   "releases": [
