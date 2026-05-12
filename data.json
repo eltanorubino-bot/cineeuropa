@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-05-12T13:03:29.723576",
+  "last_updated": "2026-05-12T18:02:30.819944",
   "news": [
+    {
+      "id": "ead078916dd2",
+      "title": "Los anuncios del Marché du Film de Cannes - Cannes 2026 - Marché du Film",
+      "source": "Cineuropa",
+      "date": "MAR 12 MAY 2026",
+      "date_iso": "2026-05-12T15:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: Un vistazo a las adquisiciones, las ventas, las nuevas películas y demás noticias del mercado de Cannes, que tiene lugar del 12 al 20 de mayo",
+      "url": "https://cineuropa.org/es/newsdetail/491181/"
+    },
+    {
+      "id": "407e779f4793",
+      "title": "EXCLUSIVA: Póster de Siempre seré tu animal materno, seleccionada en el Un Certain Regard de Cannes - Cannes 2026 - Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "MAR 12 MAY 2026",
+      "date_iso": "2026-05-12T14:55:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El nuevo trabajo de Valentina Maurel tras su aclamado debut Tengo sueños eléctricos sigue a una joven que regresa a Costa Rica tras años de estudios en Europa",
+      "url": "https://cineuropa.org/es/newsdetail/491180/"
+    },
+    {
+      "id": "d39964cb3a11",
+      "title": "Enrico Vannucci presenta Eurimages en el Bellaria Film Festival - Industria / Mercado - Italia",
+      "source": "Cineuropa",
+      "date": "MAR 12 MAY 2026",
+      "date_iso": "2026-05-12T14:18:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El director ejecutivo adjunto del fondo del Consejo de Europa expuso al público del certamen italiano sus elementos clave y sus últimas estadísticas",
+      "url": "https://cineuropa.org/es/newsdetail/491161/"
+    },
+    {
+      "id": "c11058dc403f",
+      "title": "Latido Films lleva La luz, de Fernando Franco, a Cannes - Cannes 2026 - Marché du Film",
+      "source": "Cineuropa",
+      "date": "MAR 12 MAY 2026",
+      "date_iso": "2026-05-12T14:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los últimos trabajos de Gerardo Herrero, David Pérez Sañudo y Claudia Pinto también figuran en el catálogo de la agencia de ventas española",
+      "url": "https://cineuropa.org/es/newsdetail/491160/"
+    },
+    {
+      "id": "390b5439d7fc",
+      "title": "Il Derry Social Club debuta en el Fantastic Pavilion del Marché du Film - Cannes 2026 – Marché du Film",
+      "source": "Cineuropa",
+      "date": "MAR 12 MAY 2026",
+      "date_iso": "2026-05-12T11:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los autores y productores italianos de los cuatro proyectos de género seleccionados para el foro de pitching estarán a disposición para reunirse con coproductores, agentes de ventas y distribuidores",
+      "url": "https://cineuropa.org/es/newsdetail/491163/"
+    },
+    {
+      "id": "daa01d5380ec",
+      "title": "LevelK desvela un catálogo con múltiples géneros para el Marché du Film - Cannes 2026 – Marché du Film",
+      "source": "Cineuropa",
+      "date": "MAR 12 MAY 2026",
+      "date_iso": "2026-05-12T10:58:20",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El agente de ventas internacionales y agregación danés presentará una amplia selección de dramas, comedias, thrillers y títulos familiares en el mercado de este año",
+      "url": "https://cineuropa.org/es/newsdetail/491164/"
+    },
     {
       "id": "8b6269a298d1",
       "title": "Festival Internacional de Cine Fantástico",
@@ -528,78 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Guillermo Galoe, Leonardo van Dijl, Mara Tamkovich, Moonika Siimets y Sofia Exarchou participarán en la iniciativa de este año",
       "url": "https://cineuropa.org/es/newsdetail/490759/"
-    },
-    {
-      "id": "2e1d4873f991",
-      "title": "Festival Internacional de Cinema da Fronteira",
-      "source": "Escribiendo Cine",
-      "date": "DOM 3 MAY 2026",
-      "date_iso": "2026-05-03T23:56:27.999737",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/05/03/22149-el-festival-de-cinema-da-fronteira-anuncio-a-sus-ganadores-el-cine-iberoamericano-marca-el-pulso-de-la-17-edicion"
-    },
-    {
-      "id": "0d041ecfbe30",
-      "title": "#JEONJU2026 | El retorno de la crónica festivalera",
-      "source": "A Sala Llena",
-      "date": "VIE 1 MAY 2026",
-      "date_iso": "2026-05-01T14:53:37",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "No existe el amor por el cine sin el amor por los libros de cine. Thierry Frémaux en su libro Selección oficial Primera introducción Estas crónicas (a continuación) deberían haber empezado ayer. O hace dos días. Pero la locura de los festivales, ser el esposo de una de las programadoras del festi...",
-      "url": "https://asalallena.com.ar/jeonju2026-el-retorno-de-la-cronica-festivalera/"
-    },
-    {
-      "id": "85641c92120d",
-      "title": "Be For Films entra en la competición de Cannes con La vie d’une femme - Cannes 2026 - Marché du Film",
-      "source": "Cineuropa",
-      "date": "JUE 30 ABR 2026",
-      "date_iso": "2026-04-30T14:05:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Tras el Oso de Oro en Berlín con Yellow Letters, la compañía belga aspirará a la Palma de Oro con la nueva película de Charline Bourgeois-Tacquet",
-      "url": "https://cineuropa.org/es/newsdetail/490740/"
-    },
-    {
-      "id": "2b3f4820047a",
-      "title": "Mario Casas dirige A puño descubierto - Producción / Financiación - España",
-      "source": "Cineuropa",
-      "date": "JUE 30 ABR 2026",
-      "date_iso": "2026-04-30T14:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El actor español protagoniza su segundo largometraje como director, una producción de Nostromo Pictures, junto al intérprete principal de su debut, su hermano Óscar Casas",
-      "url": "https://cineuropa.org/es/newsdetail/490766/"
-    },
-    {
-      "id": "7037a0d1dde8",
-      "title": "Pyramide International pone rumbo a Cannes - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "JUE 30 ABR 2026",
-      "date_iso": "2026-04-30T13:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "El agente de ventas francés apostará en particular por las películas de Gessica Généus y de Christophe Honoré en Cannes Première, y por las de Zou Jing y de Pierre Le Gall en la Semana de la Crítica",
-      "url": "https://cineuropa.org/es/newsdetail/490719/"
-    },
-    {
-      "id": "b6dba6b50693",
-      "title": "Christopher Andrews lanzará Cavendish en el Marché du Film de Cannes - Producción / Financiación - Reino Unido/Polonia",
-      "source": "Cineuropa",
-      "date": "JUE 30 ABR 2026",
-      "date_iso": "2026-04-30T12:04:57",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El thriller de época sobre la caza de brujas, protagonizado por Sophie Thatcher, Erin Kellyman y Joe Alwyn, narra una historia de venganza femenina y tiene previsto iniciar su rodaje en Polonia este septiembre",
-      "url": "https://cineuropa.org/es/newsdetail/490778/"
     }
   ],
   "releases": [
