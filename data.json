@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-12T18:02:30.819944",
+  "last_updated": "2026-05-13T00:08:00.789855",
   "news": [
+    {
+      "id": "5ec2bf214fee",
+      "title": "Crítica: La Vénus Électrique - Cannes 2026 – Fuera de competición",
+      "source": "Cineuropa",
+      "date": "MAR 12 MAY 2026",
+      "date_iso": "2026-05-12T21:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Pierre Salvadori entrelaza lo verdadero y lo falso, el arte y el engaño, en el pequeño y seductor teatro de una comedia romántica puesta en escena con mano maestra",
+      "url": "https://cineuropa.org/es/newsdetail/490901/"
+    },
     {
       "id": "ead078916dd2",
       "title": "Los anuncios del Marché du Film de Cannes - Cannes 2026 - Marché du Film",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La serie, ganadora del premio de los estudiantes en Canneseries, retrata a unas ovejas que creen haber domesticado a los humanos hasta que se ven obligadas a luchar contra ellos",
       "url": "https://cineuropa.org/es/interview/490800/"
-    },
-    {
-      "id": "057bb9c7228a",
-      "title": "Transatlantic Stars refuerza los lazos entre la Unión Europea y Estados Unidos mediante un nuevo intercambio de cineastas - Industria / Mercado - Europa/Estados Unidos",
-      "source": "Cineuropa",
-      "date": "LUN 4 MAY 2026",
-      "date_iso": "2026-05-04T07:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Guillermo Galoe, Leonardo van Dijl, Mara Tamkovich, Moonika Siimets y Sofia Exarchou participarán en la iniciativa de este año",
-      "url": "https://cineuropa.org/es/newsdetail/490759/"
     }
   ],
   "releases": [
