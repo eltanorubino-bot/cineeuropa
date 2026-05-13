@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-05-13T00:08:00.789855",
+  "last_updated": "2026-05-13T13:09:39.226684",
   "news": [
+    {
+      "id": "cc7e4fa33650",
+      "title": "#CANNES79 | Crítica de “La Vénus électrique”, film de apertura dirigido por Pierre Salvadori",
+      "source": "A Sala Llena",
+      "date": "MIÉ 13 MAY 2026",
+      "date_iso": "2026-05-13T10:41:36",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "EL APAGÓN ELÉCTRICO Es sabido que a los franceses les atrae la idea de recrear, homenajear o concebir proyectos basados en determinados autores que no sean compatriotas, en este caso particular según palabras del propio director Pierre Salvadori (autor de la muy simpática Mujer de lujo), obras de...",
+      "url": "https://asalallena.com.ar/cannes79-critica-de-la-venus-electrique-film-de-apertura-dirigido-por-pierre-salvadori/"
+    },
+    {
+      "id": "e7a12b7ba7e7",
+      "title": "El Consejo de Europa amplía el programa de coproducción de series con nuevas alianzas e iniciativas culturales - Industria / Mercado - Europa",
+      "source": "Cineuropa",
+      "date": "MIÉ 13 MAY 2026",
+      "date_iso": "2026-05-13T08:36:30",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La edición de 2026 del Programa Piloto para Coproducciones de Series amplía su alcance, incorporando apoyo a la formación, a la animación y a iniciativas que exploran el impacto social",
+      "url": "https://cineuropa.org/es/newsdetail/491222/"
+    },
+    {
+      "id": "079af9cff7f5",
+      "title": "Crítica: In Waves - Cannes 2026 - Semana de la Crítica",
+      "source": "Cineuropa",
+      "date": "MIÉ 13 MAY 2026",
+      "date_iso": "2026-05-13T08:20:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Bajo el sol californiano, el surf, la juventud, el amor y la sombra de la muerte atraviesan el emocionante y conmovedor debut en el largometraje de animación de Phuong Mai Nguyen",
+      "url": "https://cineuropa.org/es/newsdetail/490963/"
+    },
     {
       "id": "5ec2bf214fee",
       "title": "Crítica: La Vénus Électrique - Cannes 2026 – Fuera de competición",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El debut de Stefan Đorđević se alza con el galardón de la red Moving Images – Open Borders en el festival de cine de Linz, mientras Cineuropa continúa su colaboración con la iniciativa",
       "url": "https://cineuropa.org/es/newsdetail/490837/"
-    },
-    {
-      "id": "9aba71c81e78",
-      "title": "El Festival de Cine Fantástico y de Terror de Haapsalu se clausura con galardones para Egghead Republic and I Owe You One - HOFF 2026 - Premios",
-      "source": "Cineuropa",
-      "date": "LUN 4 MAY 2026",
-      "date_iso": "2026-05-04T14:33:28",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El certamen estonio también ha rendido homenaje al primer especialista del país, Aldo Tammsaar",
-      "url": "https://cineuropa.org/es/newsdetail/490836/"
-    },
-    {
-      "id": "b1c3b07b4341",
-      "title": "Entrevista: Vilja Keskimäki e Ima Iduozee • Guionista y director de Sneakermania - “Los jóvenes están tomando la iniciativa para perseguir sus sueños y poner en marcha negocios, algo que no era habitual cuando éramos jóvenes” - Canneseries 2026",
-      "source": "Cineuropa",
-      "date": "LUN 4 MAY 2026",
-      "date_iso": "2026-05-04T08:57:13",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La guionista y el director de la serie finlandesa se asoman a los adolescentes de hoy y elogian su ambición",
-      "url": "https://cineuropa.org/es/interview/490801/"
-    },
-    {
-      "id": "b7d8dd27b427",
-      "title": "Entrevista: Alex Reinberg y Leni Gruber • Creadores de Sheep - “No se puede ser demasiado sutil cuando se trabaja con ovejas de verdad” - Canneseries 2026",
-      "source": "Cineuropa",
-      "date": "LUN 4 MAY 2026",
-      "date_iso": "2026-05-04T08:44:34",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La serie, ganadora del premio de los estudiantes en Canneseries, retrata a unas ovejas que creen haber domesticado a los humanos hasta que se ven obligadas a luchar contra ellos",
-      "url": "https://cineuropa.org/es/interview/490800/"
     }
   ],
   "releases": [
