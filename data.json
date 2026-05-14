@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-05-14T12:23:35.847358",
+  "last_updated": "2026-05-14T17:56:01.729895",
   "news": [
+    {
+      "id": "3d4b8a2c0bf8",
+      "title": "Entrevista: Rudi Rosenberg • Director de Quelques mots d'amour - \"Como en la vida, el humor se mezcla con lo trágico\" - Cannes 2026 – Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T15:05:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: El cineasta francés explica la génesis de su segundo largometraje, un conmovedor melodrama interpretado por Hafsia Herzi y la joven Nour Salam",
+      "url": "https://cineuropa.org/es/interview/491015/"
+    },
+    {
+      "id": "0730da14a658",
+      "title": "Crítica: El deshielo - Cannes 2026 – Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T14:50:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Manuella Martelli firma una obra sutil, atmosférica y alusiva en torno a una desaparición enigmática en un hotel de montaña",
+      "url": "https://cineuropa.org/es/newsdetail/491107/"
+    },
+    {
+      "id": "deb80e73ddfa",
+      "title": "Crítica: Dua - Cannes 2026 – Semana de la Crítica",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T14:31:32",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Blerta Basholli aporta una claridad de mirada innegablemente poderosa a su segundo largometraje, que sigue a una adolescente que crece en la Pristina de finales de los noventa",
+      "url": "https://cineuropa.org/es/newsdetail/491398/"
+    },
+    {
+      "id": "51f9cb5c7b33",
+      "title": "Crítica: Gabin - Cannes 2026 – Quincena de los Cineastas",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T13:38:26",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Al capturar diez años de vida, el documentalista Maxence Voiseux firma una notable experiencia cinematográfica, anclada en lo humano y tejida con una sutil trama",
+      "url": "https://cineuropa.org/es/newsdetail/491052/"
+    },
+    {
+      "id": "7c6d10003cbf",
+      "title": "Crítica: Butterfly Jam - Cannes 2026 – Quincena de los Cineastas",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T13:23:39",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: En el tercer largometraje de Kantemir Balagov, el nuevo personaje de padre soltero de Barry Keoghan se ve inmerso en una crisis de masculinidad con su hijo adolescente",
+      "url": "https://cineuropa.org/es/newsdetail/491369/"
+    },
+    {
+      "id": "25b790fe1753",
+      "title": "Entrevista: Phuong Mai Nguyen • Directora de In Waves - \"Quería compartir una historia con la que todo el mundo pueda conectar aunque sea muy personal y muy íntima\" - Cannes 2026 – Semana de la Crítica",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T13:01:25",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: La directora francovietnamita relata la génesis y la realización de un primer largo de animación muy potente sobre el amor, la muerte y el surf",
+      "url": "https://cineuropa.org/es/interview/491368/"
+    },
+    {
+      "id": "2e8fc2c5efd2",
+      "title": "Crítica: Ceniza en la boca - Cannes 2026 – Proyecciones especiales",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T12:40:04",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: La cuarta película de Diego Luna es un drama sobre la inmigración, crudo y compasivo, que sigue el periplo de una niña y su familia fracturada entre México y España",
+      "url": "https://cineuropa.org/es/newsdetail/491364/"
+    },
     {
       "id": "c780fbef61de",
       "title": "Crítica: Quelques mots d'amour - Cannes 2026 – Un Certain Regard",
@@ -48,6 +132,30 @@
       "cat": "CRÍTICAS",
       "excerpt": "CANNES 2026: La prometedora Charline Bourgeois-Tacquet firma un retrato cinematográfico de lo cotidiano, delicado y de gran maestría, sostenido por una Léa Drucker en la cima de su arte",
       "url": "https://cineuropa.org/es/newsdetail/491294/"
+    },
+    {
+      "id": "66de977de160",
+      "title": "Entrevista: Ismael Curbelo • Director, Festival Internacional de Cine de Lanzarote - “Siempre hemos querido que el cine sea inclusivo, sin edades” - Lanzarote FICL 2026",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T07:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El capitán del barco repleto de cortos que se pueden disfrutar estos días confiesa sentirse fascinado por la participación de niños y mayores en un evento que no cierra puertas a nadie",
+      "url": "https://cineuropa.org/es/interview/491301/"
+    },
+    {
+      "id": "b5cdc3c25201",
+      "title": "#CANNES79 | Crítica de “El partido”, film codirigido por Juan Cabral y Santiago Franco",
+      "source": "A Sala Llena",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T01:46:25",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "Hay películas cuya fecha de estreno puede considerarse muy oportuna. Es el caso de El partido, de Juan Cabral y Santiago Franco, que aprovecha la cercanía temporal de la Copa del mundo de la FIFA, en pocas semanas. Pero además muestra dos momentos muy distintos del fútbol argentino, hace sesenta ...",
+      "url": "https://asalallena.com.ar/cannes79-critica-de-el-partido-film-codirigido-por-juan-cabral-y-santiago-franco/"
     },
     {
       "id": "1b2f1713ed03",
@@ -492,114 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El nuevo largometraje del director letón Viesturs Kairišs es un drama biográfico basado en la juventud y los inicios de la carrera de la baloncestista de fama mundial Ulyana Semjonova",
       "url": "https://cineuropa.org/es/newsdetail/490896/"
-    },
-    {
-      "id": "02ef5f2923e6",
-      "title": "Films Boutique vende las seleccionadas en Cannes Aquí y Tin Castle - Cannes 2026 - Marché du Film",
-      "source": "Cineuropa",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T15:52:44",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "En la cartera del agente de ventas brilla la cinta de Tiago Guedes en Cannes Première y el documental de Alexander Murphy en la Semana de la Crítica, además de una nómina de títulos para el mercado",
-      "url": "https://cineuropa.org/es/newsdetail/490899/"
-    },
-    {
-      "id": "118ae61bd64c",
-      "title": "Luxbox vende cinco películas seleccionadas en Cannes - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T15:50:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "El agente de ventas apuesta por Lisandro Alonso y Bruno Dumont en la Quincena de los Cineastas, Katharina Rivilis y Diego Luna en Sección Oficial y Bruno Santamaría Razo en la Semana de la Crítica",
-      "url": "https://cineuropa.org/es/newsdetail/490863/"
-    },
-    {
-      "id": "4e38f2f9a6ad",
-      "title": "Heretic llega a Cannes con Siempre soy tu animal materno - Cannes 2026 - Marché du Film",
-      "source": "Cineuropa",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T15:46:36",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La compañía con sede en Atenas venderá la cinta de Valentina Maurel y la comedia negra sueca Adult Supervision, y continuará con las preventas de Twice Over, de Alena Lodkina",
-      "url": "https://cineuropa.org/es/newsdetail/490898/"
-    },
-    {
-      "id": "def53a6b2d9b",
-      "title": "Lituania refuerza su presencia en Cannes con Vesna, Ulya y Class Photo - Cannes 2026/Patrocinado",
-      "source": "Cineuropa",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T12:15:07",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Con presencia en las proyecciones especiales, Un Certain Regard y la Semana de la Crítica, el país báltico está llamado a dejar huella en la Croisette",
-      "url": "https://cineuropa.org/es/newsdetail/490875/"
-    },
-    {
-      "id": "74db258ecc89",
-      "title": "El drama deportivo de Viesturs Kairišs, Ulya, representará a Letonia en el Festival de Cannes de este año - Cannes 2026/Patrocinado",
-      "source": "Cineuropa",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T12:09:39",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "Con un destacado estreno en Un Certain Regard y un equipo creativo de alto perfil, Letonia está llamada a causar un notable impacto en la Croisette",
-      "url": "https://cineuropa.org/es/newsdetail/490874/"
-    },
-    {
-      "id": "3b51ccf7ed1e",
-      "title": "Óliver Laxe habla de su carrera en la 8.ª edición de Gabes Cinema Fen - Festivales / Premios - Túnez",
-      "source": "Cineuropa",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T11:34:01",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La masterclass del director fue menos una hoja de ruta profesional y más una reflexión personal sobre su proceso, su sentimiento de no pertenecer y la importancia de cuestionar sus intenciones",
-      "url": "https://cineuropa.org/es/newsdetail/490873/"
-    },
-    {
-      "id": "5a5d17c9b357",
-      "title": "Entrevista: Helmut Jänes • Director, Festival de Cine Fantástico y de Terror de Haapsalu - “Durante el festival, Haapsalu se transforma en un pueblo a lo Twin Peaks donde empiezan a suceder cosas extrañas” - HOFF 2026",
-      "source": "Cineuropa",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T11:25:32",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director del festival estonio habla de premiar a Aldo Tammsaar y de darlo todo durante la Walpurgis Night Race",
-      "url": "https://cineuropa.org/es/interview/490872/"
-    },
-    {
-      "id": "79e98cb9611d",
-      "title": "Europa Distribution analiza el impacto medioambiental del sector durante el Green Distribution Lab online - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T10:42:38",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La sesión sirvió de espacio para compartir herramientas y recomendaciones para distribuidores, así como posibles acciones para mejorar la sostenibilidad del sector",
-      "url": "https://cineuropa.org/es/newsdetail/490868/"
-    },
-    {
-      "id": "8d4dbceb01c3",
-      "title": "Cannes anuncia los ocho miembros del jurado que acompañarán al presidente Park Chan-wook - Cannes 2026",
-      "source": "Cineuropa",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T08:15:24",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El jurado que otorgará la Palma de Oro incluye a Demi Moore, Ruth Negga, Laura Wandel, Chloé Zhao, Diego Céspedes, Isaach De Bankolé, Paul Laverty y Stellan Skarsgård",
-      "url": "https://cineuropa.org/es/newsdetail/490846/"
     }
   ],
   "releases": [
