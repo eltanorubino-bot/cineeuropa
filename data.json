@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-05-14T00:10:11.788681",
+  "last_updated": "2026-05-14T12:23:35.847358",
   "news": [
+    {
+      "id": "c780fbef61de",
+      "title": "Crítica: Quelques mots d'amour - Cannes 2026 – Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T11:05:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Rudi Rosenberg ofrece un melodrama sobrio y profundamente conmovedor sobre una joven que busca al padre que nunca ha conocido",
+      "url": "https://cineuropa.org/es/newsdetail/491004/"
+    },
+    {
+      "id": "bbc31fd1acca",
+      "title": "Los ponentes de Cannes Next reclaman transparencia y consentimiento a medida que la IA transforma la producción audiovisual - Cannes 2026 – Marché du Film",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T09:15:36",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: Los expertos de la industria han debatido en el Marché du Film las implicaciones legales, éticas y creativas de integrar herramientas de IA en los flujos de trabajo del cine",
+      "url": "https://cineuropa.org/es/newsdetail/491299/"
+    },
+    {
+      "id": "47e43bb8f37f",
+      "title": "Crítica: L'Abandon - Cannes 2026 – Fuera de competición",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T08:14:22",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Vincent Garenq propone una tensa reconstrucción de los últimos días del profesor francés Samuel Paty, que explora el fracaso institucional y el coste humano de la histeria social",
+      "url": "https://cineuropa.org/es/newsdetail/491296/"
+    },
+    {
+      "id": "d63420c1eb68",
+      "title": "Crítica: La Vie d’une femme - Cannes 2026 – Competición",
+      "source": "Cineuropa",
+      "date": "JUE 14 MAY 2026",
+      "date_iso": "2026-05-14T08:01:12",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: La prometedora Charline Bourgeois-Tacquet firma un retrato cinematográfico de lo cotidiano, delicado y de gran maestría, sostenido por una Léa Drucker en la cima de su arte",
+      "url": "https://cineuropa.org/es/newsdetail/491294/"
+    },
     {
       "id": "1b2f1713ed03",
       "title": "Crítica: Nagi Notes - Cannes 2026 – Competición",
@@ -552,54 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El jurado que otorgará la Palma de Oro incluye a Demi Moore, Ruth Negga, Laura Wandel, Chloé Zhao, Diego Céspedes, Isaach De Bankolé, Paul Laverty y Stellan Skarsgård",
       "url": "https://cineuropa.org/es/newsdetail/490846/"
-    },
-    {
-      "id": "b2979ca4b6ac",
-      "title": "#JEONJU2026 | Es el pasado que vuelve",
-      "source": "A Sala Llena",
-      "date": "MAR 5 MAY 2026",
-      "date_iso": "2026-05-05T04:07:35",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1532635241-17e820acc59f?w=800&q=80",
-      "cat": "ARGENTINA",
-      "excerpt": "“La vergüenza de haber sido Y el dolor de ya no ser.” Alfredo Le Pera &#8211; Cuesta abajo Lo que fuimos En mi reciente visita a mi Buenos Aires querido, una tarde me quise juntar con unos amigos pero ellos no pudieron, ya que se encontraban ocupados asistiendo a las funciones del festival MADO (...",
-      "url": "https://asalallena.com.ar/jeonju2026-es-el-pasado-que-vuelve/"
-    },
-    {
-      "id": "f7495e2fd4d4",
-      "title": "Festival de Cannes 2026",
-      "source": "Escribiendo Cine",
-      "date": "LUN 4 MAY 2026",
-      "date_iso": "2026-05-04T17:43:50.624857",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/05/04/22167-el-jurado-de-cannes-2026-entre-la-industria-global-y-las-nuevas-miradas-del-cine"
-    },
-    {
-      "id": "d0064e500c8a",
-      "title": "Entrevista: Carlo Cresto-Dina • Productor, Tempesta - “Un número cada vez más reducido de actores del sector decide hoy qué historias se cuentan, cómo y por quién” - Foco productores independientes/Italia",
-      "source": "Cineuropa",
-      "date": "LUN 4 MAY 2026",
-      "date_iso": "2026-05-04T15:05:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El productor italiano reflexiona sobre la autoría, las presiones del mercado y por qué el cine europeo corre el riesgo de perder su biodiversidad",
-      "url": "https://cineuropa.org/es/interview/490835/"
-    },
-    {
-      "id": "e411690ab922",
-      "title": "Titanic Ocean tendrá su estreno mundial en el Un Certain Regard de Cannes - Producción / Financiación - Grecia/Alemania/Rumanía/España/Japón",
-      "source": "Cineuropa",
-      "date": "LUN 4 MAY 2026",
-      "date_iso": "2026-05-04T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "La ópera prima de la cineasta griega Konstantina Kotzamani es un relato de paso a la adultez ambientado en el surrealista mundo del entrenamiento profesional de sirenas",
-      "url": "https://cineuropa.org/es/newsdetail/490832/"
     }
   ],
   "releases": [
