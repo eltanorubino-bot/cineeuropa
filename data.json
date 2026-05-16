@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-05-16T17:01:38.743658",
+  "last_updated": "2026-05-16T23:59:36.793204",
   "news": [
+    {
+      "id": "f7495e2fd4d4",
+      "title": "Festival de Cannes 2026",
+      "source": "Escribiendo Cine",
+      "date": "SÁB 16 MAY 2026",
+      "date_iso": "2026-05-16T23:59:34.252127",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/16/22521-buenos-aires-tuvo-su-dia-en-cannes-de-la-casa-del-angel-restaurada-en-4k-al-desembarco-internacional-de-cyrano-en-mi-cabeza"
+    },
+    {
+      "id": "0c3b1acd2dd1",
+      "title": "Festival de Cine de las Alturas 2026",
+      "source": "Escribiendo Cine",
+      "date": "SÁB 16 MAY 2026",
+      "date_iso": "2026-05-16T23:59:34.251463",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/16/22524-genero-y-diversidad-el-cine-como-territorio-de-memoria-identidad-y-resistencia-en-jujuy"
+    },
     {
       "id": "4c8e53008118",
       "title": "#CANNES79 | Crítica de “El deshielo”, film dirigido por Manuela Martelli",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La iniciativa tiene como objetivo reforzar la visibilidad, el reconocimiento y la colaboración entre las secciones de la academia dedicadas a cada oficio",
       "url": "https://cineuropa.org/es/newsdetail/491021/"
-    },
-    {
-      "id": "19d3200303ac",
-      "title": "Entrevista: Florian Fernandez • Responsable, Short Film Corner | Rendez-vous Industry - “Siempre aspiramos a crear espacios donde todo el mundo pueda inspirarse, aprender y conectar” - Cannes 2026 - Marché du Film",
-      "source": "Cineuropa",
-      "date": "JUE 7 MAY 2026",
-      "date_iso": "2026-05-07T15:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El responsable de la sección del Marché du Film habla de sus últimos desarrollos, entre ellos el lanzamiento de “The Lab”, un espacio clave para el desarrollo de proyectos",
-      "url": "https://cineuropa.org/es/interview/491003/"
-    },
-    {
-      "id": "cf4e63dcb220",
-      "title": "Lucky Number venderá numerosos títulos en Cannes - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "JUE 7 MAY 2026",
-      "date_iso": "2026-05-07T15:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El agente de ventas francés contará con Laïla Marrakchi y Christophe Dimitri Réveille en la Sección Oficial, y con Jorge Thielen Armand y Dominga Sotomayor Castillo en la Quincena de los Cineastas",
-      "url": "https://cineuropa.org/es/newsdetail/490988/"
     }
   ],
   "releases": [
