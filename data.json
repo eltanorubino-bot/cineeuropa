@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-15T23:59:17.523092",
+  "last_updated": "2026-05-16T11:51:05.112597",
   "news": [
+    {
+      "id": "4c8e53008118",
+      "title": "#CANNES79 | Crítica de “El deshielo”, film dirigido por Manuela Martelli",
+      "source": "A Sala Llena",
+      "date": "SÁB 16 MAY 2026",
+      "date_iso": "2026-05-16T00:30:13",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El deshielo es el segundo largometraje de Manuela Martelli, realizadora chilena que previamente había presentado 1976 en 2022 y que en esta ocasión nos ofrece una historia más íntima y oscura. El deshielo puede definirse como un thriller dramático que sigue el punto de vista de una niña de nueve ...",
+      "url": "https://asalallena.com.ar/cannes79-critica-de-el-deshielo-film-dirigido-por-manuela-martelli/"
+    },
     {
       "id": "0613e60ace8e",
       "title": "Festivales de cine",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El agente de ventas francés contará con Laïla Marrakchi y Christophe Dimitri Réveille en la Sección Oficial, y con Jorge Thielen Armand y Dominga Sotomayor Castillo en la Quincena de los Cineastas",
       "url": "https://cineuropa.org/es/newsdetail/490988/"
-    },
-    {
-      "id": "1b820a402019",
-      "title": "New Europe Film Sales presenta un variado catálogo en el Marché du Film - Cannes 2026 - Marché du Film",
-      "source": "Cineuropa",
-      "date": "JUE 7 MAY 2026",
-      "date_iso": "2026-05-07T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "El agente de ventas polaco hace gala de una amplia selección que abarca animación, thrillers de supervivencia y cine europeo de autor, e incluye estrenos de mercado",
-      "url": "https://cineuropa.org/es/newsdetail/490990/"
     }
   ],
   "releases": [
