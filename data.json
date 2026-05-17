@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-05-16T23:59:36.793204",
+  "last_updated": "2026-05-17T11:58:38.264083",
   "news": [
+    {
+      "id": "cd44ccde1387",
+      "title": "Crítica de “El partido”, film codirigido por Juan Cabral y Santiago Franco",
+      "source": "A Sala Llena",
+      "date": "DOM 17 MAY 2026",
+      "date_iso": "2026-05-17T10:22:26",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "Hay películas cuya fecha de estreno puede considerarse muy oportuna. Es el caso de El partido, de Juan Cabral y Santiago Franco, que aprovecha la cercanía temporal de la Copa del mundo de la FIFA, en pocas semanas. Pero además muestra dos momentos muy distintos del fútbol argentino, hace sesenta ...",
+      "url": "https://asalallena.com.ar/critica-de-el-partido-film-codirigido-por-juan-cabral-y-santiago-franco/"
+    },
+    {
+      "id": "023ae1865905",
+      "title": "#CANNES79 | Sobre “La libertad doble” de Lisandro Alonso",
+      "source": "A Sala Llena",
+      "date": "DOM 17 MAY 2026",
+      "date_iso": "2026-05-17T09:57:50",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "IMPRIMIR NUESTRA LEYENDA Para vos, lo peor Es la libertad Sumo &#8211; Los viejos vinagres Lisandro Alonso, a casi 26 años de la realización de su ópera prima -misma edad que tenía al dirigirla-, recupera su libertad. Este comienzo bien podría ser el titular de un periódico argentino, pero el cin...",
+      "url": "https://asalallena.com.ar/cannes79-sobre-la-libertad-doble-de-lisandro-alonso/"
+    },
+    {
+      "id": "03a46c2f4aef",
+      "title": "#CANNES79 | Crítica de “La libertad doble”, film dirigido por Lisando Alonso",
+      "source": "A Sala Llena",
+      "date": "DOM 17 MAY 2026",
+      "date_iso": "2026-05-17T05:37:02",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La libertad doble se inicia con varias secuencias en las que vemos a Misael Saavedra reproduciendo acciones que ya le habíamos visto 25 años atrás en La libertad: comiendo un armadillo, podando y talando ramas, desenterrando un tronco para después talarlo, etc. Misael está muy cambiado, por supue...",
+      "url": "https://asalallena.com.ar/cannes79-critica-de-la-libertad-doble-film-dirigido-por-lisando-alonso/"
+    },
     {
       "id": "f7495e2fd4d4",
       "title": "Festival de Cannes 2026",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/05/10/22359-jujuy-vuelve-a-convertirse-en-capital-del-cine-andino"
-    },
-    {
-      "id": "2bbeaf354d0a",
-      "title": "“Barrio Triste” obtuvo el máximo premio del festival",
-      "source": "Escribiendo Cine",
-      "date": "SÁB 9 MAY 2026",
-      "date_iso": "2026-05-09T23:56:38.302517",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/05/09/22338-todos-los-ganadores-de-indielisboa-2026"
-    },
-    {
-      "id": "1e0cf2a41c18",
-      "title": "Quince películas que esperamos impacientemente de Cannes 2026 - Cannes 2026",
-      "source": "Cineuropa",
-      "date": "VIE 8 MAY 2026",
-      "date_iso": "2026-05-08T09:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Los nuevos trabajos de Cristian Mungiu, Ryûsuke Hamaguchi, James Gray y Los Javis lideran nuestra lista de títulos a los que seguir la pista en la Croisette",
-      "url": "https://cineuropa.org/es/newsdetail/491017/"
-    },
-    {
-      "id": "2191b47893a7",
-      "title": "La European Film Academy nombra a los primeros Chapter Principals en ocho disciplinas - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "VIE 8 MAY 2026",
-      "date_iso": "2026-05-08T09:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La iniciativa tiene como objetivo reforzar la visibilidad, el reconocimiento y la colaboración entre las secciones de la academia dedicadas a cada oficio",
-      "url": "https://cineuropa.org/es/newsdetail/491021/"
     }
   ],
   "releases": [
