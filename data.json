@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-05-19T00:14:26.366329",
+  "last_updated": "2026-05-19T13:54:28.454008",
   "news": [
+    {
+      "id": "b5f4ab2312dc",
+      "title": "#CANNES79 | Crítica de “Paper Tiger”, film dirigido por James Gray",
+      "source": "A Sala Llena",
+      "date": "MAR 19 MAY 2026",
+      "date_iso": "2026-05-19T09:32:58",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "COMO EN LOS 70s Ya hemos escrito largo y tendido sobre el director neoyorquino James Gray en este sitio y los temas frecuentes de sus films, como la referencia autobiográfica, el retrato de la familia judía que reside en Queens, los Estados Unidos de Reagan, la relación con las mafias o integrant...",
+      "url": "https://asalallena.com.ar/cannes79-critica-de-paper-tiger-film-dirigido-por-james-gray/"
+    },
+    {
+      "id": "b8c97cad46ec",
+      "title": "#CANNES79 | Crítica de “Fatherland”, film dirigido por Pawel Pawlikowski",
+      "source": "A Sala Llena",
+      "date": "MAR 19 MAY 2026",
+      "date_iso": "2026-05-19T00:16:20",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Pawel Pawlikowski dirige Fatherland, cerrando, luego de Ida y Cold War, la que bien podría considerarse una trilogía. La trama regresa nuevamente enfocando diversos aspectos de la Europa posterior a la Segunda Guerra Mundial, en el marco de la naciente “guerra fría” Mantiene similar formato que e...",
+      "url": "https://asalallena.com.ar/cannes79-critica-de-fatherland-film-dirigido-por-pawel-pawlikowski/"
+    },
     {
       "id": "cd44ccde1387",
       "title": "Crítica de “El partido”, film codirigido por Juan Cabral y Santiago Franco",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El agente de ventas internacionales y agregación danés presentará una amplia selección de dramas, comedias, thrillers y títulos familiares en el mercado de este año",
       "url": "https://cineuropa.org/es/newsdetail/491164/"
-    },
-    {
-      "id": "8b6269a298d1",
-      "title": "Festival Internacional de Cine Fantástico",
-      "source": "Escribiendo Cine",
-      "date": "LUN 11 MAY 2026",
-      "date_iso": "2026-05-11T17:57:55.223434",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/05/11/22380-nieve-roja-2026-el-bolson-vuelve-a-convertirse-en-territorio-del-cine-de-terror-y-fantastico"
-    },
-    {
-      "id": "65ba5a0bb244",
-      "title": "Festival Internacional de Cine de las Alturas 2026",
-      "source": "Escribiendo Cine",
-      "date": "DOM 10 MAY 2026",
-      "date_iso": "2026-05-10T23:59:15.546247",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/05/10/22359-jujuy-vuelve-a-convertirse-en-capital-del-cine-andino"
     }
   ],
   "releases": [
