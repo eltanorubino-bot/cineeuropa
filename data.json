@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-19T18:08:32.297765",
+  "last_updated": "2026-05-20T00:14:05.546581",
   "news": [
+    {
+      "id": "65a253f9f465",
+      "title": "#CANNES79 | Crítica de “Soudain / All of a Sudden”, film dirigido por Ryûsuke Hamaguchi",
+      "source": "A Sala Llena",
+      "date": "MAR 19 MAY 2026",
+      "date_iso": "2026-05-19T21:53:43",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La última película del realizador japonés Ryûsuke Hamaguchi, es probablemente su obra más sólida, superando inclusive a la célebre Drive My Car.  Los dos personajes femeninos centrales comparten su condición de bilingües. Marie-Lou Fontaine (Virginie Efira) es la directora de un centro privado de...",
+      "url": "https://asalallena.com.ar/cannes79-critica-de-soudain-all-of-a-sudden-film-dirigido-por-ryusuke-hamaguchi/"
+    },
     {
       "id": "b5f4ab2312dc",
       "title": "#CANNES79 | Crítica de “Paper Tiger”, film dirigido por James Gray",
@@ -12,6 +24,18 @@
       "cat": "CRÍTICAS",
       "excerpt": "COMO EN LOS 70s Ya hemos escrito largo y tendido sobre el director neoyorquino James Gray en este sitio y los temas frecuentes de sus films, como la referencia autobiográfica, el retrato de la familia judía que reside en Queens, los Estados Unidos de Reagan, la relación con las mafias o integrant...",
       "url": "https://asalallena.com.ar/cannes79-critica-de-paper-tiger-film-dirigido-por-james-gray/"
+    },
+    {
+      "id": "2105f6c7232e",
+      "title": "#CANNES79 | Crítica de “Amarga Navidad”, film dirigido por Pedro Almodóvar",
+      "source": "A Sala Llena",
+      "date": "MAR 19 MAY 2026",
+      "date_iso": "2026-05-19T03:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "De un tiempo a esta parte, desde al menos Dolor y gloria (2019), o quizás desde la anterior, Julieta (2016), el cine de Pedro Almodóvar parece gravitar en torno a una corta serie de temas que van pasando de unas películas a otras, como si todas formasen parte de una suerte de etapa de su [&#8230;...",
+      "url": "https://asalallena.com.ar/amarga-navidad/"
     },
     {
       "id": "b8c97cad46ec",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Los últimos trabajos de Gerardo Herrero, David Pérez Sañudo y Claudia Pinto también figuran en el catálogo de la agencia de ventas española",
       "url": "https://cineuropa.org/es/newsdetail/491160/"
-    },
-    {
-      "id": "390b5439d7fc",
-      "title": "Il Derry Social Club debuta en el Fantastic Pavilion del Marché du Film - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "MAR 12 MAY 2026",
-      "date_iso": "2026-05-12T11:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Los autores y productores italianos de los cuatro proyectos de género seleccionados para el foro de pitching estarán a disposición para reunirse con coproductores, agentes de ventas y distribuidores",
-      "url": "https://cineuropa.org/es/newsdetail/491163/"
-    },
-    {
-      "id": "daa01d5380ec",
-      "title": "LevelK desvela un catálogo con múltiples géneros para el Marché du Film - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "MAR 12 MAY 2026",
-      "date_iso": "2026-05-12T10:58:20",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El agente de ventas internacionales y agregación danés presentará una amplia selección de dramas, comedias, thrillers y títulos familiares en el mercado de este año",
-      "url": "https://cineuropa.org/es/newsdetail/491164/"
     }
   ],
   "releases": [
