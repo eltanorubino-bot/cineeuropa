@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-05-23T11:58:28.320153",
+  "last_updated": "2026-05-23T17:04:20.631612",
   "news": [
+    {
+      "id": "6e116e6d627d",
+      "title": "Entrevista: Zachary Wigon • Director de Victorian Psycho - “Me interesa la expresión más intensa y plena de la psicología y la emoción que se puede lograr en pantalla” - Cannes 2026 - Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T16:28:28",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: El director habla de género, estética y su compleja relación con la ética en su filme de terror psicológico ambientado en la era victoriana",
+      "url": "https://cineuropa.org/es/interview/491738/"
+    },
+    {
+      "id": "6b192acbb2e8",
+      "title": "Entrevista: Clio Barnard • Directora de I See Buildings Fall Like Lighting - “Todo el mundo quería lo mismo, que era ver a esos cinco personajes juntos en la pantalla” - Cannes 2026 - Quincena de los Cineastas",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T16:27:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: La directora británica habla de su nueva adaptación literaria y de rodar en Birmingham por primera vez",
+      "url": "https://cineuropa.org/es/interview/491737/"
+    },
+    {
+      "id": "db1574f42f30",
+      "title": "Crítica: Victorian Psycho - Cannes 2026 – Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T16:25:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: La endiabladamente entretenida comedia de terror gótica de Zachary Wigon se ve realzada por la interpretación deliciosamente desquiciada de Maika Monroe y unos excelentes decorados",
+      "url": "https://cineuropa.org/es/newsdetail/491743/"
+    },
+    {
+      "id": "5212bb8ac633",
+      "title": "Crítica: La muerte no tiene dueño - Cannes 2026 – Quincena de los Cineastas",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T16:08:25",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Jorge Thielen Armand nos coloca en la piel de una heredera de una plantación interpretada por Asia Argento, que se ve obligada a enfrentarse a los demonios coloniales de su familia",
+      "url": "https://cineuropa.org/es/newsdetail/491746/"
+    },
+    {
+      "id": "134318c97dd0",
+      "title": "Crítica: I See Buildings Fall Like Lightning - Cannes 2026 – Quincena de los Cineastas",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T14:54:18",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Clio Barnard regresa con un contundente drama coral ambientado en la Birmingham obrera, que sigue a cinco amigos de toda la vida mientras afrontan nuevos retos al cumplir los 30",
+      "url": "https://cineuropa.org/es/newsdetail/491742/"
+    },
+    {
+      "id": "547f510b03f9",
+      "title": "Entrevista: Katarina Rivilis • Directora de I’ll Be Gone in June - \"Es una historia como la de El principito: alguien llega de otro planeta, aprende de cada encuentro y luego tiene que volver a irse\" - Cannes 2026 - Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T14:45:17",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: La directora alemana habla de cómo se enamoró del paisaje desértico de Nuevo México mientras perfilaba el lenguaje visual íntimo y distintivo de la película",
+      "url": "https://cineuropa.org/es/video/491739/"
+    },
+    {
+      "id": "edb10bb70086",
+      "title": "Crítica: L’Affaire Marie-Claire - Cannes 2026 – Proyecciones especiales",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T13:28:29",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: El largometraje de Lauriane Escaffre e Yvo Muller relata el juicio de Bobigny, un momento histórico en el avance de los derechos reproductivos de las mujeres",
+      "url": "https://cineuropa.org/es/newsdetail/491740/"
+    },
     {
       "id": "f7495e2fd4d4",
       "title": "Festival de Cannes 2026",
@@ -516,90 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: La directora nos habla de su adaptación de la novela homónima de Annie Ernaux, donde filma con gran vivacidad tanto a esa joven en lucha como a la escritora en ciernes",
       "url": "https://cineuropa.org/es/interview/491658/"
-    },
-    {
-      "id": "178e9ef809bb",
-      "title": "Crítica: Seis meses en el edificio rosa con azul - Cannes 2026 – Semana de la Crítica",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T14:09:29",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Bruno Santamaría Razo combina ficción autobiográfica y documental al seguir a un chico en la Ciudad de México de los noventa que se enfrenta al diagnóstico de VIH de su padre",
-      "url": "https://cineuropa.org/es/newsdetail/491669/"
-    },
-    {
-      "id": "af85873dec66",
-      "title": "Crítica: Minotaur - Cannes 2026 - Competición",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T13:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Andrey Zvyagintsev pone en escena con una impresionante y muy rigurosa maestría una parábola funesta sobre la pareja, las fronteras de la libertad y la operación especial rusa en Ucrania",
-      "url": "https://cineuropa.org/es/newsdetail/491656/"
-    },
-    {
-      "id": "eec5d58e1ae6",
-      "title": "REPORT: Ventana Sur Goes to Cannes 2026 - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T13:07:31",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El mercado latinoamericano ha presentado cinco works-in-progress, desde el coming-of-age fantástico y el drama social hasta la aventura mitológica y el documental queer",
-      "url": "https://cineuropa.org/es/newsdetail/491668/"
-    },
-    {
-      "id": "9e58e9a21b9a",
-      "title": "Super Sila se alza como la gran vencedora en la muestra Docs-in-Progress de Cannes Docs - Cannes 2026 – Marché du Film/Premios",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T11:59:28",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El proyecto palestino de Mohammed Alshareef se ha alzado con el Premio IEFTA y el Premio Al Jazeera Documentary en la edición de este año",
-      "url": "https://cineuropa.org/es/newsdetail/491666/"
-    },
-    {
-      "id": "bd7d1534a3bc",
-      "title": "Crítica: Le triangle d’or - Cannes 2026 – Proyecciones especiales",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T11:33:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: El dinero corre a raudales pero no da la felicidad en la contundente ópera prima de Hélène Rosselet-Ruiz, una inmersión en clave femenina en una jaula de oro",
-      "url": "https://cineuropa.org/es/newsdetail/491585/"
-    },
-    {
-      "id": "05f7986433e1",
-      "title": "Crítica: Lucy Lost - Cannes 2026 – Proyecciones especiales",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T11:20:13",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: La versión animada para todos los públicos de Olivier Clert de una popular novela inglesa explora el trauma infantil durante la Primera Guerra Mundial",
-      "url": "https://cineuropa.org/es/newsdetail/491665/"
-    },
-    {
-      "id": "cffa1cd3b2e6",
-      "title": "Los cortometrajes de este año en Cannes y sus corrientes subterráneas de normalidad - Cannes 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T10:45:12",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: Antes de que se proyecten, echamos un vistazo a algunas de las obras que pugnan por la Palma de Oro, y encontramos a personas que intentan vivir con normalidad en un mundo incierto",
-      "url": "https://cineuropa.org/es/newsdetail/491664/"
     }
   ],
   "releases": [
