@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-05-23T17:04:20.631612",
+  "last_updated": "2026-05-24T00:03:36.133481",
   "news": [
+    {
+      "id": "c91e2108a87f",
+      "title": "\"Para los contrincantes\" de Federico Luis recibe la Palma de Oro al Mejor Cortometraje",
+      "source": "Escribiendo Cine",
+      "date": "DOM 24 MAY 2026",
+      "date_iso": "2026-05-24T00:03:33.380863",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/23/22728-todos-los-ganadores-de-los-premios-del-festival-de-cannes-2026"
+    },
+    {
+      "id": "97604f668f4c",
+      "title": "Cristian Mungiu se alza con su segunda Palma de Oro en Cannes con Fjord - Cannes 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T20:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: Minotaur recibe el Gran Premio, y Pawel Pawlikowski, el dúo formado por Javier Ambrossi y Javier Calvo, Valeska Grisebach, Emmanuel Marre y cuatro intérpretes se hacen con premios",
+      "url": "https://cineuropa.org/es/newsdetail/491749/"
+    },
+    {
+      "id": "604d5bfe6a7e",
+      "title": "Entrevista: Bertrand Mandico • Director de Roma Elastica - “Añadí otra capa a la historia de Roma” - Cannes 2026 – Proyecciones de medianoche",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T18:54:51",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: El director francés explica cómo su cinta protagonizada por Marion Cotillard es, de algún modo, un homenaje a todas las capas que conforman el cine italiano de las décadas de 1960 y 1970",
+      "url": "https://cineuropa.org/es/interview/491753/"
+    },
+    {
+      "id": "4380d4515365",
+      "title": "Crítica: L’Objet du délit - Cannes 2026 - Fuera de competición",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T18:18:04",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Agnès Jaoui sumerge la preparación de una ópera en el tumulto de los cuestionamientos que atraviesan la sociedad desde la deflagración de #metoo",
+      "url": "https://cineuropa.org/es/newsdetail/491725/"
+    },
+    {
+      "id": "5a036b290a59",
+      "title": "Crítica: Ulysse - Cannes 2026 - Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T18:16:25",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: La cinta de Laetitia Masson se centra en la perspectiva de una madre sobre el desarrollo de su hijo con discapacidad desde el nacimiento hasta su entrada en la edad adulta",
+      "url": "https://cineuropa.org/es/newsdetail/491748/"
+    },
+    {
+      "id": "85d4fbc4b46d",
+      "title": "Crítica: Ulya - Cannes 2026 – Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T18:08:30",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: Viesturs Kairišs regresa al blanco y negro con un biopic sobrio que rinde homenaje a una vida olvidada mientras plantea evidentes cuestiones sobre la representación",
+      "url": "https://cineuropa.org/es/newsdetail/491751/"
+    },
+    {
+      "id": "46f774846b98",
+      "title": "Crítica: Le Vertige - Cannes 2026 - Quincena de los Cineastas",
+      "source": "Cineuropa",
+      "date": "SÁB 23 MAY 2026",
+      "date_iso": "2026-05-23T17:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: La primera cinta de animación de Quentin Dupieux nos adentra en el valle inquietante, siguiendo a unos avatares con fallos de Alain Chabat y Jonathan Cohen",
+      "url": "https://cineuropa.org/es/newsdetail/491747/"
+    },
     {
       "id": "6e116e6d627d",
       "title": "Entrevista: Zachary Wigon • Director de Victorian Psycho - “Me interesa la expresión más intensa y plena de la psicología y la emoción que se puede lograr en pantalla” - Cannes 2026 - Un Certain Regard",
@@ -516,90 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "CANNES 2026: En su ópera prima, tras varios cortometrajes aclamados, Konstantina Kotzamani se sumerge de lleno en la cultura del mermaiding en Japón",
       "url": "https://cineuropa.org/es/newsdetail/491679/"
-    },
-    {
-      "id": "7f2f4e1cad86",
-      "title": "Entrevista: Volker Schlöndorff • Director de Visitation - “Con frecuencia, durante el rodaje, me daba cuenta de que quizá ya había hecho esta escena antes, en alguna otra película” - Cannes 2026 – Cannes Première",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T07:56:49",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El cineasta alemán desgrana su última película, que toca muchos temas recurrentes en su vasta filmografía, así como en su historia personal",
-      "url": "https://cineuropa.org/es/interview/491676/"
-    },
-    {
-      "id": "d2cf4346c2b4",
-      "title": "La Gradiva triunfa en la Semana de la Crítica de Cannes - Cannes 2026 - Semana de la Crítica/Premios",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T16:02:09",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: El primer largometraje de la francesa Marine Atlan se alza con el Gran Premio, y la catalana Aina Clotet se lleva un premio por su interpretación en Viva",
-      "url": "https://cineuropa.org/es/newsdetail/491675/"
-    },
-    {
-      "id": "a3c5c3ca2a11",
-      "title": "Crítica: Notre salut - Películas / Críticas",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T16:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Emmanuel Marre firma una película de época en clave actual, imaginando a un funcionario de Vichy que sueña con el éxito, apuntando su cámara al contracampo de la gran Historia",
-      "url": "https://cineuropa.org/es/newsdetail/491640/"
-    },
-    {
-      "id": "3548be924312",
-      "title": "Crítica: Les Roches rouges - Cannes 2026 – Quincena de los Cineastas",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T15:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Bruno Dumont se va al sur y reinventa la \"love story\" con la lucha de clases como telón de fondo y a escala de la infancia en una película audaz y formalmente lograda",
-      "url": "https://cineuropa.org/es/newsdetail/491642/"
-    },
-    {
-      "id": "f5c9cf88d242",
-      "title": "Crítica: Spring - Cannes 2026 – Proyecciones especiales",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T15:33:28",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: El filme de Rostislav Kirpičenko es una representación extremadamente cruda de la guerra en Ucrania, siguiendo a un sacerdote que devuelve en secreto los cuerpos de civiles a sus familias",
-      "url": "https://cineuropa.org/es/newsdetail/491674/"
-    },
-    {
-      "id": "efa87529c17d",
-      "title": "Entrevista: Alexander Murphy • Director de Tin Castle - \"Tenía la sensación de que la cámara se convertía en una prolongación de la familia, casi un undécimo hijo\" - Cannes 2026 – Semana de la Crítica",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T14:50:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: El documentalista francoirlandés explica cómo logró ganarse la confianza y captar la intimidad de una familia gitana que vive al margen del margen",
-      "url": "https://cineuropa.org/es/interview/491619/"
-    },
-    {
-      "id": "ea45890455a5",
-      "title": "Entrevista: Judith Godrèche • Directora de Mémoire de fille - \"¿Cómo se representa la vergüenza y la ausencia de consentimiento?\" - Cannes 2026 - Un Certain Regard",
-      "source": "Cineuropa",
-      "date": "MIÉ 20 MAY 2026",
-      "date_iso": "2026-05-20T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: La directora nos habla de su adaptación de la novela homónima de Annie Ernaux, donde filma con gran vivacidad tanto a esa joven en lucha como a la escritora en ciernes",
-      "url": "https://cineuropa.org/es/interview/491658/"
     }
   ],
   "releases": [
