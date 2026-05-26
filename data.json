@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-25T17:46:25.259234",
+  "last_updated": "2026-05-26T00:12:31.820534",
   "news": [
+    {
+      "id": "0613e60ace8e",
+      "title": "Festivales de cine",
+      "source": "Escribiendo Cine",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T00:12:30.213060",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/25/22776-panvision-anuncio-las-peliculas-seleccionadas-para-el-5-fala-so-chico-2026"
+    },
     {
       "id": "c91e2108a87f",
       "title": "\"Para los contrincantes\" de Federico Luis recibe la Palma de Oro al Mejor Cortometraje",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: El director danés desentraña su mezcla personal de los lados más oscuros de la vida y la muerte, con algunos protagonistas decididamente disfuncionales y algunos demonios",
       "url": "https://cineuropa.org/es/interview/491682/"
-    },
-    {
-      "id": "c3fe1ce9198a",
-      "title": "Crítica: Titanic Ocean - Cannes 2026 - Un Certain Regard",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T08:30:10",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: En su ópera prima, tras varios cortometrajes aclamados, Konstantina Kotzamani se sumerge de lleno en la cultura del mermaiding en Japón",
-      "url": "https://cineuropa.org/es/newsdetail/491679/"
     }
   ],
   "releases": [
