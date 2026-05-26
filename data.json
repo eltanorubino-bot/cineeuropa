@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-05-26T13:52:10.120607",
+  "last_updated": "2026-05-26T18:29:50.665753",
   "news": [
+    {
+      "id": "cf0ff0fac8b8",
+      "title": "Entrevista: Anna Ramskogler-Witt • Directora artística, Doxumentale - “El momento actual exige un replanteamiento y una auténtica ampliación de lo que puede ser la no ficción” - /Alemania",
+      "source": "Cineuropa",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T15:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La directora artística del festival de documentales berlinés habla de su inminente edición, de sus iniciativas profesionales y de su vínculo con la capital alemana",
+      "url": "https://cineuropa.org/es/interview/491796/"
+    },
+    {
+      "id": "eb272fa0e70b",
+      "title": "Crítica: Mata - Películas / Críticas - Francia/Bélgica",
+      "source": "Cineuropa",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T15:28:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Con su tercer largometraje, Rachel Lang desplaza su cine de autor hacia el thriller de espionaje, adentrándose en los entresijos y las zonas de sombra de los servicios de inteligencia",
+      "url": "https://cineuropa.org/es/newsdetail/491787/"
+    },
+    {
+      "id": "2511bf273b37",
+      "title": "Entrevista: Rebecca De Pas • Responsable de proyecto, Fondazione Prada Film Fund - “Queremos apoyar películas independientes con una ambición artística fuerte” - Cannes 2026 - Marché du Film",
+      "source": "Cineuropa",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T15:27:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: La responsable del nuevo fondo habla sobre su filosofía, el éxito de la primera convocatoria y el papel creciente de los agentes privados en la financiación del cine independiente",
+      "url": "https://cineuropa.org/es/interview/491789/"
+    },
+    {
+      "id": "3531f24a693d",
+      "title": "Entrevista: Viesturs Kairišs • Director de Ulya - \"Todos llevamos un bicho raro dentro, y la película intenta comprender cómo dejar que ese bicho raro viva\" - Cannes 2026 - Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T14:47:09",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: El cineasta letón habla de su biopic del icono del baloncesto Uļjana Semjonova, un íntimo relato de aprendizaje como y un viaje poético basado en la identidad y la diferencia",
+      "url": "https://cineuropa.org/es/video/491754/"
+    },
+    {
+      "id": "6560c7364013",
+      "title": "Entrevista: Aina Clotet • Directora y actriz de Viva - “La película se mueve entre dos fuerzas: el miedo y el deseo\" - Cannes 2026 - Semana de la Crítica",
+      "source": "Cineuropa",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANNES 2026: La ganadora del premio a la revelación nos habla de su debut como directora de largometrajes, de su humor, de la ciencia y de la resiliencia",
+      "url": "https://cineuropa.org/es/interview/491757/"
+    },
+    {
+      "id": "2e03f52fe329",
+      "title": "Entrevista: Louis Clichy • Director de Le Corset - \"A los cuarenta años, me di cuenta de que, con el 3D, me había perdido cosas por el camino\" - Cannes 2026 - Un Certain Regard",
+      "source": "Cineuropa",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T14:41:57",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: El cineasta francés evoca sus inspiraciones autobiográficas y las decisiones estéticas que han guiado su película de animación",
+      "url": "https://cineuropa.org/es/interview/491792/"
+    },
+    {
+      "id": "b54fdd338b41",
+      "title": "Entrevista: Marco Nguyen y Simon Balteaux • Codirector y coguionista de Jim Queen - “El simple hecho de hacer humor sobre estos temas hoy en día ya es un acto militante” - Cannes 2026 - Proyecciones de medianoche",
+      "source": "Cineuropa",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T14:33:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: Dos de las personas detrás de la película de animación para adultos nos hablaron de los orígenes del proyecto y de los significados más profundos de su historia",
+      "url": "https://cineuropa.org/es/interview/491562/"
+    },
+    {
+      "id": "b773b1b794ca",
+      "title": "Entrevista: Sompot Chidgasornpongse • Director de 9 Temples to Heaven - “Esto fue casi como unas vacaciones para nosotros; en lugar de ir a un hotel de playa, fuimos al templo” - Cannes 2026 – Quincena de los Cineastas",
+      "source": "Cineuropa",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T12:55:53",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: El director tailandés desentraña su historia personal sobre una familia que visita nueve templos budistas para acumular méritos para su abuela",
+      "url": "https://cineuropa.org/es/interview/491803/"
+    },
     {
       "id": "f9e2efdea9f7",
       "title": "Entrevista: Eivind Landsvik • Director de Low Expectations - “Aún recuerdo cuando escribí el título en la primera página del guion y estaba convencido de que esta película nunca se haría” - Cannes 2026 – Quincena de los Cineastas",
@@ -12,6 +108,18 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: El realizador noruego comparte sus reflexiones sobre su debut en el largometraje, que ofrece una reflexión bastante cálida sobre el estado de la depresión",
       "url": "https://cineuropa.org/es/interview/491795/"
+    },
+    {
+      "id": "00889c9b4d53",
+      "title": "Entrevista: Tiago Guedes • Director de Aquí - “Quería crear una atmósfera y una situación que los actores pudiesen explorar, en la que ellos confíen en ti y tú en ellos” - Cannes 2026 – Cannes Première",
+      "source": "Cineuropa",
+      "date": "MAR 26 MAY 2026",
+      "date_iso": "2026-05-26T11:18:38",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "CANNES 2026: El director portugués se sentó con nosotros para detallar el proceso de adaptación de una saga de 900 páginas a una película de 3 horas y 20 minutos",
+      "url": "https://cineuropa.org/es/interview/491791/"
     },
     {
       "id": "c5356108e68e",
@@ -492,114 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: Un vistazo a las adquisiciones, las ventas, las nuevas películas y demás noticias del mercado de Cannes, que tiene lugar del 12 al 20 de mayo",
       "url": "https://cineuropa.org/es/newsdetail/491181/"
-    },
-    {
-      "id": "3f7292e745ba",
-      "title": "Entrevista: Olivier Clert • Director de Lucy Lost - “La animación es una gran herramienta para encontrar el misterio en la realidad” - Cannes 2026 - Proyecciones especiales",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T15:57:18",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El director francés detrás de la nueva película de animación de Xilam habla del estilo y de los enfoques de la adaptación de su primer largometraje",
-      "url": "https://cineuropa.org/es/interview/491693/"
-    },
-    {
-      "id": "79fa52316112",
-      "title": "Crítica: Aquí - Cannes 2026 – Cannes Première",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T15:50:08",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: La adaptación en 200 minutos de la trilogía de Jesús de J.M. Coetzee realizada por Tiago Guedes es un impactante viaje filosófico a través de la vida de David, un niño singular",
-      "url": "https://cineuropa.org/es/newsdetail/491692/"
-    },
-    {
-      "id": "461a9cb55cd4",
-      "title": "Crítica: Carmen, l'oiseau rebelle - Cannes 2026 – Quincena de los Cineastas",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T14:12:50",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Animada y llena de vida, la propuesta de Sébastien Laudenbach sobre el fogoso personaje operístico es una auténtica delicia",
-      "url": "https://cineuropa.org/es/newsdetail/491690/"
-    },
-    {
-      "id": "126ca9a73e88",
-      "title": "Distribuidores y agencias de promoción de cine de todo el mundo tienden puentes en Cannes - Cannes 2026 - Marché du Film",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T14:09:07",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: La primera sesión de trabajo entre distribuidores independientes y agencias cinematográficas internacionales abordó cómo trabajar mejor en conjunto",
-      "url": "https://cineuropa.org/es/newsdetail/491689/"
-    },
-    {
-      "id": "b2390a5ca7a0",
-      "title": "Entrevista: Hélène Rosselet-Ruiz • Directora de Le Triangle d’or - \"Esta película es la prolongación de una reflexión que había hecho sobre mi vivencia de la violencia de clase\" - Cannes 2026 – Proyecciones especiales",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T13:55:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: La cineasta francesa cuenta cómo nació su primer largometraje, un relato sumergido en el universo cerrado de la riqueza extrema",
-      "url": "https://cineuropa.org/es/interview/491586/"
-    },
-    {
-      "id": "02a3a9da28c3",
-      "title": "El Programa de Coproducción de Cannes refuerza su papel como puerta de entrada para la industria europea - Cannes 2026 - Marché du Film",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T13:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Los cineastas emergentes Thien An Nguyen y Dean Wei aportan su perspectiva sobre la iniciativa tras ser seleccionados como dos de sus participantes",
-      "url": "https://cineuropa.org/es/newsdetail/491683/"
-    },
-    {
-      "id": "a98e73493e8e",
-      "title": "Crítica: Mauvaise étoile - Cannes 2026 – ACID",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T12:35:14",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1532635241-17e820acc59f?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Lola Cambourieu y Yann Berlier, pareja en lo personal y en lo profesional, construyen un hipnótico relato de 24 horas en torno al vórtice, a menudo ineludible, de la violencia doméstica",
-      "url": "https://cineuropa.org/es/newsdetail/491688/"
-    },
-    {
-      "id": "54d6181fe11e",
-      "title": "El Observatorio Europeo del Audiovisual explora el estado de los incentivos fiscales y los reembolsos en efectivo en Europa - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T11:44:22",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: Una charla abordó la caída de la asistencia a salas, el crecimiento del SVoD y cómo los incentivos europeos y la financiación pública están reconfigurando la financiación del cine",
-      "url": "https://cineuropa.org/es/newsdetail/491687/"
-    },
-    {
-      "id": "756f7fa505e1",
-      "title": "Crítica: Adieu monde cruel - Cannes 2026 – Semana de la Crítica",
-      "source": "Cineuropa",
-      "date": "JUE 21 MAY 2026",
-      "date_iso": "2026-05-21T11:02:32",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Félix de Givry firma un drama perturbador en el que un adolescente, interpretado por Milo Machado-Graner, querría abandonar su vida, hasta que conoce a un ingenioso aliado",
-      "url": "https://cineuropa.org/es/newsdetail/491686/"
     }
   ],
   "releases": [
