@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-05-27T14:25:10.150456",
+  "last_updated": "2026-05-27T18:28:31.330345",
   "news": [
+    {
+      "id": "97a8c096f6a9",
+      "title": "Alessandro Tonda rodará Linea di difesa – Gaza, un thriller de acción con Sara Serraiocco, Stefano Accorsi y Vinicio Marchioni - Producción / Financiación - Italia",
+      "source": "Cineuropa",
+      "date": "MIÉ 27 MAY 2026",
+      "date_iso": "2026-05-27T14:46:33",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La película producida por Rai Cinema y MasiFilm con HBO Max narra una operación de los servicios de inteligencia italianos para evacuar a niños palestinos heridos de un hospital de Gaza",
+      "url": "https://cineuropa.org/es/newsdetail/491830/"
+    },
+    {
+      "id": "4ed7e6e918bc",
+      "title": "El (S8) prepara una edición bajo la influencia del eclipse - Festivales / Premios - España",
+      "source": "Cineuropa",
+      "date": "MIÉ 27 MAY 2026",
+      "date_iso": "2026-05-27T14:33:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La 17.ª Mostra Internacional de Cinema Periférico se celebra en A Coruña del 2 al 7 de junio, con 161 obras y cerca de 80 artistas y profesionales procedentes de todo el mundo",
+      "url": "https://cineuropa.org/es/newsdetail/491663/"
+    },
+    {
+      "id": "95924efba1f9",
+      "title": "El Festival de Lanzarote anuncia sus ganadores - Lanzarote FICL 2026 - Premios",
+      "source": "Cineuropa",
+      "date": "MIÉ 27 MAY 2026",
+      "date_iso": "2026-05-27T14:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "No Skate!, del francés Guil Sela, se lleva el premio a mejor cortometraje internacional, y María Rita, de Juan Barbazán, triunfa en el apartado nacional",
+      "url": "https://cineuropa.org/es/newsdetail/491841/"
+    },
     {
       "id": "5aa6653e6f10",
       "title": "Entrevista: Linda Mutawi • Productora, Fikra - \"Es responsabilidad de todos hacer crecer la industria y mantenerla en evolución, en movimiento y representando lo que defendemos en el mundo\" - Foco productores independientes",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: El animador francés habla de abordar esa gran leyenda “gitana” surgida de la que posiblemente sea la mejor ópera francesa de todos los tiempos, pero con los niños en mente",
       "url": "https://cineuropa.org/es/interview/491710/"
-    },
-    {
-      "id": "90eb3bcbbc0c",
-      "title": "Entrevista: Cristian Mungiu • Director de Fjörd - “Estamos perdiendo la capacidad de escuchar a quienes piensan distinto a nosotros y de entablar un diálogo de forma activa” - Cannes 2026 – Competición",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T10:11:31",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El director rumano habla sobre su nueva película, que en un principio retrata un conflicto familiar íntimo, pero que termina diciendo algo mucho más amplio sobre la sociedad contemporánea",
-      "url": "https://cineuropa.org/es/interview/491708/"
-    },
-    {
-      "id": "899cb954daf0",
-      "title": "Entrevista: Géraldine Nakache • Directora de Si tu penses bien - \"La idea de vivir con alguien es sentirse más libre y vivir mejor, no hacer que pienses de forma diferente\" - Cannes 2026 - Cannes Première",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T09:40:08",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: La directora francesa habla sobre su nuevo trabajo, que supone un marcado giro respecto a la calidez y el humor de sus anteriores filmes",
-      "url": "https://cineuropa.org/es/video/491703/"
-    },
-    {
-      "id": "921f21e1b0c8",
-      "title": "Entrevista: Félix de Givry • Director de Adieu monde cruel - “Cuanto más creces, más entiendes que el mundo es más grande de lo que creías” - Cannes 2026 – Semana de la Crítica",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T09:22:55",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: El director debutante, al que vimos por primera vez como actor en Eden, de Mia Hansen-Løve, nos ofrece más detalles sobre su desgarrador drama de iniciación",
-      "url": "https://cineuropa.org/es/interview/491707/"
     }
   ],
   "releases": [
