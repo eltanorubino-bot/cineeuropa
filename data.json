@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-05-28T00:05:54.836214",
+  "last_updated": "2026-05-28T14:36:41.621332",
   "news": [
+    {
+      "id": "ae194253e9c5",
+      "title": "Festival de cine",
+      "source": "Escribiendo Cine",
+      "date": "JUE 28 MAY 2026",
+      "date_iso": "2026-05-28T14:36:39.054249",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/28/22828-ficuba-2026-la-universidad-de-buenos-aires-abre-la-convocatoria-para-la-cuarta-edicion-de-su-festival-internacional-de-cine"
+    },
+    {
+      "id": "50f0de3d2389",
+      "title": "Velasco Broca debuta en el largometraje con El futuro testamento - Producción / Financiación - España/Estonia/Italia",
+      "source": "Cineuropa",
+      "date": "JUE 28 MAY 2026",
+      "date_iso": "2026-05-28T11:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Àlex Brendemühl, Mireia Oriol y Ariadna Gil protagonizan la película del director español, con textura analógica, efectos físicos e iconografía gótica y retrofuturista",
+      "url": "https://cineuropa.org/es/newsdetail/491887/"
+    },
+    {
+      "id": "1eb326e1008a",
+      "title": "Biografilm presenta el cine de lo real, entre memoria, política e historias biográficas - Biografilm 2026",
+      "source": "Cineuropa",
+      "date": "JUE 28 MAY 2026",
+      "date_iso": "2026-05-28T10:08:07",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "La 22.ª edición del festival presenta del 5 al 15 de junio en Bolonia 64 películas de 34 países, con 16 estrenos mundiales y una fuerte presencia de producciones y coproducciones europeas",
+      "url": "https://cineuropa.org/es/newsdetail/491882/"
+    },
+    {
+      "id": "c4673e80220d",
+      "title": "Las películas europeas gozan de una fuerte presencia en la 25.ª edición del Festival de Transilvania - Transilvania 2026",
+      "source": "Cineuropa",
+      "date": "JUE 28 MAY 2026",
+      "date_iso": "2026-05-28T09:26:34",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Ocho (co)producciones europeas participan en la competición internacional, mientras que seis se medirán en el apartado de documentales; por su parte, Romanian Days cuenta con once largometrajes",
+      "url": "https://cineuropa.org/es/newsdetail/491881/"
+    },
+    {
+      "id": "458b5a40961f",
+      "title": "El Milano Film Fest prepara su segunda edición - Festivales / Premios - Italia",
+      "source": "Cineuropa",
+      "date": "JUE 28 MAY 2026",
+      "date_iso": "2026-05-28T09:11:15",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El certamen regresa del 4 al 9 de junio, bajo la dirección artística de Claudio Santamaria, con más de 120 películas e invitados como Julian Schnabel, Valeria Golino y Dario Argento",
+      "url": "https://cineuropa.org/es/newsdetail/491864/"
+    },
+    {
+      "id": "a5d6cf173700",
+      "title": "Los profesionales rompen el silencio sobre la violencia sexual y el abuso de poder en la industria cinematográfica - Industria / Mercado - Europa",
+      "source": "Cineuropa",
+      "date": "JUE 28 MAY 2026",
+      "date_iso": "2026-05-28T08:39:34",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La Cumbre Mundial de la Igualdad de Género en el Cine demostró que, diez años después del #MeToo, la violencia sexual y la desigualdad que afectan a las mujeres siguen siendo un problema estructural",
+      "url": "https://cineuropa.org/es/newsdetail/491865/"
+    },
+    {
+      "id": "bc3dd2011bf9",
+      "title": "Las perspectivas mundiales sobre la igualdad y la diversidad en el cine, a examen durante un encuentro online - Industria / Mercado - Europa",
+      "source": "Cineuropa",
+      "date": "JUE 28 MAY 2026",
+      "date_iso": "2026-05-28T06:52:17",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Las carencias de las políticas, los estereotipos persistentes y la violencia estructural contra las mujeres en la industria centraron la Cumbre Mundial de la Igualdad de Género en el Cine",
+      "url": "https://cineuropa.org/es/newsdetail/491850/"
+    },
     {
       "id": "97a8c096f6a9",
       "title": "Alessandro Tonda rodará Linea di difesa – Gaza, un thriller de acción con Sara Serraiocco, Stefano Accorsi y Vinicio Marchioni - Producción / Financiación - Italia",
@@ -516,90 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: El cineasta relata el muy personal origen de su nueva película, que reconstruye en clave de ficción los recuerdos repletos de emociones y tormentos de su propia familia",
       "url": "https://cineuropa.org/es/interview/491709/"
-    },
-    {
-      "id": "06801e1229ac",
-      "title": "Entrevista: Sandra Wollner • Directora de Everytime - \"Es una película sobre el duelo, pero sobre la parte que queda bajo la superficie, sobre lo no dicho\" - Cannes 2026 - Un Certain Regard",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T14:59:53",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: La directora austriaca habla sobre su exploración del duelo, la culpa y el deseo imposible de regresar al pasado",
-      "url": "https://cineuropa.org/es/video/491727/"
-    },
-    {
-      "id": "33a01243b213",
-      "title": "Everytime triunfa en el Un Certain Regard de Cannes - Cannes 2026 - Un Certain Regard/Premios",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T14:36:13",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: La cinta de Sandra Wollner se lleva el máximo galardón; Abinash Bikram Shah, Louis Clichy, Bradley Fiomona Dembeasset y las actrices de Siempre seré tu animal materno, también premiadas",
-      "url": "https://cineuropa.org/es/newsdetail/491726/"
-    },
-    {
-      "id": "fc80fa051f9d",
-      "title": "Rehearsals for a Revolution recibe el Ojo de Oro en Cannes - Cannes 2026 - Premios",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T14:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: La película de Pegah Ahangarani se alza con el galardón al mejor documental proyectado en la Croisette, y Tin Castle de Alexander Murphy, con la mención especial",
-      "url": "https://cineuropa.org/es/newsdetail/491724/"
-    },
-    {
-      "id": "d386d748bea1",
-      "title": "Letonia y Francia firman en Cannes un pacto bilateral de coproducción cinematográfica - Cannes 2026 – Marché du Film",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T12:32:44",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El acuerdo quiere consolidar los lazos audiovisuales entre ambos países y crear condiciones más favorables para las producciones conjuntas tras el éxito internacional de Flow",
-      "url": "https://cineuropa.org/es/newsdetail/491712/"
-    },
-    {
-      "id": "8eb30e4847a5",
-      "title": "#CANNES79 | Crítica de “Fjord”, film dirigido por Cristian Mungiu",
-      "source": "A Sala Llena",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T12:04:46",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Fjord podría parecer el título de un film documental, dada la localización de la trama en una pequeña ciudad de Noruega, no muy lejana de la mayor Bergen. Nada más opuesto ya que se trata de un drama, cuyos personajes centrales son un matrimonio devoto del cristianismo, con cinco hijos, incluyend...",
-      "url": "https://asalallena.com.ar/cannes79-critica-de-fjord-film-dirigido-por-cristian-mungiu/"
-    },
-    {
-      "id": "68cc2c55adc2",
-      "title": "Crítica: Low Expectations - Cannes 2026 – Quincena de los Cineastas",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T11:58:46",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Las vertientes más oscuras y más ligeras de la depresión se retratan en la ópera prima del noruego Eivind Landsvik, que debería suscitar un entusiasmo notable",
-      "url": "https://cineuropa.org/es/newsdetail/491711/"
-    },
-    {
-      "id": "62ddcea2d053",
-      "title": "Entrevista: Sébastien Laudenbach • Director de Carmen, l'oiseau rebelle - “La vida es violenta y los niños son violentos, y les gusta ver obras que sean ‘más grandes’ que ellos para poder crecer” - Cannes 2026 – Quincena de los Cineastas",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T10:58:59",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El animador francés habla de abordar esa gran leyenda “gitana” surgida de la que posiblemente sea la mejor ópera francesa de todos los tiempos, pero con los niños en mente",
-      "url": "https://cineuropa.org/es/interview/491710/"
     }
   ],
   "releases": [
