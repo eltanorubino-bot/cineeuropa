@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-05-29T00:16:03.185466",
+  "last_updated": "2026-05-29T13:58:30.361544",
   "news": [
+    {
+      "id": "cc871b244c00",
+      "title": "El Observatorio Europeo del Audiovisual cartografía el peso de los incentivos fiscales y los reembolsos en efectivo en la producción audiovisual - Industria / Mercado - Europa",
+      "source": "Cineuropa",
+      "date": "VIE 29 MAY 2026",
+      "date_iso": "2026-05-29T13:33:02",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Un nuevo estudio analiza cómo los créditos fiscales, los reembolsos en efectivo y los tax shelters se han convertido en determinantes para financiar, producir y rodar películas y series",
+      "url": "https://cineuropa.org/es/newsdetail/491977/"
+    },
+    {
+      "id": "9c6bdb2c7c7b",
+      "title": "REPORT: Work in Progress @ Skjaldborg Festival 2026 - Industria / Mercado - Islandia",
+      "source": "Cineuropa",
+      "date": "VIE 29 MAY 2026",
+      "date_iso": "2026-05-29T10:28:37",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El festival islandés de documentales ha acogido su muestra de work-in-progress, que puso de relieve seis largometrajes en distintas fases de desarrollo y producción",
+      "url": "https://cineuropa.org/es/newsdetail/491914/"
+    },
     {
       "id": "ae194253e9c5",
       "title": "Festival de cine",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "CANNES 2026: Léa Mysius firma un thriller afilado, crudo y tenso, un sombrío cuento contemporáneo casi a puerta cerrada sobre la familia y el tenebroso retorno del pasado",
       "url": "https://cineuropa.org/es/newsdetail/491685/"
-    },
-    {
-      "id": "ac1b378b03a2",
-      "title": "Entrevista: Léa Mysius • Directora de Histoires de la nuit - \"Nunca se conoce realmente a la gente con la que se vive\" - Cannes 2026 – Competición",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T15:55:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: La cineasta relata la génesis de su adaptación de la novela de Laurent Mauvignier y detalla cómo se acercó a la angustia y a la violencia mezclando drama y thriller",
-      "url": "https://cineuropa.org/es/interview/491684/"
-    },
-    {
-      "id": "0ee31f0e75d0",
-      "title": "Entrevista: Christophe Honoré • Director de Mariage au goût d'orange - \"La familia es el lugar familiar de la tragedia\" - Cannes 2026 – Cannes Première",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T15:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El cineasta relata el muy personal origen de su nueva película, que reconstruye en clave de ficción los recuerdos repletos de emociones y tormentos de su propia familia",
-      "url": "https://cineuropa.org/es/interview/491709/"
     }
   ],
   "releases": [
