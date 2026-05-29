@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-29T13:58:30.361544",
+  "last_updated": "2026-05-29T18:36:45.330805",
   "news": [
+    {
+      "id": "45adb7fcd895",
+      "title": "El 28.° German Film Fest Madrid abre sus puertas - Festivales / Premios - España/Alemania",
+      "source": "Cineuropa",
+      "date": "VIE 29 MAY 2026",
+      "date_iso": "2026-05-29T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La capital española acoge del 3 al 7 de junio una selección del mejor cine alemán reciente, liderada por películas dirigidas por mujeres y títulos con alto compromiso social",
+      "url": "https://cineuropa.org/es/newsdetail/491908/"
+    },
     {
       "id": "cc871b244c00",
       "title": "El Observatorio Europeo del Audiovisual cartografía el peso de los incentivos fiscales y los reembolsos en efectivo en la producción audiovisual - Industria / Mercado - Europa",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/05/22/22716-todos-los-ganadores-de-un-certain-regard-en-cannes-2026"
-    },
-    {
-      "id": "e7b9442bd9b8",
-      "title": "Crítica: Histoires de la nuit - Cannes 2026 – Competición",
-      "source": "Cineuropa",
-      "date": "VIE 22 MAY 2026",
-      "date_iso": "2026-05-22T17:25:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Léa Mysius firma un thriller afilado, crudo y tenso, un sombrío cuento contemporáneo casi a puerta cerrada sobre la familia y el tenebroso retorno del pasado",
-      "url": "https://cineuropa.org/es/newsdetail/491685/"
     }
   ],
   "releases": [
