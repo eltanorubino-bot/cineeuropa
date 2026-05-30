@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-05-29T18:36:45.330805",
+  "last_updated": "2026-05-30T00:14:57.159592",
   "news": [
+    {
+      "id": "569203b14002",
+      "title": "Valeria Boggino analiza el presente del Festival",
+      "source": "Escribiendo Cine",
+      "date": "SÁB 30 MAY 2026",
+      "date_iso": "2026-05-30T00:14:55.402151",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/29/22852-festival-de-cine-latinoamericano-de-rosario-2026-una-pantalla-para-descubrir-otras-cinematografias"
+    },
+    {
+      "id": "1ca613d6c185",
+      "title": "Todos los ganadores de los Premios Lola 2026",
+      "source": "Escribiendo Cine",
+      "date": "SÁB 30 MAY 2026",
+      "date_iso": "2026-05-30T00:14:55.401001",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/05/29/22855-sound-of-falling-arraso-en-los-premios-del-cine-aleman-y-se-quedo-con-diez-estauillas"
+    },
     {
       "id": "45adb7fcd895",
       "title": "El 28.° German Film Fest Madrid abre sus puertas - Festivales / Premios - España/Alemania",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: La directora alemana habla de cómo se enamoró del paisaje desértico de Nuevo México mientras perfilaba el lenguaje visual íntimo y distintivo de la película",
       "url": "https://cineuropa.org/es/video/491739/"
-    },
-    {
-      "id": "edb10bb70086",
-      "title": "Crítica: L’Affaire Marie-Claire - Cannes 2026 – Proyecciones especiales",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T13:28:29",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: El largometraje de Lauriane Escaffre e Yvo Muller relata el juicio de Bobigny, un momento histórico en el avance de los derechos reproductivos de las mujeres",
-      "url": "https://cineuropa.org/es/newsdetail/491740/"
-    },
-    {
-      "id": "f7495e2fd4d4",
-      "title": "Festival de Cannes 2026",
-      "source": "Escribiendo Cine",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T11:58:25.420857",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/05/22/22716-todos-los-ganadores-de-un-certain-regard-en-cannes-2026"
     }
   ],
   "releases": [
