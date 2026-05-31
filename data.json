@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-30T17:11:54.431582",
+  "last_updated": "2026-05-31T00:08:05.568061",
   "news": [
+    {
+      "id": "3178cbb5798e",
+      "title": "Crítica de “Nuestra tierra”, film dirigido por Lucrecia Martel",
+      "source": "A Sala Llena",
+      "date": "SÁB 30 MAY 2026",
+      "date_iso": "2026-05-30T19:14:32",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Nuestra tierra es una película paradójica. Se propone a sí misma como una visión ideológica muy clara en su reivindicación de los derechos y la lucha de los chuchagastas y en contra de los que han querido ocupar sus tierras de forma violenta e ilegítima. A partir de esa certeza, con la que es muy...",
+      "url": "https://asalallena.com.ar/critica-de-nuestra-tierra-film-dirigido-por-lucrecia-martel/"
+    },
     {
       "id": "569203b14002",
       "title": "Valeria Boggino analiza el presente del Festival",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "CANNES 2026: Clio Barnard regresa con un contundente drama coral ambientado en la Birmingham obrera, que sigue a cinco amigos de toda la vida mientras afrontan nuevos retos al cumplir los 30",
       "url": "https://cineuropa.org/es/newsdetail/491742/"
-    },
-    {
-      "id": "547f510b03f9",
-      "title": "Entrevista: Katarina Rivilis • Directora de I’ll Be Gone in June - \"Es una historia como la de El principito: alguien llega de otro planeta, aprende de cada encuentro y luego tiene que volver a irse\" - Cannes 2026 - Un Certain Regard",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T14:45:17",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: La directora alemana habla de cómo se enamoró del paisaje desértico de Nuevo México mientras perfilaba el lenguaje visual íntimo y distintivo de la película",
-      "url": "https://cineuropa.org/es/video/491739/"
     }
   ],
   "releases": [
