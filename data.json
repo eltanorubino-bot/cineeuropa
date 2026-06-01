@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-01T00:12:28.874610",
+  "last_updated": "2026-06-01T16:35:03.519690",
   "news": [
+    {
+      "id": "e6a8d3f0cb60",
+      "title": "Festivales internacionales de cine",
+      "source": "Escribiendo Cine",
+      "date": "LUN 1 JUN 2026",
+      "date_iso": "2026-06-01T16:35:00.965579",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/06/01/22870-festival-de-shanghai-2026-revelan-la-competencia-oficial-y-una-coproduccion-argentina-competira-en-animacion"
+    },
+    {
+      "id": "64b962eae137",
+      "title": "Locarno Open Doors desvela sus selecciones de proyectos, productores y directores - Locarno 2026 – Locarno Pro",
+      "source": "Cineuropa",
+      "date": "LUN 1 JUN 2026",
+      "date_iso": "2026-06-01T12:50:06",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Seis proyectos, seis productores y cinco directores de todo el continente africano han sido seleccionados para la edición de 2026, mientras se incorporan nuevos galardones de EAVE y African Film Press",
+      "url": "https://cineuropa.org/es/newsdetail/492052/"
+    },
+    {
+      "id": "a1ce49f0c8dc",
+      "title": "Entrevista: Nuno Bernardo • Jefe de estudios, IP Development for Creative Professionals, Erich Pommer Institut - “Si queremos que las historias europeas conserven su textura, su humor y su ambigüedad, los productores y guionistas de aquí deben ser propietarios de la IP que las lleva al extranjero” - /Alemania",
+      "source": "Cineuropa",
+      "date": "LUN 1 JUN 2026",
+      "date_iso": "2026-06-01T10:48:46",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Antes del lanzamiento del nuevo programa, Cineuropa habló con el jefe de estudios sobre por qué la propiedad de la IP ha cobrado una importancia cada vez mayor para los productores europeos",
+      "url": "https://cineuropa.org/es/interview/492022/"
+    },
     {
       "id": "3178cbb5798e",
       "title": "Crítica de “Nuestra tierra”, film dirigido por Lucrecia Martel",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: La directora británica habla de su nueva adaptación literaria y de rodar en Birmingham por primera vez",
       "url": "https://cineuropa.org/es/interview/491737/"
-    },
-    {
-      "id": "db1574f42f30",
-      "title": "Crítica: Victorian Psycho - Cannes 2026 – Un Certain Regard",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T16:25:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: La endiabladamente entretenida comedia de terror gótica de Zachary Wigon se ve realzada por la interpretación deliciosamente desquiciada de Maika Monroe y unos excelentes decorados",
-      "url": "https://cineuropa.org/es/newsdetail/491743/"
-    },
-    {
-      "id": "5212bb8ac633",
-      "title": "Crítica: La muerte no tiene dueño - Cannes 2026 – Quincena de los Cineastas",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T16:08:25",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Jorge Thielen Armand nos coloca en la piel de una heredera de una plantación interpretada por Asia Argento, que se ve obligada a enfrentarse a los demonios coloniales de su familia",
-      "url": "https://cineuropa.org/es/newsdetail/491746/"
-    },
-    {
-      "id": "134318c97dd0",
-      "title": "Crítica: I See Buildings Fall Like Lightning - Cannes 2026 – Quincena de los Cineastas",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T14:54:18",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Clio Barnard regresa con un contundente drama coral ambientado en la Birmingham obrera, que sigue a cinco amigos de toda la vida mientras afrontan nuevos retos al cumplir los 30",
-      "url": "https://cineuropa.org/es/newsdetail/491742/"
     }
   ],
   "releases": [
