@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-02T00:20:25.886778",
+  "last_updated": "2026-06-02T14:51:14.439516",
   "news": [
+    {
+      "id": "cc29fb45248c",
+      "title": "Todo preparado para la edición número 41 de Cinema Jove - Cinema Jove 2026",
+      "source": "Cineuropa",
+      "date": "MAR 2 JUN 2026",
+      "date_iso": "2026-06-02T14:25:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El festival valenciano tendrá lugar entre los días 19 y 27 de junio, con una programación que incluye largometrajes, cortos y series",
+      "url": "https://cineuropa.org/es/newsdetail/492118/"
+    },
+    {
+      "id": "3877ab6dad39",
+      "title": "Karlovy Vary desvela una caleidoscópica competición para la edición de su 60.° aniversario - Karlovy Vary 2026",
+      "source": "Cineuropa",
+      "date": "MAR 2 JUN 2026",
+      "date_iso": "2026-06-02T10:04:28",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El certamen checo reúne a autores que regresan y talentos emergentes en una selección que indaga en las fracturas familiares, el trauma histórico, la migración y la presión política",
+      "url": "https://cineuropa.org/es/newsdetail/492119/"
+    },
     {
       "id": "08eaa1a2bf5a",
       "title": "La asistencia al cine en Alemania repunta en 2025, impulsada por el público de mayor edad y las producciones locales - Industria / Mercado - Alemania",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "CANNES 2026: Viesturs Kairišs regresa al blanco y negro con un biopic sobrio que rinde homenaje a una vida olvidada mientras plantea evidentes cuestiones sobre la representación",
       "url": "https://cineuropa.org/es/newsdetail/491751/"
-    },
-    {
-      "id": "46f774846b98",
-      "title": "Crítica: Le Vertige - Cannes 2026 - Quincena de los Cineastas",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T17:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: La primera cinta de animación de Quentin Dupieux nos adentra en el valle inquietante, siguiendo a unos avatares con fallos de Alain Chabat y Jonathan Cohen",
-      "url": "https://cineuropa.org/es/newsdetail/491747/"
-    },
-    {
-      "id": "6e116e6d627d",
-      "title": "Entrevista: Zachary Wigon • Director de Victorian Psycho - “Me interesa la expresión más intensa y plena de la psicología y la emoción que se puede lograr en pantalla” - Cannes 2026 - Un Certain Regard",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T16:28:28",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El director habla de género, estética y su compleja relación con la ética en su filme de terror psicológico ambientado en la era victoriana",
-      "url": "https://cineuropa.org/es/interview/491738/"
     }
   ],
   "releases": [
