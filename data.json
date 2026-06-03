@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-03T01:43:36.245757",
+  "last_updated": "2026-06-03T15:26:12.064982",
   "news": [
+    {
+      "id": "ae3847a0c76d",
+      "title": "Martín Cuervo rueda Desde arriba - Producción / Financiación - España",
+      "source": "Cineuropa",
+      "date": "MIÉ 3 JUN 2026",
+      "date_iso": "2026-06-03T14:25:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Gonzalo de Castro, Dafne Fernández y Almudena Amor protagonizan una película de Inefable Productions, con un guion escrito por Arturo Ruiz Serrano y José Manuel Carrasco",
+      "url": "https://cineuropa.org/es/newsdetail/492166/"
+    },
+    {
+      "id": "a11953ec6e5f",
+      "title": "Docs Ireland regresa con historias de resistencia y cambio - Docs Ireland 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 3 JUN 2026",
+      "date_iso": "2026-06-03T11:38:26",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La octava edición del festival de Belfast presenta documentales irlandeses e internacionales que abordan el cambio climático, la vivienda, la migración y la libertad de prensa",
+      "url": "https://cineuropa.org/es/newsdetail/492176/"
+    },
     {
       "id": "cc29fb45248c",
       "title": "Todo preparado para la edición número 41 de Cinema Jove - Cinema Jove 2026",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "CANNES 2026: Agnès Jaoui sumerge la preparación de una ópera en el tumulto de los cuestionamientos que atraviesan la sociedad desde la deflagración de #metoo",
       "url": "https://cineuropa.org/es/newsdetail/491725/"
-    },
-    {
-      "id": "5a036b290a59",
-      "title": "Crítica: Ulysse - Cannes 2026 - Un Certain Regard",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T18:16:25",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: La cinta de Laetitia Masson se centra en la perspectiva de una madre sobre el desarrollo de su hijo con discapacidad desde el nacimiento hasta su entrada en la edad adulta",
-      "url": "https://cineuropa.org/es/newsdetail/491748/"
-    },
-    {
-      "id": "85d4fbc4b46d",
-      "title": "Crítica: Ulya - Cannes 2026 – Un Certain Regard",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T18:08:30",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Viesturs Kairišs regresa al blanco y negro con un biopic sobrio que rinde homenaje a una vida olvidada mientras plantea evidentes cuestiones sobre la representación",
-      "url": "https://cineuropa.org/es/newsdetail/491751/"
     }
   ],
   "releases": [
