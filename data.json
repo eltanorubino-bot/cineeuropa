@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-04T13:56:54.343653",
+  "last_updated": "2026-06-04T18:21:29.263553",
   "news": [
+    {
+      "id": "f4b3d2ae3501",
+      "title": "Eduardo Noriega se convierte en Jarabo gracias a Emilio Martínez-Lázaro - Producción / Financiación - España",
+      "source": "Cineuropa",
+      "date": "JUE 4 JUN 2026",
+      "date_iso": "2026-06-04T14:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El actor encarna al famoso asesino español en la producción de Enrique Cerezo que también interpretan José Coronado, Lucía Guerrero, Karra Elejalde, Luis Callejo, Andrés Gertrúdix y Jorge Sanz",
+      "url": "https://cineuropa.org/es/newsdetail/492204/"
+    },
     {
       "id": "3763b94ee70e",
       "title": "Crítica: Spacetime Chronicles - Películas / Críticas - Italia",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/05/23/22728-todos-los-ganadores-de-los-premios-del-festival-de-cannes-2026"
-    },
-    {
-      "id": "635a73cfb6a1",
-      "title": "#CANNES79 | Segunda Guerra Mundial en el Festival de Cannes",
-      "source": "A Sala Llena",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T21:16:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Durante la presente edición del Festival de Cannes, ciertas temáticas mostraron una presencia preponderante. La que motiva la presente nota es lo acontecido en Francia, durante la ocupación nazi en el periodo 1940-1944 y las películas que la ilustraron. La que obtuvo mayor aprobación del público ...",
-      "url": "https://asalallena.com.ar/cannes79-segunda-guerra-mundial-en-el-festival-de-cannes/"
     }
   ],
   "releases": [
