@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-04T01:46:34.155528",
+  "last_updated": "2026-06-04T13:56:54.343653",
   "news": [
+    {
+      "id": "3763b94ee70e",
+      "title": "Crítica: Spacetime Chronicles - Películas / Críticas - Italia",
+      "source": "Cineuropa",
+      "date": "JUE 4 JUN 2026",
+      "date_iso": "2026-06-04T12:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La película de animación de Stefano Bertelli conjuga recuerdos y experiencias existenciales con las teorías sobre el espacio-tiempo a través de la fascinante técnica del stop-motion en papel",
+      "url": "https://cineuropa.org/es/newsdetail/492171/"
+    },
+    {
+      "id": "a7b146d0b02c",
+      "title": "Entrevista: Argen Adil Uulu • Director, Festival Internacional de Cine de Biskek - “Nuestro objetivo es apoyar proyectos en todas las fases del proceso de producción cinematográfica” - Biskek 2026",
+      "source": "Cineuropa",
+      "date": "JUE 4 JUN 2026",
+      "date_iso": "2026-06-04T09:37:02",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El responsable de la cita kirguisa analiza su cuarta edición, su papel como polo de la industria en Asia Central y el equilibrio que establece entre el cine comercial y el de autor",
+      "url": "https://cineuropa.org/es/interview/492214/"
+    },
+    {
+      "id": "353d64e08f82",
+      "title": "Entrevista: Radu Jude • Director de Le Journal d'une femme de chambre - \"El sistema de desigualdades entre Occidente y Oriente está tan bien implantado que no hace falta ser un pervertido para participar en la explotación\" - Francia/Rumanía",
+      "source": "Cineuropa",
+      "date": "JUE 4 JUN 2026",
+      "date_iso": "2026-06-04T08:39:14",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El prolífico cineasta rumano se define como un punto intermedio entre géneros creativos y entre Europa Oriental y Occidental, al rodar por primera vez una película rumana en Francia",
+      "url": "https://cineuropa.org/es/interview/492203/"
+    },
     {
       "id": "ae3847a0c76d",
       "title": "Martín Cuervo rueda Desde arriba - Producción / Financiación - España",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Durante la presente edición del Festival de Cannes, ciertas temáticas mostraron una presencia preponderante. La que motiva la presente nota es lo acontecido en Francia, durante la ocupación nazi en el periodo 1940-1944 y las películas que la ilustraron. La que obtuvo mayor aprobación del público ...",
       "url": "https://asalallena.com.ar/cannes79-segunda-guerra-mundial-en-el-festival-de-cannes/"
-    },
-    {
-      "id": "97604f668f4c",
-      "title": "Cristian Mungiu se alza con su segunda Palma de Oro en Cannes con Fjord - Cannes 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T20:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: Minotaur recibe el Gran Premio, y Pawel Pawlikowski, el dúo formado por Javier Ambrossi y Javier Calvo, Valeska Grisebach, Emmanuel Marre y cuatro intérpretes se hacen con premios",
-      "url": "https://cineuropa.org/es/newsdetail/491749/"
-    },
-    {
-      "id": "604d5bfe6a7e",
-      "title": "Entrevista: Bertrand Mandico • Director de Roma Elastica - “Añadí otra capa a la historia de Roma” - Cannes 2026 – Proyecciones de medianoche",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T18:54:51",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El director francés explica cómo su cinta protagonizada por Marion Cotillard es, de algún modo, un homenaje a todas las capas que conforman el cine italiano de las décadas de 1960 y 1970",
-      "url": "https://cineuropa.org/es/interview/491753/"
-    },
-    {
-      "id": "4380d4515365",
-      "title": "Crítica: L’Objet du délit - Cannes 2026 - Fuera de competición",
-      "source": "Cineuropa",
-      "date": "SÁB 23 MAY 2026",
-      "date_iso": "2026-05-23T18:18:04",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: Agnès Jaoui sumerge la preparación de una ópera en el tumulto de los cuestionamientos que atraviesan la sociedad desde la deflagración de #metoo",
-      "url": "https://cineuropa.org/es/newsdetail/491725/"
     }
   ],
   "releases": [
