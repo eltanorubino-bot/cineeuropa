@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-05T13:50:30.912336",
+  "last_updated": "2026-06-05T17:58:38.092633",
   "news": [
+    {
+      "id": "e05e61498bdc",
+      "title": "Festivales de cine | Programación 2026",
+      "source": "Escribiendo Cine",
+      "date": "VIE 5 JUN 2026",
+      "date_iso": "2026-06-05T17:58:35.641957",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/06/05/23027-bonito-cinesur-2026-anuncio-su-seleccion-oficial-y-homenajeara-a-la-actriz-chilena-paulina-garcia"
+    },
+    {
+      "id": "cf5a934d6935",
+      "title": "El Biarritz Film Festival - Nouvelles vagues desvela su programa - Festivales / Premios - Francia",
+      "source": "Cineuropa",
+      "date": "VIE 5 JUN 2026",
+      "date_iso": "2026-06-05T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La 4.ª edición del certamen se celebrará del 23 al 28 de junio, con una competición de ocho largometrajes evaluada por un jurado presidido por Kristen Stewart",
+      "url": "https://cineuropa.org/es/newsdetail/492226/"
+    },
+    {
+      "id": "4a9423d54e31",
+      "title": "Los cineastas europeos llaman a sus compañeros a permanecer vigilantes - Instituciones / Legislación - Europa",
+      "source": "Cineuropa",
+      "date": "VIE 5 JUN 2026",
+      "date_iso": "2026-06-05T14:35:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Varias organizaciones profesionales del continente alzan la voz sobre la excepción cultural, Agora EU, la independencia, la directiva de servicios de comunicación audiovisual y la IA generativa",
+      "url": "https://cineuropa.org/es/newsdetail/492256/"
+    },
     {
       "id": "faa4ad1f286e",
       "title": "Entrevista: Vladimir Kokh • Distribuidor, KMBO - “Se trata, en realidad, del descubrimiento de autores y mercados” - Distribuidor del mes",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: El realizador noruego comparte sus reflexiones sobre su debut en el largometraje, que ofrece una reflexión bastante cálida sobre el estado de la depresión",
       "url": "https://cineuropa.org/es/interview/491795/"
-    },
-    {
-      "id": "00889c9b4d53",
-      "title": "Entrevista: Tiago Guedes • Director de Aquí - “Quería crear una atmósfera y una situación que los actores pudiesen explorar, en la que ellos confíen en ti y tú en ellos” - Cannes 2026 – Cannes Première",
-      "source": "Cineuropa",
-      "date": "MAR 26 MAY 2026",
-      "date_iso": "2026-05-26T11:18:38",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El director portugués se sentó con nosotros para detallar el proceso de adaptación de una saga de 900 páginas a una película de 3 horas y 20 minutos",
-      "url": "https://cineuropa.org/es/interview/491791/"
-    },
-    {
-      "id": "c5356108e68e",
-      "title": "Crítica: Les Survivants du Che - Cannes 2026 – Proyecciones especiales",
-      "source": "Cineuropa",
-      "date": "MAR 26 MAY 2026",
-      "date_iso": "2026-05-26T10:35:42",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: El documental de Christophe Dimitri Réveille retrata la apasionante historia de cómo los guerrilleros supervivientes del revolucionario escaparon de Bolivia, contada por ellos mismos",
-      "url": "https://cineuropa.org/es/newsdetail/491784/"
-    },
-    {
-      "id": "716b3ff040ef",
-      "title": "Crítica: Karma - Cannes 2026 – Fuera de competición",
-      "source": "Cineuropa",
-      "date": "MAR 26 MAY 2026",
-      "date_iso": "2026-05-26T09:50:58",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "CANNES 2026: El thriller psicológico de Guillaume Canet se apoya en una nutrida trama mientras ahonda en la ancestral simbiosis entre sexo y poder, arraigada en las frustraciones masculinas",
-      "url": "https://cineuropa.org/es/newsdetail/491777/"
     }
   ],
   "releases": [
