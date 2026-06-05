@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-05T00:16:15.207992",
+  "last_updated": "2026-06-05T13:50:30.912336",
   "news": [
+    {
+      "id": "faa4ad1f286e",
+      "title": "Entrevista: Vladimir Kokh • Distribuidor, KMBO - “Se trata, en realidad, del descubrimiento de autores y mercados” - Distribuidor del mes",
+      "source": "Cineuropa",
+      "date": "VIE 5 JUN 2026",
+      "date_iso": "2026-06-05T11:33:56",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Hablamos con el profesional francés para conocer mejor el enfoque diversificado de la empresa, incluida la adquisición de la distribuidora de animación Gebeka",
+      "url": "https://cineuropa.org/es/interview/492254/"
+    },
+    {
+      "id": "01a266a08372",
+      "title": "Wild Filmmaker desvela un nutrido calendario de eventos tras Cannes - Patrocinado",
+      "source": "Cineuropa",
+      "date": "VIE 5 JUN 2026",
+      "date_iso": "2026-06-05T08:15:24",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La iniciativa sigue consolidando su reputación internacional como una plataforma en crecimiento dedicada a la promoción del cine independiente",
+      "url": "https://cineuropa.org/es/newsdetail/492225/"
+    },
     {
       "id": "f4b3d2ae3501",
       "title": "Eduardo Noriega se convierte en Jarabo gracias a Emilio Martínez-Lázaro - Producción / Financiación - España",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "CANNES 2026: El thriller psicológico de Guillaume Canet se apoya en una nutrida trama mientras ahonda en la ancestral simbiosis entre sexo y poder, arraigada en las frustraciones masculinas",
       "url": "https://cineuropa.org/es/newsdetail/491777/"
-    },
-    {
-      "id": "0613e60ace8e",
-      "title": "Festivales de cine",
-      "source": "Escribiendo Cine",
-      "date": "MAR 26 MAY 2026",
-      "date_iso": "2026-05-26T00:12:30.213060",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/05/25/22776-panvision-anuncio-las-peliculas-seleccionadas-para-el-5-fala-so-chico-2026"
-    },
-    {
-      "id": "c91e2108a87f",
-      "title": "\"Para los contrincantes\" de Federico Luis recibe la Palma de Oro al Mejor Cortometraje",
-      "source": "Escribiendo Cine",
-      "date": "DOM 24 MAY 2026",
-      "date_iso": "2026-05-24T00:03:33.380863",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/05/23/22728-todos-los-ganadores-de-los-premios-del-festival-de-cannes-2026"
     }
   ],
   "releases": [
