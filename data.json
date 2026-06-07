@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-07T12:18:58.218762",
+  "last_updated": "2026-06-07T17:22:10.176930",
   "news": [
+    {
+      "id": "d518e73e4df9",
+      "title": "Festival internacional de cine",
+      "source": "Escribiendo Cine",
+      "date": "DOM 7 JUN 2026",
+      "date_iso": "2026-06-07T17:22:08.451592",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/06/07/23042-bleak-week-llega-a-buenos-aires-con-una-edicion-especial-organizada-por-caligari-y-la-american-cinematheque"
+    },
     {
       "id": "e05e61498bdc",
       "title": "Festivales de cine | Programación 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: El director tailandés desentraña su historia personal sobre una familia que visita nueve templos budistas para acumular méritos para su abuela",
       "url": "https://cineuropa.org/es/interview/491803/"
-    },
-    {
-      "id": "f9e2efdea9f7",
-      "title": "Entrevista: Eivind Landsvik • Director de Low Expectations - “Aún recuerdo cuando escribí el título en la primera página del guion y estaba convencido de que esta película nunca se haría” - Cannes 2026 – Quincena de los Cineastas",
-      "source": "Cineuropa",
-      "date": "MAR 26 MAY 2026",
-      "date_iso": "2026-05-26T12:00:49",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El realizador noruego comparte sus reflexiones sobre su debut en el largometraje, que ofrece una reflexión bastante cálida sobre el estado de la depresión",
-      "url": "https://cineuropa.org/es/interview/491795/"
     }
   ],
   "releases": [
