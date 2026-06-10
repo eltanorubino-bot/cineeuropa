@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-10T14:20:56.861791",
+  "last_updated": "2026-06-10T18:32:43.638106",
   "news": [
+    {
+      "id": "bc6817532eb0",
+      "title": "El CNC contraataca: la industria cinematográfica francesa es rentable - Industria / Mercado - Francia",
+      "source": "Cineuropa",
+      "date": "MIÉ 10 JUN 2026",
+      "date_iso": "2026-06-10T14:40:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El ente público de referencia del séptimo arte en Francia sale al paso de las falsedades que circulan con un estudio inédito sobre el modelo económico de las películas de iniciativa francesa",
+      "url": "https://cineuropa.org/es/newsdetail/492407/"
+    },
     {
       "id": "20237f5ce42c",
       "title": "Estreno de Film&Arts",
@@ -12,6 +24,18 @@
       "cat": "ESTRENOS",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/06/10/23094-making-tarantino-el-documental-que-revela-el-origen-creativo-del-director-que-transformo-el-cine-contemporaneo"
+    },
+    {
+      "id": "759b45b81143",
+      "title": "REPORT: Bars in Progress @ Festival de Biskek 2026 - Biskek 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 10 JUN 2026",
+      "date_iso": "2026-06-10T14:15:40",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Un vistazo a cuatro de los siete proyectos presentados, todos ellos largometrajes de ficción en fase de postproducción que buscan nuevos socios en Europa y más allá",
+      "url": "https://cineuropa.org/es/newsdetail/492432/"
     },
     {
       "id": "8e149457e1a6",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "CANNES 2026: La productora reflexiona sobre el cambiante panorama de la producción independiente y los crecientes desafíos de financiación a los que se enfrenta el cine europeo",
       "url": "https://cineuropa.org/es/video/491826/"
-    },
-    {
-      "id": "8ded9a16092e",
-      "title": "Entrevista: Daniel Auteuil • Director de La Troisième Nuit - “No me quedo en mi sillón esperando a que vengan a buscarme” - Cannes 2026 - Cannes Première",
-      "source": "Cineuropa",
-      "date": "MIÉ 27 MAY 2026",
-      "date_iso": "2026-05-27T14:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "CANNES 2026: El actor francés habla de su sexto largometraje como director y de su enfoque sensorial del cine",
-      "url": "https://cineuropa.org/es/interview/491849/"
-    },
-    {
-      "id": "53f7abca2c4b",
-      "title": "Los Beldocs Industry Days vuelven a acoger una amplia y variada selección de eventos - Beldocs 2026 – Beldocs Industry Days/Premios",
-      "source": "Cineuropa",
-      "date": "MIÉ 27 MAY 2026",
-      "date_iso": "2026-05-27T12:06:48",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Un foro de pitching, un panel, masterclasses, charlas y conferencias han reunido en Belgrado a una amplia variedad de profesionales del cine documental",
-      "url": "https://cineuropa.org/es/newsdetail/491857/"
     }
   ],
   "releases": [
