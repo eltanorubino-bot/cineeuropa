@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-11T14:33:48.586773",
+  "last_updated": "2026-06-11T18:48:51.378236",
   "news": [
+    {
+      "id": "1d9167831098",
+      "title": "El FIDLab selecciona once proyectos - FIDMarseille 2026",
+      "source": "Cineuropa",
+      "date": "JUE 11 JUN 2026",
+      "date_iso": "2026-06-11T15:00:01",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La plataforma marsellesa de coproducción acogerá un título en postproducción, uno en producción, dos en escritura y siete en desarrollo",
+      "url": "https://cineuropa.org/es/newsdetail/492468/"
+    },
+    {
+      "id": "f97a3d31bce8",
+      "title": "Una polémica y 40 estrenos mundiales a competición en el FIDMarseille - FIDMarseille 2026",
+      "source": "Cineuropa",
+      "date": "JUE 11 JUN 2026",
+      "date_iso": "2026-06-11T15:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "La 37.ª edición del festival marsellés, que se celebrará del 7 al 12 de julio y que atraviesa el tumulto del caso Nadav Lapid, acoge 133 películas de 42 países",
+      "url": "https://cineuropa.org/es/newsdetail/492466/"
+    },
+    {
+      "id": "64bf93064e51",
+      "title": "El cine llega a La Rochelle Cinéma con ansias de público - Festivales / Premios - Francia",
+      "source": "Cineuropa",
+      "date": "JUE 11 JUN 2026",
+      "date_iso": "2026-06-11T14:55:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Del 26 de junio al 4 de julio, el Fema programará cerca de 210 películas con la presencia de numerosos cineastas y rendirá homenaje a Cristian Mungiu, Nanni Moretti y Dag Johan Haugerud",
+      "url": "https://cineuropa.org/es/newsdetail/492430/"
+    },
     {
       "id": "7a09a137d75a",
       "title": "Emily Watson presidirá el jurado del 32.° Festival de Sarajevo - Sarajevo 2026",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Ocho (co)producciones europeas participan en la competición internacional, mientras que seis se medirán en el apartado de documentales; por su parte, Romanian Days cuenta con once largometrajes",
       "url": "https://cineuropa.org/es/newsdetail/491881/"
-    },
-    {
-      "id": "458b5a40961f",
-      "title": "El Milano Film Fest prepara su segunda edición - Festivales / Premios - Italia",
-      "source": "Cineuropa",
-      "date": "JUE 28 MAY 2026",
-      "date_iso": "2026-05-28T09:11:15",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El certamen regresa del 4 al 9 de junio, bajo la dirección artística de Claudio Santamaria, con más de 120 películas e invitados como Julian Schnabel, Valeria Golino y Dario Argento",
-      "url": "https://cineuropa.org/es/newsdetail/491864/"
-    },
-    {
-      "id": "a5d6cf173700",
-      "title": "Los profesionales rompen el silencio sobre la violencia sexual y el abuso de poder en la industria cinematográfica - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "JUE 28 MAY 2026",
-      "date_iso": "2026-05-28T08:39:34",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La Cumbre Mundial de la Igualdad de Género en el Cine demostró que, diez años después del #MeToo, la violencia sexual y la desigualdad que afectan a las mujeres siguen siendo un problema estructural",
-      "url": "https://cineuropa.org/es/newsdetail/491865/"
-    },
-    {
-      "id": "bc3dd2011bf9",
-      "title": "Las perspectivas mundiales sobre la igualdad y la diversidad en el cine, a examen durante un encuentro online - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "JUE 28 MAY 2026",
-      "date_iso": "2026-05-28T06:52:17",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Las carencias de las políticas, los estereotipos persistentes y la violencia estructural contra las mujeres en la industria centraron la Cumbre Mundial de la Igualdad de Género en el Cine",
-      "url": "https://cineuropa.org/es/newsdetail/491850/"
     }
   ],
   "releases": [
