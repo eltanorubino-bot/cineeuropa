@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-12T14:08:21.279904",
+  "last_updated": "2026-06-12T18:09:38.592120",
   "news": [
+    {
+      "id": "a3232c7d2165",
+      "title": "Entrevista: Caterina Mazzucato • Responsable, Bio to B - Industry Days | Doc&Drama - “El sector del cine documental está en expansión, pero en un momento de crisis es importante diversificar el producto” - Biografilm 2026 – Bio to B",
+      "source": "Cineuropa",
+      "date": "VIE 12 JUN 2026",
+      "date_iso": "2026-06-12T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La directora de la sección profesional del Biografilm de Bolonia hace balance de la 13.ª edición del espacio de encuentro, desarrollo y apoyo del cine documental europeo",
+      "url": "https://cineuropa.org/es/interview/492471/"
+    },
+    {
+      "id": "134c224d8b80",
+      "title": "Austria mantiene su presupuesto anual de financiación de cine de 37 millones de euros para 2027 y 2028 - Industria / Mercado - Austria",
+      "source": "Cineuropa",
+      "date": "VIE 12 JUN 2026",
+      "date_iso": "2026-06-12T11:04:11",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "El Instituto de Cine Austriaco celebra el compromiso del gobierno con el nivel de financiación selectiva; continúa el diálogo sobre la tasa y las obligaciones de inversión para las plataformas de streaming",
+      "url": "https://cineuropa.org/es/newsdetail/492500/"
+    },
     {
       "id": "4d39bd47075b",
       "title": "NEM Dubrovnik analiza la consolidación, el contenido local y la IA en una industria televisiva en rápida evolución - NEM Dubrovnik 2026",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El festival islandés de documentales ha acogido su muestra de work-in-progress, que puso de relieve seis largometrajes en distintas fases de desarrollo y producción",
       "url": "https://cineuropa.org/es/newsdetail/491914/"
-    },
-    {
-      "id": "ae194253e9c5",
-      "title": "Festival de cine",
-      "source": "Escribiendo Cine",
-      "date": "JUE 28 MAY 2026",
-      "date_iso": "2026-05-28T14:36:39.054249",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/05/28/22828-ficuba-2026-la-universidad-de-buenos-aires-abre-la-convocatoria-para-la-cuarta-edicion-de-su-festival-internacional-de-cine"
-    },
-    {
-      "id": "50f0de3d2389",
-      "title": "Velasco Broca debuta en el largometraje con El futuro testamento - Producción / Financiación - España/Estonia/Italia",
-      "source": "Cineuropa",
-      "date": "JUE 28 MAY 2026",
-      "date_iso": "2026-05-28T11:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Àlex Brendemühl, Mireia Oriol y Ariadna Gil protagonizan la película del director español, con textura analógica, efectos físicos e iconografía gótica y retrofuturista",
-      "url": "https://cineuropa.org/es/newsdetail/491887/"
     }
   ],
   "releases": [
