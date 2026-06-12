@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-12T00:22:08.492928",
+  "last_updated": "2026-06-12T14:08:21.279904",
   "news": [
+    {
+      "id": "4d39bd47075b",
+      "title": "NEM Dubrovnik analiza la consolidación, el contenido local y la IA en una industria televisiva en rápida evolución - NEM Dubrovnik 2026",
+      "source": "Cineuropa",
+      "date": "VIE 12 JUN 2026",
+      "date_iso": "2026-06-12T10:47:26",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El principal mercado televisivo centrado en Europa Central y del Este ha acogido su mayor edición hasta la fecha, reuniendo a expertos para debatir sobre el futuro del contenido y la distribución",
+      "url": "https://cineuropa.org/es/newsdetail/492499/"
+    },
     {
       "id": "1d9167831098",
       "title": "El FIDLab selecciona once proyectos - FIDMarseille 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Àlex Brendemühl, Mireia Oriol y Ariadna Gil protagonizan la película del director español, con textura analógica, efectos físicos e iconografía gótica y retrofuturista",
       "url": "https://cineuropa.org/es/newsdetail/491887/"
-    },
-    {
-      "id": "1eb326e1008a",
-      "title": "Biografilm presenta el cine de lo real, entre memoria, política e historias biográficas - Biografilm 2026",
-      "source": "Cineuropa",
-      "date": "JUE 28 MAY 2026",
-      "date_iso": "2026-05-28T10:08:07",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "La 22.ª edición del festival presenta del 5 al 15 de junio en Bolonia 64 películas de 34 países, con 16 estrenos mundiales y una fuerte presencia de producciones y coproducciones europeas",
-      "url": "https://cineuropa.org/es/newsdetail/491882/"
     }
   ],
   "releases": [
