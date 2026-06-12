@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T18:48:51.378236",
+  "last_updated": "2026-06-12T00:22:08.492928",
   "news": [
     {
       "id": "1d9167831098",
@@ -84,6 +84,18 @@
       "cat": "FESTIVALES",
       "excerpt": "El programador del festival habla sobre su trayectoria y los criterios que guiaron su selección de películas para la competición regional",
       "url": "https://cineuropa.org/es/interview/492451/"
+    },
+    {
+      "id": "fe8e2ecca0f8",
+      "title": "Crítica de “Familia”, film dirigido por Francesco Costabile",
+      "source": "A Sala Llena",
+      "date": "JUE 11 JUN 2026",
+      "date_iso": "2026-06-11T04:01:12",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CINE DEL HUMANISMO BURGUÉS Familia es un film italiano del año 2024 que adapta los escritos biográficos de Luigi Celeste, protagonista de la película a quien conocemos durante sus años mozos. ¿Quién es Luigi? Un chico cuya infancia es abortada por la incompetencia absurda de un hermético protocol...",
+      "url": "https://asalallena.com.ar/critica-de-familia-film-dirigido-por-francesco-costabile/"
     },
     {
       "id": "bc6817532eb0",
@@ -588,18 +600,6 @@
       "cat": "ESTRENOS",
       "excerpt": "La 22.ª edición del festival presenta del 5 al 15 de junio en Bolonia 64 películas de 34 países, con 16 estrenos mundiales y una fuerte presencia de producciones y coproducciones europeas",
       "url": "https://cineuropa.org/es/newsdetail/491882/"
-    },
-    {
-      "id": "c4673e80220d",
-      "title": "Las películas europeas gozan de una fuerte presencia en la 25.ª edición del Festival de Transilvania - Transilvania 2026",
-      "source": "Cineuropa",
-      "date": "JUE 28 MAY 2026",
-      "date_iso": "2026-05-28T09:26:34",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Ocho (co)producciones europeas participan en la competición internacional, mientras que seis se medirán en el apartado de documentales; por su parte, Romanian Days cuenta con once largometrajes",
-      "url": "https://cineuropa.org/es/newsdetail/491881/"
     }
   ],
   "releases": [
