@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-15T00:19:35.238785",
+  "last_updated": "2026-06-15T16:15:34.146690",
   "news": [
+    {
+      "id": "7c549d34391b",
+      "title": "El Biografilm explora el documental italiano en el ecosistema europeo de la financiación - Biografilm 2026 - Bio to B",
+      "source": "Cineuropa",
+      "date": "LUN 15 JUN 2026",
+      "date_iso": "2026-06-15T15:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Un debate de los Bio to B Industry Days Doc puso el foco sobre estrategias de producción y distribución, apoyo público y oportunidades de financiación",
+      "url": "https://cineuropa.org/es/newsdetail/492526/"
+    },
+    {
+      "id": "7c8721a96948",
+      "title": "Sucia triunfa en Sheffield Doc/Fest - Sheffield Doc Fest 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "LUN 15 JUN 2026",
+      "date_iso": "2026-06-15T12:12:08",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El documental español de Bàrbara Mestanza y Marc Pujolar ha sido galardonado por su “narrativa valiente y notable visión creativa”",
+      "url": "https://cineuropa.org/es/newsdetail/492525/"
+    },
+    {
+      "id": "3e9fdaf801f9",
+      "title": "On Your Lap, de Reza Rahadian, gana el premio a la mejor película en el Festival de Biskek - Biskek 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "LUN 15 JUN 2026",
+      "date_iso": "2026-06-15T10:07:24",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Restart y Moment triunfan respectivamente en la competición de Asia Central y en KyrgyzBox, y el actor italiano Malich Cissé se hace con una mención especial por Cattiva strada",
+      "url": "https://cineuropa.org/es/newsdetail/492522/"
+    },
     {
       "id": "a3232c7d2165",
       "title": "Entrevista: Caterina Mazzucato • Responsable, Bio to B - Industry Days | Doc&Drama - “El sector del cine documental está en expansión, pero en un momento de crisis es importante diversificar el producto” - Biografilm 2026 – Bio to B",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/05/29/22855-sound-of-falling-arraso-en-los-premios-del-cine-aleman-y-se-quedo-con-diez-estauillas"
-    },
-    {
-      "id": "45adb7fcd895",
-      "title": "El 28.° German Film Fest Madrid abre sus puertas - Festivales / Premios - España/Alemania",
-      "source": "Cineuropa",
-      "date": "VIE 29 MAY 2026",
-      "date_iso": "2026-05-29T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La capital española acoge del 3 al 7 de junio una selección del mejor cine alemán reciente, liderada por películas dirigidas por mujeres y títulos con alto compromiso social",
-      "url": "https://cineuropa.org/es/newsdetail/491908/"
-    },
-    {
-      "id": "cc871b244c00",
-      "title": "El Observatorio Europeo del Audiovisual cartografía el peso de los incentivos fiscales y los reembolsos en efectivo en la producción audiovisual - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "VIE 29 MAY 2026",
-      "date_iso": "2026-05-29T13:33:02",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Un nuevo estudio analiza cómo los créditos fiscales, los reembolsos en efectivo y los tax shelters se han convertido en determinantes para financiar, producir y rodar películas y series",
-      "url": "https://cineuropa.org/es/newsdetail/491977/"
-    },
-    {
-      "id": "9c6bdb2c7c7b",
-      "title": "REPORT: Work in Progress @ Skjaldborg Festival 2026 - Industria / Mercado - Islandia",
-      "source": "Cineuropa",
-      "date": "VIE 29 MAY 2026",
-      "date_iso": "2026-05-29T10:28:37",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El festival islandés de documentales ha acogido su muestra de work-in-progress, que puso de relieve seis largometrajes en distintas fases de desarrollo y producción",
-      "url": "https://cineuropa.org/es/newsdetail/491914/"
     }
   ],
   "releases": [
