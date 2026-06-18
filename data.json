@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-06-18T00:21:54.049191",
+  "last_updated": "2026-06-18T14:08:06.867730",
   "news": [
+    {
+      "id": "0f90229406ce",
+      "title": "Entrevista: Carlos Saiz • Director de Lionel - “Mi trabajo consistía más en generar estados de ánimo y crear las condiciones adecuadas para que las cosas sucedieran” - Transilvania 2026",
+      "source": "Cineuropa",
+      "date": "JUE 18 JUN 2026",
+      "date_iso": "2026-06-18T12:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El cineasta español habla sobre el largo proceso de confianza detrás de su debut, donde acompaña un viaje íntimo marcado por la reconciliación y los silencios heredados",
+      "url": "https://cineuropa.org/es/interview/492509/"
+    },
+    {
+      "id": "2cf4f512375b",
+      "title": "KVIFF Talents presenta una variedad de próximos proyectos checos - Karlovy Vary 2026 – KVIFF Industry Days",
+      "source": "Cineuropa",
+      "date": "JUE 18 JUN 2026",
+      "date_iso": "2026-06-18T10:44:57",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La selección de proyectos nacionales está marcada por dilemas personales y narrativas con tintes de género, abarcando desde el thriller queer y la animación de autor hasta series de K-pop",
+      "url": "https://cineuropa.org/es/newsdetail/492627/"
+    },
+    {
+      "id": "5490d148ee8a",
+      "title": "El Festival de Televisión de Montecarlo advierte que los radiodifusores deben resistir la presión política y reconstruir la confianza del público - Monte-Carlo TV Festival 2026",
+      "source": "Cineuropa",
+      "date": "JUE 18 JUN 2026",
+      "date_iso": "2026-06-18T09:40:49",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los ponentes del Business Forum del festival abordaron la censura, la concentración mediática, la neutralidad del servicio público y el frágil pacto entre el público y los creadores",
+      "url": "https://cineuropa.org/es/newsdetail/492622/"
+    },
+    {
+      "id": "0747e7f04d6f",
+      "title": "Los Munich Industry Days regresan con un foco sobre los países nórdicos y nuevas iniciativas para los talentos emergentes - Múnich 2026",
+      "source": "Cineuropa",
+      "date": "JUE 18 JUN 2026",
+      "date_iso": "2026-06-18T08:50:23",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La sección profesional del festival alemán se centrará en los cinco países del norte de Europa y acogerá el lanzamiento de First Cut+ Munich",
+      "url": "https://cineuropa.org/es/newsdetail/492621/"
+    },
+    {
+      "id": "64f1f080a6c7",
+      "title": "Crítica de “Alphaville”, film dirigido por Jean-Luc Godard",
+      "source": "A Sala Llena",
+      "date": "JUE 18 JUN 2026",
+      "date_iso": "2026-06-18T02:26:37",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Jódase con su lógica¹ Aun catalogada de ciencia ficción, Alphaville (1965) se empareja mejor con experimentales dramas de su época. Resumamos la trama antes de abordar su acertado ataque hacia la razón, lo primordial en ella. Lemmy Caution, agente secreto norteamericano (Eddie Constantine), es en...",
+      "url": "https://asalallena.com.ar/critica-de-alphaville-film-dirigido-por-jean-luc-godard/"
+    },
     {
       "id": "e68d5ae90d5a",
       "title": "YouTube amplía su presencia en MIPCOM Cannes como socio clave de crecimiento para la industria mundial de los medios - MIPCOM Cannes 2026",
@@ -540,66 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Varias organizaciones profesionales del continente alzan la voz sobre la excepción cultural, Agora EU, la independencia, la directiva de servicios de comunicación audiovisual y la IA generativa",
       "url": "https://cineuropa.org/es/newsdetail/492256/"
-    },
-    {
-      "id": "faa4ad1f286e",
-      "title": "Entrevista: Vladimir Kokh • Distribuidor, KMBO - “Se trata, en realidad, del descubrimiento de autores y mercados” - Distribuidor del mes",
-      "source": "Cineuropa",
-      "date": "VIE 5 JUN 2026",
-      "date_iso": "2026-06-05T11:33:56",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Hablamos con el profesional francés para conocer mejor el enfoque diversificado de la empresa, incluida la adquisición de la distribuidora de animación Gebeka",
-      "url": "https://cineuropa.org/es/interview/492254/"
-    },
-    {
-      "id": "01a266a08372",
-      "title": "Wild Filmmaker desvela un nutrido calendario de eventos tras Cannes - Patrocinado",
-      "source": "Cineuropa",
-      "date": "VIE 5 JUN 2026",
-      "date_iso": "2026-06-05T08:15:24",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La iniciativa sigue consolidando su reputación internacional como una plataforma en crecimiento dedicada a la promoción del cine independiente",
-      "url": "https://cineuropa.org/es/newsdetail/492225/"
-    },
-    {
-      "id": "f4b3d2ae3501",
-      "title": "Eduardo Noriega se convierte en Jarabo gracias a Emilio Martínez-Lázaro - Producción / Financiación - España",
-      "source": "Cineuropa",
-      "date": "JUE 4 JUN 2026",
-      "date_iso": "2026-06-04T14:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El actor encarna al famoso asesino español en la producción de Enrique Cerezo que también interpretan José Coronado, Lucía Guerrero, Karra Elejalde, Luis Callejo, Andrés Gertrúdix y Jorge Sanz",
-      "url": "https://cineuropa.org/es/newsdetail/492204/"
-    },
-    {
-      "id": "3763b94ee70e",
-      "title": "Crítica: Spacetime Chronicles - Películas / Críticas - Italia",
-      "source": "Cineuropa",
-      "date": "JUE 4 JUN 2026",
-      "date_iso": "2026-06-04T12:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "La película de animación de Stefano Bertelli conjuga recuerdos y experiencias existenciales con las teorías sobre el espacio-tiempo a través de la fascinante técnica del stop-motion en papel",
-      "url": "https://cineuropa.org/es/newsdetail/492171/"
-    },
-    {
-      "id": "a7b146d0b02c",
-      "title": "Entrevista: Argen Adil Uulu • Director, Festival Internacional de Cine de Biskek - “Nuestro objetivo es apoyar proyectos en todas las fases del proceso de producción cinematográfica” - Biskek 2026",
-      "source": "Cineuropa",
-      "date": "JUE 4 JUN 2026",
-      "date_iso": "2026-06-04T09:37:02",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El responsable de la cita kirguisa analiza su cuarta edición, su papel como polo de la industria en Asia Central y el equilibrio que establece entre el cine comercial y el de autor",
-      "url": "https://cineuropa.org/es/interview/492214/"
     }
   ],
   "releases": [
