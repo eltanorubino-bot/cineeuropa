@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-19T01:47:03.436362",
+  "last_updated": "2026-06-19T14:12:09.524553",
   "news": [
+    {
+      "id": "cda3a71a068d",
+      "title": "El FEST - New Directors New Films calienta motores - Festivales / Premios - Portugal",
+      "source": "Cineuropa",
+      "date": "VIE 19 JUN 2026",
+      "date_iso": "2026-06-19T13:32:57",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Este año, el certamen portugués amplía su reconocido programa profesional con un nuevo espacio de formación y networking denominado Actors Hub",
+      "url": "https://cineuropa.org/es/newsdetail/492690/"
+    },
+    {
+      "id": "8e1dfd72164e",
+      "title": "Miroslav Terzić lleva 3 Weeks After a Karlovy Vary - Producción / Financiación - Serbia/Bulgaria/Italia/Croacia/Luxemburgo",
+      "source": "Cineuropa",
+      "date": "VIE 19 JUN 2026",
+      "date_iso": "2026-06-19T10:50:13",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "El tercer largometraje del realizador serbio, un drama sobre el acoso escolar en secundaria, tendrá su estreno mundial en la competición por el Globo de Cristal del certamen checo",
+      "url": "https://cineuropa.org/es/newsdetail/492675/"
+    },
+    {
+      "id": "3bc862906d34",
+      "title": "El Evia Film Project regresa con un viaje al corazón del bosque - Tesalónica 2026",
+      "source": "Cineuropa",
+      "date": "VIE 19 JUN 2026",
+      "date_iso": "2026-06-19T08:19:06",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La iniciativa medioambiental del Festival de Tesalónica celebra su quinta edición en el norte de Eubea, explorando las dimensiones cinematográficas, ecológicas y míticas de los bosques",
+      "url": "https://cineuropa.org/es/newsdetail/492644/"
+    },
     {
       "id": "587864fca6e3",
       "title": "Festival de Cine de Locarno 2026",
@@ -564,42 +600,6 @@
       "cat": "ESTRENOS",
       "excerpt": "El cineasta iraní Nader Saeivar regresa con un tenso drama familiar que explora la fe, la sexualidad y la identidad, con Jafar Panahi como productor y montador",
       "url": "https://cineuropa.org/es/newsdetail/492334/"
-    },
-    {
-      "id": "527fda390d86",
-      "title": "Green Visions Potsdam llega a su fin - Festivales / Premios - Alemania",
-      "source": "Cineuropa",
-      "date": "LUN 8 JUN 2026",
-      "date_iso": "2026-06-08T12:12:58",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La tercera edición del festival alemán de enfoque medioambiental ofreció películas, conocimiento científico y soluciones prácticas a problemas persistentes",
-      "url": "https://cineuropa.org/es/newsdetail/492320/"
-    },
-    {
-      "id": "9d505d015607",
-      "title": "“Defender la cultura es defender la democracia”, afirma Emma Rafowicz - Instituciones / Legislación - Europa",
-      "source": "Cineuropa",
-      "date": "LUN 8 JUN 2026",
-      "date_iso": "2026-06-08T11:08:06",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "En la presentación en la Comisión CULT del proyecto de informe de Agora EU, la eurodiputada y ponente ha trazado su línea política",
-      "url": "https://cineuropa.org/es/newsdetail/492303/"
-    },
-    {
-      "id": "dfed253eecb4",
-      "title": "Skybreaker se prepara para su estreno en un festival - Producción / Financiación - Albania",
-      "source": "Cineuropa",
-      "date": "LUN 8 JUN 2026",
-      "date_iso": "2026-06-08T10:02:20",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "Steven Kastrissios ha finalizado un ambicioso largometraje de fantasía, rodado en varios puntos de Albania y presentado como la primera película del país en el género",
-      "url": "https://cineuropa.org/es/newsdetail/492294/"
     }
   ],
   "releases": [
