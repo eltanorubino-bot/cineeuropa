@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T15:49:20.053774",
+  "last_updated": "2026-06-22T19:33:27.942971",
   "news": [
     {
       "id": "5afbb9f7d6b6",
@@ -40,6 +40,18 @@
     {
       "id": "6d23133dd4ab",
       "title": "EXCLUSIVA: Tráiler de A Whole Person Almost, seleccionada en Karlovy Vary - Karlovy Vary 2026 - Proxima",
+      "source": "Cineuropa",
+      "date": "LUN 22 JUN 2026",
+      "date_iso": "2026-06-22T13:50:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "La sección Proxima acoge el estreno del primer largometraje de Efthimis Kosemund-Sanidis, que sigue a un joven que llega a la remota isla en la que vivió su difunto padre",
+      "url": "https://cineuropa.org/es/newsdetail/492680/"
+    },
+    {
+      "id": "a84519fa9f24",
+      "title": "EXCLUSIVA: Tráiler y póster de A Whole Person Almost, seleccionada en Karlovy Vary - Karlovy Vary 2026 - Proxima",
       "source": "Cineuropa",
       "date": "LUN 22 JUN 2026",
       "date_iso": "2026-06-22T13:50:00",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El taller y foro de pitching, organizado por las Europa Creativa MEDIA Desks de diez países europeos, se celebrará del 15 al 18 de junio",
       "url": "https://cineuropa.org/es/newsdetail/492464/"
-    },
-    {
-      "id": "d4784e26b1fb",
-      "title": "Juho Kuosmanen presenta el reparto de su tragicomedia danesa En Ægte Drømmer - Producción / Financiación - Dinamarca/Finlandia/Alemania",
-      "source": "Cineuropa",
-      "date": "JUE 11 JUN 2026",
-      "date_iso": "2026-06-11T10:46:29",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cineasta finlandés premiado en Cannes prepara su primer título en danés, con Magnus Millang y Paprika Steen en un relato sobre la búsqueda de tesoros submarinos inspirado en hechos reales",
-      "url": "https://cineuropa.org/es/newsdetail/492458/"
     }
   ],
   "releases": [
