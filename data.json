@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-06-23T00:17:47.927877",
+  "last_updated": "2026-06-23T13:42:05.394629",
   "news": [
+    {
+      "id": "6784c54b1114",
+      "title": "El cine internacional se da cita con lugares, recuerdos e identidades en el Festival de Ischia - Festivales / Premios - Italia",
+      "source": "Cineuropa",
+      "date": "MAR 23 JUN 2026",
+      "date_iso": "2026-06-23T13:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La 24.ª edición del certamen tendrá lugar en el Castello Aragonese de la isla italiana del 27 de junio al 4 de julio, con 66 obras procedentes de 33 países",
+      "url": "https://cineuropa.org/es/newsdetail/492761/"
+    },
+    {
+      "id": "d8a7069ffec0",
+      "title": "Warsaw Co-Production Forum abre la convocatoria de proyectos mientras Warsaw Industry Days amplía su programa - Varsovia 2026 – Warsaw Industry Days",
+      "source": "Cineuropa",
+      "date": "MAR 23 JUN 2026",
+      "date_iso": "2026-06-23T12:58:33",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El foro, previsto del 14 al 16 de octubre, presentará proyectos de largometraje en desarrollo, así como works-in-progress de toda Europa",
+      "url": "https://cineuropa.org/es/newsdetail/492762/"
+    },
+    {
+      "id": "be244c978305",
+      "title": "El 34.° Festival de Hamburgo acogerá la colaboración entre el certamen, CICAE y Futura Cinema - Hamburgo 2026 – Filmfest Hamburg Industry Days",
+      "source": "Cineuropa",
+      "date": "MAR 23 JUN 2026",
+      "date_iso": "2026-06-23T12:26:55",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La iniciativa conjunta invitará a 25 profesionales a explorar seis proyectos de innovación que repiensan la relación con el público, la experiencia en salas y el futuro de los espacios culturales",
+      "url": "https://cineuropa.org/es/newsdetail/492760/"
+    },
+    {
+      "id": "1cbd50d79e2c",
+      "title": "Juliette Binoche, Maggie Gyllenhaal, Dustin Hoffman y Jesse Eisenberg recibirán homenajeas en Karlovy Vary - Karlovy Vary 2026",
+      "source": "Cineuropa",
+      "date": "MAR 23 JUN 2026",
+      "date_iso": "2026-06-23T09:50:40",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La 60.ª edición del certamen presentará un amplio abanico de cine contemporáneo, que abarcará desde laureados en Cannes y la Berlinale hasta cine de autor europeo y descubrimientos formalmente audaces",
+      "url": "https://cineuropa.org/es/newsdetail/492734/"
+    },
+    {
+      "id": "dc79d12b8581",
+      "title": "Entrevista: Alina Götzlich • Responsable de industria, Festival de Múnich - “Una plataforma profesional exitosa no consiste solo en programar reuniones; se trata de crear recuerdos compartidos” - Múnich 2026",
+      "source": "Cineuropa",
+      "date": "MAR 23 JUN 2026",
+      "date_iso": "2026-06-23T09:06:40",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La nueva responsable de industria expone su visión de una plataforma más conectada y con vocación internacional",
+      "url": "https://cineuropa.org/es/interview/492728/"
+    },
     {
       "id": "5afbb9f7d6b6",
       "title": "Festival de Cine de Venecia 2026",
@@ -540,66 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El principal mercado televisivo centrado en Europa Central y del Este ha acogido su mayor edición hasta la fecha, reuniendo a expertos para debatir sobre el futuro del contenido y la distribución",
       "url": "https://cineuropa.org/es/newsdetail/492499/"
-    },
-    {
-      "id": "1d9167831098",
-      "title": "El FIDLab selecciona once proyectos - FIDMarseille 2026",
-      "source": "Cineuropa",
-      "date": "JUE 11 JUN 2026",
-      "date_iso": "2026-06-11T15:00:01",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La plataforma marsellesa de coproducción acogerá un título en postproducción, uno en producción, dos en escritura y siete en desarrollo",
-      "url": "https://cineuropa.org/es/newsdetail/492468/"
-    },
-    {
-      "id": "f97a3d31bce8",
-      "title": "Una polémica y 40 estrenos mundiales a competición en el FIDMarseille - FIDMarseille 2026",
-      "source": "Cineuropa",
-      "date": "JUE 11 JUN 2026",
-      "date_iso": "2026-06-11T15:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "La 37.ª edición del festival marsellés, que se celebrará del 7 al 12 de julio y que atraviesa el tumulto del caso Nadav Lapid, acoge 133 películas de 42 países",
-      "url": "https://cineuropa.org/es/newsdetail/492466/"
-    },
-    {
-      "id": "64bf93064e51",
-      "title": "El cine llega a La Rochelle Cinéma con ansias de público - Festivales / Premios - Francia",
-      "source": "Cineuropa",
-      "date": "JUE 11 JUN 2026",
-      "date_iso": "2026-06-11T14:55:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Del 26 de junio al 4 de julio, el Fema programará cerca de 210 películas con la presencia de numerosos cineastas y rendirá homenaje a Cristian Mungiu, Nanni Moretti y Dag Johan Haugerud",
-      "url": "https://cineuropa.org/es/newsdetail/492430/"
-    },
-    {
-      "id": "7a09a137d75a",
-      "title": "Emily Watson presidirá el jurado del 32.° Festival de Sarajevo - Sarajevo 2026",
-      "source": "Cineuropa",
-      "date": "JUE 11 JUN 2026",
-      "date_iso": "2026-06-11T12:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La actriz británica recibirá además un Corazón de Sarajevo Honorífico en reconocimiento a su contribución al cine mundial",
-      "url": "https://cineuropa.org/es/newsdetail/492452/"
-    },
-    {
-      "id": "870af2521628",
-      "title": "La 11.ª edición de Let’s Pitch Some Shorts! en Zagreb selecciona once proyectos de cortometraje - Cortometrajes - Croacia",
-      "source": "Cineuropa",
-      "date": "JUE 11 JUN 2026",
-      "date_iso": "2026-06-11T12:35:34",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El taller y foro de pitching, organizado por las Europa Creativa MEDIA Desks de diez países europeos, se celebrará del 15 al 18 de junio",
-      "url": "https://cineuropa.org/es/newsdetail/492464/"
     }
   ],
   "releases": [
