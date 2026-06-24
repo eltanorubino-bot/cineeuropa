@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-24T00:04:15.020074",
+  "last_updated": "2026-06-24T13:20:10.235536",
   "news": [
+    {
+      "id": "6dec4fdd1392",
+      "title": "La industria audiovisual eslovaca se contrajo en 2025, pero mantuvo su perfil internacional - Industria / Mercado - Eslovaquia",
+      "source": "Cineuropa",
+      "date": "MIÉ 24 JUN 2026",
+      "date_iso": "2026-06-24T09:37:01",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Un año con menos producciones deparó aún así selecciones en los principales festivales y una sólida recaudación para los títulos nacionales",
+      "url": "https://cineuropa.org/es/newsdetail/492790/"
+    },
     {
       "id": "c5f37140e013",
       "title": "El NIFFF desvela la programación de su 25.ª edición - NIFFF 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Restart y Moment triunfan respectivamente en la competición de Asia Central y en KyrgyzBox, y el actor italiano Malich Cissé se hace con una mención especial por Cattiva strada",
       "url": "https://cineuropa.org/es/newsdetail/492522/"
-    },
-    {
-      "id": "a3232c7d2165",
-      "title": "Entrevista: Caterina Mazzucato • Responsable, Bio to B - Industry Days | Doc&Drama - “El sector del cine documental está en expansión, pero en un momento de crisis es importante diversificar el producto” - Biografilm 2026 – Bio to B",
-      "source": "Cineuropa",
-      "date": "VIE 12 JUN 2026",
-      "date_iso": "2026-06-12T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La directora de la sección profesional del Biografilm de Bolonia hace balance de la 13.ª edición del espacio de encuentro, desarrollo y apoyo del cine documental europeo",
-      "url": "https://cineuropa.org/es/interview/492471/"
     }
   ],
   "releases": [
