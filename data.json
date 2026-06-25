@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-25T00:18:52.030530",
+  "last_updated": "2026-06-25T13:13:52.479637",
   "news": [
+    {
+      "id": "33cc563f82d4",
+      "title": "La taquilla del cine europeo se mantuvo resiliente en 2025 pese al descenso de la asistencia, según el informe de la UNIC - Industria / Mercado - Europa",
+      "source": "Cineuropa",
+      "date": "JUE 25 JUN 2026",
+      "date_iso": "2026-06-25T10:52:29",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Las salas generaron casi 6.900 millones de euros en taquilla, mientras que las producciones nacionales siguieron desempeñando un papel crucial para sostener la asistencia en varios territorios",
+      "url": "https://cineuropa.org/es/newsdetail/492815/"
+    },
+    {
+      "id": "c2a37e36e7af",
+      "title": "Seriesly Berlin amplía sus ambiciones internacionales con nuevas iniciativas profesionales - Seriesly Berlin 2026",
+      "source": "Cineuropa",
+      "date": "JUE 25 JUN 2026",
+      "date_iso": "2026-06-25T10:25:55",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La tercera edición del festival, que espera ya solicitudes de acreditaciones y presentación de proyectos, presenta nuevas plataformas para el debate, la coproducción y las narrativas creativas",
+      "url": "https://cineuropa.org/es/newsdetail/492814/"
+    },
+    {
+      "id": "fcf582b1a14d",
+      "title": "Entrevista: Dimitri Planchon y Jean-Paul Guigue • Directores de Blaise - \"Amamos a nuestros personajes; al reírnos de ellos, nos reímos de nosotros mismos, porque sus neurosis son las nuestras\" - Annecy 2026",
+      "source": "Cineuropa",
+      "date": "JUE 25 JUN 2026",
+      "date_iso": "2026-06-25T09:45:46",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El dúo de directores relata la aventura de un largometraje muy original, basado en la técnica del papel recortado y dotado de un humor a contracorriente en torno al conformismo social",
+      "url": "https://cineuropa.org/es/interview/492743/"
+    },
     {
       "id": "6d81ab424011",
       "title": "Galway Film Fleadh presenta un programa repleto de estrenos irlandeses, documentales y nuevos talentos del cine de género - Galway 2026",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El festival barcelonés celebrará una nueva edición en noviembre, y conversamos sobre su identidad y los retos del cine independiente, entre otros temas",
       "url": "https://cineuropa.org/es/interview/492560/"
-    },
-    {
-      "id": "638fe647fd88",
-      "title": "Los expertos del sector analizan el poder femenino y el proceso creativo en Montecarlo - Monte-Carlo TV Festival 2026",
-      "source": "Cineuropa",
-      "date": "MAR 16 JUN 2026",
-      "date_iso": "2026-06-16T13:07:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "En dos paneles, pesos pesados de la industria como Lesley Manville, Michael Hirst, Judy Lung y Rola Bauer exploraron quién da realmente forma a las historias en pantalla hoy",
-      "url": "https://cineuropa.org/es/newsdetail/492578/"
-    },
-    {
-      "id": "af30150aeee9",
-      "title": "Filmin y Elastica sellan una alianza de distribución - Distribución / Estrenos / Salas - España",
-      "source": "Cineuropa",
-      "date": "MAR 16 JUN 2026",
-      "date_iso": "2026-06-16T11:55:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La plataforma de streaming de mayor trayectoria en el mercado español ha adquirido el negocio de distribución de la también productora",
-      "url": "https://cineuropa.org/es/newsdetail/492559/"
-    },
-    {
-      "id": "8abc999f3a11",
-      "title": "El 12.º FILMADRID premia a Why Hasn’t Everything Disappeared Yet - Filmadrid 2026 - Premios",
-      "source": "Cineuropa",
-      "date": "MAR 16 JUN 2026",
-      "date_iso": "2026-06-16T10:55:44",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Stefan Koutzev se convierte, con su debut en el largometraje, en el máximo triunfador del certamen, donde también fueron recompensados los españoles Julián Génisson y SOHU",
-      "url": "https://cineuropa.org/es/newsdetail/492557/"
     }
   ],
   "releases": [
