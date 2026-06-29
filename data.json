@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-29T14:46:13.070038",
+  "last_updated": "2026-06-29T18:10:17.200266",
   "news": [
+    {
+      "id": "9771bce225ac",
+      "title": "Festival de Locarno 2026",
+      "source": "Escribiendo Cine",
+      "date": "LUN 29 JUN 2026",
+      "date_iso": "2026-06-29T18:10:15.130780",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/06/29/23458-juan-ignacio-ceballos-fue-seleccionado-para-la-locarno-filmmakers-academy-2026-y-presentara-su-cortometraje-el-monte"
+    },
     {
       "id": "4d553538f4a4",
       "title": "Filipiñana triunfa en el Cinema Jove de Valencia - Cinema Jove 2026 – Premios",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El responsable artístico de la mayor cita mundial de la animación ofrece su punto de vista esclarecedor sobre las tendencias de la selección, la coyuntura económica y la inteligencia artificial",
       "url": "https://cineuropa.org/es/interview/492609/"
-    },
-    {
-      "id": "7066d607de3a",
-      "title": "Eloy Enciso finaliza Todo es cárcel - Producción / Financiación - España",
-      "source": "Cineuropa",
-      "date": "JUE 18 JUN 2026",
-      "date_iso": "2026-06-18T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "El drama histórico que escarba en los campos de concentración españoles, producido por Filmika Galaika y Umbracle Cinema, se estrenará en el FIDMarseille",
-      "url": "https://cineuropa.org/es/newsdetail/492634/"
     }
   ],
   "releases": [
