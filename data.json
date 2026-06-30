@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-30T00:13:07.641078",
+  "last_updated": "2026-06-30T13:08:17.978284",
   "news": [
+    {
+      "id": "27bb420f7255",
+      "title": "Mon soeur, de Salomé Da Souza, recibe el anticipo de ingresos del CNC - Producción / Financiación - Francia",
+      "source": "Cineuropa",
+      "date": "MAR 30 JUN 2026",
+      "date_iso": "2026-06-30T08:07:18",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El centro francés también apoyará los primeros largometrajes de Linda Lô, Gabriel Gauchet y François Daireaux",
+      "url": "https://cineuropa.org/es/newsdetail/492891/"
+    },
     {
       "id": "9771bce225ac",
       "title": "Festival de Locarno 2026",
@@ -588,18 +600,6 @@
       "cat": "PLATAFORMAS",
       "excerpt": "La nueva plataforma online está concebida para ayudar al público, a los educadores y a los profesionales a acceder a cintas de animación mucho después de que haya concluido su vida en festivales",
       "url": "https://cineuropa.org/es/newsdetail/492635/"
-    },
-    {
-      "id": "10658d883424",
-      "title": "Entrevista: Marcel Jean • Director artístico, Festival de Annecy - \"Cada vez vemos más películas de calidad\" - Annecy 2026",
-      "source": "Cineuropa",
-      "date": "JUE 18 JUN 2026",
-      "date_iso": "2026-06-18T15:05:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El responsable artístico de la mayor cita mundial de la animación ofrece su punto de vista esclarecedor sobre las tendencias de la selección, la coyuntura económica y la inteligencia artificial",
-      "url": "https://cineuropa.org/es/interview/492609/"
     }
   ],
   "releases": [
