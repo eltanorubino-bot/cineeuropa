@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-30T13:08:17.978284",
+  "last_updated": "2026-06-30T17:59:00.303495",
   "news": [
+    {
+      "id": "ddd04fb14f4a",
+      "title": "Las producciones verdes aumentan y la eficiencia energética de las salas mejora en Italia - Industria / Mercado - Italia",
+      "source": "Cineuropa",
+      "date": "MAR 30 JUN 2026",
+      "date_iso": "2026-06-30T14:35:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los datos del Osservatorio Spettacolo e Ambiente del país ponen de manifiesto un crecimiento en ambos procesos, como ya ocurre en toda Europa con numerosas iniciativas",
+      "url": "https://cineuropa.org/es/newsdetail/492912/"
+    },
     {
       "id": "27bb420f7255",
       "title": "Mon soeur, de Salomé Da Souza, recibe el anticipo de ingresos del CNC - Producción / Financiación - Francia",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La sección acoge doce largometrajes, tres series y un proyecto inmersivo en producción, entre los que estarán sin duda los éxitos de los festivales del próximo año",
       "url": "https://cineuropa.org/es/newsdetail/492633/"
-    },
-    {
-      "id": "6e98ef582609",
-      "title": "CEE Animation lanza Animation HUB para impulsar la visibilidad de las películas europeas de animación - CEE Animation 2026",
-      "source": "Cineuropa",
-      "date": "JUE 18 JUN 2026",
-      "date_iso": "2026-06-18T15:10:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La nueva plataforma online está concebida para ayudar al público, a los educadores y a los profesionales a acceder a cintas de animación mucho después de que haya concluido su vida en festivales",
-      "url": "https://cineuropa.org/es/newsdetail/492635/"
     }
   ],
   "releases": [
