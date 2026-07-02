@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-02T00:16:23.644598",
+  "last_updated": "2026-07-02T12:55:32.839955",
   "news": [
+    {
+      "id": "1da69ba8814d",
+      "title": "EXCLUSIVA: Póster de 3 Weeks After, seleccionada a competición en Karlovy Vary - Karlovy Vary 2026 – Competición",
+      "source": "Cineuropa",
+      "date": "JUE 2 JUL 2026",
+      "date_iso": "2026-07-02T08:55:12",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El drama sobre el acoso escolar en la educación secundaria del director serbio Miroslav Terzić se inspira en hechos reales, aunque no se basa en ningún caso concreto",
+      "url": "https://cineuropa.org/es/newsdetail/492974/"
+    },
+    {
+      "id": "e004e25d30e0",
+      "title": "Sobre “La mirada cinéfila. La modernización de la crítica en la revista Tiempo de Cine” de Daniela Kozak",
+      "source": "A Sala Llena",
+      "date": "JUE 2 JUL 2026",
+      "date_iso": "2026-07-02T04:37:18",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Andrea Giunta formula una hipótesis en su libro Contra el canon en el que desarrolla la idea de vanguardias simultáneas. En líneas generales, plantea que después de la Segunda Guerra Mundial deja de existir un modelo de centro y periferias donde las vanguardias nacen en Europa y luego se aggiorna...",
+      "url": "https://asalallena.com.ar/sobre-la-mirada-cinefila-la-modernizacion-de-la-critica-en-la-revista-tiempo-de-cine-de-daniela-kozak/"
+    },
     {
       "id": "8ab93fb808e3",
       "title": "Ji.hlava abre una convocatoria de apoyo a documentales por un total de 110.000 € - Jihlava 2026",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Una conversación sobre la campaña Where Talent Ignites, que recorre el mundo promocionando la creatividad española, de su paso por Cannes y México, y de la Academia de Cine Español",
       "url": "https://cineuropa.org/es/interview/492669/"
-    },
-    {
-      "id": "cda3a71a068d",
-      "title": "El FEST - New Directors New Films calienta motores - Festivales / Premios - Portugal",
-      "source": "Cineuropa",
-      "date": "VIE 19 JUN 2026",
-      "date_iso": "2026-06-19T13:32:57",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Este año, el certamen portugués amplía su reconocido programa profesional con un nuevo espacio de formación y networking denominado Actors Hub",
-      "url": "https://cineuropa.org/es/newsdetail/492690/"
-    },
-    {
-      "id": "8e1dfd72164e",
-      "title": "Miroslav Terzić lleva 3 Weeks After a Karlovy Vary - Producción / Financiación - Serbia/Bulgaria/Italia/Croacia/Luxemburgo",
-      "source": "Cineuropa",
-      "date": "VIE 19 JUN 2026",
-      "date_iso": "2026-06-19T10:50:13",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "El tercer largometraje del realizador serbio, un drama sobre el acoso escolar en secundaria, tendrá su estreno mundial en la competición por el Globo de Cristal del certamen checo",
-      "url": "https://cineuropa.org/es/newsdetail/492675/"
     }
   ],
   "releases": [
