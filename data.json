@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-07-02T12:55:32.839955",
+  "last_updated": "2026-07-02T17:51:44.134603",
   "news": [
+    {
+      "id": "0b6f058f86d1",
+      "title": "Entrevista: Hugo Rosák • Director, Film Industry Office, Festival de Karlovy Vary - “Decidimos volcar más energía en los ámbitos donde de verdad podemos ayudar, y eso suele significar en etapas más tempranas del proceso” - Karlovy Vary 2026 – KVIFF Industry Days",
+      "source": "Cineuropa",
+      "date": "JUE 2 JUL 2026",
+      "date_iso": "2026-07-02T15:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El responsable del área profesional habla sobre los cambios en KVIFF Industry y la ambición del festival de cultivar un ecosistema más amplio para cineastas y productores en toda la región",
+      "url": "https://cineuropa.org/es/interview/492244/"
+    },
+    {
+      "id": "a2c7a5a25624",
+      "title": "Atlàntida Mallorca Film Fest se supera proyectando 165 títulos - Festivales / Premios - España",
+      "source": "Cineuropa",
+      "date": "JUE 2 JUL 2026",
+      "date_iso": "2026-07-02T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Forastera, de Lucía Aleñar Iglesias, inaugurará el certamen, que se celebrará del 24 de julio al 2 de agosto, mientras que El ser querido, de Rodrigo Sorogoyen, lo cerrará",
+      "url": "https://cineuropa.org/es/newsdetail/492985/"
+    },
+    {
+      "id": "abd48e7ba402",
+      "title": "La grazia gana el Globo de Oro italiano a mejor película - Festivales / Premios - Italia",
+      "source": "Cineuropa",
+      "date": "JUE 2 JUL 2026",
+      "date_iso": "2026-07-02T13:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La película de Paolo Sorrentino también fue galardonada con el premio al mejor actor, Toni Servillo; mejor dirección para 40 secondi y mejor ópera prima para Gioia mia",
+      "url": "https://cineuropa.org/es/newsdetail/492995/"
+    },
+    {
+      "id": "1be690b4a7ff",
+      "title": "¿Qué películas francesas podrán competir por el León de Oro de Venecia? - Venecia 2026",
+      "source": "Cineuropa",
+      "date": "JUE 2 JUL 2026",
+      "date_iso": "2026-07-02T11:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "A tres semanas del anuncio de la selección oficial por parte de Alberto Barbera, repasamos las principales favoritas francesas para poner rumbo al Lido",
+      "url": "https://cineuropa.org/es/newsdetail/492964/"
+    },
     {
       "id": "1da69ba8814d",
       "title": "EXCLUSIVA: Póster de 3 Weeks After, seleccionada a competición en Karlovy Vary - Karlovy Vary 2026 – Competición",
@@ -552,54 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La vencedora de San Sebastián se lleva el máximo galardón del jurado, y la cinta de Alex Camilleri, el Premio del Público",
       "url": "https://cineuropa.org/es/newsdetail/492717/"
-    },
-    {
-      "id": "74981c43037d",
-      "title": "Lesbian Lines y Remake triunfan en la octava edición de Docs Ireland - Docs Ireland 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "LUN 22 JUN 2026",
-      "date_iso": "2026-06-22T10:32:10",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El documental de Cara Holmes se hizo con el máximo galardón en la competición irlandesa, y el último trabajo de Ross McElwee, en la competición internacional Maysles Brothers",
-      "url": "https://cineuropa.org/es/newsdetail/492714/"
-    },
-    {
-      "id": "c01a3ef72f29",
-      "title": "Perla y Four Minus Three dominan la 16.ª edición de los Premios del Cine Austriaco - Festivales / Premios - Austria",
-      "source": "Cineuropa",
-      "date": "LUN 22 JUN 2026",
-      "date_iso": "2026-06-22T10:08:38",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La cinta de Alexandra Makarová se alzó con ocho galardones, incluido el de mejor largometraje, mientras que la de Adrian Goiginger se llevó cinco premios",
-      "url": "https://cineuropa.org/es/newsdetail/492701/"
-    },
-    {
-      "id": "953adb817fdb",
-      "title": "Lionel, de Carlos Saiz, se lleva el Trofeo de Transilvania - Transilvania 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "LUN 22 JUN 2026",
-      "date_iso": "2026-06-22T08:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1524712245354-2c4e5e7121c0?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La edición del 25.º aniversario del festival rumano también entregó premios a producciones del país, así como títulos de Grecia y Serbia",
-      "url": "https://cineuropa.org/es/newsdetail/492694/"
-    },
-    {
-      "id": "705168d764d2",
-      "title": "Entrevista: Elisa Carbonell • Consejera delegada, ICEX - “El audiovisual nos ha dado muchas alegrías y vamos a seguir apoyándolo” - Patrocinado",
-      "source": "Cineuropa",
-      "date": "VIE 19 JUN 2026",
-      "date_iso": "2026-06-19T14:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Una conversación sobre la campaña Where Talent Ignites, que recorre el mundo promocionando la creatividad española, de su paso por Cannes y México, y de la Academia de Cine Español",
-      "url": "https://cineuropa.org/es/interview/492669/"
     }
   ],
   "releases": [
