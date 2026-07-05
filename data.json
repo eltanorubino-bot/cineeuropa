@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-05T12:13:43.520073",
+  "last_updated": "2026-07-05T17:15:30.645167",
   "news": [
+    {
+      "id": "9166d1633af5",
+      "title": "Festivales de cine | España",
+      "source": "Escribiendo Cine",
+      "date": "DOM 5 JUL 2026",
+      "date_iso": "2026-07-05T17:15:29.120470",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/07/05/23584-b-retina-2026-revela-sus-primeros-titulos-y-confirma-a-jrg-buttgereit-como-invitado-de-honor"
+    },
     {
       "id": "a264366bdbdf",
       "title": "Crítica de “El afinador” (Tuner), film dirigido por Daniel Roher",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Junto a la presidenta Maggie Gyllenhaal estarán Kaouther Ben Hania, Daniel Blumberg, Francesco Casetti, Xavier Giannoli, Shahrbanoo Sadat y Johnnie To",
       "url": "https://cineuropa.org/es/newsdetail/492718/"
-    },
-    {
-      "id": "6d23133dd4ab",
-      "title": "EXCLUSIVA: Tráiler de A Whole Person Almost, seleccionada en Karlovy Vary - Karlovy Vary 2026 - Proxima",
-      "source": "Cineuropa",
-      "date": "LUN 22 JUN 2026",
-      "date_iso": "2026-06-22T13:50:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "La sección Proxima acoge el estreno del primer largometraje de Efthimis Kosemund-Sanidis, que sigue a un joven que llega a la remota isla en la que vivió su difunto padre",
-      "url": "https://cineuropa.org/es/newsdetail/492680/"
     }
   ],
   "releases": [
