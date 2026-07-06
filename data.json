@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-07-06T00:13:35.294834",
+  "last_updated": "2026-07-06T14:22:43.791843",
   "news": [
+    {
+      "id": "0f9102ee2d58",
+      "title": "El Venice Gap-Financing Market selecciona 66 proyectos - Venecia 2026 – Venice Production Bridge",
+      "source": "Cineuropa",
+      "date": "LUN 6 JUL 2026",
+      "date_iso": "2026-07-06T12:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Durante las tres jornadas del mercado de coproducción, los proyectos de ficción, documentales e inmersivos podrán completar su financiación con reuniones one-to-one",
+      "url": "https://cineuropa.org/es/newsdetail/493097/"
+    },
+    {
+      "id": "98ad6c1d742e",
+      "title": "Crítica: Chica Checa - Karlovy Vary 2026 - Competición",
+      "source": "Cineuropa",
+      "date": "LUN 6 JUL 2026",
+      "date_iso": "2026-07-06T10:25:54",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "En la cálida dramedia intergeneracional de Šimon Holý, el alter ego drag oculto de un hijo se convierte en el catalizador del despertar tardío de una madre viuda y de su aceptación",
+      "url": "https://cineuropa.org/es/newsdetail/493089/"
+    },
+    {
+      "id": "7356feac6312",
+      "title": "Crítica: Os invitados - Múnich 2026",
+      "source": "Cineuropa",
+      "date": "LUN 6 JUL 2026",
+      "date_iso": "2026-07-06T09:56:37",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La cinta de Cristina Diz y Stefan Butzmühlen presenta la textura, las interpretaciones y la emoción de una sólida road movie de época, y se esfuerza por que su viaje sea capaz de resonar",
+      "url": "https://cineuropa.org/es/newsdetail/493080/"
+    },
+    {
+      "id": "9269014a3d38",
+      "title": "Estrany riu, de Jaume Claret Muxart, se alza con el CineCoPro Award en Múnich - Múnich 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "LUN 6 JUL 2026",
+      "date_iso": "2026-07-06T09:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Entre los otros vencedores en la cita bávara destacan Shame and Money, de Visar Morina; A Girl Unknown, de Jing Zou; y Dear Future Self, de Ella Cieslinski y Nina Wesemann",
+      "url": "https://cineuropa.org/es/newsdetail/493059/"
+    },
     {
       "id": "9166d1633af5",
       "title": "Festivales de cine | España",
@@ -24,6 +72,18 @@
       "cat": "CRÍTICAS",
       "excerpt": "Daniel Roher tenía en su haber varios cortometrajes y algunos films del género documental, destacándose Navalny. El relato de la vida y misteriosa muerte (su causa nunca fue develada) del principal opositor de Putin, ganó el Oscar en dicha categoría, correspondiente al año 2022. El afinador (Tune...",
       "url": "https://asalallena.com.ar/critica-de-el-afinador-tuner-film-dirigido-por-daniel-roher/"
+    },
+    {
+      "id": "63f470f6bb57",
+      "title": "REPORT: CineCoPro Conference @ Festival de Múnich 2026 - Múnich 2026",
+      "source": "Cineuropa",
+      "date": "VIE 3 JUL 2026",
+      "date_iso": "2026-07-03T20:14:35",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Un vistazo a los proyectos presentados en el evento alemán, que ha puesto el foco este año sobre las coproducciones entre Alemania y los países nórdicos",
+      "url": "https://cineuropa.org/es/newsdetail/493056/"
     },
     {
       "id": "bc950bfdbabf",
@@ -540,66 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La iniciativa conjunta invitará a 25 profesionales a explorar seis proyectos de innovación que repiensan la relación con el público, la experiencia en salas y el futuro de los espacios culturales",
       "url": "https://cineuropa.org/es/newsdetail/492760/"
-    },
-    {
-      "id": "1cbd50d79e2c",
-      "title": "Juliette Binoche, Maggie Gyllenhaal, Dustin Hoffman y Jesse Eisenberg recibirán homenajeas en Karlovy Vary - Karlovy Vary 2026",
-      "source": "Cineuropa",
-      "date": "MAR 23 JUN 2026",
-      "date_iso": "2026-06-23T09:50:40",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La 60.ª edición del certamen presentará un amplio abanico de cine contemporáneo, que abarcará desde laureados en Cannes y la Berlinale hasta cine de autor europeo y descubrimientos formalmente audaces",
-      "url": "https://cineuropa.org/es/newsdetail/492734/"
-    },
-    {
-      "id": "dc79d12b8581",
-      "title": "Entrevista: Alina Götzlich • Responsable de industria, Festival de Múnich - “Una plataforma profesional exitosa no consiste solo en programar reuniones; se trata de crear recuerdos compartidos” - Múnich 2026",
-      "source": "Cineuropa",
-      "date": "MAR 23 JUN 2026",
-      "date_iso": "2026-06-23T09:06:40",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La nueva responsable de industria expone su visión de una plataforma más conectada y con vocación internacional",
-      "url": "https://cineuropa.org/es/interview/492728/"
-    },
-    {
-      "id": "5afbb9f7d6b6",
-      "title": "Festival de Cine de Venecia 2026",
-      "source": "Escribiendo Cine",
-      "date": "LUN 22 JUN 2026",
-      "date_iso": "2026-06-22T15:49:17.944668",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/06/22/23347-la-mostra-de-venecia-completa-el-jurado-de-su-83-edicion-con-figuras-del-cine-la-musica-y-la-academia"
-    },
-    {
-      "id": "8ee3d7490de6",
-      "title": "Entrevista: Christoph Gröner y Julia Weigl • Director del festival/CEO/codirector artístico y codirectora artística, Festival de Múnich - \"Esperamos que nuestras películas viajen por todo el mundo y que en el festival se viva una experiencia muy relajada y de gran impacto” - Múnich 2026",
-      "source": "Cineuropa",
-      "date": "LUN 22 JUN 2026",
-      "date_iso": "2026-06-22T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Los responsables artísticos reflexionan sobre el creciente perfil internacional del certamen y su compromiso con el impulso del nuevo cine alemán",
-      "url": "https://cineuropa.org/es/interview/492722/"
-    },
-    {
-      "id": "5c28351a0d48",
-      "title": "La 83.ª Mostra de Venecia completa el jurado de la competición - Venecia 2026",
-      "source": "Cineuropa",
-      "date": "LUN 22 JUN 2026",
-      "date_iso": "2026-06-22T14:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Junto a la presidenta Maggie Gyllenhaal estarán Kaouther Ben Hania, Daniel Blumberg, Francesco Casetti, Xavier Giannoli, Shahrbanoo Sadat y Johnnie To",
-      "url": "https://cineuropa.org/es/newsdetail/492718/"
     }
   ],
   "releases": [
