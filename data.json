@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-06T18:12:34.978287",
+  "last_updated": "2026-07-07T00:15:28.798684",
   "news": [
+    {
+      "id": "e72b99a00abb",
+      "title": "Crítica de “Dos pianos” (Deux pianos), film dirigido por Arnaud Desplechin",
+      "source": "A Sala Llena",
+      "date": "LUN 6 JUL 2026",
+      "date_iso": "2026-07-06T21:51:01",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b430?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La prolífica carrera cinematográfica de Arnaud Desplechin lo convierte en uno de los realizadores franceses más veces seleccionados por los festivales internacionales.  Dos pianos, su más reciente largometraje, convoca a dos actores con carreras ascendientes y a Charlotte Rampling, quien es habit...",
+      "url": "https://asalallena.com.ar/critica-de-dos-pianos-deux-pianos-film-dirigido-por-arnaud-desplechin/"
+    },
     {
       "id": "55dcddad7a88",
       "title": "Crítica: Black Money for White Nights - Karlovy Vary 2026 – Competición",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El evento croata acogió a Paweł Pawlikowski, Maggie Gyllenhaal, Ruben Östlund, Michel Franco y Maura Delpero, entre otros, reafirmando su posición más allá del circuito festivalero tradicional",
       "url": "https://cineuropa.org/es/newsdetail/492793/"
-    },
-    {
-      "id": "6dec4fdd1392",
-      "title": "La industria audiovisual eslovaca se contrajo en 2025, pero mantuvo su perfil internacional - Industria / Mercado - Eslovaquia",
-      "source": "Cineuropa",
-      "date": "MIÉ 24 JUN 2026",
-      "date_iso": "2026-06-24T09:37:01",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Un año con menos producciones deparó aún así selecciones en los principales festivales y una sólida recaudación para los títulos nacionales",
-      "url": "https://cineuropa.org/es/newsdetail/492790/"
     }
   ],
   "releases": [
