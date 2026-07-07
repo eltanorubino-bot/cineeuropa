@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-07-07T13:17:31.248590",
+  "last_updated": "2026-07-07T18:02:43.415946",
   "news": [
+    {
+      "id": "09ef9cacaa88",
+      "title": "Crítica: Lover, Not a Fighter - Karlovy Vary 2026 - Proxima",
+      "source": "Cineuropa",
+      "date": "MAR 7 JUL 2026",
+      "date_iso": "2026-07-07T15:03:34",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La ópera prima de Martina Buchelová convierte un romance turbulento en un mosaico desestructurado y semidocumental de la Generación Z sobre la intimidad, la ansiedad y el desbarajuste cómico",
+      "url": "https://cineuropa.org/es/newsdetail/493148/"
+    },
+    {
+      "id": "6e65ef271749",
+      "title": "Crítica: A Whole Person Almost - Karlovy Vary 2026 – Proxima",
+      "source": "Cineuropa",
+      "date": "MAR 7 JUL 2026",
+      "date_iso": "2026-07-07T14:58:08",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "En la ópera prima de Efthimis Kosemund Sanidis, el protagonista viaja a una isla para reclamar la herencia, pero acaba descubriendo algo nuevo sobre sí mismo, su padre y la humanidad",
+      "url": "https://cineuropa.org/es/newsdetail/493180/"
+    },
+    {
+      "id": "c50548729b7f",
+      "title": "Entrevista: Sally Wainwright • Creadora, guionista y directora de Riot Women - “El punk parecía el estilo musical adecuado para mujeres de más de 50 que de repente se sienten invisibles en el mundo” - Italian Global Series 2026",
+      "source": "Cineuropa",
+      "date": "MAR 7 JUL 2026",
+      "date_iso": "2026-07-07T14:22:51",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Nos reunimos con la multipremiada guionista de televisión británica para hablar de su nueva serie, un sorprendente manifiesto feminista protagonizado por cinco mujeres que forman una banda de rock",
+      "url": "https://cineuropa.org/es/interview/493173/"
+    },
+    {
+      "id": "b0cd7641d816",
+      "title": "Entrevista: Christine Berg y Peter Schauerte • Presidenta, HDF Kino, y director general, AllScreens - “El cine sigue siendo el cine, pero no deja de reinventarse” - /Alemania",
+      "source": "Cineuropa",
+      "date": "MAR 7 JUL 2026",
+      "date_iso": "2026-07-07T13:29:10",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los representantes de las principales asociaciones alemanas de exhibición y distribución hablan sobre la evolución del mercado de exhibición en Alemania, así como sobre las tendencias e innovaciones",
+      "url": "https://cineuropa.org/es/interview/493165/"
+    },
     {
       "id": "664a42e996df",
       "title": "El CineLink de Sarajevo se alía con el Next Step Studio de la Semana de la Crítica de Cannes para impulsar a cineastas emergentes - Sarajevo 2026 – CineLink Industry Days",
@@ -552,54 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Las salas generaron casi 6.900 millones de euros en taquilla, mientras que las producciones nacionales siguieron desempeñando un papel crucial para sostener la asistencia en varios territorios",
       "url": "https://cineuropa.org/es/newsdetail/492815/"
-    },
-    {
-      "id": "c2a37e36e7af",
-      "title": "Seriesly Berlin amplía sus ambiciones internacionales con nuevas iniciativas profesionales - Seriesly Berlin 2026",
-      "source": "Cineuropa",
-      "date": "JUE 25 JUN 2026",
-      "date_iso": "2026-06-25T10:25:55",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La tercera edición del festival, que espera ya solicitudes de acreditaciones y presentación de proyectos, presenta nuevas plataformas para el debate, la coproducción y las narrativas creativas",
-      "url": "https://cineuropa.org/es/newsdetail/492814/"
-    },
-    {
-      "id": "fcf582b1a14d",
-      "title": "Entrevista: Dimitri Planchon y Jean-Paul Guigue • Directores de Blaise - \"Amamos a nuestros personajes; al reírnos de ellos, nos reímos de nosotros mismos, porque sus neurosis son las nuestras\" - Annecy 2026",
-      "source": "Cineuropa",
-      "date": "JUE 25 JUN 2026",
-      "date_iso": "2026-06-25T09:45:46",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El dúo de directores relata la aventura de un largometraje muy original, basado en la técnica del papel recortado y dotado de un humor a contracorriente en torno al conformismo social",
-      "url": "https://cineuropa.org/es/interview/492743/"
-    },
-    {
-      "id": "6d81ab424011",
-      "title": "Galway Film Fleadh presenta un programa repleto de estrenos irlandeses, documentales y nuevos talentos del cine de género - Galway 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 24 JUN 2026",
-      "date_iso": "2026-06-24T15:11:57",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "La 38.ª edición del certamen presentará 35 nuevos largometrajes irlandeses, importantes estrenos documentales, talento europeo emergente y un foco especial en Estonia",
-      "url": "https://cineuropa.org/es/newsdetail/492800/"
-    },
-    {
-      "id": "dbe34262cc56",
-      "title": "Eurimages respalda 33 coproducciones - Producción / Financiación - Europa",
-      "source": "Cineuropa",
-      "date": "MIÉ 24 JUN 2026",
-      "date_iso": "2026-06-24T14:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Las nuevas películas de Nikolaj Arcel, Isaki Lacuesta, Fernando Franco, Baloji Tshiani y Kira Kovalenko figuran entre las seleccionadas",
-      "url": "https://cineuropa.org/es/newsdetail/492797/"
     }
   ],
   "releases": [
