@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-07-08T12:18:29.977799",
+  "last_updated": "2026-07-08T17:40:02.893624",
   "news": [
+    {
+      "id": "88ef950b4a88",
+      "title": "Crítica: 3 Weeks After - Karlovy Vary 2026 - Competición",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T15:33:48",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El director serbio Miroslav Terzić firma un drama de gran altura artística, técnicamente impresionante y moralmente ambiguo sobre el acoso escolar",
+      "url": "https://cineuropa.org/es/newsdetail/493205/"
+    },
+    {
+      "id": "b5a203ed23d6",
+      "title": "Crítica: City of Fathers - Karlovy Vary 2026 – Proyecciones especiales",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T15:22:53",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Un treintañero inmaduro se embarca en una odisea punk rock en busca de su padre biológico en el último largometraje de Zdeněk Tyc",
+      "url": "https://cineuropa.org/es/newsdetail/493204/"
+    },
+    {
+      "id": "983699d90b1f",
+      "title": "Crítica: Paris Paris - Karlovy Vary 2026 – Proxima",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T15:08:39",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Tres inmigrantes buscan la felicidad en la metrópolis francesa en la docuficción de Isabelle Tollenaere",
+      "url": "https://cineuropa.org/es/newsdetail/493203/"
+    },
+    {
+      "id": "ac3908feb547",
+      "title": "Karlovy Vary se pregunta qué está dejando Europa fuera de la pantalla - Karlovy Vary 2026 - KVIFF Industry Days",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T15:00:31",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Victoria Thomas sostiene que las narrativas europeas en pantalla siguen moldeadas por viejas jerarquías y lanza Main Character para ayudar a localizar las historias que no se ven",
+      "url": "https://cineuropa.org/es/newsdetail/493202/"
+    },
+    {
+      "id": "a8a32f3541fe",
+      "title": "Crítica: To Die to Live - Karlovy Vary 2026 - Proyecciones espciales",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T14:47:13",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El retrato que Yuliia Hontaruk ha hecho durante 12 años de tres combatientes ucranianos muestra cómo la guerra pervive no solo en las trincheras, sino también en los hogares, el lenguaje y la memoria",
+      "url": "https://cineuropa.org/es/newsdetail/493201/"
+    },
+    {
+      "id": "3fc27151b874",
+      "title": "Karlovy Vary defiende que el cine ucraniano necesita apoyo estructural, no solo solidaridad de emergencia - Karlovy Vary 2026 - KVIFF Industry Days",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T14:35:22",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El cine ucraniano llegó al certamen checo con las cifras que demuestran que sigue funcionando y con una demanda clara para que Europa vaya más allá de la respuesta de crisis",
+      "url": "https://cineuropa.org/es/newsdetail/493200/"
+    },
     {
       "id": "0ebdab836f97",
       "title": "Fatherland, de Paweł Pawlikowski, inaugurará Sarajevo - Sarajevo 2026",
@@ -528,78 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La directora del festival explica cómo el evento acerca al público mongol destacadas películas europeas contemporáneas y, al mismo tiempo, ofrece programas de formación profesional",
       "url": "https://cineuropa.org/es/interview/492851/"
-    },
-    {
-      "id": "2fca7ffa77d4",
-      "title": "Entrevista: Duncan Jones • Director de Rogue Trooper - “Una de las razones por las que me encantaba 2000 AD de joven era que siempre mostraba sin tapujos su ideología, a diferencia de DC y Marvel” - Annecy 2026",
-      "source": "Cineuropa",
-      "date": "VIE 26 JUN 2026",
-      "date_iso": "2026-06-26T13:57:12",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director británico profundiza en el largo y experimental proceso de creación de su película de animación, en su tono político y en el trabajo de improvisación que llevó a cabo con el reparto",
-      "url": "https://cineuropa.org/es/interview/492855/"
-    },
-    {
-      "id": "dce930598397",
-      "title": "Entrevista: Julien Chheng • Director y productor de Muyi, la légende du village de femmes - \"Creo en el surgimiento de un cine de animación de autor, independiente, de gran calidad artística y con presupuestos razonables\" - Annecy 2026",
-      "source": "Cineuropa",
-      "date": "VIE 26 JUN 2026",
-      "date_iso": "2026-06-26T11:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cineasta francés evoca el recorrido que lo llevó hasta su primer largometraje de animación dirigido en solitario y producido de forma totalmente independiente por su propia compañía",
-      "url": "https://cineuropa.org/es/interview/492822/"
-    },
-    {
-      "id": "4af6a0fad442",
-      "title": "El Observatorio Europeo del Audiovisual traza un ecosistema de servicios audiovisuales en crecimiento y cada vez más complejo - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "VIE 26 JUN 2026",
-      "date_iso": "2026-06-26T09:17:36",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "Un informe radiografía la expansión de los servicios de TV, de intercambio y a la carta en toda Europa, así como el creciente papel de las plataformas VoD y de los grupos mediáticos estadounidenses",
-      "url": "https://cineuropa.org/es/newsdetail/492843/"
-    },
-    {
-      "id": "f3558b752f9d",
-      "title": "Entrevista: Antonin Baudry • Director de La Bataille de Gaulle - “Lo importante para mí era desacralizar a de Gaulle, para recuperar lo humano” - /Francia/Bélgica",
-      "source": "Cineuropa",
-      "date": "VIE 26 JUN 2026",
-      "date_iso": "2026-06-26T08:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director francés habla sobre su ambicioso díptico sobre los años de lucha del general Charles de Gaulle por la Francia Libre",
-      "url": "https://cineuropa.org/es/interview/492824/"
-    },
-    {
-      "id": "765e6ab517f1",
-      "title": "Agnieszka Holland prepara el biopic de Marlene Dietrich Berlinweh – Yearning for a Home - Producción / Financiación - Alemania/República Checa/Irlanda/Francia",
-      "source": "Cineuropa",
-      "date": "VIE 26 JUN 2026",
-      "date_iso": "2026-06-26T07:31:27",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La cineasta polaca nominada al Óscar revisitará a una de las figuras más icónicas y controvertidas del siglo XX mediante un retrato no lineal que abarca cuatro décadas",
-      "url": "https://cineuropa.org/es/newsdetail/492840/"
-    },
-    {
-      "id": "362201586ff3",
-      "title": "Entrevista: Karel Och • Director artístico, Festival Internacional de Cine de Karlovy Vary - “Karlovy Vary sigue teniendo la capacidad de generar un debate preciso” - Karlovy Vary 2026",
-      "source": "Cineuropa",
-      "date": "JUE 25 JUN 2026",
-      "date_iso": "2026-06-25T15:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director artístico reflexiona sobre cómo la edición aniversario vuelve a conectar al certamen checo con su legado y su apertura al cine mundial",
-      "url": "https://cineuropa.org/es/interview/492802/"
     }
   ],
   "releases": [
