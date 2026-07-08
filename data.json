@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-07-08T00:05:21.549709",
+  "last_updated": "2026-07-08T12:18:29.977799",
   "news": [
+    {
+      "id": "0ebdab836f97",
+      "title": "Fatherland, de Paweł Pawlikowski, inaugurará Sarajevo - Sarajevo 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T11:42:16",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "El certamen también lanza el nuevo premio del público Cineplexx, un galardón de 20.000 € para apoyar el estreno en salas de películas regionales",
+      "url": "https://cineuropa.org/es/newsdetail/493194/"
+    },
+    {
+      "id": "2e86aee874ea",
+      "title": "KVIFF Promises desvela sus ganadores - Karlovy Vary 2026 - KVIFF Industry Days",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T10:36:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "El proyecto sueco-danés Selamlik y el título ucraniano Reminiscence se han alzado como dos de los principales vencedores en la plataforma de industria del certamen checo",
+      "url": "https://cineuropa.org/es/newsdetail/493192/"
+    },
+    {
+      "id": "5e3b8bd0a293",
+      "title": "La octava edición de 12 Punto de TRT desvela su selección - 12 Punto 2026",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T08:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La plataforma turca de desarrollo de guion y coproducción ha seleccionado doce proyectos de largometraje para una semana de desarrollo y networking en Estambul",
+      "url": "https://cineuropa.org/es/newsdetail/493175/"
+    },
+    {
+      "id": "caf12a82d893",
+      "title": "Entrevista: Stéphane Demoustier • Director de La Chaleur - \"Este es un thriller aletargado por la condición del personaje\" - /Francia/Italia/Bélgica/Suiza",
+      "source": "Cineuropa",
+      "date": "MIÉ 8 JUL 2026",
+      "date_iso": "2026-07-08T08:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El cineasta francés desentraña una película que documenta, con un trasfondo de suspense tenso y sensaciones flotantes, la juventud contemporánea y la microsociedad de un camping veraniego",
+      "url": "https://cineuropa.org/es/interview/493182/"
+    },
     {
       "id": "09ef9cacaa88",
       "title": "Crítica: Lover, Not a Fighter - Karlovy Vary 2026 - Proxima",
@@ -552,54 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El director artístico reflexiona sobre cómo la edición aniversario vuelve a conectar al certamen checo con su legado y su apertura al cine mundial",
       "url": "https://cineuropa.org/es/interview/492802/"
-    },
-    {
-      "id": "3806a55dc8fd",
-      "title": "Entrevista: Aton Soumache • Productor, Magical Society - \"Nuestro modelo está en peligro y hay que luchar para defenderlo\" - Foco productores independientes/Annecy 2026",
-      "source": "Cineuropa",
-      "date": "JUE 25 JUN 2026",
-      "date_iso": "2026-06-25T14:50:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "El productor francés, una figura imprescindible de la animación internacional, ofrece su opinión sin ambages sobre la coyuntura económica, las plataformas, la independencia, la IA y las coproducciones",
-      "url": "https://cineuropa.org/es/interview/492792/"
-    },
-    {
-      "id": "3e74a5419fc3",
-      "title": "El Harmless Film Festival desvela una programación que combina el compromiso social y el cine internacional - Festivales / Premios - Serbia",
-      "source": "Cineuropa",
-      "date": "JUE 25 JUN 2026",
-      "date_iso": "2026-06-25T13:59:22",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El certamen con sede en Novi Sad se inaugurará con La voz de Hind, de Kaouther Ben Hania, y se clausurará con Peacemaker, de Ivan Ramljak",
-      "url": "https://cineuropa.org/es/newsdetail/492823/"
-    },
-    {
-      "id": "62dd2a1d84b3",
-      "title": "La grazia domina la 80.ª edición de los Nastri d’Argento con ocho premios - Festivales / Premios - Italia",
-      "source": "Cineuropa",
-      "date": "JUE 25 JUN 2026",
-      "date_iso": "2026-06-25T13:55:55",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La película de Paolo Sorrentino se alza con los premios a mejor película, dirección e interpretaciones; tres reconocimientos para 40 secondi, y Primavera, mejor debut",
-      "url": "https://cineuropa.org/es/newsdetail/492807/"
-    },
-    {
-      "id": "33cc563f82d4",
-      "title": "La taquilla del cine europeo se mantuvo resiliente en 2025 pese al descenso de la asistencia, según el informe de la UNIC - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "JUE 25 JUN 2026",
-      "date_iso": "2026-06-25T10:52:29",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Las salas generaron casi 6.900 millones de euros en taquilla, mientras que las producciones nacionales siguieron desempeñando un papel crucial para sostener la asistencia en varios territorios",
-      "url": "https://cineuropa.org/es/newsdetail/492815/"
     }
   ],
   "releases": [
