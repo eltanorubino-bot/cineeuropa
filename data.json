@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-07-09T13:47:00.950312",
+  "last_updated": "2026-07-09T17:58:34.099704",
   "news": [
+    {
+      "id": "7d323e32fd20",
+      "title": "El Consejo de Europa apoya siete coproducciones de series - Producción / Financiación - Europa",
+      "source": "Cineuropa",
+      "date": "JUE 9 JUL 2026",
+      "date_iso": "2026-07-09T16:37:29",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El Programa Piloto de Coproducciones de Series ha seleccionado series de Bélgica, Finlandia, España, Países Bajos, Grecia, la República Checa e Irlanda",
+      "url": "https://cineuropa.org/es/newsdetail/493241/"
+    },
+    {
+      "id": "ad47b018a7a4",
+      "title": "Crítica: Hijamat - Karlovy Vary 2026 - Competición",
+      "source": "Cineuropa",
+      "date": "JUE 9 JUL 2026",
+      "date_iso": "2026-07-09T16:05:03",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La nueva película de Nader Saeivar aborda cuestiones de identidad sexual y la opresiva influencia de la religión en la comunidad turca de Berlín",
+      "url": "https://cineuropa.org/es/newsdetail/493239/"
+    },
+    {
+      "id": "b1ddf209d7d3",
+      "title": "Asghar Farhadi preside el jurado de la octava edición de 12 Punto - 12 Punto 2026",
+      "source": "Cineuropa",
+      "date": "JUE 9 JUL 2026",
+      "date_iso": "2026-07-09T15:51:48",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La plataforma turca de coproducción regresa con un programa internacional ampliado y la continuidad de su foco especial en el cine palestino",
+      "url": "https://cineuropa.org/es/newsdetail/493237/"
+    },
+    {
+      "id": "f8c0576fe9d2",
+      "title": "Crítica: Todo es cárcel - FIDMarseille 2026",
+      "source": "Cineuropa",
+      "date": "JUE 9 JUL 2026",
+      "date_iso": "2026-07-09T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Eloy Enciso combina documental, historia y ficción para investigar y denunciar los olvidados campos de concentración del franquismo tras la guerra civil española",
+      "url": "https://cineuropa.org/es/newsdetail/493229/"
+    },
+    {
+      "id": "3ee7dc8651ad",
+      "title": "Locarno anuncia la programación de sus secciones paralelas - Locarno 2026",
+      "source": "Cineuropa",
+      "date": "JUE 9 JUL 2026",
+      "date_iso": "2026-07-09T14:22:20",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La competición Cineasti del presente, dedicada a los autores y autoras emergentes, y la sección Piazza Grande, proponen una selección amplia y variada",
+      "url": "https://cineuropa.org/es/newsdetail/493233/"
+    },
+    {
+      "id": "e1eaece6c829",
+      "title": "Locarno desvela el programa de su competición - Locarno 2026",
+      "source": "Cineuropa",
+      "date": "JUE 9 JUL 2026",
+      "date_iso": "2026-07-09T14:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Entre las numerosas películas europeas que se disputan el Leopardo de Oro destacan una ópera prima y lo nuevo de cineastas ya conocidos del festival como Basil da Cunha, Ann Oren y Salvatore Mereu",
+      "url": "https://cineuropa.org/es/newsdetail/493232/"
+    },
+    {
+      "id": "f4b20d147e5a",
+      "title": "Alli Haapasalo y Christian Bonke hablan en el Festival de Múnich de vulnerabilidad, confianza y asunción de riesgos en el cine nórdico - Múnich 2026",
+      "source": "Cineuropa",
+      "date": "JUE 9 JUL 2026",
+      "date_iso": "2026-07-09T14:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los cineastas desgranaron los procesos creativos detrás de Tell Everyone y Hercules Falling, dos dramas ambientados en islas marcados por el trauma y la búsqueda de la libertad",
+      "url": "https://cineuropa.org/es/newsdetail/493236/"
+    },
     {
       "id": "cb36ece34dc0",
       "title": "Crítica: A Happy Family - Karlovy Vary 2026 - Competición",
@@ -516,90 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El drama sobre el acoso escolar en la educación secundaria del director serbio Miroslav Terzić se inspira en hechos reales, aunque no se basa en ningún caso concreto",
       "url": "https://cineuropa.org/es/newsdetail/492974/"
-    },
-    {
-      "id": "e004e25d30e0",
-      "title": "Sobre “La mirada cinéfila. La modernización de la crítica en la revista Tiempo de Cine” de Daniela Kozak",
-      "source": "A Sala Llena",
-      "date": "JUE 2 JUL 2026",
-      "date_iso": "2026-07-02T04:37:18",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Andrea Giunta formula una hipótesis en su libro Contra el canon en el que desarrolla la idea de vanguardias simultáneas. En líneas generales, plantea que después de la Segunda Guerra Mundial deja de existir un modelo de centro y periferias donde las vanguardias nacen en Europa y luego se aggiorna...",
-      "url": "https://asalallena.com.ar/sobre-la-mirada-cinefila-la-modernizacion-de-la-critica-en-la-revista-tiempo-de-cine-de-daniela-kozak/"
-    },
-    {
-      "id": "8ab93fb808e3",
-      "title": "Ji.hlava abre una convocatoria de apoyo a documentales por un total de 110.000 € - Jihlava 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 1 JUL 2026",
-      "date_iso": "2026-07-01T10:52:38",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El festival de documentales checo ha abierto las inscripciones para su programa de coproducción Ji.hlava/JB Films, que ofrece hasta 40.000 € por proyecto",
-      "url": "https://cineuropa.org/es/newsdetail/492946/"
-    },
-    {
-      "id": "3f3ad1a3a382",
-      "title": "Maggie Peren finaliza el rodaje de Die hellen Tage - Producción / Financiación - Alemania/Estonia",
-      "source": "Cineuropa",
-      "date": "MIÉ 1 JUL 2026",
-      "date_iso": "2026-07-01T10:22:02",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "Julia Jentsch, Karoline Herfurth y Natasha Petrovikj encabezan el reparto de la adaptación de la novela superventas de Zsuzsa Bánk, cuyo estreno en cines está previsto para 2027",
-      "url": "https://cineuropa.org/es/newsdetail/492945/"
-    },
-    {
-      "id": "115cb9d61e12",
-      "title": "Crítica serie: Ritus - Múnich 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 1 JUL 2026",
-      "date_iso": "2026-07-01T09:42:53",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "La absorbente serie de folk horror dirigida por Jonathan B. Behr cuenta cómo, cada 18 años, un pueblo alemán queda preso del miedo cuando empiezan a suceder cosas extrañas",
-      "url": "https://cineuropa.org/es/newsdetail/492943/"
-    },
-    {
-      "id": "90010d378ea5",
-      "title": "Las plataformas se alejan de los realities de citas en favor de las ficciones románticas, según Ampere Analysis - Industria / Mercado - Europa",
-      "source": "Cineuropa",
-      "date": "MIÉ 1 JUL 2026",
-      "date_iso": "2026-07-01T08:59:21",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "Puede que el boom del formato no haya terminado, pero los streamers consideran que el romance funciona mejor cuando es de ficción, está adaptado y respaldado por una base de seguidores ya existente",
-      "url": "https://cineuropa.org/es/newsdetail/492940/"
-    },
-    {
-      "id": "ddd04fb14f4a",
-      "title": "Las producciones verdes aumentan y la eficiencia energética de las salas mejora en Italia - Industria / Mercado - Italia",
-      "source": "Cineuropa",
-      "date": "MAR 30 JUN 2026",
-      "date_iso": "2026-06-30T14:35:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Los datos del Osservatorio Spettacolo e Ambiente del país ponen de manifiesto un crecimiento en ambos procesos, como ya ocurre en toda Europa con numerosas iniciativas",
-      "url": "https://cineuropa.org/es/newsdetail/492912/"
-    },
-    {
-      "id": "27bb420f7255",
-      "title": "Mon soeur, de Salomé Da Souza, recibe el anticipo de ingresos del CNC - Producción / Financiación - Francia",
-      "source": "Cineuropa",
-      "date": "MAR 30 JUN 2026",
-      "date_iso": "2026-06-30T08:07:18",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El centro francés también apoyará los primeros largometrajes de Linda Lô, Gabriel Gauchet y François Daireaux",
-      "url": "https://cineuropa.org/es/newsdetail/492891/"
     }
   ],
   "releases": [
