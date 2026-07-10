@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T17:58:34.099704",
+  "last_updated": "2026-07-10T00:12:15.688543",
   "news": [
     {
       "id": "7d323e32fd20",
@@ -470,6 +470,18 @@
       "url": "https://escribiendocine.com/noticias/2026/07/05/23584-b-retina-2026-revela-sus-primeros-titulos-y-confirma-a-jrg-buttgereit-como-invitado-de-honor"
     },
     {
+      "id": "e004e25d30e0",
+      "title": "Sobre “La mirada cinéfila. La modernización de la crítica en la revista Tiempo de Cine” de Daniela Kozak",
+      "source": "A Sala Llena",
+      "date": "DOM 5 JUL 2026",
+      "date_iso": "2026-07-05T04:37:18",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1532635241-17e820acc59f?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Andrea Giunta formula una hipótesis en su libro Contra el canon en el que desarrolla la idea de vanguardias simultáneas. En líneas generales, plantea que después de la Segunda Guerra Mundial deja de existir un modelo de centro y periferias donde las vanguardias nacen en Europa y luego se aggiorna...",
+      "url": "https://asalallena.com.ar/sobre-la-mirada-cinefila-la-modernizacion-de-la-critica-en-la-revista-tiempo-de-cine-de-daniela-kozak/"
+    },
+    {
       "id": "a264366bdbdf",
       "title": "Crítica de “El afinador” (Tuner), film dirigido por Daniel Roher",
       "source": "A Sala Llena",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "A tres semanas del anuncio de la selección oficial por parte de Alberto Barbera, repasamos las principales favoritas francesas para poner rumbo al Lido",
       "url": "https://cineuropa.org/es/newsdetail/492964/"
-    },
-    {
-      "id": "1da69ba8814d",
-      "title": "EXCLUSIVA: Póster de 3 Weeks After, seleccionada a competición en Karlovy Vary - Karlovy Vary 2026 – Competición",
-      "source": "Cineuropa",
-      "date": "JUE 2 JUL 2026",
-      "date_iso": "2026-07-02T08:55:12",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El drama sobre el acoso escolar en la educación secundaria del director serbio Miroslav Terzić se inspira en hechos reales, aunque no se basa en ningún caso concreto",
-      "url": "https://cineuropa.org/es/newsdetail/492974/"
     }
   ],
   "releases": [
