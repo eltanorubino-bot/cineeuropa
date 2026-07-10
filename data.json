@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-10T00:12:15.688543",
+  "last_updated": "2026-07-10T13:09:21.225424",
   "news": [
+    {
+      "id": "c4309d7a8dde",
+      "title": "Crítica: Learning to Breathe Under Water - Karlovy Vary 2026 - Proyecciones especiales",
+      "source": "Cineuropa",
+      "date": "VIE 10 JUL 2026",
+      "date_iso": "2026-07-10T08:43:40",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "En su entrañable relato sobre cómo aprender a afrontar la pérdida, Rebekah Fortune embarca a un padre y a un hijo en un viaje fantástico y agridulce",
+      "url": "https://cineuropa.org/es/newsdetail/493248/"
+    },
     {
       "id": "7d323e32fd20",
       "title": "El Consejo de Europa apoya siete coproducciones de series - Producción / Financiación - Europa",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La película de Paolo Sorrentino también fue galardonada con el premio al mejor actor, Toni Servillo; mejor dirección para 40 secondi y mejor ópera prima para Gioia mia",
       "url": "https://cineuropa.org/es/newsdetail/492995/"
-    },
-    {
-      "id": "1be690b4a7ff",
-      "title": "¿Qué películas francesas podrán competir por el León de Oro de Venecia? - Venecia 2026",
-      "source": "Cineuropa",
-      "date": "JUE 2 JUL 2026",
-      "date_iso": "2026-07-02T11:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "A tres semanas del anuncio de la selección oficial por parte de Alberto Barbera, repasamos las principales favoritas francesas para poner rumbo al Lido",
-      "url": "https://cineuropa.org/es/newsdetail/492964/"
     }
   ],
   "releases": [
