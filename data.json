@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-07-13T00:01:53.372514",
+  "last_updated": "2026-07-13T17:56:45.749925",
   "news": [
+    {
+      "id": "4f3317265472",
+      "title": "REPORT: KVIFF Central Stage @ KVIFF Promises 2026 - Karlovy Vary 2026 - KVIFF Industry Days",
+      "source": "Cineuropa",
+      "date": "LUN 13 JUL 2026",
+      "date_iso": "2026-07-13T14:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La sección dedicada a los cineastas centroeuropeos acogió historias de paso a la edad adulta, fábulas sobre refugiados, ajustes de cuentas con la posguerra, furia de clase y memoria histórica",
+      "url": "https://cineuropa.org/es/newsdetail/493284/"
+    },
+    {
+      "id": "287449dbbb4f",
+      "title": "Crítica: Rain Catcher - Karlovy Vary 2026 - Proxima",
+      "source": "Cineuropa",
+      "date": "LUN 13 JUL 2026",
+      "date_iso": "2026-07-13T13:47:27",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Michele Fiascaris convierte el Londres nocturno en un seductor laberinto de vigilancia en un estilizado neo-noir sobre el voyeurismo, la obsesión y la traición de las imágenes",
+      "url": "https://cineuropa.org/es/newsdetail/493294/"
+    },
+    {
+      "id": "6cb1592934b4",
+      "title": "Crítica: Morten - Karlovy Vary 2026 - Proyecciones especiales",
+      "source": "Cineuropa",
+      "date": "LUN 13 JUL 2026",
+      "date_iso": "2026-07-13T13:40:16",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La lograda ópera prima de Ivan Pavljutskov sigue a un adolescente cuyo despertar moral se desarrolla entre un entorno escolar hostil, un hogar roto y la calma espectral de la campiña estonia",
+      "url": "https://cineuropa.org/es/newsdetail/493292/"
+    },
+    {
+      "id": "45cef30bd054",
+      "title": "La próxima Mostra de Venecia desvela los jurados Orizzonti y Ópera Prima - Venecia 2026",
+      "source": "Cineuropa",
+      "date": "LUN 13 JUL 2026",
+      "date_iso": "2026-07-13T13:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Valérie Donzelli presidirá el jurado internacional de Orizzonti, mientras que Carolina Cavalli será presidenta del jurado del Premio Venezia Opera Prima “Luigi De Laurentiis”",
+      "url": "https://cineuropa.org/es/newsdetail/493289/"
+    },
+    {
+      "id": "05edf2cfc0fc",
+      "title": "El Narcisse al mejor largometraje del NIFFF recae en Hen - NIFFF 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "LUN 13 JUL 2026",
+      "date_iso": "2026-07-13T12:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La película sudafricana de Nico Scheepers se alzó con el máximo galardón del certamen, que también premió a Do You Believe in Angels, Mr. Drowak? y Hokum",
+      "url": "https://cineuropa.org/es/newsdetail/493287/"
+    },
+    {
+      "id": "a33ccc873b30",
+      "title": "Todo es cárcel triunfa en el FIDMarseille - FIDMarseille 2026 – Premios",
+      "source": "Cineuropa",
+      "date": "LUN 13 JUL 2026",
+      "date_iso": "2026-07-13T10:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La película del gallego Eloy Enciso Cachafeiro gana en la competición internacional y Seul le serpent sait, de Olivier Séror y Martin Verdet, domina la competición francesa",
+      "url": "https://cineuropa.org/es/newsdetail/493278/"
+    },
     {
       "id": "f5a0173a6773",
       "title": "\"Fruit Gathering\" conquista el Globo de Cristal en una edición marcada por el cine de autor",
@@ -528,78 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "El debut en el largometraje del director croata Mate Ugrin es una película sutil, atmosférica y ambigua sobre dos jóvenes empleados de un hotel de lujo que se unen para robar a huéspedes adinerados",
       "url": "https://cineuropa.org/es/newsdetail/493112/"
-    },
-    {
-      "id": "93a9a53fa08a",
-      "title": "Crítica: 33 Steps - Karlovy Vary 2026 - Proxima",
-      "source": "Cineuropa",
-      "date": "LUN 6 JUL 2026",
-      "date_iso": "2026-07-06T14:27:33",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "La ópera prima de los cineastas eslovacos Anna y Šimon Domček es un híbrido de docuficción sobre un hombre romaní que sufre un trauma a raíz de una brutal agresión que casi le cuesta la vida",
-      "url": "https://cineuropa.org/es/newsdetail/493111/"
-    },
-    {
-      "id": "0f9102ee2d58",
-      "title": "El Venice Gap-Financing Market selecciona 66 proyectos - Venecia 2026 – Venice Production Bridge",
-      "source": "Cineuropa",
-      "date": "LUN 6 JUL 2026",
-      "date_iso": "2026-07-06T12:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Durante las tres jornadas del mercado de coproducción, los proyectos de ficción, documentales e inmersivos podrán completar su financiación con reuniones one-to-one",
-      "url": "https://cineuropa.org/es/newsdetail/493097/"
-    },
-    {
-      "id": "98ad6c1d742e",
-      "title": "Crítica: Chica Checa - Karlovy Vary 2026 - Competición",
-      "source": "Cineuropa",
-      "date": "LUN 6 JUL 2026",
-      "date_iso": "2026-07-06T10:25:54",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "En la cálida dramedia intergeneracional de Šimon Holý, el alter ego drag oculto de un hijo se convierte en el catalizador del despertar tardío de una madre viuda y de su aceptación",
-      "url": "https://cineuropa.org/es/newsdetail/493089/"
-    },
-    {
-      "id": "7356feac6312",
-      "title": "Crítica: Os invitados - Múnich 2026",
-      "source": "Cineuropa",
-      "date": "LUN 6 JUL 2026",
-      "date_iso": "2026-07-06T09:56:37",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "La cinta de Cristina Diz y Stefan Butzmühlen presenta la textura, las interpretaciones y la emoción de una sólida road movie de época, y se esfuerza por que su viaje sea capaz de resonar",
-      "url": "https://cineuropa.org/es/newsdetail/493080/"
-    },
-    {
-      "id": "9269014a3d38",
-      "title": "Estrany riu, de Jaume Claret Muxart, se alza con el CineCoPro Award en Múnich - Múnich 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "LUN 6 JUL 2026",
-      "date_iso": "2026-07-06T09:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Entre los otros vencedores en la cita bávara destacan Shame and Money, de Visar Morina; A Girl Unknown, de Jing Zou; y Dear Future Self, de Ella Cieslinski y Nina Wesemann",
-      "url": "https://cineuropa.org/es/newsdetail/493059/"
-    },
-    {
-      "id": "9166d1633af5",
-      "title": "Festivales de cine | España",
-      "source": "Escribiendo Cine",
-      "date": "DOM 5 JUL 2026",
-      "date_iso": "2026-07-05T17:15:29.120470",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/07/05/23584-b-retina-2026-revela-sus-primeros-titulos-y-confirma-a-jrg-buttgereit-como-invitado-de-honor"
     }
   ],
   "releases": [
