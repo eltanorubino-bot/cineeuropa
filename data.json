@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-13T23:58:43.639082",
+  "last_updated": "2026-07-14T12:08:44.460471",
   "news": [
+    {
+      "id": "91723785c161",
+      "title": "Crítica: Schiuma di mondi - FIDMarseille 2026",
+      "source": "Cineuropa",
+      "date": "MAR 14 JUL 2026",
+      "date_iso": "2026-07-14T10:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Anna Marziano sitúa en la amenazada laguna de Venecia la relación íntima entre una madre y su hija, y una acción legal en defensa del derecho a la protección del medio ambiente",
+      "url": "https://cineuropa.org/es/newsdetail/493322/"
+    },
+    {
+      "id": "04ee95fd60d3",
+      "title": "Crítica: Homo Sive Natura - Karlovy Vary 2026 - Proxima",
+      "source": "Cineuropa",
+      "date": "MAR 14 JUL 2026",
+      "date_iso": "2026-07-14T10:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Giovanni C. Lorusso convierte un robo de tierras en Camboya en un estudio contundente y de rigor visual sobre un colonialismo que pervive después de que los colonizadores hayan desaparecido",
+      "url": "https://cineuropa.org/es/newsdetail/493321/"
+    },
     {
       "id": "4f3317265472",
       "title": "REPORT: KVIFF Central Stage @ KVIFF Promises 2026 - Karlovy Vary 2026 - KVIFF Industry Days",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "La minuciosa disección del control biopolítico de Ivan Ostrochovský se centra en la amistad entre una médica blanca y una enfermera romaní en la Checoslovaquia de los años ochenta",
       "url": "https://cineuropa.org/es/newsdetail/493118/"
-    },
-    {
-      "id": "071f246805b1",
-      "title": "CineLink ultima las selecciones Co-Production Market y Drama - Sarajevo 2026 - CineLink Industry Days",
-      "source": "Cineuropa",
-      "date": "LUN 6 JUL 2026",
-      "date_iso": "2026-07-06T15:02:01",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Un total de dieciséis proyectos de largometraje y ocho de series dramáticas competirán por los premios anuales de CineLink, entre ellos un nuevo galardón de 10.000 €",
-      "url": "https://cineuropa.org/es/newsdetail/493113/"
-    },
-    {
-      "id": "42899a31af1c",
-      "title": "Crítica: Petty Thieves - Karlovy Vary 2026 - Proxima",
-      "source": "Cineuropa",
-      "date": "LUN 6 JUL 2026",
-      "date_iso": "2026-07-06T14:33:28",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "El debut en el largometraje del director croata Mate Ugrin es una película sutil, atmosférica y ambigua sobre dos jóvenes empleados de un hotel de lujo que se unen para robar a huéspedes adinerados",
-      "url": "https://cineuropa.org/es/newsdetail/493112/"
     }
   ],
   "releases": [
