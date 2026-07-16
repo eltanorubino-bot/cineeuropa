@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-16T00:06:41.817244",
+  "last_updated": "2026-07-16T12:18:33.405689",
   "news": [
+    {
+      "id": "703fb8e6ce1f",
+      "title": "DokuFest Prizren anuncia sus programas competitivos de su 25.ª edición - Festivales / Premios - Kosovo",
+      "source": "Cineuropa",
+      "date": "JUE 16 JUL 2026",
+      "date_iso": "2026-07-16T09:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La edición aniversario del certamen se desarrollará bajo el lema \"¡Participa o no cuenta!\" y contará con 105 películas en ocho secciones a concurso",
+      "url": "https://cineuropa.org/es/newsdetail/493454/"
+    },
+    {
+      "id": "95e406624d25",
+      "title": "Entrevista: Jessica Woodworth • Directora - “En general, los mongoles están profundamente conectados con la naturaleza, con sus vastos y poderosos paisajes, con su omnipresente cultura nómada” - /Europa/Mongolia",
+      "source": "Cineuropa",
+      "date": "JUE 16 JUL 2026",
+      "date_iso": "2026-07-16T08:56:44",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La directora belgoestadounidense habla sobre un taller para actores que coordinó en el marco del festival de cine europeo organizado por la delegación de la Unión Europea en Mongolia",
+      "url": "https://cineuropa.org/es/interview/493455/"
+    },
     {
       "id": "469565dae9cd",
       "title": "Final Cut in Venice anuncia las seis películas en posproducción de su selección - Venecia 2026 - Venice Production Bridge",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "Tres inmigrantes buscan la felicidad en la metrópolis francesa en la docuficción de Isabelle Tollenaere",
       "url": "https://cineuropa.org/es/newsdetail/493203/"
-    },
-    {
-      "id": "ac3908feb547",
-      "title": "Karlovy Vary se pregunta qué está dejando Europa fuera de la pantalla - Karlovy Vary 2026 - KVIFF Industry Days",
-      "source": "Cineuropa",
-      "date": "MIÉ 8 JUL 2026",
-      "date_iso": "2026-07-08T15:00:31",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Victoria Thomas sostiene que las narrativas europeas en pantalla siguen moldeadas por viejas jerarquías y lanza Main Character para ayudar a localizar las historias que no se ven",
-      "url": "https://cineuropa.org/es/newsdetail/493202/"
-    },
-    {
-      "id": "a8a32f3541fe",
-      "title": "Crítica: To Die to Live - Karlovy Vary 2026 - Proyecciones espciales",
-      "source": "Cineuropa",
-      "date": "MIÉ 8 JUL 2026",
-      "date_iso": "2026-07-08T14:47:13",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "El retrato que Yuliia Hontaruk ha hecho durante 12 años de tres combatientes ucranianos muestra cómo la guerra pervive no solo en las trincheras, sino también en los hogares, el lenguaje y la memoria",
-      "url": "https://cineuropa.org/es/newsdetail/493201/"
     }
   ],
   "releases": [
