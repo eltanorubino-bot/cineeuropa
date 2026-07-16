@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-07-16T12:18:33.405689",
+  "last_updated": "2026-07-16T17:21:11.261898",
   "news": [
+    {
+      "id": "553d7ecf542c",
+      "title": "Festival de Cine de Toronto",
+      "source": "Escribiendo Cine",
+      "date": "JUE 16 JUL 2026",
+      "date_iso": "2026-07-16T17:21:09.474718",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/07/16/23770-glaxo-la-nueva-pelicula-de-benjamin-naishtat-tendra-su-estreno-mundial-en-el-tiff-2026"
+    },
+    {
+      "id": "863c127bf201",
+      "title": "Fantasia pone el foco en el cine de género europeo con numerosos estrenos - Fantasia 2026",
+      "source": "Cineuropa",
+      "date": "JUE 16 JUL 2026",
+      "date_iso": "2026-07-16T14:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "Las nuevas películas de Agnieszka Smoczyńska y Kasper Kalle encabezan el contingente europeo en el festival canadiense",
+      "url": "https://cineuropa.org/es/newsdetail/493523/"
+    },
+    {
+      "id": "05348e3667fd",
+      "title": "Movistar Plus respaldará 26 series españolas al año - Producción / Financiación - España",
+      "source": "Cineuropa",
+      "date": "JUE 16 JUL 2026",
+      "date_iso": "2026-07-16T14:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "PLATAFORMAS",
+      "excerpt": "La plataforma amplia su inversión y su apuesta por la ficción doblando el número de títulos y con nuevos modelos de colaboración",
+      "url": "https://cineuropa.org/es/newsdetail/493466/"
+    },
+    {
+      "id": "42ff72365eb0",
+      "title": "Venice Immersive selecciona 68 proyectos de realidad extendida - Venecia 2026",
+      "source": "Cineuropa",
+      "date": "JUE 16 JUL 2026",
+      "date_iso": "2026-07-16T13:45:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Del 2 al 12 de septiembre, el jurado compuesto por Paul Raphaël, Négar Motevalymeidanshah y Kate Voet evaluará los proyectos procedentes de 26 países",
+      "url": "https://cineuropa.org/es/newsdetail/493465/"
+    },
+    {
+      "id": "17f22eeb2c0b",
+      "title": "Entrevista: Nader Saeivar • Director de Hijamat - “No me interesaba juzgar; quería observar cómo los mecanismos siguen moldeando la vida de las personas” - Karlovy Vary 2026 - Competición",
+      "source": "Cineuropa",
+      "date": "JUE 16 JUL 2026",
+      "date_iso": "2026-07-16T13:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "El cineasta habla de su última película, centrada en una familia y una comunidad musulmana tradicionales cuyo mundo se tambalea cuando descubren que uno de sus jóvenes miembros es gay",
+      "url": "https://cineuropa.org/es/interview/493044/"
+    },
     {
       "id": "703fb8e6ce1f",
       "title": "DokuFest Prizren anuncia sus programas competitivos de su 25.ª edición - Festivales / Premios - Kosovo",
@@ -540,66 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La directora eslovaca reflexiona sobre cómo su película busca replantear preocupaciones sociales y generacionales de calado a través de una forma romántica accesible",
       "url": "https://cineuropa.org/es/interview/493225/"
-    },
-    {
-      "id": "21f06a698973",
-      "title": "Entrevista: Šimon Holý • Director de Chica Checa - “Esta película se ha convertido en un llamamiento altamente político a la libertad individual” - Karlovy Vary 2026 – Competición",
-      "source": "Cineuropa",
-      "date": "JUE 9 JUL 2026",
-      "date_iso": "2026-07-09T09:34:58",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director checo habla de convertir la identidad queer, la cultura drag y la comedia familiar rural en cine para el gran público, marcado por la “positividad radical” y la “esperanza radical”",
-      "url": "https://cineuropa.org/es/interview/493224/"
-    },
-    {
-      "id": "32db3c7c8481",
-      "title": "Jan Holoubek aborda en Karlovy Vary cómo convertir la memoria nacional en televisión para todo el mundo con High Water y Heweliusz - Karlovy Vary 2026 – KVIFF Industry Days",
-      "source": "Cineuropa",
-      "date": "JUE 9 JUL 2026",
-      "date_iso": "2026-07-09T09:09:03",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director polaco explicó que la expectación del público puede moldearse con una estrategia, pero sigue naciendo de la convicción del creador en la historia",
-      "url": "https://cineuropa.org/es/newsdetail/493219/"
-    },
-    {
-      "id": "88ef950b4a88",
-      "title": "Crítica: 3 Weeks After - Karlovy Vary 2026 - Competición",
-      "source": "Cineuropa",
-      "date": "MIÉ 8 JUL 2026",
-      "date_iso": "2026-07-08T15:33:48",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "El director serbio Miroslav Terzić firma un drama de gran altura artística, técnicamente impresionante y moralmente ambiguo sobre el acoso escolar",
-      "url": "https://cineuropa.org/es/newsdetail/493205/"
-    },
-    {
-      "id": "b5a203ed23d6",
-      "title": "Crítica: City of Fathers - Karlovy Vary 2026 – Proyecciones especiales",
-      "source": "Cineuropa",
-      "date": "MIÉ 8 JUL 2026",
-      "date_iso": "2026-07-08T15:22:53",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Un treintañero inmaduro se embarca en una odisea punk rock en busca de su padre biológico en el último largometraje de Zdeněk Tyc",
-      "url": "https://cineuropa.org/es/newsdetail/493204/"
-    },
-    {
-      "id": "983699d90b1f",
-      "title": "Crítica: Paris Paris - Karlovy Vary 2026 – Proxima",
-      "source": "Cineuropa",
-      "date": "MIÉ 8 JUL 2026",
-      "date_iso": "2026-07-08T15:08:39",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Tres inmigrantes buscan la felicidad en la metrópolis francesa en la docuficción de Isabelle Tollenaere",
-      "url": "https://cineuropa.org/es/newsdetail/493203/"
     }
   ],
   "releases": [
