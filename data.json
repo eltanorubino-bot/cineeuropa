@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-18T17:00:45.329476",
+  "last_updated": "2026-07-18T23:59:14.148900",
   "news": [
+    {
+      "id": "20a827a89e35",
+      "title": "Festival de San Sebastián 2026",
+      "source": "Escribiendo Cine",
+      "date": "SÁB 18 JUL 2026",
+      "date_iso": "2026-07-18T23:59:12.085941",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/07/17/23797-san-sebastian-revela-su-primera-seleccion-25-producciones-espanolas-desembarcan-en-la-74-edicion"
+    },
     {
       "id": "a8682835eb3a",
       "title": "ternacional de Cine de San Sebastián 2026",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "Eloy Enciso combina documental, historia y ficción para investigar y denunciar los olvidados campos de concentración del franquismo tras la guerra civil española",
       "url": "https://cineuropa.org/es/newsdetail/493229/"
-    },
-    {
-      "id": "3ee7dc8651ad",
-      "title": "Locarno anuncia la programación de sus secciones paralelas - Locarno 2026",
-      "source": "Cineuropa",
-      "date": "JUE 9 JUL 2026",
-      "date_iso": "2026-07-09T14:22:20",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La competición Cineasti del presente, dedicada a los autores y autoras emergentes, y la sección Piazza Grande, proponen una selección amplia y variada",
-      "url": "https://cineuropa.org/es/newsdetail/493233/"
     }
   ],
   "releases": [
