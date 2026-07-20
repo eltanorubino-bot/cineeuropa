@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-20T13:03:02.039422",
+  "last_updated": "2026-07-20T18:06:54.400429",
   "news": [
+    {
+      "id": "5cc3326fe29f",
+      "title": "Festival Internacional de Cine Golden Apricot 2026",
+      "source": "Escribiendo Cine",
+      "date": "LUN 20 JUL 2026",
+      "date_iso": "2026-07-20T18:06:52.348157",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/07/20/23836-las-corrientes-de-milagros-mumenthaler-gana-el-maximo-premio-del-festival-golden-apricot-de-armenia"
+    },
+    {
+      "id": "32daefdac14f",
+      "title": "Naishtat, Almodóvar, Los Javis  y Gael García Bernal llegan a Toronto con nuevas películas",
+      "source": "Escribiendo Cine",
+      "date": "LUN 20 JUL 2026",
+      "date_iso": "2026-07-20T18:06:52.346390",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/07/20/23839-tiff-2026-revela-su-programacion-estreno-mundial-de-glaxo-y-fuerte-presencia-espanola"
+    },
     {
       "id": "20a827a89e35",
       "title": "Festival de San Sebastián 2026",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "La nueva película de Nader Saeivar aborda cuestiones de identidad sexual y la opresiva influencia de la religión en la comunidad turca de Berlín",
       "url": "https://cineuropa.org/es/newsdetail/493239/"
-    },
-    {
-      "id": "b1ddf209d7d3",
-      "title": "Asghar Farhadi preside el jurado de la octava edición de 12 Punto - 12 Punto 2026",
-      "source": "Cineuropa",
-      "date": "JUE 9 JUL 2026",
-      "date_iso": "2026-07-09T15:51:48",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La plataforma turca de coproducción regresa con un programa internacional ampliado y la continuidad de su foco especial en el cine palestino",
-      "url": "https://cineuropa.org/es/newsdetail/493237/"
-    },
-    {
-      "id": "f8c0576fe9d2",
-      "title": "Crítica: Todo es cárcel - FIDMarseille 2026",
-      "source": "Cineuropa",
-      "date": "JUE 9 JUL 2026",
-      "date_iso": "2026-07-09T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Eloy Enciso combina documental, historia y ficción para investigar y denunciar los olvidados campos de concentración del franquismo tras la guerra civil española",
-      "url": "https://cineuropa.org/es/newsdetail/493229/"
     }
   ],
   "releases": [
