@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-21T17:24:12.985537",
+  "last_updated": "2026-07-21T23:59:37.443178",
   "news": [
+    {
+      "id": "8051ba3b4d75",
+      "title": "#NYFF64 | “14th” de Ava DuVernay clausurará el Festival de cine de New York",
+      "source": "A Sala Llena",
+      "date": "MAR 21 JUL 2026",
+      "date_iso": "2026-07-21T21:20:39",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Film at Lincoln Center anunció que el film 14th, dirigido por Ava DuVernay será el film de clausura del Festival de Cine de Nueva York (NYFF). Diez años atras DuVernay estrenó 13th, documental que retrataba los vacíos legales dentro de la 13va enmienda de la Constitución de los Estados Unidos, es...",
+      "url": "https://asalallena.com.ar/nyff64-14th-de-ava-duvernay-clausurara-el-festival-de-cine-de-new-york/"
+    },
     {
       "id": "15a6317e0dbe",
       "title": "Festival de Cine de Toronto 2026",
@@ -60,6 +72,18 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/07/17/23797-san-sebastian-revela-su-primera-seleccion-25-producciones-espanolas-desembarcan-en-la-74-edicion"
+    },
+    {
+      "id": "a7290b68f90b",
+      "title": "Crítica de “Sí, cambio”, film dirigido por Juan Morgenfeld",
+      "source": "A Sala Llena",
+      "date": "SÁB 18 JUL 2026",
+      "date_iso": "2026-07-18T21:03:35",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "LOS DIRECTORES QUE NO AMABAN LAS PELÍCULAS El título de este texto es una referencia a Los hombres que no amaban a las mujeres, del sueco Stieg Larsson. El único motivo de ser de esta referencia es ilustrativo, ya que Sí, cambio tiene una referencia al policial nórdico. Y el único motivo de ser d...",
+      "url": "https://asalallena.com.ar/critica-de-si-cambio-film-dirigido-por-juan-morgenfeld/"
     },
     {
       "id": "a8682835eb3a",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Frank Beauvais, Dinara Drukarova, Louiza Aura, Laetitia Dosch y Dimitri Doré protagonizan la nueva película de la cineasta francesa, producida por Les Film Hatari y Sésame Films",
       "url": "https://cineuropa.org/es/newsdetail/493251/"
-    },
-    {
-      "id": "b260f918a28b",
-      "title": "EXCLUSIVA: Póster para el documental culinario español Noor - Patrocinado",
-      "source": "Cineuropa",
-      "date": "VIE 10 JUL 2026",
-      "date_iso": "2026-07-10T13:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El largometraje de Carlos Velasco y Kate Hu se adentra en el entorno creativo de Paco Morales y en su restaurante cordobés Noor Restaurant",
-      "url": "https://cineuropa.org/es/newsdetail/493195/"
-    },
-    {
-      "id": "c4309d7a8dde",
-      "title": "Crítica: Learning to Breathe Under Water - Karlovy Vary 2026 - Proyecciones especiales",
-      "source": "Cineuropa",
-      "date": "VIE 10 JUL 2026",
-      "date_iso": "2026-07-10T08:43:40",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "En su entrañable relato sobre cómo aprender a afrontar la pérdida, Rebekah Fortune embarca a un padre y a un hijo en un viaje fantástico y agridulce",
-      "url": "https://cineuropa.org/es/newsdetail/493248/"
     }
   ],
   "releases": [
