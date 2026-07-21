@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-21T12:21:55.516347",
+  "last_updated": "2026-07-21T17:24:12.985537",
   "news": [
+    {
+      "id": "15a6317e0dbe",
+      "title": "Festival de Cine de Toronto 2026",
+      "source": "Escribiendo Cine",
+      "date": "MAR 21 JUL 2026",
+      "date_iso": "2026-07-21T17:24:10.515716",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/07/21/23851-las-12-peliculas-que-competiran-en-platform-2026-la-seccion-autoral-del-tiff"
+    },
+    {
+      "id": "c34babcc1740",
+      "title": "Festival de Cine de Sitges 2026",
+      "source": "Escribiendo Cine",
+      "date": "MAR 21 JUL 2026",
+      "date_iso": "2026-07-21T17:24:10.514489",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/07/21/23854-el-festival-de-sitges-2026-apuesta-por-los-clasicos-restaurados-y-las-nuevas-tendencias-del-cine-fantastico"
+    },
     {
       "id": "5cc3326fe29f",
       "title": "Festival Internacional de Cine Golden Apricot 2026",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "En su entrañable relato sobre cómo aprender a afrontar la pérdida, Rebekah Fortune embarca a un padre y a un hijo en un viaje fantástico y agridulce",
       "url": "https://cineuropa.org/es/newsdetail/493248/"
-    },
-    {
-      "id": "7d323e32fd20",
-      "title": "El Consejo de Europa apoya siete coproducciones de series - Producción / Financiación - Europa",
-      "source": "Cineuropa",
-      "date": "JUE 9 JUL 2026",
-      "date_iso": "2026-07-09T16:37:29",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El Programa Piloto de Coproducciones de Series ha seleccionado series de Bélgica, Finlandia, España, Países Bajos, Grecia, la República Checa e Irlanda",
-      "url": "https://cineuropa.org/es/newsdetail/493241/"
-    },
-    {
-      "id": "ad47b018a7a4",
-      "title": "Crítica: Hijamat - Karlovy Vary 2026 - Competición",
-      "source": "Cineuropa",
-      "date": "JUE 9 JUL 2026",
-      "date_iso": "2026-07-09T16:05:03",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "La nueva película de Nader Saeivar aborda cuestiones de identidad sexual y la opresiva influencia de la religión en la comunidad turca de Berlín",
-      "url": "https://cineuropa.org/es/newsdetail/493239/"
     }
   ],
   "releases": [
