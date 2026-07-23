@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-23T12:22:25.376399",
+  "last_updated": "2026-07-23T17:25:01.238293",
   "news": [
+    {
+      "id": "ff9398ac3d1d",
+      "title": "Festival Internacional de Cine de Toronto 2026",
+      "source": "Escribiendo Cine",
+      "date": "JUE 23 JUL 2026",
+      "date_iso": "2026-07-23T17:24:59.484064",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/07/23/23914-tiff-2026-anuncia-su-programacion-primetime-con-estrenos-de-carrie-y-nuevas-series-internacionales"
+    },
     {
       "id": "8051ba3b4d75",
       "title": "#NYFF64 | “14th” de Ava DuVernay clausurará el Festival de cine de New York",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El primer largometraje en inglés del cineasta alemán cuenta con un reparto internacional que incluye a Helena Zengel y Sandra Guldberg Kampp",
       "url": "https://cineuropa.org/es/newsdetail/493267/"
-    },
-    {
-      "id": "3f738fcf7edd",
-      "title": "D’ici là de Sarah Leonor competirá por el Leopardo de Oro en Locarno - Producción / Financiación - Francia",
-      "source": "Cineuropa",
-      "date": "VIE 10 JUL 2026",
-      "date_iso": "2026-07-10T13:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Frank Beauvais, Dinara Drukarova, Louiza Aura, Laetitia Dosch y Dimitri Doré protagonizan la nueva película de la cineasta francesa, producida por Les Film Hatari y Sésame Films",
-      "url": "https://cineuropa.org/es/newsdetail/493251/"
     }
   ],
   "releases": [
