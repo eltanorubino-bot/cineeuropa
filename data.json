@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-23T17:25:01.238293",
+  "last_updated": "2026-07-24T00:05:50.087276",
   "news": [
+    {
+      "id": "cea0c33b8408",
+      "title": "#VENECIA83 | Programación",
+      "source": "A Sala Llena",
+      "date": "JUE 23 JUL 2026",
+      "date_iso": "2026-07-23T23:47:05",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ARGENTINA",
+      "excerpt": "Competencia Company, Casey Affleck A Bit of Light, de Ali Asgari Ritorno a Buenos Aires, de Marco Bechis Ink, de Danny Boyle Un bon petit soldat, de Stéphane Brizé Il fuoco che ti porti dentro, de Edoardo De Angelis Woman Unknown, de May el-Toukhy Bucking Fastard, de Werner Herzog 15/18 A Place t...",
+      "url": "https://asalallena.com.ar/venecia83-programacion/"
+    },
     {
       "id": "ff9398ac3d1d",
       "title": "Festival Internacional de Cine de Toronto 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El dúo habla de cómo retratar a una generación que ha vivido bajo dos sistemas políticos opuestos y de explorar los muchos matices de la corrupción y el compromiso moral",
       "url": "https://cineuropa.org/es/video/493265/"
-    },
-    {
-      "id": "e1068ae2af5a",
-      "title": "El nuevo largometraje de terror de Nikias Chryssos, Bloody Tennis, viaja a Locarno - Producción / Financiación - Alemania",
-      "source": "Cineuropa",
-      "date": "VIE 10 JUL 2026",
-      "date_iso": "2026-07-10T13:47:12",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El primer largometraje en inglés del cineasta alemán cuenta con un reparto internacional que incluye a Helena Zengel y Sandra Guldberg Kampp",
-      "url": "https://cineuropa.org/es/newsdetail/493267/"
     }
   ],
   "releases": [
