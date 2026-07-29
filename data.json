@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-28T17:37:40.711552",
+  "last_updated": "2026-07-29T00:03:35.642724",
   "news": [
+    {
+      "id": "602ba967ffe3",
+      "title": "#NYFF64 | “Behemoth!” de Tony Gilroy será la centerpiece del Festival de cine de New York",
+      "source": "A Sala Llena",
+      "date": "MAR 28 JUL 2026",
+      "date_iso": "2026-07-28T19:07:45",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Film at Lincoln Center anuncia que Behemoth! de Tony Gilroy fue seleccionada como la Centerpiece del 64th New York Film Festival, marcando esta función su premiere mundial. El film está protagonizado por Pedro Pascal en el rol de un celista.\nLa entrada #NYFF64 | “Behemoth!” de Tony Gilroy será la...",
+      "url": "https://asalallena.com.ar/nyff64-behemoth-de-tony-gilroy-sera-la-centerpiece-del-festival-de-cine-de-new-york/"
+    },
     {
       "id": "d8dbcd069ff6",
       "title": "Crítica de “Los domingos”, film dirigido por Alauda Ruiz de Azúa",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El director serbio habla del casting de su película y de trabajar con toda una clase de jóvenes intérpretes, y del uso del terror como herramienta narrativa",
       "url": "https://cineuropa.org/es/video/493266/"
-    },
-    {
-      "id": "9701749deac1",
-      "title": "Utopai se presenta como un estudio integral para la era de la IA - Karlovy Vary 2026 – KVIFF Industry Days",
-      "source": "Cineuropa",
-      "date": "VIE 10 JUL 2026",
-      "date_iso": "2026-07-10T14:35:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "En Karlovy Vary, el COO Kevin Chong sostuvo que la promesa más disruptiva de la IA puede tener que ver con recuperar la escala de la producción que en gran medida ha desaparecido de Hollywood",
-      "url": "https://cineuropa.org/es/newsdetail/493268/"
     }
   ],
   "releases": [
