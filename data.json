@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-02T12:04:47.738597",
+  "last_updated": "2026-08-02T17:03:02.833756",
   "news": [
+    {
+      "id": "6fec78242aad",
+      "title": "Premios al cine de América del Sur",
+      "source": "Escribiendo Cine",
+      "date": "DOM 2 AGO 2026",
+      "date_iso": "2026-08-02T17:02:55.363457",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/08/02/24085-bonito-cinesur-2026-anuncia-sus-ganadores-y-cierra-una-edicion-marcada-por-el-cine-sudamericano-y-el-reconocimiento-a-vincent"
+    },
     {
       "id": "093758f79627",
       "title": "Premios de la crítica internacional",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El cineasta suizo habla de su primer largometraje, que sigue a una madre trabajadora que lucha por mantener a sus hijos con ella, y de lo que el público puede llevarse de la película",
       "url": "https://cineuropa.org/es/interview/493271/"
-    },
-    {
-      "id": "a7f23c4dcfb5",
-      "title": "Crítica: Fruit Gathering - Karlovy Vary 2026 - Competición",
-      "source": "Cineuropa",
-      "date": "VIE 10 JUL 2026",
-      "date_iso": "2026-07-10T14:47:43",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "La ópera prima de Aung Phyoe convierte la ambigua intimidad entre dos costureras en un delicado estudio del deseo, el trabajo y la represión social en el Myanmar contemporáneo",
-      "url": "https://cineuropa.org/es/newsdetail/493270/"
     }
   ],
   "releases": [
