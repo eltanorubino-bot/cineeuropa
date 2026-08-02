@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-01T17:03:03.443280",
+  "last_updated": "2026-08-02T00:03:08.516353",
   "news": [
+    {
+      "id": "093758f79627",
+      "title": "Premios de la crítica internacional",
+      "source": "Escribiendo Cine",
+      "date": "DOM 2 AGO 2026",
+      "date_iso": "2026-08-02T00:03:06.041102",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "CRÍTICAS",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/08/01/24073-fipresci-anuncio-los-cinco-nominados-al-grand-prix-2026-a-la-mejor-pelicula-del-ano"
+    },
     {
       "id": "602ba967ffe3",
       "title": "#NYFF64 | “Behemoth!” de Tony Gilroy será la centerpiece del Festival de cine de New York",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "La ópera prima de Aung Phyoe convierte la ambigua intimidad entre dos costureras en un delicado estudio del deseo, el trabajo y la represión social en el Myanmar contemporáneo",
       "url": "https://cineuropa.org/es/newsdetail/493270/"
-    },
-    {
-      "id": "27f693d5f19f",
-      "title": "Entrevista: Miroslav Terzić • Director de 3 Weeks After - \"Esta película provoca que el público se pregunte: ‘¿Qué haría yo en esta situación?’\" - Karlovy Vary 2026 - Competición",
-      "source": "Cineuropa",
-      "date": "VIE 10 JUL 2026",
-      "date_iso": "2026-07-10T14:40:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director serbio habla del casting de su película y de trabajar con toda una clase de jóvenes intérpretes, y del uso del terror como herramienta narrativa",
-      "url": "https://cineuropa.org/es/video/493266/"
     }
   ],
   "releases": [
