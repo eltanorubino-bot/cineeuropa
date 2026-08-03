@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-02T17:03:02.833756",
+  "last_updated": "2026-08-03T00:08:58.338808",
   "news": [
+    {
+      "id": "8643b67e3ee9",
+      "title": "Cine de autor",
+      "source": "Escribiendo Cine",
+      "date": "LUN 3 AGO 2026",
+      "date_iso": "2026-08-03T00:08:56.225403",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/08/02/24091-american-cinematheque-at-caligari-llega-al-cine-gaumont-con-un-ciclo-dedicado-a-los-clasicos-que-marcaron-la-historia-del-cine"
+    },
     {
       "id": "6fec78242aad",
       "title": "Premios al cine de América del Sur",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El director habla de una historia de anhelo, ambigüedad y privilegio desigual, y de cómo fusiona el realismo social con la memoria, el encierro y la evasión imaginada",
       "url": "https://cineuropa.org/es/interview/493273/"
-    },
-    {
-      "id": "0de17f8cba7c",
-      "title": "Entrevista: Jan-Eric Mack • Director de A Happy Family - \"Queríamos revelar una faceta de Suiza de la que apenas se habla\" - Karlovy Vary 2026 – Competición",
-      "source": "Cineuropa",
-      "date": "VIE 10 JUL 2026",
-      "date_iso": "2026-07-10T14:58:51",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cineasta suizo habla de su primer largometraje, que sigue a una madre trabajadora que lucha por mantener a sus hijos con ella, y de lo que el público puede llevarse de la película",
-      "url": "https://cineuropa.org/es/interview/493271/"
     }
   ],
   "releases": [
