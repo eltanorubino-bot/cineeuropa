@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-05T12:49:37.728172",
+  "last_updated": "2026-08-05T17:42:19.435402",
   "news": [
+    {
+      "id": "0613e60ace8e",
+      "title": "Festivales de cine",
+      "source": "Escribiendo Cine",
+      "date": "MIÉ 5 AGO 2026",
+      "date_iso": "2026-08-05T17:42:17.188632",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/08/05/24163-festival-biarritz-amerique-latine-2026-anuncian-los-diez-documentales-que-competiran-en-la-seleccion-oficial"
+    },
     {
       "id": "d725580dd469",
       "title": "Festival Internacional de Cine de Guanajuato 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "La película sudafricana de Nico Scheepers se alzó con el máximo galardón del certamen, que también premió a Do You Believe in Angels, Mr. Drowak? y Hokum",
       "url": "https://cineuropa.org/es/newsdetail/493287/"
-    },
-    {
-      "id": "a33ccc873b30",
-      "title": "Todo es cárcel triunfa en el FIDMarseille - FIDMarseille 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "LUN 13 JUL 2026",
-      "date_iso": "2026-07-13T10:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La película del gallego Eloy Enciso Cachafeiro gana en la competición internacional y Seul le serpent sait, de Olivier Séror y Martin Verdet, domina la competición francesa",
-      "url": "https://cineuropa.org/es/newsdetail/493278/"
     }
   ],
   "releases": [
