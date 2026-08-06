@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-06T00:04:34.690300",
+  "last_updated": "2026-08-06T12:53:51.587195",
   "news": [
+    {
+      "id": "061ad28494e9",
+      "title": "#LOCARNO2026 | El marido de la programadora",
+      "source": "A Sala Llena",
+      "date": "JUE 6 AGO 2026",
+      "date_iso": "2026-08-06T05:02:51",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "“Yo te amo, vos pagas el alquiler”. Pet Shop Boys &#8211; Rent “Ella es mi esposa”. Gertrude Stein, en uno de sus cuadernos de notas, en referencia a Alice B. Toklas ¿Alguno de ustedes, queridos lectores, se acuerda de Patrice Leconte? Quizás entre los más ancianos de los presentes el nombre les ...",
+      "url": "https://asalallena.com.ar/locarno2026-el-marido-de-la-programadora/"
+    },
     {
       "id": "0613e60ace8e",
       "title": "Festivales de cine",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Valérie Donzelli presidirá el jurado internacional de Orizzonti, mientras que Carolina Cavalli será presidenta del jurado del Premio Venezia Opera Prima “Luigi De Laurentiis”",
       "url": "https://cineuropa.org/es/newsdetail/493289/"
-    },
-    {
-      "id": "05edf2cfc0fc",
-      "title": "El Narcisse al mejor largometraje del NIFFF recae en Hen - NIFFF 2026 – Premios",
-      "source": "Cineuropa",
-      "date": "LUN 13 JUL 2026",
-      "date_iso": "2026-07-13T12:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La película sudafricana de Nico Scheepers se alzó con el máximo galardón del certamen, que también premió a Do You Believe in Angels, Mr. Drowak? y Hokum",
-      "url": "https://cineuropa.org/es/newsdetail/493287/"
     }
   ],
   "releases": [
