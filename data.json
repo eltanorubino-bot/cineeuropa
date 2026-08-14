@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-14T11:41:25.734187",
+  "last_updated": "2026-08-14T16:56:17.793658",
   "news": [
+    {
+      "id": "ffdc5122a3ae",
+      "title": "#LOCARNO2026 | De la vida y los artistas",
+      "source": "A Sala Llena",
+      "date": "VIE 14 AGO 2026",
+      "date_iso": "2026-08-14T15:33:54",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "“Estos bocetos preliminares, nacidos en un instante en el fragor de la inspiración, expresan la idea de su autor en unos pocos trazos, mientras que, por otro lado, el exceso de esfuerzo y diligencia a veces agota la vitalidad y las fuerzas de aquellos que nunca saben cuándo parar.” Giorgio Vasari...",
+      "url": "https://asalallena.com.ar/locarno2026-de-la-vida-y-los-artistas/"
+    },
     {
       "id": "c0f6ecb7be1a",
       "title": "Industria cinematográfica | Festival de San Sebastián 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El director eslovaco habla sobre su filme, que vuelve sobre uno de los capítulos más oscuros de la historia de Checoslovaquia, la política estatal de esterilización forzada de mujeres gitanas",
       "url": "https://cineuropa.org/es/video/493359/"
-    },
-    {
-      "id": "91723785c161",
-      "title": "Crítica: Schiuma di mondi - FIDMarseille 2026",
-      "source": "Cineuropa",
-      "date": "MAR 14 JUL 2026",
-      "date_iso": "2026-07-14T10:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "Anna Marziano sitúa en la amenazada laguna de Venecia la relación íntima entre una madre y su hija, y una acción legal en defensa del derecho a la protección del medio ambiente",
-      "url": "https://cineuropa.org/es/newsdetail/493322/"
     }
   ],
   "releases": [
