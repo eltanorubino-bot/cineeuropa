@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-17T11:21:34.605442",
+  "last_updated": "2026-08-17T16:30:46.077128",
   "news": [
+    {
+      "id": "b757e9c5aea8",
+      "title": "Festival de Cine de Santander 2026",
+      "source": "Escribiendo Cine",
+      "date": "LUN 17 AGO 2026",
+      "date_iso": "2026-08-17T16:30:44.345267",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/08/17/24397-albert-serra-recibira-el-faro-de-honor-en-la-decima-edicion-del-festival-de-cine-de-santander"
+    },
     {
       "id": "ffdc5122a3ae",
       "title": "#LOCARNO2026 | De la vida y los artistas",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El cineasta británico habla sobre las referencias que moldearon el estilo visual y el sustrato filosófico de la película, y sobre cómo descubrió a su protagonista durante el proceso de escritura",
       "url": "https://cineuropa.org/es/video/493288/"
-    },
-    {
-      "id": "bab234a8d10a",
-      "title": "Entrevista: Ivan Ostrochovský • Director de Only Beautiful Things to Look At - \"El tema de la esterilización forzada es universal, no es únicamente un fenómeno de la época socialista\" - Karlovy Vary 2026 - Competición",
-      "source": "Cineuropa",
-      "date": "MAR 14 JUL 2026",
-      "date_iso": "2026-07-14T12:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director eslovaco habla sobre su filme, que vuelve sobre uno de los capítulos más oscuros de la historia de Checoslovaquia, la política estatal de esterilización forzada de mujeres gitanas",
-      "url": "https://cineuropa.org/es/video/493359/"
     }
   ],
   "releases": [
