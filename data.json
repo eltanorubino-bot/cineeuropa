@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-17T23:33:52.622563",
+  "last_updated": "2026-08-18T11:22:00.698866",
   "news": [
+    {
+      "id": "d2e5771e4851",
+      "title": "Los productores de Roma y Flow unen fuerzas en el largo en stop-motion de Sofía Carrillo, Insectarium - Producción / Financiación - México/España/Canadá/Letonia",
+      "source": "Cineuropa",
+      "date": "MAR 18 AGO 2026",
+      "date_iso": "2026-08-18T09:21:31",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "La coproducción, de 4,76 millones de dólares, marca el debut en el largometraje de la animadora mexicana y se encuentra actualmente en preproducción, con un estreno previsto para 2028",
+      "url": "https://cineuropa.org/es/newsdetail/494533/"
+    },
+    {
+      "id": "745b1086b51c",
+      "title": "#LOCARNO2026 | Cuaderno de notas (apuntes finales y despedida)",
+      "source": "A Sala Llena",
+      "date": "LUN 17 AGO 2026",
+      "date_iso": "2026-08-17T17:55:31",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "“Ustedes creen que pueden comprarlo todo. Pero no se pueden comprar las calles”. Dominic Toretto &#8211; Fast X (Louis Leterrier, 2023) El festival de Locarno llegó a su fin y escribo las siguientes líneas desde mi hogar, con un cansancio de casi 20 horas de vuelo en el cuerpo que trato de combat...",
+      "url": "https://asalallena.com.ar/locarno2026-cuaderno-de-notas-apuntes-finales-y-despedida/"
+    },
     {
       "id": "b757e9c5aea8",
       "title": "Festival de Cine de Santander 2026",
@@ -12,6 +36,78 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/08/17/24397-albert-serra-recibira-el-faro-de-honor-en-la-decima-edicion-del-festival-de-cine-de-santander"
+    },
+    {
+      "id": "8ef9afa0c22a",
+      "title": "Las películas europeas que representarán a sus países en los Óscar - Óscar 2027",
+      "source": "Cineuropa",
+      "date": "LUN 17 AGO 2026",
+      "date_iso": "2026-08-17T16:00:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los países europeos desvelan sus representantes en la categoría de Mejor Película Internacional de los premios del 2027 de la Academia estadounidense",
+      "url": "https://cineuropa.org/es/newsdetail/494046/"
+    },
+    {
+      "id": "327e84084d04",
+      "title": "Seis nuevos largometrajes se suman a la competición en San Sebastián - San Sebastián 2026",
+      "source": "Cineuropa",
+      "date": "LUN 17 AGO 2026",
+      "date_iso": "2026-08-17T13:40:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "Los films de cineastas europeos como Fred Cavayé, Amanda Kernell y Tony Vahl lucharán por la Concha de Oro junto a los trabajos de Jesse Eisenberg, Gabriel Martins y Ah Biao",
+      "url": "https://cineuropa.org/es/newsdetail/494512/"
+    },
+    {
+      "id": "1feaf592a89b",
+      "title": "Crítica: Demain je tombe amoureux - Locarno 2026 - Piazza Grande",
+      "source": "Cineuropa",
+      "date": "LUN 17 AGO 2026",
+      "date_iso": "2026-08-17T13:35:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El nuevo largometraje del director francés Martin Provost es una reflexión sobre el amor, una oda a la ligereza a pesar de las dificultades de la vida",
+      "url": "https://cineuropa.org/es/newsdetail/494447/"
+    },
+    {
+      "id": "eeccd939d577",
+      "title": "Crítica: Il cileno - Locarno 2026 – Competición",
+      "source": "Cineuropa",
+      "date": "LUN 17 AGO 2026",
+      "date_iso": "2026-08-17T13:30:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Sergio Castro San Martín cuenta la historia de un emigrante chileno en Turín que termina implicado en la fabricación de bombas destinadas a un grupo de revolucionarios locales",
+      "url": "https://cineuropa.org/es/newsdetail/494431/"
+    },
+    {
+      "id": "b97b55942956",
+      "title": "Entrevista: Meritxell Colell Aparicio • Directora de Lejos de los árboles - “La memoria debe recibirse a través de la escucha” - Locarno 2026 – Competición",
+      "source": "Cineuropa",
+      "date": "LUN 17 AGO 2026",
+      "date_iso": "2026-08-17T13:15:00",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La cineasta catalana reflexiona sobre su exploración transnacional del exilio, de las lenguas en peligro y de la memoria heredada, articulada a través del sonido y de formas cinematográficas híbridas",
+      "url": "https://cineuropa.org/es/interview/494429/"
+    },
+    {
+      "id": "3d0dae472dca",
+      "title": "Entrevista: Ann Oren • Directora de Objet a - “Mi película aborda lo que significa ser humano en este planeta ahora mismo” - Locarno 2026 – Competición",
+      "source": "Cineuropa",
+      "date": "LUN 17 AGO 2026",
+      "date_iso": "2026-08-17T10:27:04",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
+      "cat": "FESTIVALES",
+      "excerpt": "La directora alemana nos habla de su segundo largometraje, la psicodelia, el surrealismo y la conexión humana con el mundo natural",
+      "url": "https://cineuropa.org/es/interview/494510/"
     },
     {
       "id": "ffdc5122a3ae",
@@ -504,102 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El centro francés también apoyará las próximas películas de Yolande Zauberman, Baya Kasmi, Cécile Ducrocq, Marya Zarif e Ilan Klipper",
       "url": "https://cineuropa.org/es/newsdetail/493387/"
-    },
-    {
-      "id": "742587f78be9",
-      "title": "Entrevista: Élie Wajeman • Director de Comète - \"París sigue siendo vibrante, peligrosa, conmovedora, violenta\" - /Francia",
-      "source": "Cineuropa",
-      "date": "MIÉ 15 JUL 2026",
-      "date_iso": "2026-07-15T08:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cineasta francés narra la aventura de una película coral nacida como una experiencia alternativa de producción y de mezcla de géneros",
-      "url": "https://cineuropa.org/es/interview/493358/"
-    },
-    {
-      "id": "3b3adf1f02f9",
-      "title": "El 10.º Brussels CoProMarket anuncia sus proyectos seleccionados - BRIFF 2026",
-      "source": "Cineuropa",
-      "date": "MAR 14 JUL 2026",
-      "date_iso": "2026-07-14T15:30:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El Brussels International Film Festival acogerá una nueva edición de su cita profesional destinada a promover las colaboraciones entre productores belgas y europeos",
-      "url": "https://cineuropa.org/es/newsdetail/493338/"
-    },
-    {
-      "id": "6cb40305469c",
-      "title": "Giffoni desvela una competición con 104 títulos que explora los miedos, las esperanzas y las identidades de las nuevas generaciones - Giffoni 2026",
-      "source": "Cineuropa",
-      "date": "MAR 14 JUL 2026",
-      "date_iso": "2026-07-14T15:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El certamen italiano dirigido a niños y jóvenes ha anunciado un programa que abarca relatos de iniciación, animación, dramas sociales y documentales",
-      "url": "https://cineuropa.org/es/newsdetail/493363/"
-    },
-    {
-      "id": "2ee0d346ce0f",
-      "title": "Daniele Luchetti rueda Dove non mi hai portata, con Tecla Insolia y Margherita Buy - Producción / Financiación - Italia",
-      "source": "Cineuropa",
-      "date": "MAR 14 JUL 2026",
-      "date_iso": "2026-07-14T13:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La película, basada en la novela finalista del Premio Strega de Maria Grazia Calandrone, es una coproducción italo-española entre Fandango, Vision Distribution y BTeam Prods",
-      "url": "https://cineuropa.org/es/newsdetail/493335/"
-    },
-    {
-      "id": "0b35f24806af",
-      "title": "Marius Olteanu se encuentra en la fase final de postproducción de su segundo largometraje We Won't Get Old Together - Producción / Financiación - Rumanía/Francia",
-      "source": "Cineuropa",
-      "date": "MAR 14 JUL 2026",
-      "date_iso": "2026-07-14T13:35:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La coproducción rumano-francesa sigue a un arquitecto gay cuya vida se desmorona tras una muerte inesperada",
-      "url": "https://cineuropa.org/es/newsdetail/493315/"
-    },
-    {
-      "id": "36ec55005bb1",
-      "title": "Entrevista: Jerry Carlsson y Frida Mårtensson • Director y productora de Selamlik - “La perspectiva queer sobre la guerra no se ha contado a menudo en el cine” - Karlovy Vary 2026 - KVIFF Industry Days",
-      "source": "Cineuropa",
-      "date": "MAR 14 JUL 2026",
-      "date_iso": "2026-07-14T13:20:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El director sueco enmarca una historia de amor queer siria entre Damasco y Córdoba, explorando el exilio, el desplazamiento y la búsqueda de un hogar",
-      "url": "https://cineuropa.org/es/interview/493310/"
-    },
-    {
-      "id": "f0ebabf5c46e",
-      "title": "Entrevista: Anastasia Tykha y Darya Bassel • Directora y productora de Reminiscence - “Algunas familias sabían exactamente qué era la guerra” - Karlovy Vary 2026 - KVIFF Industry Days",
-      "source": "Cineuropa",
-      "date": "MAR 14 JUL 2026",
-      "date_iso": "2026-07-14T13:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La directora ucraniana habla sobre su drama psicológico sobre la pérdida, que explora cómo las familias de los soldados desaparecidos de Ucrania habitan el trauma",
-      "url": "https://cineuropa.org/es/interview/493311/"
-    },
-    {
-      "id": "71eb0cb74b35",
-      "title": "Entrevista: Michele Fiascaris • Director de Rain Catcher - \"Creamos a este personaje intentando pensar y actuar como él, y eso nos metió en problemas\" - Karlovy Vary 2026 - Proxima",
-      "source": "Cineuropa",
-      "date": "MAR 14 JUL 2026",
-      "date_iso": "2026-07-14T13:00:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cineasta británico habla sobre las referencias que moldearon el estilo visual y el sustrato filosófico de la película, y sobre cómo descubrió a su protagonista durante el proceso de escritura",
-      "url": "https://cineuropa.org/es/video/493288/"
     }
   ],
   "releases": [
