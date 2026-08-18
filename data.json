@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-18T11:22:00.698866",
+  "last_updated": "2026-08-18T16:34:39.207456",
   "news": [
+    {
+      "id": "11f5d6bd6b0b",
+      "title": "Festival de Nueva York 2026",
+      "source": "Escribiendo Cine",
+      "date": "MAR 18 AGO 2026",
+      "date_iso": "2026-08-18T16:34:37.600656",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/08/18/24430-nyff-anuncia-la-programacion-de-revivals-con-clasicos-restaurados-en-4k"
+    },
     {
       "id": "d2e5771e4851",
       "title": "Los productores de Roma y Flow unen fuerzas en el largo en stop-motion de Sofía Carrillo, Insectarium - Producción / Financiación - México/España/Canadá/Letonia",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Fabrice Du Welz, Marco Alessi, Lolita Chammah, Paulina García y Olivier Père formarán parte del jurado de la Competición Internacional",
       "url": "https://cineuropa.org/es/newsdetail/493430/"
-    },
-    {
-      "id": "d9f30f357a24",
-      "title": "L’homme qui avait peur des femmes de Jean-Baptiste Durand recibe el adelanto sobre ingresos del CNC - Producción / Financiación - Francia",
-      "source": "Cineuropa",
-      "date": "MIÉ 15 JUL 2026",
-      "date_iso": "2026-07-15T10:07:03",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El centro francés también apoyará las próximas películas de Yolande Zauberman, Baya Kasmi, Cécile Ducrocq, Marya Zarif e Ilan Klipper",
-      "url": "https://cineuropa.org/es/newsdetail/493387/"
     }
   ],
   "releases": [
