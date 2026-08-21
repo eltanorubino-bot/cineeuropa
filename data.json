@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-21T11:22:56.650740",
+  "last_updated": "2026-08-21T16:37:18.691859",
   "news": [
+    {
+      "id": "e210769d2b35",
+      "title": "74ª edición del Festival de San Sebastián",
+      "source": "Escribiendo Cine",
+      "date": "VIE 21 AGO 2026",
+      "date_iso": "2026-08-21T16:37:16.423057",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/08/21/24508-san-sebastian-abre-zabaltegi-tabakalera-a-una-nueva-avanzada-del-cine-argentino"
+    },
     {
       "id": "11f5d6bd6b0b",
       "title": "Festival de Nueva York 2026",
@@ -588,18 +600,6 @@
       "cat": "PLATAFORMAS",
       "excerpt": "La alianza de distribución en salas firmada entre BIM Distribuzione y MUBI Italia, encabezada por Gabriele D’Andrea, comenzará el próximo 1 de agosto y llevará a los cines películas de autor",
       "url": "https://cineuropa.org/es/newsdetail/493415/"
-    },
-    {
-      "id": "0de6121fc669",
-      "title": "El 79.º Festival de Locarno desvela a los miembros de su jurado - Locarno 2026",
-      "source": "Cineuropa",
-      "date": "MIÉ 15 JUL 2026",
-      "date_iso": "2026-07-15T13:25:55",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Fabrice Du Welz, Marco Alessi, Lolita Chammah, Paulina García y Olivier Père formarán parte del jurado de la Competición Internacional",
-      "url": "https://cineuropa.org/es/newsdetail/493430/"
     }
   ],
   "releases": [
