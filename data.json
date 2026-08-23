@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-23T16:28:56.186879",
+  "last_updated": "2026-08-23T23:27:32.127316",
   "news": [
+    {
+      "id": "62b7d55fd9e1",
+      "title": "Crítica de “CIN3FILI4”, film dirigido por Raúl Perrone",
+      "source": "A Sala Llena",
+      "date": "DOM 23 AGO 2026",
+      "date_iso": "2026-08-23T16:29:25",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "ITUZAINGÓ MON AMOUR ¿Qué habría pasado si François Truffaut, Jean-Luc Godard o Anna Karina hubiesen nacido en Ituzaingó? Probablemente habrían trabajado en una película de Raúl Perrone. Más precisamente en una como CIN3FILI4 (2026), una película minimalista en claro tributo a la nouvelle vague y ...",
+      "url": "https://asalallena.com.ar/critica-de-cin3fili4-film-dirigido-por-raul-perrone/"
+    },
     {
       "id": "e210769d2b35",
       "title": "74ª edición del Festival de San Sebastián",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/07/16/23770-glaxo-la-nueva-pelicula-de-benjamin-naishtat-tendra-su-estreno-mundial-en-el-tiff-2026"
-    },
-    {
-      "id": "863c127bf201",
-      "title": "Fantasia pone el foco en el cine de género europeo con numerosos estrenos - Fantasia 2026",
-      "source": "Cineuropa",
-      "date": "JUE 16 JUL 2026",
-      "date_iso": "2026-07-16T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "Las nuevas películas de Agnieszka Smoczyńska y Kasper Kalle encabezan el contingente europeo en el festival canadiense",
-      "url": "https://cineuropa.org/es/newsdetail/493523/"
     }
   ],
   "releases": [
