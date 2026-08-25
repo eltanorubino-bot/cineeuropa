@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-25T11:23:33.143371",
+  "last_updated": "2026-08-25T16:42:14.846761",
   "news": [
+    {
+      "id": "4463e55c9c08",
+      "title": "Festival de Venecia 2026",
+      "source": "Escribiendo Cine",
+      "date": "MAR 25 AGO 2026",
+      "date_iso": "2026-08-25T16:42:13.365155",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/08/24/24556-naza-de-yuval-abraham-y-rachel-szor-completa-la-competencia-del-festival-de-venecia-2026"
+    },
     {
       "id": "62b7d55fd9e1",
       "title": "Crítica de “CIN3FILI4”, film dirigido por Raúl Perrone",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Hoy se realizó el anuncio que Paper Tiger, film dirigido por James Gray, será el film de apertura de la edición 64 del NYFF (Festival de cine de Nueva York). La función del film a su vez será la premiere norteamericana. El film está protagonizado por Adam Driver, Miles Teller y Scarlett Johansson...",
       "url": "https://asalallena.com.ar/nyff64-paper-tiger-de-james-gray-abrira-el-festival-de-cine-de-new-york/"
-    },
-    {
-      "id": "553d7ecf542c",
-      "title": "Festival de Cine de Toronto",
-      "source": "Escribiendo Cine",
-      "date": "JUE 16 JUL 2026",
-      "date_iso": "2026-07-16T17:21:09.474718",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/07/16/23770-glaxo-la-nueva-pelicula-de-benjamin-naishtat-tendra-su-estreno-mundial-en-el-tiff-2026"
     }
   ],
   "releases": [
