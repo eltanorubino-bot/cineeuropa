@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-27T04:28:05.830630",
+  "last_updated": "2026-08-27T20:53:58.072215",
   "news": [
+    {
+      "id": "97076f4c160c",
+      "title": "Festival de San Sebastián",
+      "source": "Escribiendo Cine",
+      "date": "JUE 27 AGO 2026",
+      "date_iso": "2026-08-27T20:53:56.312919",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/08/27/24635-nest-2026-selecciona-14-cortometrajes-de-estudiantes-de-cine-de-13-paises"
+    },
     {
       "id": "56eb3992a624",
       "title": "Festival Internacional de Cine de Mar del Plata 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Exploramos el panorama de la animación sostenible a través de la iniciativa ANiMPACT, que ha entrado recientemente en su fase piloto",
       "url": "https://cineuropa.org/es/interview/493542/"
-    },
-    {
-      "id": "624158d75205",
-      "title": "CineHamburg ofrece una plataforma para el intercambio entre exhibidores y distribuidores - Industria / Mercado - Alemania",
-      "source": "Cineuropa",
-      "date": "VIE 17 JUL 2026",
-      "date_iso": "2026-07-17T07:53:18",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
-      "cat": "PLATAFORMAS",
-      "excerpt": "La asistencia a salas, las ventanas de explotación, la experiencia cinematográfica inmersiva y la IA fueron los temas clave en el nuevo evento de la industria",
-      "url": "https://cineuropa.org/es/newsdetail/493541/"
     }
   ],
   "releases": [
