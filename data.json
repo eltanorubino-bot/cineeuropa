@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-31T21:22:21.535725",
+  "last_updated": "2026-09-01T01:45:36.282978",
   "news": [
+    {
+      "id": "b5093e812066",
+      "title": "Crítica de “Una quinta en Portugal”, film dirigido por Avelina Prat",
+      "source": "A Sala Llena",
+      "date": "LUN 31 AGO 2026",
+      "date_iso": "2026-08-31T23:54:02",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Que estranha forma de vida Tem este meu coração Vive de vida perdida Quem lhe daria o condão? EL JARDINERO FIEL Una quinta en Portugal no fue la última película que filmó el actor español Manolo Solo, fallecido prematuramente pocos días atrás (con respecto al momento en el que escribo esta crític...",
+      "url": "https://asalallena.com.ar/critica-de-una-quinta-en-portugal-film-dirigido-por-avelina-prat/"
+    },
+    {
+      "id": "050114639868",
+      "title": "Crítica de “Los vencedores”, film dirigido por Pablo Aparo",
+      "source": "A Sala Llena",
+      "date": "LUN 31 AGO 2026",
+      "date_iso": "2026-08-31T23:37:42",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "LA AMISTAD CONTRA EL CONVENCIMIENTO Los vencededores, aún con el festival en desarrollo, puede considerarse ya un hito de la edición 27 del BAFICI. Es de esas películas que marcan un terreno para el futuro, más allá de la efervescencia que muchas veces nubla la lectura por cierto impacto cercano ...",
+      "url": "https://asalallena.com.ar/critica-de-los-vencedores-film-dirigido-por-pablo-aparo/"
+    },
     {
       "id": "df6a2aa3e736",
       "title": "El Finnish Film Affair presenta 38 proyectos procedentes de Finlandia, los países nórdicos y otros lugares - Finnish Film Affair 2026",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/07/20/23836-las-corrientes-de-milagros-mumenthaler-gana-el-maximo-premio-del-festival-golden-apricot-de-armenia"
-    },
-    {
-      "id": "32daefdac14f",
-      "title": "Naishtat, Almodóvar, Los Javis  y Gael García Bernal llegan a Toronto con nuevas películas",
-      "source": "Escribiendo Cine",
-      "date": "LUN 20 JUL 2026",
-      "date_iso": "2026-07-20T18:06:52.346390",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/07/20/23839-tiff-2026-revela-su-programacion-estreno-mundial-de-glaxo-y-fuerte-presencia-espanola"
-    },
-    {
-      "id": "20a827a89e35",
-      "title": "Festival de San Sebastián 2026",
-      "source": "Escribiendo Cine",
-      "date": "SÁB 18 JUL 2026",
-      "date_iso": "2026-07-18T23:59:12.085941",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/07/17/23797-san-sebastian-revela-su-primera-seleccion-25-producciones-espanolas-desembarcan-en-la-74-edicion"
     }
   ],
   "releases": [
