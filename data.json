@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-03T14:56:00.713765",
+  "last_updated": "2026-09-03T19:10:48.817645",
   "news": [
+    {
+      "id": "3a58a3416c7b",
+      "title": "Crítica de “La negociación” (Dead Man’s Wire), film dirigido por Gus Van Sant",
+      "source": "A Sala Llena",
+      "date": "JUE 3 SEP 2026",
+      "date_iso": "2026-09-03T15:38:43",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "LA REVOLUCIÓN NO SERÁ TELEVISADA Gus Van Sant, es un director ecléctico, que suma producciones con vuelo hollywoodense, con otras más personales, como la que lo destacó en Cannes 2003 con Elephant, aquel lírico filme que tomaba la masacre de Columbine (famosa por la locura de la situación, como p...",
+      "url": "https://asalallena.com.ar/critica-de-la-negociacion-dead-mans-wire-film-dirigido-por-gus-van-sant/"
+    },
     {
       "id": "30dcadfca3b9",
       "title": "Festival de Cine de Nueva York 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/07/21/23851-las-12-peliculas-que-competiran-en-platform-2026-la-seccion-autoral-del-tiff"
-    },
-    {
-      "id": "c34babcc1740",
-      "title": "Festival de Cine de Sitges 2026",
-      "source": "Escribiendo Cine",
-      "date": "MAR 21 JUL 2026",
-      "date_iso": "2026-07-21T17:24:10.514489",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/07/21/23854-el-festival-de-sitges-2026-apuesta-por-los-clasicos-restaurados-y-las-nuevas-tendencias-del-cine-fantastico"
     }
   ],
   "releases": [
