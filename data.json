@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-07T19:41:41.117137",
+  "last_updated": "2026-09-08T01:05:20.163492",
   "news": [
+    {
+      "id": "ffd91e85aeb8",
+      "title": "Festival de Sitges 2026",
+      "source": "Escribiendo Cine",
+      "date": "MAR 8 SEP 2026",
+      "date_iso": "2026-09-08T01:05:17.899298",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/09/07/24938-sitges-2026-amplia-su-programacion-y-premiara-a-barbara-rey-por-su-trayectoria-en-el-cine-fantastico"
+    },
     {
       "id": "2ac85c7e1aaf",
       "title": "#Festival Escenario (Cine + música) | Lovers Rock",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/07/23/23914-tiff-2026-anuncia-su-programacion-primetime-con-estrenos-de-carrie-y-nuevas-series-internacionales"
-    },
-    {
-      "id": "8051ba3b4d75",
-      "title": "#NYFF64 | “14th” de Ava DuVernay clausurará el Festival de cine de New York",
-      "source": "A Sala Llena",
-      "date": "MAR 21 JUL 2026",
-      "date_iso": "2026-07-21T21:20:39",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Film at Lincoln Center anunció que el film 14th, dirigido por Ava DuVernay será el film de clausura del Festival de Cine de Nueva York (NYFF). Diez años atras DuVernay estrenó 13th, documental que retrataba los vacíos legales dentro de la 13va enmienda de la Constitución de los Estados Unidos, es...",
-      "url": "https://asalallena.com.ar/nyff64-14th-de-ava-duvernay-clausurara-el-festival-de-cine-de-new-york/"
     }
   ],
   "releases": [
