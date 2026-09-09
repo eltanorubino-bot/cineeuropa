@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-09T01:09:15.911058",
+  "last_updated": "2026-09-09T15:00:01.414711",
   "news": [
+    {
+      "id": "bff625a1f206",
+      "title": "Cine español en Seminci 2026",
+      "source": "Escribiendo Cine",
+      "date": "MIÉ 9 SEP 2026",
+      "date_iso": "2026-09-09T14:59:58.983524",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/09/09/24986-seminci-2026-presenta-20-producciones-espanolas-y-nueve-estrenos-mundiales"
+    },
     {
       "id": "ffd91e85aeb8",
       "title": "Festival de Sitges 2026",
@@ -588,18 +600,6 @@
       "cat": "ARGENTINA",
       "excerpt": "Competencia Company, Casey Affleck A Bit of Light, de Ali Asgari Ritorno a Buenos Aires, de Marco Bechis Ink, de Danny Boyle Un bon petit soldat, de Stéphane Brizé Il fuoco che ti porti dentro, de Edoardo De Angelis Woman Unknown, de May el-Toukhy Bucking Fastard, de Werner Herzog 15/18 A Place t...",
       "url": "https://asalallena.com.ar/venecia83-programacion/"
-    },
-    {
-      "id": "ff9398ac3d1d",
-      "title": "Festival Internacional de Cine de Toronto 2026",
-      "source": "Escribiendo Cine",
-      "date": "JUE 23 JUL 2026",
-      "date_iso": "2026-07-23T17:24:59.484064",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/07/23/23914-tiff-2026-anuncia-su-programacion-primetime-con-estrenos-de-carrie-y-nuevas-series-internacionales"
     }
   ],
   "releases": [
