@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-11T14:54:21.654620",
+  "last_updated": "2026-09-11T19:02:06.286047",
   "news": [
+    {
+      "id": "c7e04069c7df",
+      "title": "Festival Internacional de Cine de Valdivia 2026",
+      "source": "Escribiendo Cine",
+      "date": "VIE 11 SEP 2026",
+      "date_iso": "2026-09-11T19:02:04.310402",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/09/11/25030-ficvaldivia-2026-anuncio-su-seleccion-oficial-y-las-peliculas-de-apertura-central-y-clausura"
+    },
     {
       "id": "9c79e0893428",
       "title": "Cine europeo con entrada gratuita en Argentina",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Film at Lincoln Center anuncia que Behemoth! de Tony Gilroy fue seleccionada como la Centerpiece del 64th New York Film Festival, marcando esta función su premiere mundial. El film está protagonizado por Pedro Pascal en el rol de un celista.\nLa entrada #NYFF64 | “Behemoth!” de Tony Gilroy será la...",
       "url": "https://asalallena.com.ar/nyff64-behemoth-de-tony-gilroy-sera-la-centerpiece-del-festival-de-cine-de-new-york/"
-    },
-    {
-      "id": "d8dbcd069ff6",
-      "title": "Crítica de “Los domingos”, film dirigido por Alauda Ruiz de Azúa",
-      "source": "A Sala Llena",
-      "date": "DOM 26 JUL 2026",
-      "date_iso": "2026-07-26T23:12:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "El de Alauda Ruiz de Azúa es un caso bien curioso. Su primera película, Cinco lobitos (2022), se estrenó en Berlín y ganó (arrasó, la verdad) en Málaga. Fue un importante éxito de público en España, pero no logró posicionarla como una favorita de la crítica a la altura de una Carla Simón o Pilar ...",
-      "url": "https://asalallena.com.ar/critica-de-los-domingos-film-dirigido-por-alauda-ruiz-de-azua/"
     }
   ],
   "releases": [
