@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-12T13:53:39.851918",
+  "last_updated": "2026-09-12T18:12:58.249375",
   "news": [
+    {
+      "id": "55c0f4a518a4",
+      "title": "Crítica de “Biografía de Jorge Luis Borges”, film dirigido por Mariano Llinás",
+      "source": "A Sala Llena",
+      "date": "SÁB 12 SEP 2026",
+      "date_iso": "2026-09-12T16:03:08",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "JORGE LLINÁS BORGES Hace unos días nos llegó a un grupo de WhatsApp el siguiente mensaje de Paulo Maurette desde Venecia: “Extraordinaria la primera parte de la película de Llinás. Mañana dan las partes 2 y 3. Lo mejor que pasó en la Borgesfera desde la publicación de los diarios de Bioy”. Sabemo...",
+      "url": "https://asalallena.com.ar/critica-de-biografia-de-jorge-luis-borges-film-dirigido-por-mariano-llinas/"
+    },
     {
       "id": "c7e04069c7df",
       "title": "Festival Internacional de Cine de Valdivia 2026",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/08/01/24073-fipresci-anuncio-los-cinco-nominados-al-grand-prix-2026-a-la-mejor-pelicula-del-ano"
-    },
-    {
-      "id": "602ba967ffe3",
-      "title": "#NYFF64 | “Behemoth!” de Tony Gilroy será la centerpiece del Festival de cine de New York",
-      "source": "A Sala Llena",
-      "date": "MAR 28 JUL 2026",
-      "date_iso": "2026-07-28T19:07:45",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Film at Lincoln Center anuncia que Behemoth! de Tony Gilroy fue seleccionada como la Centerpiece del 64th New York Film Festival, marcando esta función su premiere mundial. El film está protagonizado por Pedro Pascal en el rol de un celista.\nLa entrada #NYFF64 | “Behemoth!” de Tony Gilroy será la...",
-      "url": "https://asalallena.com.ar/nyff64-behemoth-de-tony-gilroy-sera-la-centerpiece-del-festival-de-cine-de-new-york/"
     }
   ],
   "releases": [
