@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-12T18:12:58.249375",
+  "last_updated": "2026-09-13T00:47:23.352422",
   "news": [
+    {
+      "id": "9ddfa8f6fc17",
+      "title": "\"Woman Unknown\", de May El-Toukhy, se llevó el León de Oro",
+      "source": "Escribiendo Cine",
+      "date": "DOM 13 SEP 2026",
+      "date_iso": "2026-09-13T00:47:21.671692",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/09/12/25060-todos-los-ganadores-de-los-premios-oficiales-de-la-mostra-de-venecia-2026"
+    },
     {
       "id": "55c0f4a518a4",
       "title": "Crítica de “Biografía de Jorge Luis Borges”, film dirigido por Mariano Llinás",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/08/02/24085-bonito-cinesur-2026-anuncia-sus-ganadores-y-cierra-una-edicion-marcada-por-el-cine-sudamericano-y-el-reconocimiento-a-vincent"
-    },
-    {
-      "id": "093758f79627",
-      "title": "Premios de la crítica internacional",
-      "source": "Escribiendo Cine",
-      "date": "DOM 2 AGO 2026",
-      "date_iso": "2026-08-02T00:03:06.041102",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "CRÍTICAS",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/08/01/24073-fipresci-anuncio-los-cinco-nominados-al-grand-prix-2026-a-la-mejor-pelicula-del-ano"
     }
   ],
   "releases": [
