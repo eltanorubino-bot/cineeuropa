@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-15T01:20:50.253377",
+  "last_updated": "2026-09-15T15:26:05.815172",
   "news": [
+    {
+      "id": "4ef19f92c541",
+      "title": "Semana de Cine Italiano 2026",
+      "source": "Escribiendo Cine",
+      "date": "MAR 15 SEP 2026",
+      "date_iso": "2026-09-15T15:26:04.050129",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/09/15/25123-lo-mejor-del-cine-italiano-recorre-el-pais-fechas-sedes-y-peliculas"
+    },
     {
       "id": "90ed735b2037",
       "title": "#Festival Escenario (Cine + música) | Islandia",
@@ -588,18 +600,6 @@
       "cat": "ESTRENOS",
       "excerpt": "Maco cine y ASL te invitan a participar por entradas para asistir a ver el estreno ADOLESCENCIA, SEXO Y MUERTE EN CAMPAMENTO MIASMA, film dirigido Jane Schoenbrun. Para participar por un pase válido para dos personas debes cumplir los siguientes requisitos: Compartir la publicación en alguna de t...",
       "url": "https://asalallena.com.ar/concurso-entradas-adolescencia-sexo-y-muerte-en-campamento-miasma/"
-    },
-    {
-      "id": "8643b67e3ee9",
-      "title": "Cine de autor",
-      "source": "Escribiendo Cine",
-      "date": "LUN 3 AGO 2026",
-      "date_iso": "2026-08-03T00:08:56.225403",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/08/02/24091-american-cinematheque-at-caligari-llega-al-cine-gaumont-con-un-ciclo-dedicado-a-los-clasicos-que-marcaron-la-historia-del-cine"
     }
   ],
   "releases": [
