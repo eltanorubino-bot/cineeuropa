@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-16T01:16:25.662763",
+  "last_updated": "2026-09-16T15:18:57.970731",
   "news": [
+    {
+      "id": "3124e13f8ba9",
+      "title": "#TIFF51 | Crítica de “Woman Unknown”, film dirigido por May el-Toukhy",
+      "source": "A Sala Llena",
+      "date": "MIÉ 16 SEP 2026",
+      "date_iso": "2026-09-16T05:17:05",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Presentada en Venecia y luego en Toronto, Woman Unknown no justifica el León de Oro Este año el León de Oro del Festival de Venecia recayó en una producción danesa de la realizadora May El-Touhky. Ella también estuvo presente en Toronto junto a sus dos intérpretes principales. La temática del fil...",
+      "url": "https://asalallena.com.ar/tiff51-critica-de-woman-unknown-film-dirigido-por-may-el-toukhy/"
+    },
     {
       "id": "4ef19f92c541",
       "title": "Semana de Cine Italiano 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/08/03/24103-todos-los-ganadores-de-los-premios-de-la-29-edicion-del-giff"
-    },
-    {
-      "id": "00291da68e87",
-      "title": "Concurso entradas ADOLESCENCIA, SEXO Y MUERTE EN CAMPAMENTO MIASMA",
-      "source": "A Sala Llena",
-      "date": "LUN 3 AGO 2026",
-      "date_iso": "2026-08-03T15:14:13",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "Maco cine y ASL te invitan a participar por entradas para asistir a ver el estreno ADOLESCENCIA, SEXO Y MUERTE EN CAMPAMENTO MIASMA, film dirigido Jane Schoenbrun. Para participar por un pase válido para dos personas debes cumplir los siguientes requisitos: Compartir la publicación en alguna de t...",
-      "url": "https://asalallena.com.ar/concurso-entradas-adolescencia-sexo-y-muerte-en-campamento-miasma/"
     }
   ],
   "releases": [
