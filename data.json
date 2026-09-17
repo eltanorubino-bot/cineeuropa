@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-09-17T01:16:23.195505",
+  "last_updated": "2026-09-17T15:25:23.298030",
   "news": [
+    {
+      "id": "20a827a89e35",
+      "title": "Festival de San Sebastián 2026",
+      "source": "Escribiendo Cine",
+      "date": "JUE 17 SEP 2026",
+      "date_iso": "2026-09-17T15:25:21.676297",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/09/17/25186-tabakalera-inaugura-walker-la-exposicion-de-tsai-ming-liang-que-conecta-cine-arte-y-contemplacion"
+    },
+    {
+      "id": "e8328fe80f7d",
+      "title": "Festival Internacional de Cine de la Universidad de Buenos Aires 2026",
+      "source": "Escribiendo Cine",
+      "date": "JUE 17 SEP 2026",
+      "date_iso": "2026-09-17T15:25:21.674923",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "ARGENTINA",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/09/17/25189-ficuba-2026-programacion-peliculas-homenajes-y-sedes-del-festival-de-cine-de-la-uba"
+    },
+    {
+      "id": "96e87e0f83f1",
+      "title": "#TIFF51 | Crítica de “Bunker”, film dirigido por Florian Zeller",
+      "source": "A Sala Llena",
+      "date": "JUE 17 SEP 2026",
+      "date_iso": "2026-09-17T12:17:38",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Florian Zeller es un guionista y más recientemente director francés, cuyos tres largometrajes son, curiosamente, angloparlantes. Su auspicioso debut fue con El padre, vehículo para Anthony Hopkins, al que siguió el menos logrado El hijo. Ahora regresa con Bunker, su tercera película, que de algun...",
+      "url": "https://asalallena.com.ar/tiff51-critica-de-bunker-film-dirigido-por-florian-zeller/"
+    },
     {
       "id": "3124e13f8ba9",
       "title": "#TIFF51 | Crítica de “Woman Unknown”, film dirigido por May el-Toukhy",
@@ -564,42 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/08/07/24226-werner-herzog-recibira-el-premio-donostia-2026-y-presentara-bucking-fastard-en-san-sebastian"
-    },
-    {
-      "id": "061ad28494e9",
-      "title": "#LOCARNO2026 | El marido de la programadora",
-      "source": "A Sala Llena",
-      "date": "JUE 6 AGO 2026",
-      "date_iso": "2026-08-06T05:02:51",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "“Yo te amo, vos pagas el alquiler”. Pet Shop Boys &#8211; Rent “Ella es mi esposa”. Gertrude Stein, en uno de sus cuadernos de notas, en referencia a Alice B. Toklas ¿Alguno de ustedes, queridos lectores, se acuerda de Patrice Leconte? Quizás entre los más ancianos de los presentes el nombre les ...",
-      "url": "https://asalallena.com.ar/locarno2026-el-marido-de-la-programadora/"
-    },
-    {
-      "id": "0613e60ace8e",
-      "title": "Festivales de cine",
-      "source": "Escribiendo Cine",
-      "date": "MIÉ 5 AGO 2026",
-      "date_iso": "2026-08-05T17:42:17.188632",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/08/05/24163-festival-biarritz-amerique-latine-2026-anuncian-los-diez-documentales-que-competiran-en-la-seleccion-oficial"
-    },
-    {
-      "id": "d725580dd469",
-      "title": "Festival Internacional de Cine de Guanajuato 2026",
-      "source": "Escribiendo Cine",
-      "date": "LUN 3 AGO 2026",
-      "date_iso": "2026-08-03T17:53:12.184241",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/08/03/24103-todos-los-ganadores-de-los-premios-de-la-29-edicion-del-giff"
     }
   ],
   "releases": [
