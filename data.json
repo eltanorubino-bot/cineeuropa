@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-18T14:46:08.963932",
+  "last_updated": "2026-09-18T18:55:52.885087",
   "news": [
+    {
+      "id": "ec9360f94df6",
+      "title": "Crítica de “Tres adioses” (Tre ciotole), film dirigido por Isabel Coixet",
+      "source": "A Sala Llena",
+      "date": "VIE 18 SEP 2026",
+      "date_iso": "2026-09-18T16:22:38",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "EL HOMBRE ES LO QUE COME Ludwig Feuerbach, filósofo alemán del siglo XIX, escribió un ensayo con el título de El hombre es lo que come. Lo que se plantea en el texto básicamente son argumentos a favor de un materialismo cientificista incipiente por aquel momento en detrimento del idealismo católi...",
+      "url": "https://asalallena.com.ar/critica-de-tres-adioses-tre-ciotole-film-dirigido-por-isabel-coixet/"
+    },
     {
       "id": "20a827a89e35",
       "title": "Festival de San Sebastián 2026",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "«Así filmamos “Vacaciones en el infierno”, “Veneno psicótico” y “Cuatrocientos dientes”, todas esas. Alquilabamos un mono amaestrado y rociamos a todos los actores con agua para que parecieran tener malaria, luego añadimos sonidos de la selva en la postproducción. Así es como siempre trabajamos. ...",
       "url": "https://asalallena.com.ar/locarno2026-el-ataque-de-las-termitas-a-los-elefantes-blancos/"
-    },
-    {
-      "id": "370ed316efd7",
-      "title": "Festival de Cine de San Sebastián 2026",
-      "source": "Escribiendo Cine",
-      "date": "VIE 7 AGO 2026",
-      "date_iso": "2026-08-07T16:56:13.181658",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/08/07/24226-werner-herzog-recibira-el-premio-donostia-2026-y-presentara-bucking-fastard-en-san-sebastian"
     }
   ],
   "releases": [
