@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-21T20:18:27.850298",
+  "last_updated": "2026-09-22T01:32:41.235812",
   "news": [
+    {
+      "id": "b4ae1abacdfe",
+      "title": "Cine argentino rumbo a los Oscar",
+      "source": "Escribiendo Cine",
+      "date": "MAR 22 SEP 2026",
+      "date_iso": "2026-09-22T01:32:38.741309",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/09/21/25309-premios-oscar-2027-las-cuatro-peliculas-preseleccionadas-para-representar-a-la-argentina"
+    },
     {
       "id": "15a6317e0dbe",
       "title": "Festival de Cine de Toronto 2026",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/08/13/24328-san-sebastian-selecciona-15-proyectos-para-el-foro-de-coproduccion-europa-america-latina-2026"
-    },
-    {
-      "id": "feb922f8b00a",
-      "title": "#LOCARNO2026 | El día de los críticos",
-      "source": "A Sala Llena",
-      "date": "MIÉ 12 AGO 2026",
-      "date_iso": "2026-08-12T14:49:19",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "CRÍTICAS",
-      "excerpt": "“Cuando cumpla 21 años, no quiero seguir viviendo así. Mis padres se sorprenderán de mi increíble cambio. Les impresionará más que un desastre como yo se convierta en una buena persona, que si hubiera sido un buen hijo desde el principio. Dejaré atrás todas mis malas conductas para pagar mi deuda...",
-      "url": "https://asalallena.com.ar/locarno2026-el-dia-de-los-criticos/"
     }
   ],
   "releases": [
