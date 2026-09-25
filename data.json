@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-25T01:21:42.701530",
+  "last_updated": "2026-09-25T15:43:17.669031",
   "news": [
+    {
+      "id": "29773bbedab0",
+      "title": "Festival de Cine de Morelia 2026",
+      "source": "Escribiendo Cine",
+      "date": "VIE 25 SEP 2026",
+      "date_iso": "2026-09-25T15:43:14.939867",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/09/24/25444-festival-de-morelia-2026-fechas-peliculas-y-programacion-de-su-24-edicion"
+    },
+    {
+      "id": "d085431ca76a",
+      "title": "Crítica de “Hospital Británico”, film dirigido por Gustavo Fontán y Gloria Peirano",
+      "source": "A Sala Llena",
+      "date": "VIE 25 SEP 2026",
+      "date_iso": "2026-09-25T08:14:41",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "VOLABAN UNAS MARIPOSAS Y HABÍA UNOS EUCALIPTOS MUY HERMOSOS, NADA MÁS QUE ESO  Héctor Viel Temperley (1933-1987) fue un poeta argentino que, como Van Gogh o los grandes artistas, logró entrar al gran parnaso nacional una vez muerto. Su figura solo fue creciendo con el tiempo. La obra consiste en ...",
+      "url": "https://asalallena.com.ar/critica-de-hospital-britanico-film-dirigido-por-gustavo-fontan-y-gloria-peirano/"
+    },
     {
       "id": "67d193bcbfeb",
       "title": "Festival Internacional de Cine de Valdivia",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "Sergio Castro San Martín cuenta la historia de un emigrante chileno en Turín que termina implicado en la fabricación de bombas destinadas a un grupo de revolucionarios locales",
       "url": "https://cineuropa.org/es/newsdetail/494431/"
-    },
-    {
-      "id": "b97b55942956",
-      "title": "Entrevista: Meritxell Colell Aparicio • Directora de Lejos de los árboles - “La memoria debe recibirse a través de la escucha” - Locarno 2026 – Competición",
-      "source": "Cineuropa",
-      "date": "LUN 17 AGO 2026",
-      "date_iso": "2026-08-17T13:15:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La cineasta catalana reflexiona sobre su exploración transnacional del exilio, de las lenguas en peligro y de la memoria heredada, articulada a través del sonido y de formas cinematográficas híbridas",
-      "url": "https://cineuropa.org/es/interview/494429/"
-    },
-    {
-      "id": "3d0dae472dca",
-      "title": "Entrevista: Ann Oren • Directora de Objet a - “Mi película aborda lo que significa ser humano en este planeta ahora mismo” - Locarno 2026 – Competición",
-      "source": "Cineuropa",
-      "date": "LUN 17 AGO 2026",
-      "date_iso": "2026-08-17T10:27:04",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "La directora alemana nos habla de su segundo largometraje, la psicodelia, el surrealismo y la conexión humana con el mundo natural",
-      "url": "https://cineuropa.org/es/interview/494510/"
     }
   ],
   "releases": [
