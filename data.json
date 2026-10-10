@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-10T16:05:38.003222",
+  "last_updated": "2026-10-10T19:53:12.499476",
   "news": [
+    {
+      "id": "caeca98252da",
+      "title": "SITGES2026 | Crítica de “The Glorious Dead”, film dirigido por John Adams y Toby Poser",
+      "source": "A Sala Llena",
+      "date": "SÁB 10 OCT 2026",
+      "date_iso": "2026-10-10T16:31:27",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Una gloriosa comunidad El cine de terror suele tropezar con la urgencia de la explicación, con esa necesidad casi burocrática de dotar de un origen racional o mitológico a la debacle social. En el universo del colectivo Adams Family -esa anomalía de la autogestión norteamericana conformada por el...",
+      "url": "https://asalallena.com.ar/sitges2026-critica-de-the-glorious-dead-film-dirigido-por-john-adams-y-toby-poser/"
+    },
     {
       "id": "45c95b4d347a",
       "title": "SITGES2026 | Crítica de “Adolescencia, sexo y muerte en Campamento Miasma” (Teenage Sex and Death at Camp Miasma), film dirigido por Jane Schoenbrun",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Los proyectos de Emilija Gašić, Urška Djukić Lecamus, Teona Strugar Mitevska, Sonja Prosenc, Hana Jušić y Danis Tanović se han alzado con galardones",
       "url": "https://cineuropa.org/es/newsdetail/494634/"
-    },
-    {
-      "id": "8a292c34fcf8",
-      "title": "La pericia letona impulsa el título a competición en Venecia de May el-Toukhy Woman Unknown - Patrocinado",
-      "source": "Cineuropa",
-      "date": "VIE 21 AGO 2026",
-      "date_iso": "2026-08-21T10:14:52",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Riga acogió veinticinco de los veintiocho días de rodaje de la cinta de época, con Nafta Films, los equipos locales y los decorados construidos ex profeso apuntalando la producción",
-      "url": "https://cineuropa.org/es/newsdetail/494627/"
     }
   ],
   "releases": [
