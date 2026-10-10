@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-10T02:13:53.600136",
+  "last_updated": "2026-10-10T16:05:38.003222",
   "news": [
+    {
+      "id": "45c95b4d347a",
+      "title": "SITGES2026 | Crítica de “Adolescencia, sexo y muerte en Campamento Miasma” (Teenage Sex and Death at Camp Miasma), film dirigido por Jane Schoenbrun",
+      "source": "A Sala Llena",
+      "date": "SÁB 10 OCT 2026",
+      "date_iso": "2026-10-10T16:00:37",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La liturgia de la carne: Morir de deseo en Campamento Miasma Históricamente, el slasher ha operado bajo un contrato moral inquebrantable donde la mirada funciona como un ejercicio de control. El espectador asume la posición del voyeur sádico, escondido tras la cámara, mientras el asesino actúa co...",
+      "url": "https://asalallena.com.ar/sitges2026-critica-de-adolescencia-sexo-y-muerte-en-campamento-miasma-teenage-sex-and-death-at-camp-miasma-film-dirigido-por-jane-schoenbrun/"
+    },
+    {
+      "id": "8a205d1155c7",
+      "title": "SITGES2026 | Crítica de “Karma”, film dirigido por Guillaume Canet",
+      "source": "A Sala Llena",
+      "date": "SÁB 10 OCT 2026",
+      "date_iso": "2026-10-10T15:36:48",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Cartografía de la culpa En un pequeño y silencioso pueblo pesquero del norte de España, Jeanne (Marion Cotillard) intenta reescribir los márgenes de su existencia junto a Daniel (Leonardo Sbaraglia). Sobre esa aparente calma rural e idílica, el director Guillaume Canet teje un relato que busca ex...",
+      "url": "https://asalallena.com.ar/sitges2026-critica-de-karma-film-dirigido-por-guillaume-canet/"
+    },
     {
       "id": "554791befc3d",
       "title": "El Festival Internacional de Animación de Córdoba presentará 114 obras",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Riga acogió veinticinco de los veintiocho días de rodaje de la cinta de época, con Nafta Films, los equipos locales y los decorados construidos ex profeso apuntalando la producción",
       "url": "https://cineuropa.org/es/newsdetail/494627/"
-    },
-    {
-      "id": "dd93c06865f7",
-      "title": "Baltic Sea Docs se prepara para su 30.ª edición - Baltic Sea Docs 2026",
-      "source": "Cineuropa",
-      "date": "VIE 21 AGO 2026",
-      "date_iso": "2026-08-21T09:47:36",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Un total de 26 proyectos de documentales procedentes de la región del mar Báltico, Europa del Este, el Cáucaso y otras regiones se presentarán en la nueva edición del foro",
-      "url": "https://cineuropa.org/es/newsdetail/494624/"
-    },
-    {
-      "id": "9536a612af1c",
-      "title": "El Fantastic Fest anuncia su selección - Festivales / Premios - Estados Unidos/Europa",
-      "source": "Cineuropa",
-      "date": "JUE 20 AGO 2026",
-      "date_iso": "2026-08-20T14:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
-      "cat": "ESTRENOS",
-      "excerpt": "La principal cita estadounidense del cine de género acogerá el estreno de varias películas europeas",
-      "url": "https://cineuropa.org/es/newsdetail/494611/"
     }
   ],
   "releases": [
