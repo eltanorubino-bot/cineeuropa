@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-14T01:46:07.896157",
+  "last_updated": "2026-10-14T15:41:15.166653",
   "news": [
+    {
+      "id": "5f74369f3c49",
+      "title": "Los contenidos más nominados y la participación argentina",
+      "source": "Escribiendo Cine",
+      "date": "MIÉ 14 OCT 2026",
+      "date_iso": "2026-10-14T15:41:12.503334",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "ARGENTINA",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/10/13/25932-todas-las-nominaciones-a-los-premios-produ-2026"
+    },
+    {
+      "id": "d848e16db13e",
+      "title": "SITGES2026 | Crítica de “Hope: El primer impacto” (Hope), film dirigido por Na Hong-jin",
+      "source": "A Sala Llena",
+      "date": "MIÉ 14 OCT 2026",
+      "date_iso": "2026-10-14T03:01:12",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Na Hong-jin y las costuras rotas del horror cósmico en Hope Hay cineastas que no filman historias convencionales, sino que registran minuciosamente el colapso absoluto de las certezas humanas a través del sudor, la gravedad y la textura material de las cosas. Tras diez años de un silencio sepulcr...",
+      "url": "https://asalallena.com.ar/sitges2026-critica-de-hope-el-primer-impacto-hope-film-dirigido-por-na-hong-jin/"
+    },
     {
       "id": "4d5140055aa3",
       "title": "SITGES2026 | Crítica de “Zona Cero” (Colony), film dirigido por Yeon Sang-ho",
@@ -576,30 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "ITUZAINGÓ MON AMOUR ¿Qué habría pasado si François Truffaut, Jean-Luc Godard o Anna Karina hubiesen nacido en Ituzaingó? Probablemente habrían trabajado en una película de Raúl Perrone. Más precisamente en una como CIN3FILI4 (2026), una película minimalista en claro tributo a la nouvelle vague y ...",
       "url": "https://asalallena.com.ar/critica-de-cin3fili4-film-dirigido-por-raul-perrone/"
-    },
-    {
-      "id": "e210769d2b35",
-      "title": "74ª edición del Festival de San Sebastián",
-      "source": "Escribiendo Cine",
-      "date": "VIE 21 AGO 2026",
-      "date_iso": "2026-08-21T16:37:16.423057",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/08/21/24508-san-sebastian-abre-zabaltegi-tabakalera-a-una-nueva-avanzada-del-cine-argentino"
-    },
-    {
-      "id": "3529563c271a",
-      "title": "Las secciones paralelas de San Sebastián desvelan sus títulos - San Sebastián 2026",
-      "source": "Cineuropa",
-      "date": "VIE 21 AGO 2026",
-      "date_iso": "2026-08-21T13:45:00",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Las últimas películas de cineastas como Isaki Lacuesta, Tsai Ming-Liang o Bruno Dumont se proyectarán en Zabaltegi-Tabakalera, y las de Valentina Maurel o Diego Luna, en Horizontes Latinos",
-      "url": "https://cineuropa.org/es/newsdetail/494635/"
     }
   ],
   "releases": [
