@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-15T15:33:43.331946",
+  "last_updated": "2026-10-15T19:45:14.260594",
   "news": [
+    {
+      "id": "6ddd3a0a4fab",
+      "title": "SITGES2026 | Crítica de “Sanguine”, film dirigido por Marion Le Corroller",
+      "source": "A Sala Llena",
+      "date": "JUE 15 OCT 2026",
+      "date_iso": "2026-10-15T19:39:26",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Las salas de urgencias del cine contemporáneo se han transformado en los nuevos templos de la alienación humana. Es en esa coordenada exacta donde Sanguine, la notable ópera prima de Marion Le Corroller, despliega una mirada que rasga e interroga directamente la herida abierta por David Cronenber...",
+      "url": "https://asalallena.com.ar/sitges2026-critica-de-sanguine-film-dirigido-por-marion-le-corroller/"
+    },
     {
       "id": "044dac6fad86",
       "title": "Festival de cine queer en Portugal",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/08/25/24586-mar-del-plata-classics-celebra-los-50-anos-de-tres-peliculas-argentinas-y-suma-homenajes-a-wajda-y-mignona"
-    },
-    {
-      "id": "4463e55c9c08",
-      "title": "Festival de Venecia 2026",
-      "source": "Escribiendo Cine",
-      "date": "MAR 25 AGO 2026",
-      "date_iso": "2026-08-25T16:42:13.365155",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/08/24/24556-naza-de-yuval-abraham-y-rachel-szor-completa-la-competencia-del-festival-de-venecia-2026"
     }
   ],
   "releases": [
