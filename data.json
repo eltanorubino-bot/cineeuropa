@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-15T19:45:14.260594",
+  "last_updated": "2026-10-16T01:08:22.302334",
   "news": [
+    {
+      "id": "4845a0413c3a",
+      "title": "SITGES2026 | Crítica de “Company”, film dirigido por Casey Affleck",
+      "source": "A Sala Llena",
+      "date": "JUE 15 OCT 2026",
+      "date_iso": "2026-10-15T19:53:11",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "El vacío americano Las estructuras del gótico americano contemporáneo suelen confundir la solemnidad con la trascendencia. Es en esa coordenada exacta donde Company, el fallido y pretencioso largometraje de Casey Affleck, despliega una propuesta que confunde el letargo dramático con la densidad f...",
+      "url": "https://asalallena.com.ar/sitges2026-critica-de-company-film-dirigido-por-casey-affleck/"
+    },
     {
       "id": "6ddd3a0a4fab",
       "title": "SITGES2026 | Crítica de “Sanguine”, film dirigido por Marion Le Corroller",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/08/27/24635-nest-2026-selecciona-14-cortometrajes-de-estudiantes-de-cine-de-13-paises"
-    },
-    {
-      "id": "56eb3992a624",
-      "title": "Festival Internacional de Cine de Mar del Plata 2026",
-      "source": "Escribiendo Cine",
-      "date": "MAR 25 AGO 2026",
-      "date_iso": "2026-08-25T23:30:28.750066",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/08/25/24586-mar-del-plata-classics-celebra-los-50-anos-de-tres-peliculas-argentinas-y-suma-homenajes-a-wajda-y-mignona"
     }
   ],
   "releases": [
