@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-16T19:26:09.794930",
+  "last_updated": "2026-10-17T01:13:15.283743",
   "news": [
+    {
+      "id": "d201e79c93db",
+      "title": "SITGES2026 | Crítica de “Victorian Psycho”, film dirigido por Zachary Wigon",
+      "source": "A Sala Llena",
+      "date": "VIE 16 OCT 2026",
+      "date_iso": "2026-10-16T21:34:38",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "La monstruosidad de los modales El terror de época suele refugiarse en la comodidad de los fantasmas coloniales o las maldiciones ancestrales, ignorando que el verdadero espanto habita en las rigideces morales de su propia sociedad. Victorian Psycho (2026), la audaz adaptación de Zachary Wigon so...",
+      "url": "https://asalallena.com.ar/sitges2026-critica-de-victorian-psycho-film-dirigido-por-zachary-wigon/"
+    },
     {
       "id": "4845a0413c3a",
       "title": "SITGES2026 | Crítica de “Company”, film dirigido por Casey Affleck",
@@ -72,6 +84,18 @@
       "cat": "CRÍTICAS",
       "excerpt": "El virus del consumo: La parodia del capital en Colony Hay directores que encuentran en el caos de masas su hábitat natural, pero el realizador surcoreano Yeon Sang-ho demuestra que su verdadera maestría reside en diseccionar cómo el tejido humano se desgarra bajo las lógicas del mercado. Si en T...",
       "url": "https://asalallena.com.ar/sitges2026-critica-de-zona-cero-colony-film-dirigido-por-yeon-sang-ho/"
+    },
+    {
+      "id": "6732c7d6cd62",
+      "title": "#NYFF64 | Crítica de “Minotaur”, film dirigido por Andrey Zvyagintsev",
+      "source": "A Sala Llena",
+      "date": "MAR 13 OCT 2026",
+      "date_iso": "2026-10-13T00:53:42",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Según la mitologia griega el Minotauro es una criatura cuya fisiología está conformada por una mitad humana (hombre) y otra animal (toro). Fue concebido por Pasifae (reina de Creta) y un toro blanco que había sido enviado por el dios Poseidón al rey Minos (esposo de Pasifae) para ser sacrificado ...",
+      "url": "https://asalallena.com.ar/nyff64-critica-de-minotaur-film-dirigido-por-andrey-zvyagintsev/"
     },
     {
       "id": "e19196909c77",
@@ -576,30 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El nuevo largometraje de Gábor Holtai, que trasciende los géneros, ha sido elegido mejor película de ficción; la historia de Glasgow de Felipe Bustos Sierra ha dominado la competición de documentales",
       "url": "https://cineuropa.org/es/newsdetail/494692/"
-    },
-    {
-      "id": "c1d0ff674bda",
-      "title": "Anathema se lleva el Storyline Production Award en el New Nordic Films - Haugesund 2026 – New Nordic Films/Premios",
-      "source": "Cineuropa",
-      "date": "VIE 28 AGO 2026",
-      "date_iso": "2026-08-28T08:34:26",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "Este proyecto de thriller psicológico, dirigido por Ea Johanne Sandberg y Alpha Nord, se ha alzado con máximo galardón del evento; Grandmonster se ha llevado el premio al mejor pitch",
-      "url": "https://cineuropa.org/es/newsdetail/494690/"
-    },
-    {
-      "id": "97076f4c160c",
-      "title": "Festival de San Sebastián",
-      "source": "Escribiendo Cine",
-      "date": "JUE 27 AGO 2026",
-      "date_iso": "2026-08-27T20:53:56.312919",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/08/27/24635-nest-2026-selecciona-14-cortometrajes-de-estudiantes-de-cine-de-13-paises"
     }
   ],
   "releases": [
