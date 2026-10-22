@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-22T01:24:28.824869",
+  "last_updated": "2026-10-22T15:46:35.114613",
   "news": [
+    {
+      "id": "c665968c74d9",
+      "title": "Festival de Huelva de Cine Iberoamericano",
+      "source": "Escribiendo Cine",
+      "date": "JUE 22 OCT 2026",
+      "date_iso": "2026-10-22T15:46:32.823212",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "FESTIVALES",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/10/22/26161-patrick-criado-premio-luz-del-festival-de-huelva-2026"
+    },
     {
       "id": "d201e79c93db",
       "title": "SITGES2026 | Crítica de “Victorian Psycho”, film dirigido por Zachary Wigon",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "El cineasta detalla aspectos del documental en el que investiga la figura de una mujer española camuflada bajo la personalidad de una víctima del atentado contra las Torres Gemelas",
       "url": "https://cineuropa.org/es/interview/494630/"
-    },
-    {
-      "id": "aa18033f4c95",
-      "title": "Feels Like Home y Everybody to Kenmure Street se alzan con la victoria en el Rab Film Festival - Festivales / Premios - Croacia",
-      "source": "Cineuropa",
-      "date": "VIE 28 AGO 2026",
-      "date_iso": "2026-08-28T09:24:29",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El nuevo largometraje de Gábor Holtai, que trasciende los géneros, ha sido elegido mejor película de ficción; la historia de Glasgow de Felipe Bustos Sierra ha dominado la competición de documentales",
-      "url": "https://cineuropa.org/es/newsdetail/494692/"
     }
   ],
   "releases": [
