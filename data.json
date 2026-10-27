@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-26T20:55:39.202637",
+  "last_updated": "2026-10-27T01:57:16.927058",
   "news": [
+    {
+      "id": "6bc2edde02f3",
+      "title": "Crítica de “Tierra de mi padre” (Fatherland), film dirigido por Pawel Pawlikowski",
+      "source": "A Sala Llena",
+      "date": "LUN 26 OCT 2026",
+      "date_iso": "2026-10-26T21:57:39",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "Pawel Pawlikowski dirige Tierra de mi padre, cerrando, luego de Ida y Cold War, la que bien podría considerarse una trilogía. La trama regresa nuevamente enfocando diversos aspectos de la Europa posterior a la Segunda Guerra Mundial, en el marco de la naciente “guerra fría”. Mantiene similar form...",
+      "url": "https://asalallena.com.ar/critica-de-tierra-de-mi-padre-fatherland-film-dirigido-por-pawel-pawlikowski/"
+    },
     {
       "id": "c665968c74d9",
       "title": "Festival de Huelva de Cine Iberoamericano",
@@ -588,18 +600,6 @@
       "cat": "FESTIVALES",
       "excerpt": "Black Trumpet, 17, 3 Weeks After, Hidden People y Honey Bunny también figuran en la lista de galardonados en el certamen montenegrino",
       "url": "https://cineuropa.org/es/newsdetail/494701/"
-    },
-    {
-      "id": "b47efa8e2d57",
-      "title": "Entrevista: Kike Maíllo • Director de La superviviente - “Creo que, en el fondo, la gente quiere ser engañada” - /España",
-      "source": "Cineuropa",
-      "date": "VIE 28 AGO 2026",
-      "date_iso": "2026-08-28T10:31:38",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El cineasta detalla aspectos del documental en el que investiga la figura de una mujer española camuflada bajo la personalidad de una víctima del atentado contra las Torres Gemelas",
-      "url": "https://cineuropa.org/es/interview/494630/"
     }
   ],
   "releases": [
