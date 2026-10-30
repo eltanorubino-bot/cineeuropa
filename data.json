@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-30T02:29:33.666106",
+  "last_updated": "2026-10-30T16:55:51.011897",
   "news": [
+    {
+      "id": "b3578da45c34",
+      "title": "\"El muglur\", de Lucila Las Heras, tendrá su estreno mundial",
+      "source": "Escribiendo Cine",
+      "date": "VIE 30 OCT 2026",
+      "date_iso": "2026-10-30T16:55:48.590527",
+      "venue": "",
+      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
+      "cat": "ESTRENOS",
+      "excerpt": "",
+      "url": "https://escribiendocine.com/noticias/2026/10/30/26373-primeros-anuncios-del-festival-internacional-de-cine-de-rotterdam-2027"
+    },
     {
       "id": "5c06269268a7",
       "title": "Crítica de “Animales” (Animals), film dirigido por Ben Affleck",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "LA AMISTAD CONTRA EL CONVENCIMIENTO Los vencededores, aún con el festival en desarrollo, puede considerarse ya un hito de la edición 27 del BAFICI. Es de esas películas que marcan un terreno para el futuro, más allá de la efervescencia que muchas veces nubla la lectura por cierto impacto cercano ...",
       "url": "https://asalallena.com.ar/critica-de-los-vencedores-film-dirigido-por-pablo-aparo/"
-    },
-    {
-      "id": "df6a2aa3e736",
-      "title": "El Finnish Film Affair presenta 38 proyectos procedentes de Finlandia, los países nórdicos y otros lugares - Finnish Film Affair 2026",
-      "source": "Cineuropa",
-      "date": "LUN 31 AGO 2026",
-      "date_iso": "2026-08-31T13:57:09",
-      "venue": "",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
-      "cat": "FESTIVALES",
-      "excerpt": "El evento celebra su 15.ª edición con 5 proyectos de ficción finlandeses en fase de producción y una nueva sección dedicada a los géneros cinematográficos, creada con el Nordic Genre Lab",
-      "url": "https://cineuropa.org/es/newsdetail/494703/"
     }
   ],
   "releases": [
