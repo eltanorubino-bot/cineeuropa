@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-20T22:31:56.796584",
+  "last_updated": "2026-11-21T03:52:32.912001",
   "news": [
+    {
+      "id": "fad1e23065a2",
+      "title": "Crítica de “Yo soy Rocky” (I Play Rocky), film dirigido por Peter Farrelly",
+      "source": "A Sala Llena",
+      "date": "SÁB 21 NOV 2026",
+      "date_iso": "2026-11-21T02:14:16",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "ESTRENOS",
+      "excerpt": "TRIUNFO A 50 años de su estreno (a propósito del cual en esta web se pueden leer numerosas críticas e ideas), todos conocemos a Rocky. Todos conocemos al perro vagabundo, campeón quizás no en ley del cuadrilátero y su burocracia técnica, pero definitivamente uno de los más grandes campeones del c...",
+      "url": "https://asalallena.com.ar/critica-de-yo-soy-rocky-i-play-rocky-film-dirigido-por-peter-farrelly/"
+    },
     {
       "id": "0e5499f83319",
       "title": "41 MDPFF - El Festival Sigue",
@@ -588,18 +600,6 @@
       "cat": "ARGENTINA",
       "excerpt": "",
       "url": "https://escribiendocine.com/noticias/2026/09/09/24998-el-encuentro-de-cine-europeo-2026-llega-a-13-ciudades-de-argentina-con-peliculas-de-18-paises"
-    },
-    {
-      "id": "bff625a1f206",
-      "title": "Cine español en Seminci 2026",
-      "source": "Escribiendo Cine",
-      "date": "MIÉ 9 SEP 2026",
-      "date_iso": "2026-09-09T14:59:58.983524",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/09/09/24986-seminci-2026-presenta-20-producciones-espanolas-y-nueve-estrenos-mundiales"
     }
   ],
   "releases": [
