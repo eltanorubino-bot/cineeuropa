@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-27T19:46:58.835469",
+  "last_updated": "2026-11-27T23:56:30.362897",
   "news": [
+    {
+      "id": "0761f7e854c0",
+      "title": "Crítica de “Cuento de verano”, film dirigido por Matías Szulanski",
+      "source": "A Sala Llena",
+      "date": "VIE 27 NOV 2026",
+      "date_iso": "2026-11-27T21:46:49",
+      "venue": "",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+      "cat": "CRÍTICAS",
+      "excerpt": "CANSADO DE ESTAR FELIZ El título Cuento de verano remite automáticamente a Éric Rohmer. Aunque en el caso de la película de Matías Szulanski es una trampa, una emboscada. El espectador algo avezado sobre la materia podría suponer que la obra iría en el sentido de aquella estética francesa tan par...",
+      "url": "https://asalallena.com.ar/critica-de-cuento-de-verano-film-dirigido-por-matias-szulanski/"
+    },
     {
       "id": "e608747cb54b",
       "title": "Crítica de “El héroe de Berlin” (Der Held vom Bahnhof Friedrichstraße), film dirigido por Wolfgang Becker",
@@ -588,18 +600,6 @@
       "cat": "CRÍTICAS",
       "excerpt": "JORGE LLINÁS BORGES Hace unos días nos llegó a un grupo de WhatsApp el siguiente mensaje de Paulo Maurette desde Venecia: “Extraordinaria la primera parte de la película de Llinás. Mañana dan las partes 2 y 3. Lo mejor que pasó en la Borgesfera desde la publicación de los diarios de Bioy”. Sabemo...",
       "url": "https://asalallena.com.ar/critica-de-biografia-de-jorge-luis-borges-film-dirigido-por-mariano-llinas/"
-    },
-    {
-      "id": "c7e04069c7df",
-      "title": "Festival Internacional de Cine de Valdivia 2026",
-      "source": "Escribiendo Cine",
-      "date": "VIE 11 SEP 2026",
-      "date_iso": "2026-09-11T19:02:04.310402",
-      "venue": "",
-      "image": "https://escribiendocine.com/images/custom/sin-imagen.jpg?_v=164",
-      "cat": "FESTIVALES",
-      "excerpt": "",
-      "url": "https://escribiendocine.com/noticias/2026/09/11/25030-ficvaldivia-2026-anuncio-su-seleccion-oficial-y-las-peliculas-de-apertura-central-y-clausura"
     }
   ],
   "releases": [
